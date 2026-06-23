@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+  <string name="stop_recording">停止录制</string>
+  
+  <string name="try_saying_something">试着说些什么</string>
+  
+  <string name="no_audio_detected_is_your_microphone_blocked">没有检测到声音，您的麦克风被遮挡了吗？</string>
+  
+  <string name="listening">聆听中…</string>
+  
+  <string name="grant_microphone_permission_to_use_voice_input">授予麦克风使用权限以使用语音输入</string>
+  <string name="open_voice_input_settings">打开语音输入设置</string>
+  
+  <string name="extracting_features">特征提取中…</string>
+  
+  <string name="loading_model">正在加载模型…</string>
+  
+  <string name="decoding">解码已开始…</string>
+  
+  <string name="switching_model">正在切换语言…</string>
+  
+  <string name="processing">处理中…</string>
+  
+  <string name="initializing">正在初始化…</string>
+  
+  <string name="tiny_en_name">英语-39 (默认)</string>
+  
+  <string name="base_en_name">英语-74 (太慢了，更准确些)</string>
+  
+  <string name="small_en_name">英语-244 (太慢了)</string>
+  
+  <string name="tiny_name">多语言-39 (不够准确)</string>
+  
+  <string name="base_name">多语言-74 (默认)</string>
+  
+  <string name="small_name">多语言-244 (太慢了)</string>
+  
+  <string name="using_bluetooth_mic">正在使用蓝牙设备麦克风 (%1$s)</string>
+  
+  <string name="using_built_in_mic">正在使用内部麦克风 (%1$s)</string>
+  <!--
+    Occurs when the model is corrupted, or loading failed for some other unknown reason,
+    usually the fix is to re-download the model and re-import it. For example this may happen
+    when the model is imported before the file is finished downloading
+  -->
+  <string name="model_load_error">模型加载错误，它可能已经损坏或仍不完整。尝试切换为默认模型或重新下载。</string>
+</resources>

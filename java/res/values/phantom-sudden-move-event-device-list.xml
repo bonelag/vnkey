@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="phantom_sudden_move_event_device_list" translatable="false">
+        <!-- "Build condition,true" that needs "phantom sudden move event" hack.
+             See {@link org.futo.inputmethod.keyboard.PointerTracker}. -->
+        
+        <item>HARDWARE=stingray,true</item>
+    </string-array>
+</resources>

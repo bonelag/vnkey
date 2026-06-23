@@ -1,0 +1,1672 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These Emoji symbols are unsupported by TTS.
+  TODO: Remove this file when TTS/TalkBack support these Emoji symbols.
+-->
+
+<resources>
+  
+  <string name="spoken_emoji_00A9">"Símbolo de Direitos de Autor"</string>
+  
+  <string name="spoken_emoji_00AE">"Símbolo de marca registada"</string>
+  
+  <string name="spoken_emoji_203C">"Duplo ponto de exclamação"</string>
+  
+  <string name="spoken_emoji_2049">"Pontos de exclamação e de interrogação"</string>
+  
+  <string name="spoken_emoji_2122">"Símbolo de marca comercial"</string>
+  
+  <string name="spoken_emoji_2139">"Fonte de informação"</string>
+  
+  <string name="spoken_emoji_2194">"Seta para a direita e para a esquerda"</string>
+  
+  <string name="spoken_emoji_2195">"Seta para cima e para baixo"</string>
+  
+  <string name="spoken_emoji_2196">"Seta para noroeste"</string>
+  
+  <string name="spoken_emoji_2197">"Seta para nordeste"</string>
+  
+  <string name="spoken_emoji_2198">"Seta para sudeste"</string>
+  
+  <string name="spoken_emoji_2199">"Seta para sudoeste"</string>
+  
+  <string name="spoken_emoji_21A9">"Seta para a esquerda em U"</string>
+  
+  <string name="spoken_emoji_21AA">"Seta para a direita em U"</string>
+  
+  <string name="spoken_emoji_231A">"Relógio"</string>
+  
+  <string name="spoken_emoji_231B">"Ampulheta"</string>
+  
+  <string name="spoken_emoji_23E9">"Triângulo duplo preto a apontar para a direita"</string>
+  
+  <string name="spoken_emoji_23EA">"Triângulo duplo preto a apontar para a esquerda"</string>
+  
+  <string name="spoken_emoji_23EB">"Triângulo duplo preto a apontar para cima"</string>
+  
+  <string name="spoken_emoji_23EC">"Triângulo duplo preto a apontar para baixo"</string>
+  
+  <string name="spoken_emoji_23F0">"Despertador"</string>
+  
+  <string name="spoken_emoji_23F3">"Ampulheta com areia a cair"</string>
+  
+  <string name="spoken_emoji_24C2">"M latino maiúsculo redondo"</string>
+  
+  <string name="spoken_emoji_25AA">"Quadrado preto pequeno"</string>
+  
+  <string name="spoken_emoji_25AB">"Quadrado branco pequeno"</string>
+  
+  <string name="spoken_emoji_25B6">"Triângulo preto a apontar para a direita"</string>
+  
+  <string name="spoken_emoji_25C0">"Triângulo preto a apontar para a esquerda"</string>
+  
+  <string name="spoken_emoji_25FB">"Quadrado branco médio"</string>
+  
+  <string name="spoken_emoji_25FC">"Quadrado preto médio"</string>
+  
+  <string name="spoken_emoji_25FD">"Quadrado branco pequeno/médio"</string>
+  
+  <string name="spoken_emoji_25FE">"Quadrado preto pequeno/médio"</string>
+  
+  <string name="spoken_emoji_2600">"Sol preto com raios"</string>
+  
+  <string name="spoken_emoji_2601">"Nuvem"</string>
+  
+  <string name="spoken_emoji_260E">"Telefone preto"</string>
+  
+  <string name="spoken_emoji_2611">"Caixa com marca de visto"</string>
+  
+  <string name="spoken_emoji_2614">"Chapéu de chuva com gotas de chuva"</string>
+  
+  <string name="spoken_emoji_2615">"Bebida quente"</string>
+  
+  <string name="spoken_emoji_261D">"Dedo indicador branco a apontar para cima"</string>
+  
+  <string name="spoken_emoji_263A">"Cara branca sorridente"</string>
+  
+  <string name="spoken_emoji_2648">"Carneiro"</string>
+  
+  <string name="spoken_emoji_2649">"Touro"</string>
+  
+  <string name="spoken_emoji_264A">"Gémeos"</string>
+  
+  <string name="spoken_emoji_264B">"Caranguejo"</string>
+  
+  <string name="spoken_emoji_264C">"Leão"</string>
+  
+  <string name="spoken_emoji_264D">"Virgem"</string>
+  
+  <string name="spoken_emoji_264E">"Balança"</string>
+  
+  <string name="spoken_emoji_264F">"Escorpião"</string>
+  
+  <string name="spoken_emoji_2650">"Sagitário"</string>
+  
+  <string name="spoken_emoji_2651">"Capricórnio"</string>
+  
+  <string name="spoken_emoji_2652">"Aquário"</string>
+  
+  <string name="spoken_emoji_2653">"Peixes"</string>
+  
+  <string name="spoken_emoji_2660">"Carta de espadas"</string>
+  
+  <string name="spoken_emoji_2663">"Carta de paus"</string>
+  
+  <string name="spoken_emoji_2665">"Carta de copas"</string>
+  
+  <string name="spoken_emoji_2666">"Carta de ouros"</string>
+  
+  <string name="spoken_emoji_2668">"A escaldar"</string>
+  
+  <string name="spoken_emoji_267B">"Símbolo de reciclagem universal preto"</string>
+  
+  <string name="spoken_emoji_267F">"Sinal de cadeira de rodas"</string>
+  
+  <string name="spoken_emoji_2693">"Âncora"</string>
+  
+  <string name="spoken_emoji_26A0">"Sinal de aviso"</string>
+  
+  <string name="spoken_emoji_26A1">"Sinal de alta voltagem"</string>
+  
+  <string name="spoken_emoji_26AA">"Círculo branco médio"</string>
+  
+  <string name="spoken_emoji_26AB">"Círculo preto médio"</string>
+  
+  <string name="spoken_emoji_26BD">"Bola de futebol"</string>
+  
+  <string name="spoken_emoji_26BE">"Basebol"</string>
+  
+  <string name="spoken_emoji_26C4">"Boneco de neve sem neve"</string>
+  
+  <string name="spoken_emoji_26C5">"Sol encoberto"</string>
+  
+  <string name="spoken_emoji_26CE">"Serpentário"</string>
+  
+  <string name="spoken_emoji_26D4">"Sinal de entrada proibida"</string>
+  
+  <string name="spoken_emoji_26EA">"Igreja"</string>
+  
+  <string name="spoken_emoji_26F2">"Fonte"</string>
+  
+  <string name="spoken_emoji_26F3">"Bandeira no buraco"</string>
+  
+  <string name="spoken_emoji_26F5">"Barco à vela"</string>
+  
+  <string name="spoken_emoji_26FA">"Tenda"</string>
+  
+  <string name="spoken_emoji_26FD">"Bomba de gasolina"</string>
+  
+  <string name="spoken_emoji_2702">"Tesoura preta"</string>
+  
+  <string name="spoken_emoji_2705">"Marca de visto branca sólida"</string>
+  
+  <string name="spoken_emoji_2708">"Avião"</string>
+  
+  <string name="spoken_emoji_2709">"Envelope"</string>
+  
+  <string name="spoken_emoji_270A">"Punho erguido"</string>
+  
+  <string name="spoken_emoji_270B">"Mão erguida"</string>
+  
+  <string name="spoken_emoji_270C">"Mão em V de vitória"</string>
+  
+  <string name="spoken_emoji_270F">"Lápis"</string>
+  
+  <string name="spoken_emoji_2712">"Ponteira de caneta preta"</string>
+  
+  <string name="spoken_emoji_2714">"Marca de visto sólida"</string>
+  
+  <string name="spoken_emoji_2716">"Sinal de multiplicação sólido"</string>
+  
+  <string name="spoken_emoji_2728">"Centelhas"</string>
+  
+  <string name="spoken_emoji_2733">"Asterisco"</string>
+  
+  <string name="spoken_emoji_2734">"Estrela preta de oito pontas"</string>
+  
+  <string name="spoken_emoji_2744">"Floco de neve"</string>
+  
+  <string name="spoken_emoji_2747">"Centelha"</string>
+  
+  <string name="spoken_emoji_274C">"Marca de visto"</string>
+  
+  <string name="spoken_emoji_274E">"Marca de visto negativo quadrada"</string>
+  
+  <string name="spoken_emoji_2753">"Decoração de ponto de interrogação preto"</string>
+  
+  <string name="spoken_emoji_2754">"Decoração de ponto de interrogação branco"</string>
+  
+  <string name="spoken_emoji_2755">"Decoração de ponto de exclamação branco"</string>
+  
+  <string name="spoken_emoji_2757">"Símbolo de ponto de exclamação sólido"</string>
+  
+  <string name="spoken_emoji_2764">"Coração preto sólido"</string>
+  
+  <string name="spoken_emoji_2795">"Sinal de mais sólido"</string>
+  
+  <string name="spoken_emoji_2796">"Sinal de menos sólido"</string>
+  
+  <string name="spoken_emoji_2797">"Sinal de dividir sólido"</string>
+  
+  <string name="spoken_emoji_27A1">"Seta preta para a direita"</string>
+  
+  <string name="spoken_emoji_27B0">"Laço encaracolado"</string>
+  
+  <string name="spoken_emoji_27BF">"Laço encaracolado duplo"</string>
+  
+  <string name="spoken_emoji_2934">"Seta curvada para cima"</string>
+  
+  <string name="spoken_emoji_2935">"Seta curvada para baixo"</string>
+  
+  <string name="spoken_emoji_2B05">"Sete preta para a esquerda"</string>
+  
+  <string name="spoken_emoji_2B06">"Seta preta para cima"</string>
+  
+  <string name="spoken_emoji_2B07">"Seta preta para baixo"</string>
+  
+  <string name="spoken_emoji_2B1B">"Quadrado preto grande"</string>
+  
+  <string name="spoken_emoji_2B1C">"Quadrado preto grande"</string>
+  
+  <string name="spoken_emoji_2B50">"Estrela branca média"</string>
+  
+  <string name="spoken_emoji_2B55">"Círculo sólido grande"</string>
+  
+  <string name="spoken_emoji_3030">"Traço ondulado"</string>
+  
+  <string name="spoken_emoji_303D">"Símbolo de entrada na música"</string>
+  
+  <string name="spoken_emoji_3297">"Ideograma circular de felicitações"</string>
+  
+  <string name="spoken_emoji_3299">"Ideograma circular de segredo"</string>
+  
+  <string name="spoken_emoji_1F004">"Mosaico de Mahjong dragão vermelho"</string>
+  
+  <string name="spoken_emoji_1F0CF">"Joker preto de baralho de cartas"</string>
+  
+  <string name="spoken_emoji_1F170">"Tipo sanguíneo A"</string>
+  
+  <string name="spoken_emoji_1F171">"Tipo sanguíneo B"</string>
+  
+  <string name="spoken_emoji_1F17E">"Tipo sanguíneo O"</string>
+  
+  <string name="spoken_emoji_1F17F">"Parque de Estacionamento"</string>
+  
+  <string name="spoken_emoji_1F18E">"Tipo sanguíneo AB"</string>
+  
+  <string name="spoken_emoji_1F191">"CL quadrado"</string>
+  
+  <string name="spoken_emoji_1F192">"\"Cool\" quadrado"</string>
+  
+  <string name="spoken_emoji_1F193">"\"Free\" quadrado"</string>
+  
+  <string name="spoken_emoji_1F194">"\"ID\" quadrado"</string>
+  
+  <string name="spoken_emoji_1F195">"\"New\" quadrado"</string>
+  
+  <string name="spoken_emoji_1F196">"\"NG\" quadrado"</string>
+  
+  <string name="spoken_emoji_1F197">"\"OK\" quadrado"</string>
+  
+  <string name="spoken_emoji_1F198">"\"SOS\" quadrado"</string>
+  
+  <string name="spoken_emoji_1F199">"\"Up\" quadrado com ponto de exclamação"</string>
+  
+  <string name="spoken_emoji_1F19A">"\"vs\" quadrado"</string>
+  
+  <string name="spoken_emoji_1F201">"\"Katakana here\" quadrado"</string>
+  
+  <string name="spoken_emoji_1F202">"\"katakana service\" quadrado"</string>
+  
+  <string name="spoken_emoji_1F21A">"Ideograma quadrado gratuito"</string>
+  
+  <string name="spoken_emoji_1F22F">"Ideograma quadrado com reserva"</string>
+  
+  <string name="spoken_emoji_1F232">"Ideograma quadrado de proibição"</string>
+  
+  <string name="spoken_emoji_1F233">"Ideograma quadrado de vaga"</string>
+  
+  <string name="spoken_emoji_1F234">"Ideograma quadrado de aceitação"</string>
+  
+  <string name="spoken_emoji_1F235">"Ideograma quadrado de ocupação total"</string>
+  
+  <string name="spoken_emoji_1F236">"Ideograma quadrado pago"</string>
+  
+  <string name="spoken_emoji_1F237">"Ideograma quadrado mensal"</string>
+  
+  <string name="spoken_emoji_1F238">"Ideograma quadrado de aplicação"</string>
+  
+  <string name="spoken_emoji_1F239">"Ideograma quadrado de desconto"</string>
+  
+  <string name="spoken_emoji_1F23A">"Ideograma quadrado de negócios"</string>
+  
+  <string name="spoken_emoji_1F250">"Ideograma circular de vantagem"</string>
+  
+  <string name="spoken_emoji_1F251">"Ideograma circular de aceitação"</string>
+  
+  <string name="spoken_emoji_1F300">"Ciclone"</string>
+  
+  <string name="spoken_emoji_1F301">"Enevoado"</string>
+  
+  <string name="spoken_emoji_1F302">"Chapéu de chuva fechado"</string>
+  
+  <string name="spoken_emoji_1F303">"Noite estrelada"</string>
+  
+  <string name="spoken_emoji_1F304">"Nascer do sol na montanha"</string>
+  
+  <string name="spoken_emoji_1F305">"Nascer do sol"</string>
+  
+  <string name="spoken_emoji_1F306">"Silhueta de cidade ao anoitecer"</string>
+  
+  <string name="spoken_emoji_1F307">"Pôr do sol atrás dos prédios"</string>
+  
+  <string name="spoken_emoji_1F308">"Arco-íris"</string>
+  
+  <string name="spoken_emoji_1F309">"Ponte à noite"</string>
+  
+  <string name="spoken_emoji_1F30A">"Onda"</string>
+  
+  <string name="spoken_emoji_1F30B">"Vulcão"</string>
+  
+  <string name="spoken_emoji_1F30C">"Via Láctea"</string>
+  
+  <string name="spoken_emoji_1F30D">"Globo terrestre Europa-África"</string>
+  
+  <string name="spoken_emoji_1F30E">"Globo terrestre Américas"</string>
+  
+  <string name="spoken_emoji_1F30F">"Globo terrestre Ásia-Austrália"</string>
+  
+  <string name="spoken_emoji_1F310">"Globo com os meridianos"</string>
+  
+  <string name="spoken_emoji_1F311">"Símbolo de lua nova"</string>
+  
+  <string name="spoken_emoji_1F312">"Símbolo de lua crescente"</string>
+  
+  <string name="spoken_emoji_1F313">"Símbolo de lua em quarto crescente"</string>
+  
+  <string name="spoken_emoji_1F314">"Lua crescente convexa"</string>
+  
+  <string name="spoken_emoji_1F315">"Símbolo de lua cheia"</string>
+  
+  <string name="spoken_emoji_1F316">"Símbolo de lua minguante convexa"</string>
+  
+  <string name="spoken_emoji_1F317">"Símbolo de lua em quarto minguante"</string>
+  
+  <string name="spoken_emoji_1F318">"Símbolo de lua em quarto minguante"</string>
+  
+  <string name="spoken_emoji_1F319">"Lua crescente"</string>
+  
+  <string name="spoken_emoji_1F31A">"Lua nova com cara"</string>
+  
+  <string name="spoken_emoji_1F31B">"Lua em quarto crescente com cara"</string>
+  
+  <string name="spoken_emoji_1F31C">"Lua em quarto minguante com cara"</string>
+  
+  <string name="spoken_emoji_1F31D">"Lua cheia com cara"</string>
+  
+  <string name="spoken_emoji_1F31E">"Sol com cara"</string>
+  
+  <string name="spoken_emoji_1F31F">"Estrela brilhante"</string>
+  
+  <string name="spoken_emoji_1F320">"Estrela cadente"</string>
+  
+  <string name="spoken_emoji_1F330">"Castanha"</string>
+  
+  <string name="spoken_emoji_1F331">"Plântula"</string>
+  
+  <string name="spoken_emoji_1F332">"Árvore de folha persistente"</string>
+  
+  <string name="spoken_emoji_1F333">"Árvore de folha caduca"</string>
+  
+  <string name="spoken_emoji_1F334">"Palmeira"</string>
+  
+  <string name="spoken_emoji_1F335">"Cato"</string>
+  
+  <string name="spoken_emoji_1F337">"Túlipa"</string>
+  
+  <string name="spoken_emoji_1F338">"Cerejeira em flor"</string>
+  
+  <string name="spoken_emoji_1F339">"Rosa"</string>
+  
+  <string name="spoken_emoji_1F33A">"Hibisco"</string>
+  
+  <string name="spoken_emoji_1F33B">"Girassol"</string>
+  
+  <string name="spoken_emoji_1F33C">"Margarida"</string>
+  
+  <string name="spoken_emoji_1F33D">"Milho"</string>
+  
+  <string name="spoken_emoji_1F33E">"Planta de arroz"</string>
+  
+  <string name="spoken_emoji_1F33F">"Ervas"</string>
+  
+  <string name="spoken_emoji_1F340">"Trevo-de-quatro-folhas"</string>
+  
+  <string name="spoken_emoji_1F341">"Folha de ácer"</string>
+  
+  <string name="spoken_emoji_1F342">"Folha a cair"</string>
+  
+  <string name="spoken_emoji_1F343">"Folha a esvoaçar ao vento"</string>
+  
+  <string name="spoken_emoji_1F344">"Cogumelo"</string>
+  
+  <string name="spoken_emoji_1F345">"Tomate"</string>
+  
+  <string name="spoken_emoji_1F346">"Beringela"</string>
+  
+  <string name="spoken_emoji_1F347">"Uvas"</string>
+  
+  <string name="spoken_emoji_1F348">"Melão"</string>
+  
+  <string name="spoken_emoji_1F349">"Melancia"</string>
+  
+  <string name="spoken_emoji_1F34A">"Tangerina"</string>
+  
+  <string name="spoken_emoji_1F34B">"Limão"</string>
+  
+  <string name="spoken_emoji_1F34C">"Banana"</string>
+  
+  <string name="spoken_emoji_1F34D">"Ananás"</string>
+  
+  <string name="spoken_emoji_1F34E">"Maçã vermelha"</string>
+  
+  <string name="spoken_emoji_1F34F">"Maçã verde"</string>
+  
+  <string name="spoken_emoji_1F350">"Pera"</string>
+  
+  <string name="spoken_emoji_1F351">"Pêssego"</string>
+  
+  <string name="spoken_emoji_1F352">"Cerejas"</string>
+  
+  <string name="spoken_emoji_1F353">"Morango"</string>
+  
+  <string name="spoken_emoji_1F354">"Hambúrguer"</string>
+  
+  <string name="spoken_emoji_1F355">"Fatia de piza"</string>
+  
+  <string name="spoken_emoji_1F356">"Osso com carne"</string>
+  
+  <string name="spoken_emoji_1F357">"Perna de frango"</string>
+  
+  <string name="spoken_emoji_1F358">"Biscoito de arroz"</string>
+  
+  <string name="spoken_emoji_1F359">"Bolinho de arroz"</string>
+  
+  <string name="spoken_emoji_1F35A">"Arroz cozinhado"</string>
+  
+  <string name="spoken_emoji_1F35B">"Arroz e caril"</string>
+  
+  <string name="spoken_emoji_1F35C">"Caçarola"</string>
+  
+  <string name="spoken_emoji_1F35D">"Esparguete"</string>
+  
+  <string name="spoken_emoji_1F35E">"Pão"</string>
+  
+  <string name="spoken_emoji_1F35F">"Batatas fritas"</string>
+  
+  <string name="spoken_emoji_1F360">"Batata doce assada"</string>
+  
+  <string name="spoken_emoji_1F361">"Dango"</string>
+  
+  <string name="spoken_emoji_1F362">"Oden"</string>
+  
+  <string name="spoken_emoji_1F363">"Sushi"</string>
+  
+  <string name="spoken_emoji_1F364">"Camarão frito"</string>
+  
+  <string name="spoken_emoji_1F365">"Pastel de peixe em turbilhão"</string>
+  
+  <string name="spoken_emoji_1F366">"Gelado cremoso"</string>
+  
+  <string name="spoken_emoji_1F367">"Gelado \"shaved ice\""</string>
+  
+  <string name="spoken_emoji_1F368">"Gelado"</string>
+  
+  <string name="spoken_emoji_1F369">"Donut"</string>
+  
+  <string name="spoken_emoji_1F36A">"Biscoito"</string>
+  
+  <string name="spoken_emoji_1F36B">"Barra de chocolate"</string>
+  
+  <string name="spoken_emoji_1F36C">"Guloseima"</string>
+  
+  <string name="spoken_emoji_1F36D">"Chupa-chupa"</string>
+  
+  <string name="spoken_emoji_1F36E">"Pudim"</string>
+  
+  <string name="spoken_emoji_1F36F">"Pote de mel"</string>
+  
+  <string name="spoken_emoji_1F370">"Bolacha amanteigada"</string>
+  
+  <string name="spoken_emoji_1F371">"Caixa de refeições"</string>
+  
+  <string name="spoken_emoji_1F372">"Tacho com comida"</string>
+  
+  <string name="spoken_emoji_1F373">"Culinária"</string>
+  
+  <string name="spoken_emoji_1F374">"Garfo e faca"</string>
+  
+  <string name="spoken_emoji_1F375">"Chávena de chá sem pega"</string>
+  
+  <string name="spoken_emoji_1F376">"Garrafa e chávena de saké"</string>
+  
+  <string name="spoken_emoji_1F377">"Copo de vinho"</string>
+  
+  <string name="spoken_emoji_1F378">"Copo de cocktail"</string>
+  
+  <string name="spoken_emoji_1F379">"Bebida tropical"</string>
+  
+  <string name="spoken_emoji_1F37A">"Caneca de cerveja"</string>
+  
+  <string name="spoken_emoji_1F37B">"Brinde com canecas de cerveja"</string>
+  
+  <string name="spoken_emoji_1F37C">"Biberão"</string>
+  
+  <string name="spoken_emoji_1F380">"Fita"</string>
+  
+  <string name="spoken_emoji_1F381">"Presente embrulhado"</string>
+  
+  <string name="spoken_emoji_1F382">"Bolo de aniversário"</string>
+  
+  <string name="spoken_emoji_1F383">"Abóbora iluminada"</string>
+  
+  <string name="spoken_emoji_1F384">"Árvore de Natal"</string>
+  
+  <string name="spoken_emoji_1F385">"Pai Natal"</string>
+  
+  <string name="spoken_emoji_1F386">"Fogo-de-artifício"</string>
+  
+  <string name="spoken_emoji_1F387">"Fogo-de-artifício"</string>
+  
+  <string name="spoken_emoji_1F388">"Balão"</string>
+  
+  <string name="spoken_emoji_1F389">"Bombinhas de Carnaval"</string>
+  
+  <string name="spoken_emoji_1F38A">"Bola de confetti"</string>
+  
+  <string name="spoken_emoji_1F38B">"Árvore do Tanabata"</string>
+  
+  <string name="spoken_emoji_1F38C">"Bandeiras cruzadas"</string>
+  
+  <string name="spoken_emoji_1F38D">"Decoração em pinho"</string>
+  
+  <string name="spoken_emoji_1F38E">"Bonecas japonesas"</string>
+  
+  <string name="spoken_emoji_1F38F">"Bandeirola de carpas"</string>
+  
+  <string name="spoken_emoji_1F390">"Espanta espíritos"</string>
+  
+  <string name="spoken_emoji_1F391">"Cerimónia de contemplação da lua"</string>
+  
+  <string name="spoken_emoji_1F392">"Pasta da escola"</string>
+  
+  <string name="spoken_emoji_1F393">"Chapéu de formatura"</string>
+  
+  <string name="spoken_emoji_1F3A0">"Cavalo de carrossel"</string>
+  
+  <string name="spoken_emoji_1F3A1">"Roda panorâmica"</string>
+  
+  <string name="spoken_emoji_1F3A2">"Montanha-russa"</string>
+  
+  <string name="spoken_emoji_1F3A3">"Cana de pesca e peixe"</string>
+  
+  <string name="spoken_emoji_1F3A4">"Microfone"</string>
+  
+  <string name="spoken_emoji_1F3A5">"Câmara de filmar"</string>
+  
+  <string name="spoken_emoji_1F3A6">"Cinema"</string>
+  
+  <string name="spoken_emoji_1F3A7">"Auricular"</string>
+  
+  <string name="spoken_emoji_1F3A8">"Paleta de artista"</string>
+  
+  <string name="spoken_emoji_1F3A9">"Chapéu de cartola"</string>
+  
+  <string name="spoken_emoji_1F3AA">"Tenda de circo"</string>
+  
+  <string name="spoken_emoji_1F3AB">"Bilhete"</string>
+  
+  <string name="spoken_emoji_1F3AC">"Claquete"</string>
+  
+  <string name="spoken_emoji_1F3AD">"Artes de palco"</string>
+  
+  <string name="spoken_emoji_1F3AE">"Videojogo"</string>
+  
+  <string name="spoken_emoji_1F3AF">"Em cheio no alvo"</string>
+  
+  <string name="spoken_emoji_1F3B0">"Slot machine"</string>
+  
+  <string name="spoken_emoji_1F3B1">"Bilhar"</string>
+  
+  <string name="spoken_emoji_1F3B2">"Dado de jogo"</string>
+  
+  <string name="spoken_emoji_1F3B3">"Bowling"</string>
+  
+  <string name="spoken_emoji_1F3B4">"Baralho de cartas com desenho de flores"</string>
+  
+  <string name="spoken_emoji_1F3B5">"Nota de música"</string>
+  
+  <string name="spoken_emoji_1F3B6">"Muitas notas de música"</string>
+  
+  <string name="spoken_emoji_1F3B7">"Saxofone"</string>
+  
+  <string name="spoken_emoji_1F3B8">"Guitarra"</string>
+  
+  <string name="spoken_emoji_1F3B9">"Teclado de música"</string>
+  
+  <string name="spoken_emoji_1F3BA">"Trompete"</string>
+  
+  <string name="spoken_emoji_1F3BB">"Violino"</string>
+  
+  <string name="spoken_emoji_1F3BC">"Pauta de música"</string>
+  
+  <string name="spoken_emoji_1F3BD">"T-shirt de corrida com faixa"</string>
+  
+  <string name="spoken_emoji_1F3BE">"Raquete e bola de ténis"</string>
+  
+  <string name="spoken_emoji_1F3BF">"Esqui e bota de esqui"</string>
+  
+  <string name="spoken_emoji_1F3C0">"Bola e cesto de basquetebol"</string>
+  
+  <string name="spoken_emoji_1F3C1">"Bandeira axadrezada"</string>
+  
+  <string name="spoken_emoji_1F3C2">"Esquiador"</string>
+  
+  <string name="spoken_emoji_1F3C3">"Corredor"</string>
+  
+  <string name="spoken_emoji_1F3C4">"Surfista"</string>
+  
+  <string name="spoken_emoji_1F3C6">"Troféu"</string>
+  
+  <string name="spoken_emoji_1F3C7">"Corrida de cavalos"</string>
+  
+  <string name="spoken_emoji_1F3C8">"Futebol americano"</string>
+  
+  <string name="spoken_emoji_1F3C9">"Bola de râguebi"</string>
+  
+  <string name="spoken_emoji_1F3CA">"Nadador"</string>
+  
+  <string name="spoken_emoji_1F3E0">"Construção de casas"</string>
+  
+  <string name="spoken_emoji_1F3E1">"Casa com jardim"</string>
+  
+  <string name="spoken_emoji_1F3E2">"Edifício de escritórios"</string>
+  
+  <string name="spoken_emoji_1F3E3">"Estação de correios japonesa"</string>
+  
+  <string name="spoken_emoji_1F3E4">"Estação de correios europeia"</string>
+  
+  <string name="spoken_emoji_1F3E5">"Hospital"</string>
+  
+  <string name="spoken_emoji_1F3E6">"Banco"</string>
+  
+  <string name="spoken_emoji_1F3E7">"Máquina de multibanco"</string>
+  
+  <string name="spoken_emoji_1F3E8">"Hotel"</string>
+  
+  <string name="spoken_emoji_1F3E9">"Hotel romântico"</string>
+  
+  <string name="spoken_emoji_1F3EA">"Loja de conveniência"</string>
+  
+  <string name="spoken_emoji_1F3EB">"Escola"</string>
+  
+  <string name="spoken_emoji_1F3EC">"Centro comercial"</string>
+  
+  <string name="spoken_emoji_1F3ED">"Fábrica"</string>
+  
+  <string name="spoken_emoji_1F3EE">"Lanterna Izakaya"</string>
+  
+  <string name="spoken_emoji_1F3EF">"Castelo japonês"</string>
+  
+  <string name="spoken_emoji_1F3F0">"Castelo europeu"</string>
+  
+  <string name="spoken_emoji_1F400">"Ratazana"</string>
+  
+  <string name="spoken_emoji_1F401">"Rato"</string>
+  
+  <string name="spoken_emoji_1F402">"Boi"</string>
+  
+  <string name="spoken_emoji_1F403">"Búfalo-asiático"</string>
+  
+  <string name="spoken_emoji_1F404">"Vaca"</string>
+  
+  <string name="spoken_emoji_1F406">"Leopardo"</string>
+  
+  <string name="spoken_emoji_1F407">"Coelho"</string>
+  
+  <string name="spoken_emoji_1F408">"Gato"</string>
+  
+  <string name="spoken_emoji_1F409">"Dragão"</string>
+  
+  <string name="spoken_emoji_1F40A">"Crocodilo"</string>
+  
+  <string name="spoken_emoji_1F40B">"Baleia"</string>
+  
+  <string name="spoken_emoji_1F40C">"Caracol"</string>
+  
+  <string name="spoken_emoji_1F40D">"Cobra"</string>
+  
+  <string name="spoken_emoji_1F40E">"Cavalo"</string>
+  
+  <string name="spoken_emoji_1F40F">"Carneiro"</string>
+  
+  <string name="spoken_emoji_1F410">"Cabra"</string>
+  
+  <string name="spoken_emoji_1F411">"Ovelha"</string>
+  
+  <string name="spoken_emoji_1F412">"Macaco"</string>
+  
+  <string name="spoken_emoji_1F413">"Galo"</string>
+  
+  <string name="spoken_emoji_1F414">"Galinha"</string>
+  
+  <string name="spoken_emoji_1F415">"Cão"</string>
+  
+  <string name="spoken_emoji_1F416">"Porco"</string>
+  
+  <string name="spoken_emoji_1F417">"Javali"</string>
+  
+  <string name="spoken_emoji_1F418">"Elefante"</string>
+  
+  <string name="spoken_emoji_1F419">"Polvo"</string>
+  
+  <string name="spoken_emoji_1F41A">"Búzio"</string>
+  
+  <string name="spoken_emoji_1F41B">"Inseto"</string>
+  
+  <string name="spoken_emoji_1F41C">"Formiga"</string>
+  
+  <string name="spoken_emoji_1F41D">"Abelha"</string>
+  
+  <string name="spoken_emoji_1F41E">"Joaninha"</string>
+  
+  <string name="spoken_emoji_1F41F">"Peixe"</string>
+  
+  <string name="spoken_emoji_1F420">"Peixe tropical"</string>
+  
+  <string name="spoken_emoji_1F421">"Peixe-balão"</string>
+  
+  <string name="spoken_emoji_1F422">"Tartaruga"</string>
+  
+  <string name="spoken_emoji_1F423">"Galinha a chocar"</string>
+  
+  <string name="spoken_emoji_1F424">"Pintainho"</string>
+  
+  <string name="spoken_emoji_1F425">"Pintainho a olhar para a frente"</string>
+  
+  <string name="spoken_emoji_1F426">"Pássaro"</string>
+  
+  <string name="spoken_emoji_1F427">"Pinguim"</string>
+  
+  <string name="spoken_emoji_1F428">"Coala"</string>
+  
+  <string name="spoken_emoji_1F429">"Caniche"</string>
+  
+  <string name="spoken_emoji_1F42A">"Dromedário"</string>
+  
+  <string name="spoken_emoji_1F42B">"Camelo bactriano"</string>
+  
+  <string name="spoken_emoji_1F42C">"Golfinho"</string>
+  
+  <string name="spoken_emoji_1F42D">"Focinho de rato"</string>
+  
+  <string name="spoken_emoji_1F42E">"Focinho de vaca"</string>
+  
+  <string name="spoken_emoji_1F42F">"Focinho de tigre"</string>
+  
+  <string name="spoken_emoji_1F430">"Focinho de coelho"</string>
+  
+  <string name="spoken_emoji_1F431">"Focinho de gato"</string>
+  
+  <string name="spoken_emoji_1F432">"Focinho de dragão"</string>
+  
+  <string name="spoken_emoji_1F433">"Baleia a expelir água"</string>
+  
+  <string name="spoken_emoji_1F434">"Focinho de cavalo"</string>
+  
+  <string name="spoken_emoji_1F435">"Focinho de macaco"</string>
+  
+  <string name="spoken_emoji_1F436">"Focinho de cão"</string>
+  
+  <string name="spoken_emoji_1F437">"Focinho de porco"</string>
+  
+  <string name="spoken_emoji_1F438">"Focinho de sapo"</string>
+  
+  <string name="spoken_emoji_1F439">"Focinho de hamster"</string>
+  
+  <string name="spoken_emoji_1F43A">"Focinho de lobo"</string>
+  
+  <string name="spoken_emoji_1F43B">"Focinho de urso"</string>
+  
+  <string name="spoken_emoji_1F43C">"Focinho de urso-panda"</string>
+  
+  <string name="spoken_emoji_1F43D">"Nariz de porco"</string>
+  
+  <string name="spoken_emoji_1F43E">"Pegadas de garras"</string>
+  
+  <string name="spoken_emoji_1F440">"Olhos"</string>
+  
+  <string name="spoken_emoji_1F442">"Orelha"</string>
+  
+  <string name="spoken_emoji_1F443">"Nariz"</string>
+  
+  <string name="spoken_emoji_1F444">"Boca"</string>
+  
+  <string name="spoken_emoji_1F445">"Língua"</string>
+  
+  <string name="spoken_emoji_1F446">"Dedo indicador a apontar para cima"</string>
+  
+  <string name="spoken_emoji_1F447">"Dedo indicador a apontar para baixo"</string>
+  
+  <string name="spoken_emoji_1F448">"Dedo indicador a apontar para a esquerda"</string>
+  
+  <string name="spoken_emoji_1F449">"Dedo indicador a apontar para a direita"</string>
+  
+  <string name="spoken_emoji_1F44A">"Símbolo de punho fechado"</string>
+  
+  <string name="spoken_emoji_1F44B">"Símbolo de mão a acenar"</string>
+  
+  <string name="spoken_emoji_1F44C">"Símbolo de ok com a mão"</string>
+  
+  <string name="spoken_emoji_1F44D">"Símbolo de polegar para cima"</string>
+  
+  <string name="spoken_emoji_1F44E">"Símbolo de polegar para baixo"</string>
+  
+  <string name="spoken_emoji_1F44F">"Símbolo de mãos a bater palmas"</string>
+  
+  <string name="spoken_emoji_1F450">"Símbolo de mãos abertas"</string>
+  
+  <string name="spoken_emoji_1F451">"Coroa"</string>
+  
+  <string name="spoken_emoji_1F452">"Chapéu de mulher"</string>
+  
+  <string name="spoken_emoji_1F453">"Óculos"</string>
+  
+  <string name="spoken_emoji_1F454">"Gravata"</string>
+  
+  <string name="spoken_emoji_1F455">"T-shirt"</string>
+  
+  <string name="spoken_emoji_1F456">"Calças de ganga"</string>
+  
+  <string name="spoken_emoji_1F457">"Vestido"</string>
+  
+  <string name="spoken_emoji_1F458">"Quimono"</string>
+  
+  <string name="spoken_emoji_1F459">"Biquíni"</string>
+  
+  <string name="spoken_emoji_1F45A">"Roupas de mulher"</string>
+  
+  <string name="spoken_emoji_1F45B">"Carteira"</string>
+  
+  <string name="spoken_emoji_1F45C">"Mala"</string>
+  
+  <string name="spoken_emoji_1F45D">"Bolsa"</string>
+  
+  <string name="spoken_emoji_1F45E">"Sapato de homem"</string>
+  
+  <string name="spoken_emoji_1F45F">"Ténis de corrida"</string>
+  
+  <string name="spoken_emoji_1F460">"Sapato de salto alto"</string>
+  
+  <string name="spoken_emoji_1F461">"Sandália de mulher"</string>
+  
+  <string name="spoken_emoji_1F462">"Botas de mulher"</string>
+  
+  <string name="spoken_emoji_1F463">"Pegadas"</string>
+  
+  <string name="spoken_emoji_1F464">"Silhueta de busto"</string>
+  
+  <string name="spoken_emoji_1F465">"Silhueta de bustos"</string>
+  
+  <string name="spoken_emoji_1F466">"Rapaz"</string>
+  
+  <string name="spoken_emoji_1F467">"Rapariga"</string>
+  
+  <string name="spoken_emoji_1F468">"Homem"</string>
+  
+  <string name="spoken_emoji_1F469">"Mulher"</string>
+  
+  <string name="spoken_emoji_1F46A">"Família"</string>
+  
+  <string name="spoken_emoji_1F46B">"Homem e mulher de mãos dadas"</string>
+  
+  <string name="spoken_emoji_1F46C">"Dois homens de mão dada"</string>
+  
+  <string name="spoken_emoji_1F46D">"Duas mulheres de mão dada"</string>
+  
+  <string name="spoken_emoji_1F46E">"Agente da polícia"</string>
+  
+  <string name="spoken_emoji_1F46F">"Mulher com orelhas de coelho"</string>
+  
+  <string name="spoken_emoji_1F470">"Noiva com véu"</string>
+  
+  <string name="spoken_emoji_1F471">"Pessoa loira"</string>
+  
+  <string name="spoken_emoji_1F472">"Homem com gua pi mao"</string>
+  
+  <string name="spoken_emoji_1F473">"Homem com turbante"</string>
+  
+  <string name="spoken_emoji_1F474">"Homem mais velho"</string>
+  
+  <string name="spoken_emoji_1F475">"Mulher mais velha"</string>
+  
+  <string name="spoken_emoji_1F476">"Bebé"</string>
+  
+  <string name="spoken_emoji_1F477">"Trabalhador da construção civil"</string>
+  
+  <string name="spoken_emoji_1F478">"Princesa"</string>
+  
+  <string name="spoken_emoji_1F479">"Ogre japonês"</string>
+  
+  <string name="spoken_emoji_1F47A">"Duende japonês"</string>
+  
+  <string name="spoken_emoji_1F47B">"Fantasma"</string>
+  
+  <string name="spoken_emoji_1F47C">"Anjo bebé"</string>
+  
+  <string name="spoken_emoji_1F47D">"Ser extraterrestre"</string>
+  
+  <string name="spoken_emoji_1F47E">"Monstro extraterrestre"</string>
+  
+  <string name="spoken_emoji_1F47F">"Imp."</string>
+  
+  <string name="spoken_emoji_1F480">"Caveira"</string>
+  
+  <string name="spoken_emoji_1F481">"Assistente do balcão de informações"</string>
+  
+  <string name="spoken_emoji_1F482">"Guarda"</string>
+  
+  <string name="spoken_emoji_1F483">"Bailarino"</string>
+  
+  <string name="spoken_emoji_1F484">"Batom"</string>
+  
+  <string name="spoken_emoji_1F485">"Verniz para as unhas"</string>
+  
+  <string name="spoken_emoji_1F486">"Massagem facial"</string>
+  
+  <string name="spoken_emoji_1F487">"Cortar o cabelo"</string>
+  
+  <string name="spoken_emoji_1F488">"Símbolo de barbearia"</string>
+  
+  <string name="spoken_emoji_1F489">"Seringa"</string>
+  
+  <string name="spoken_emoji_1F48A">"Comprimido"</string>
+  
+  <string name="spoken_emoji_1F48B">"Marca de beijo"</string>
+  
+  <string name="spoken_emoji_1F48C">"Carta de amor"</string>
+  
+  <string name="spoken_emoji_1F48D">"Anel"</string>
+  
+  <string name="spoken_emoji_1F48E">"Diamante"</string>
+  
+  <string name="spoken_emoji_1F48F">"Beijo"</string>
+  
+  <string name="spoken_emoji_1F490">"Bouquet"</string>
+  
+  <string name="spoken_emoji_1F491">"Casal com coração"</string>
+  
+  <string name="spoken_emoji_1F492">"Casamento"</string>
+  
+  <string name="spoken_emoji_1F493">"Coração a bater"</string>
+  
+  <string name="spoken_emoji_1F494">"Coração partido"</string>
+  
+  <string name="spoken_emoji_1F495">"Dois corações"</string>
+  
+  <string name="spoken_emoji_1F496">"Coração reluzente"</string>
+  
+  <string name="spoken_emoji_1F497">"Coração a crescer"</string>
+  
+  <string name="spoken_emoji_1F498">"Coração com seta"</string>
+  
+  <string name="spoken_emoji_1F499">"Coração azul"</string>
+  
+  <string name="spoken_emoji_1F49A">"Coração verde"</string>
+  
+  <string name="spoken_emoji_1F49B">"Coração amarelo"</string>
+  
+  <string name="spoken_emoji_1F49C">"Coração roxo"</string>
+  
+  <string name="spoken_emoji_1F49D">"Coração com laço"</string>
+  
+  <string name="spoken_emoji_1F49E">"Corações a dançar"</string>
+  
+  <string name="spoken_emoji_1F49F">"Coração decorativo"</string>
+  
+  <string name="spoken_emoji_1F4A0">"Forma de diamante com ponto no interior"</string>
+  
+  <string name="spoken_emoji_1F4A1">"Lâmpada elétrica"</string>
+  
+  <string name="spoken_emoji_1F4A2">"Símbolo de raiva"</string>
+  
+  <string name="spoken_emoji_1F4A3">"Bomba"</string>
+  
+  <string name="spoken_emoji_1F4A4">"Símbolo de sono"</string>
+  
+  <string name="spoken_emoji_1F4A5">"Símbolo de colisão"</string>
+  
+  <string name="spoken_emoji_1F4A6">"Símbolo de transpiração"</string>
+  
+  <string name="spoken_emoji_1F4A7">"Gota"</string>
+  
+  <string name="spoken_emoji_1F4A8">"Símbolo de pressa"</string>
+  
+  <string name="spoken_emoji_1F4A9">"Monte de cocó"</string>
+  
+  <string name="spoken_emoji_1F4AA">"Bíceps fletidos"</string>
+  
+  <string name="spoken_emoji_1F4AB">"Símbolo de zonzear"</string>
+  
+  <string name="spoken_emoji_1F4AC">"Balão de diálogo"</string>
+  
+  <string name="spoken_emoji_1F4AD">"Balão de pensamento"</string>
+  
+  <string name="spoken_emoji_1F4AE">"Flor branca"</string>
+  
+  <string name="spoken_emoji_1F4AF">"Símbolo de cem pontos"</string>
+  
+  <string name="spoken_emoji_1F4B0">"Saco de dinheiro"</string>
+  
+  <string name="spoken_emoji_1F4B1">"Câmbio"</string>
+  
+  <string name="spoken_emoji_1F4B2">"Símbolo de dólar sólido"</string>
+  
+  <string name="spoken_emoji_1F4B3">"Cartão de crédito"</string>
+  
+  <string name="spoken_emoji_1F4B4">"Nota com símbolo do yen"</string>
+  
+  <string name="spoken_emoji_1F4B5">"Nota com símbolo de dólar norte-americano"</string>
+  
+  <string name="spoken_emoji_1F4B6">"Nota com símbolo do euro"</string>
+  
+  <string name="spoken_emoji_1F4B7">"Nota com símbolo da libra"</string>
+  
+  <string name="spoken_emoji_1F4B8">"Notas com asas"</string>
+  
+  <string name="spoken_emoji_1F4B9">"Gráfico com tendência altista e símbolo do yen"</string>
+  
+  <string name="spoken_emoji_1F4BA">"Lugar"</string>
+  
+  <string name="spoken_emoji_1F4BB">"Computador pessoal"</string>
+  
+  <string name="spoken_emoji_1F4BC">"Pasta de trabalho"</string>
+  
+  <string name="spoken_emoji_1F4BD">"Minidisco"</string>
+  
+  <string name="spoken_emoji_1F4BE">"Disquete"</string>
+  
+  <string name="spoken_emoji_1F4BF">"Disco ótico"</string>
+  
+  <string name="spoken_emoji_1F4C0">"DVD"</string>
+  
+  <string name="spoken_emoji_1F4C1">"Pasta de ficheiros"</string>
+  
+  <string name="spoken_emoji_1F4C2">"Pasta de ficheiro aberto"</string>
+  
+  <string name="spoken_emoji_1F4C3">"Página com dobra"</string>
+  
+  <string name="spoken_emoji_1F4C4">"Página virada para cima"</string>
+  
+  <string name="spoken_emoji_1F4C5">"Calendário"</string>
+  
+  <string name="spoken_emoji_1F4C6">"Calendário de mesa"</string>
+  
+  <string name="spoken_emoji_1F4C7">"Porta-cartões de visita"</string>
+  
+  <string name="spoken_emoji_1F4C8">"Gráfico com tendência altista"</string>
+  
+  <string name="spoken_emoji_1F4C9">"Gráfico com tendência baixista"</string>
+  
+  <string name="spoken_emoji_1F4CA">"Gráfico de barras"</string>
+  
+  <string name="spoken_emoji_1F4CB">"Área de transferência"</string>
+  
+  <string name="spoken_emoji_1F4CC">"Alfinete"</string>
+  
+  <string name="spoken_emoji_1F4CD">"Alfinete redondo"</string>
+  
+  <string name="spoken_emoji_1F4CE">"Clip"</string>
+  
+  <string name="spoken_emoji_1F4CF">"Régua"</string>
+  
+  <string name="spoken_emoji_1F4D0">"Esquadro"</string>
+  
+  <string name="spoken_emoji_1F4D1">"Marcadores de folhas"</string>
+  
+  <string name="spoken_emoji_1F4D2">"Livro razão"</string>
+  
+  <string name="spoken_emoji_1F4D3">"Bloco de notas"</string>
+  
+  <string name="spoken_emoji_1F4D4">"Bloco de notas com capa decorada"</string>
+  
+  <string name="spoken_emoji_1F4D5">"Livro fechado"</string>
+  
+  <string name="spoken_emoji_1F4D6">"Livro aberto"</string>
+  
+  <string name="spoken_emoji_1F4D7">"Livro verde"</string>
+  
+  <string name="spoken_emoji_1F4D8">"Livro azul"</string>
+  
+  <string name="spoken_emoji_1F4D9">"Livro cor de laranja"</string>
+  
+  <string name="spoken_emoji_1F4DA">"Livros"</string>
+  
+  <string name="spoken_emoji_1F4DB">"Etiqueta de nome"</string>
+  
+  <string name="spoken_emoji_1F4DC">"Rolo"</string>
+  
+  <string name="spoken_emoji_1F4DD">"Nota"</string>
+  
+  <string name="spoken_emoji_1F4DE">"Auscultador de telefone"</string>
+  
+  <string name="spoken_emoji_1F4DF">"Pager"</string>
+  
+  <string name="spoken_emoji_1F4E0">"Fax"</string>
+  
+  <string name="spoken_emoji_1F4E1">"Antena parabólica"</string>
+  
+  <string name="spoken_emoji_1F4E2">"Sistema sonoro"</string>
+  
+  <string name="spoken_emoji_1F4E3">"Megafone"</string>
+  
+  <string name="spoken_emoji_1F4E4">"Bandeja de correio a enviar"</string>
+  
+  <string name="spoken_emoji_1F4E5">"Bandeja de correio recebido"</string>
+  
+  <string name="spoken_emoji_1F4E6">"Pacote"</string>
+  
+  <string name="spoken_emoji_1F4E7">"Símbolo de email"</string>
+  
+  <string name="spoken_emoji_1F4E8">"Envelope a chegar"</string>
+  
+  <string name="spoken_emoji_1F4E9">"Envelope com seta para baixo em cima"</string>
+  
+  <string name="spoken_emoji_1F4EA">"Caixa de correio fechada com bandeirola para baixo"</string>
+  
+  <string name="spoken_emoji_1F4EB">"Caixa de correio com bandeirola para cima"</string>
+  
+  <string name="spoken_emoji_1F4EC">"Caixa de correio aberta com bandeirola para cima"</string>
+  
+  <string name="spoken_emoji_1F4ED">"Caixa de correio aberta com bandeirola para baixo"</string>
+  
+  <string name="spoken_emoji_1F4EE">"Caixa de correio"</string>
+  
+  <string name="spoken_emoji_1F4EF">"Aviso sonoro de correio"</string>
+  
+  <string name="spoken_emoji_1F4F0">"Jornal"</string>
+  
+  <string name="spoken_emoji_1F4F1">"Telemóvel"</string>
+  
+  <string name="spoken_emoji_1F4F2">"Telemóvel com seta para a direita à esquerda"</string>
+  
+  <string name="spoken_emoji_1F4F3">"Modo de vibração"</string>
+  
+  <string name="spoken_emoji_1F4F4">"Telemóvel desligado"</string>
+  
+  <string name="spoken_emoji_1F4F5">"Proibido usar o telemóvel"</string>
+  
+  <string name="spoken_emoji_1F4F6">"Sinal de barras"</string>
+  
+  <string name="spoken_emoji_1F4F7">"Câmara"</string>
+  
+  <string name="spoken_emoji_1F4F9">"Câmara de filmar"</string>
+  
+  <string name="spoken_emoji_1F4FA">"Televisão"</string>
+  
+  <string name="spoken_emoji_1F4FB">"Rádio"</string>
+  
+  <string name="spoken_emoji_1F4FC">"Cassete de vídeo"</string>
+  
+  <string name="spoken_emoji_1F500">"Setas cruzadas para a direita"</string>
+  
+  <string name="spoken_emoji_1F501">"Setas abertas em círculo para a esquerda e para a direita no sentido dos ponteiros do relógio"</string>
+  
+  <string name="spoken_emoji_1F502">"Setas abertas em círculo para a esquerda e para a direita no sentido dos ponteiros do relógio com o algarismo 1 sobreposto"</string>
+  
+  <string name="spoken_emoji_1F503">"Setas abertas em círculo para baixo e para cima no sentido dos ponteiros do relógio"</string>
+  
+  <string name="spoken_emoji_1F504">"Setas abertas em círculo para baixo e para cima no sentido contrário ao dos ponteiros do relógio"</string>
+  
+  <string name="spoken_emoji_1F505">"Símbolo de pouco brilho"</string>
+  
+  <string name="spoken_emoji_1F506">"Símbolo de brilho intenso"</string>
+  
+  <string name="spoken_emoji_1F507">"Altifalante com barra de cancelamento"</string>
+  
+  <string name="spoken_emoji_1F508">"Altifalante"</string>
+  
+  <string name="spoken_emoji_1F509">"Altifalante com uma onda de som"</string>
+  
+  <string name="spoken_emoji_1F50A">"Altifalante com três ondas de som"</string>
+  
+  <string name="spoken_emoji_1F50B">"Bateria"</string>
+  
+  <string name="spoken_emoji_1F50C">"Ficha elétrica"</string>
+  
+  <string name="spoken_emoji_1F50D">"Lupa inclinada para a esquerda"</string>
+  
+  <string name="spoken_emoji_1F50E">"Lupa inclinada para a direita"</string>
+  
+  <string name="spoken_emoji_1F50F">"Cadeado com caneta de tinta permanente"</string>
+  
+  <string name="spoken_emoji_1F510">"Cadeado fechado com chave"</string>
+  
+  <string name="spoken_emoji_1F511">"Chave"</string>
+  
+  <string name="spoken_emoji_1F512">"Cadeado"</string>
+  
+  <string name="spoken_emoji_1F513">"Cadeado aberto"</string>
+  
+  <string name="spoken_emoji_1F514">"Sino"</string>
+  
+  <string name="spoken_emoji_1F515">"Sino com faixa de cancelamento"</string>
+  
+  <string name="spoken_emoji_1F516">"Marcador"</string>
+  
+  <string name="spoken_emoji_1F517">"Corrente"</string>
+  
+  <string name="spoken_emoji_1F518">"Botão de opção"</string>
+  
+  <string name="spoken_emoji_1F519">"\"Back\" com seta para a esquerda em cima"</string>
+  
+  <string name="spoken_emoji_1F51A">"\"End\" com seta para a esquerda em cima"</string>
+  
+  <string name="spoken_emoji_1F51B">"\"On\" com ponto de exclamação e seta para os dois lados em cima"</string>
+  
+  <string name="spoken_emoji_1F51C">"\"Soon\" com seta para a direita em cima"</string>
+  
+  <string name="spoken_emoji_1F51D">"\"Top\" com seta para cima no topo"</string>
+  
+  <string name="spoken_emoji_1F51E">"Símbolo de proibida a presença de menores de idade"</string>
+  
+  <string name="spoken_emoji_1F51F">"Tecla do algarismo dez"</string>
+  
+  <string name="spoken_emoji_1F520">"Símbolo de introdução de letras maiúsculas latinas"</string>
+  
+  <string name="spoken_emoji_1F521">"Símbolo de introdução de letras minúsculas latinas"</string>
+  
+  <string name="spoken_emoji_1F522">"Símbolo de introdução de números"</string>
+  
+  <string name="spoken_emoji_1F523">"Símbolo de introdução para símbolos"</string>
+  
+  <string name="spoken_emoji_1F524">"Símbolo de introdução de letras latinas"</string>
+  
+  <string name="spoken_emoji_1F525">"Fogo"</string>
+  
+  <string name="spoken_emoji_1F526">"Lanterna"</string>
+  
+  <string name="spoken_emoji_1F527">"Chave de bocas"</string>
+  
+  <string name="spoken_emoji_1F528">"Martelo"</string>
+  
+  <string name="spoken_emoji_1F529">"Parafuso e porca"</string>
+  
+  <string name="spoken_emoji_1F52A">"Faca de cozinha japonesa"</string>
+  
+  <string name="spoken_emoji_1F52B">"Pistola"</string>
+  
+  <string name="spoken_emoji_1F52C">"Microscópio"</string>
+  
+  <string name="spoken_emoji_1F52D">"Telescópio"</string>
+  
+  <string name="spoken_emoji_1F52E">"Bola de cristal"</string>
+  
+  <string name="spoken_emoji_1F52F">"Estrela de seis pontas com ponto no meio"</string>
+  
+  <string name="spoken_emoji_1F530">"Símbolo japonês para principiante"</string>
+  
+  <string name="spoken_emoji_1F531">"Símbolo de tridente"</string>
+  
+  <string name="spoken_emoji_1F532">"Botão quadrado preto"</string>
+  
+  <string name="spoken_emoji_1F533">"Botão quadrado branco"</string>
+  
+  <string name="spoken_emoji_1F534">"Círculo grande vermelho"</string>
+  
+  <string name="spoken_emoji_1F535">"Círculo grande azul"</string>
+  
+  <string name="spoken_emoji_1F536">"Diamante grande cor de laranja"</string>
+  
+  <string name="spoken_emoji_1F537">"Diamante grande azul"</string>
+  
+  <string name="spoken_emoji_1F538">"Diamante pequeno cor de laranja"</string>
+  
+  <string name="spoken_emoji_1F539">"Diamante pequeno azul"</string>
+  
+  <string name="spoken_emoji_1F53A">"Triângulo vermelho a apontar para cima"</string>
+  
+  <string name="spoken_emoji_1F53B">"Triângulo vermelho a apontar para baixo"</string>
+  
+  <string name="spoken_emoji_1F53C">"Triângulo pequeno vermelho a apontar para cima"</string>
+  
+  <string name="spoken_emoji_1F53D">"Triângulo pequeno vermelho a apontar para baixo"</string>
+  
+  <string name="spoken_emoji_1F550">"Mostrador de relógio à 1h00"</string>
+  
+  <string name="spoken_emoji_1F551">"Mostrador de relógio às 2h00"</string>
+  
+  <string name="spoken_emoji_1F552">"Mostrador de relógio às 3h00"</string>
+  
+  <string name="spoken_emoji_1F553">"Mostrador de relógio às 4h00"</string>
+  
+  <string name="spoken_emoji_1F554">"Mostrador de relógio às 5h00"</string>
+  
+  <string name="spoken_emoji_1F555">"Mostrador de relógio às 6h00"</string>
+  
+  <string name="spoken_emoji_1F556">"Mostrador de relógio às 7h00"</string>
+  
+  <string name="spoken_emoji_1F557">"Mostrador de relógio às 8h00"</string>
+  
+  <string name="spoken_emoji_1F558">"Mostrador de relógio às 9h00"</string>
+  
+  <string name="spoken_emoji_1F559">"Mostrador de relógio às 10h00"</string>
+  
+  <string name="spoken_emoji_1F55A">"Mostrador de relógio às 11h00"</string>
+  
+  <string name="spoken_emoji_1F55B">"Mostrador de relógio às 12h00"</string>
+  
+  <string name="spoken_emoji_1F55C">"Mostrador de relógio à 1h30"</string>
+  
+  <string name="spoken_emoji_1F55D">"Mostrador de relógio às 2h30"</string>
+  
+  <string name="spoken_emoji_1F55E">"Mostrador de relógio às 3h30"</string>
+  
+  <string name="spoken_emoji_1F55F">"Mostrador de relógio às 4h30"</string>
+  
+  <string name="spoken_emoji_1F560">"Mostrador de relógio às 5h30"</string>
+  
+  <string name="spoken_emoji_1F561">"Mostrador de relógio às 6h30"</string>
+  
+  <string name="spoken_emoji_1F562">"Mostrador de relógio às 7h30"</string>
+  
+  <string name="spoken_emoji_1F563">"Mostrador de relógio às 8h30"</string>
+  
+  <string name="spoken_emoji_1F564">"Mostrador de relógio às 9h30"</string>
+  
+  <string name="spoken_emoji_1F565">"Mostrador de relógio às 10h30"</string>
+  
+  <string name="spoken_emoji_1F566">"Mostrador de relógio às 11h30"</string>
+  
+  <string name="spoken_emoji_1F567">"Mostrador de relógio às 12h30"</string>
+  
+  <string name="spoken_emoji_1F5FB">"Monte Fuji"</string>
+  
+  <string name="spoken_emoji_1F5FC">"Torre de Tóquio"</string>
+  
+  <string name="spoken_emoji_1F5FD">"Estátua da Liberdade"</string>
+  
+  <string name="spoken_emoji_1F5FE">"Silhueta do Japão"</string>
+  
+  <string name="spoken_emoji_1F5FF">"Moai"</string>
+  
+  <string name="spoken_emoji_1F600">"Cara sorridente"</string>
+  
+  <string name="spoken_emoji_1F601">"Gargalhada"</string>
+  
+  <string name="spoken_emoji_1F602">"Cara a chorar de alegria"</string>
+  
+  <string name="spoken_emoji_1F603">"Cara a sorrir com boca aberta"</string>
+  
+  <string name="spoken_emoji_1F604">"Cara a sorrir com boca aberta e olhos curvados"</string>
+  
+  <string name="spoken_emoji_1F605">"Cara a sorrir com boca aberta e suor frio"</string>
+  
+  <string name="spoken_emoji_1F606">"Cara a sorrir com boca aberta e olhos semicerrados"</string>
+  
+  <string name="spoken_emoji_1F607">"Cara a sorrir com auréola"</string>
+  
+  <string name="spoken_emoji_1F608">"Cara sorridente endiabrada"</string>
+  
+  <string name="spoken_emoji_1F609">"Cara a piscar o olho"</string>
+  
+  <string name="spoken_emoji_1F60A">"Cara a sorrir com olhos curvados"</string>
+  
+  <string name="spoken_emoji_1F60B">"Cara a saborear uma refeição deliciosa"</string>
+  
+  <string name="spoken_emoji_1F60C">"Cara aliviada"</string>
+  
+  <string name="spoken_emoji_1F60D">"Cara a sorrir com olhos em forma de coração"</string>
+  
+  <string name="spoken_emoji_1F60E">"Cara a sorrir com óculos de sol"</string>
+  
+  <string name="spoken_emoji_1F60F">"Cara presunçosa"</string>
+  
+  <string name="spoken_emoji_1F610">"Cara neutra"</string>
+  
+  <string name="spoken_emoji_1F611">"Cara sem expressão"</string>
+  
+  <string name="spoken_emoji_1F612">"Cara de desagrado"</string>
+  
+  <string name="spoken_emoji_1F613">"Cara com suor frio"</string>
+  
+  <string name="spoken_emoji_1F614">"Cara pensativa"</string>
+  
+  <string name="spoken_emoji_1F615">"Cara baralhada"</string>
+  
+  <string name="spoken_emoji_1F616">"Cara completamente baralhada"</string>
+  
+  <string name="spoken_emoji_1F617">"Cara a dar um beijo"</string>
+  
+  <string name="spoken_emoji_1F618">"Cara a atirar um beijo"</string>
+  
+  <string name="spoken_emoji_1F619">"Cara a beijar com olhos sorridentes"</string>
+  
+  <string name="spoken_emoji_1F61A">"Cara a beijar com olhos fechados"</string>
+  
+  <string name="spoken_emoji_1F61B">"Cara com língua de fora"</string>
+  
+  <string name="spoken_emoji_1F61C">"Cara com língua de fora e a piscar o olho"</string>
+  
+  <string name="spoken_emoji_1F61D">"Cara com língua de fora e os olhos semicerrados"</string>
+  
+  <string name="spoken_emoji_1F61E">"Cara desapontada"</string>
+  
+  <string name="spoken_emoji_1F61F">"Cara preocupada"</string>
+  
+  <string name="spoken_emoji_1F620">"Cara irritada"</string>
+  
+  <string name="spoken_emoji_1F621">"Cara mal-humorada"</string>
+  
+  <string name="spoken_emoji_1F622">"Cara a chorar"</string>
+  
+  <string name="spoken_emoji_1F623">"Cara perseverante"</string>
+  
+  <string name="spoken_emoji_1F624">"Cara com ar triunfante"</string>
+  
+  <string name="spoken_emoji_1F625">"Cara desapontada, mas aliviada"</string>
+  
+  <string name="spoken_emoji_1F626">"Cara franzida com boca aberta"</string>
+  
+  <string name="spoken_emoji_1F627">"Cara preocupada"</string>
+  
+  <string name="spoken_emoji_1F628">"Cara cheia de medo"</string>
+  
+  <string name="spoken_emoji_1F629">"Cara desgastada"</string>
+  
+  <string name="spoken_emoji_1F62A">"Cara sonolenta"</string>
+  
+  <string name="spoken_emoji_1F62B">"Cara cansada"</string>
+  
+  <string name="spoken_emoji_1F62C">"Cara a fazer caretas"</string>
+  
+  <string name="spoken_emoji_1F62D">"Cara a chorar perdidamente"</string>
+  
+  <string name="spoken_emoji_1F62E">"Cara com boca aberta"</string>
+  
+  <string name="spoken_emoji_1F62F">"Cara expectante"</string>
+  
+  <string name="spoken_emoji_1F630">"Cara com boca aberta e suor frio"</string>
+  
+  <string name="spoken_emoji_1F631">"Cara a gritar de medo"</string>
+  
+  <string name="spoken_emoji_1F632">"Cara de espanto"</string>
+  
+  <string name="spoken_emoji_1F633">"Cara corada"</string>
+  
+  <string name="spoken_emoji_1F634">"Cara a dormir"</string>
+  
+  <string name="spoken_emoji_1F635">"Cara atordoada"</string>
+  
+  <string name="spoken_emoji_1F636">"Cara sem boca"</string>
+  
+  <string name="spoken_emoji_1F637">"Cara com máscara de médico"</string>
+  
+  <string name="spoken_emoji_1F638">"Focinho de gato sorridente com olhos curvados"</string>
+  
+  <string name="spoken_emoji_1F639">"Focinho de gato a chorar de alegria"</string>
+  
+  <string name="spoken_emoji_1F63A">"Focinho de gato sorridente com boca aberta"</string>
+  
+  <string name="spoken_emoji_1F63B">"Focinho de gato sorridente com olhos em forma de coração"</string>
+  
+  <string name="spoken_emoji_1F63C">"Focinho de gato com sorriso de través"</string>
+  
+  <string name="spoken_emoji_1F63D">"Focinho de gato a beijar com olhos fechados"</string>
+  
+  <string name="spoken_emoji_1F63E">"Focinho de gato mal-humorado"</string>
+  
+  <string name="spoken_emoji_1F63F">"Focinho de gato a chorar"</string>
+  
+  <string name="spoken_emoji_1F640">"Focinho de gato desgastado"</string>
+  
+  <string name="spoken_emoji_1F645">"Cara com gesto de desaprovação"</string>
+  
+  <string name="spoken_emoji_1F646">"Cara com gesto de aprovação"</string>
+  
+  <string name="spoken_emoji_1F647">"Pessoa profundamente arrependida"</string>
+  
+  <string name="spoken_emoji_1F648">"Macaco \"não olhar para o mal\""</string>
+  
+  <string name="spoken_emoji_1F649">"Macaco \"não ouvir o mal\""</string>
+  
+  <string name="spoken_emoji_1F64A">"Macaco \"não falar no mal\""</string>
+  
+  <string name="spoken_emoji_1F64B">"Pessoa contente a levantar a mão"</string>
+  
+  <string name="spoken_emoji_1F64C">"Pessoa a erguer as duas mãos e a festejar"</string>
+  
+  <string name="spoken_emoji_1F64D">"Pessoa entristecida"</string>
+  
+  <string name="spoken_emoji_1F64E">"Pessoa com cara mal-humorada"</string>
+  
+  <string name="spoken_emoji_1F64F">"Pessoa com mãos juntas"</string>
+  
+  <string name="spoken_emoji_1F680">"Foguetão"</string>
+  
+  <string name="spoken_emoji_1F681">"Helicóptero"</string>
+  
+  <string name="spoken_emoji_1F682">"Locomotiva a vapor"</string>
+  
+  <string name="spoken_emoji_1F683">"Elétrico"</string>
+  
+  <string name="spoken_emoji_1F684">"Comboio de alta velocidade"</string>
+  
+  <string name="spoken_emoji_1F685">"Comboio de alta velocidade com cabeça aerodinâmica"</string>
+  
+  <string name="spoken_emoji_1F686">"Comboio"</string>
+  
+  <string name="spoken_emoji_1F687">"Metro"</string>
+  
+  <string name="spoken_emoji_1F688">"Metro de superfície"</string>
+  
+  <string name="spoken_emoji_1F689">"Estação"</string>
+  
+  <string name="spoken_emoji_1F68A">"Elétrico"</string>
+  
+  <string name="spoken_emoji_1F68B">"Carruagem de elétrico"</string>
+  
+  <string name="spoken_emoji_1F68C">"Autocarro"</string>
+  
+  <string name="spoken_emoji_1F68D">"Autocarro a aproximar-se"</string>
+  
+  <string name="spoken_emoji_1F68E">"Troleicarro"</string>
+  
+  <string name="spoken_emoji_1F68F">"Paragem de autocarro"</string>
+  
+  <string name="spoken_emoji_1F690">"\"Minibus\""</string>
+  
+  <string name="spoken_emoji_1F691">"Ambulância"</string>
+  
+  <string name="spoken_emoji_1F692">"Viatura de incêndio"</string>
+  
+  <string name="spoken_emoji_1F693">"Carro da polícia"</string>
+  
+  <string name="spoken_emoji_1F694">"Carro da polícia a aproximar-se"</string>
+  
+  <string name="spoken_emoji_1F695">"Táxi"</string>
+  
+  <string name="spoken_emoji_1F696">"Táxi a aproximar-se"</string>
+  
+  <string name="spoken_emoji_1F697">"Automóvel"</string>
+  
+  <string name="spoken_emoji_1F698">"Automóvel a aproximar-se"</string>
+  
+  <string name="spoken_emoji_1F699">"Veículo utilitário recreativo"</string>
+  
+  <string name="spoken_emoji_1F69A">"Camião de entregas"</string>
+  
+  <string name="spoken_emoji_1F69B">"Camião articulado"</string>
+  
+  <string name="spoken_emoji_1F69C">"Trator"</string>
+  
+  <string name="spoken_emoji_1F69D">"Monocarril"</string>
+  
+  <string name="spoken_emoji_1F69E">"Linha férrea na montanha"</string>
+  
+  <string name="spoken_emoji_1F69F">"Via-férrea suspensa"</string>
+  
+  <string name="spoken_emoji_1F6A0">"Teleférico"</string>
+  
+  <string name="spoken_emoji_1F6A1">"Funicular aéreo"</string>
+  
+  <string name="spoken_emoji_1F6A2">"Navio"</string>
+  
+  <string name="spoken_emoji_1F6A3">"Barco a remos"</string>
+  
+  <string name="spoken_emoji_1F6A4">"Barco a motor"</string>
+  
+  <string name="spoken_emoji_1F6A5">"Semáforo na horizontal"</string>
+  
+  <string name="spoken_emoji_1F6A6">"Semáforo vertical"</string>
+  
+  <string name="spoken_emoji_1F6A7">"Sinal de obras"</string>
+  
+  <string name="spoken_emoji_1F6A8">"Sirene de carro da polícia"</string>
+  
+  <string name="spoken_emoji_1F6A9">"Bandeira triangular na haste"</string>
+  
+  <string name="spoken_emoji_1F6AA">"Porta"</string>
+  
+  <string name="spoken_emoji_1F6AB">"Sinal de entrada proibida"</string>
+  
+  <string name="spoken_emoji_1F6AC">"Sinal de fumar"</string>
+  
+  <string name="spoken_emoji_1F6AD">"Sinal de proibido fumar"</string>
+  
+  <string name="spoken_emoji_1F6AE">"Sinal para colocar o lixo no seu devido lugar"</string>
+  
+  <string name="spoken_emoji_1F6AF">"Sinal para não deixar lixo para o chão"</string>
+  
+  <string name="spoken_emoji_1F6B0">"Sinal de água potável"</string>
+  
+  <string name="spoken_emoji_1F6B1">"Sinal de água não potável"</string>
+  
+  <string name="spoken_emoji_1F6B2">"Bicicleta"</string>
+  
+  <string name="spoken_emoji_1F6B3">"Proibido andar de bicicleta"</string>
+  
+  <string name="spoken_emoji_1F6B4">"Ciclista"</string>
+  
+  <string name="spoken_emoji_1F6B5">"Ciclista de montanha"</string>
+  
+  <string name="spoken_emoji_1F6B6">"Pedestre"</string>
+  
+  <string name="spoken_emoji_1F6B7">"Proibido andar a pé"</string>
+  
+  <string name="spoken_emoji_1F6B8">"Crianças a atravessar"</string>
+  
+  <string name="spoken_emoji_1F6B9">"Sinal de entrada para homens"</string>
+  
+  <string name="spoken_emoji_1F6BA">"Sinal de entrada para mulheres"</string>
+  
+  <string name="spoken_emoji_1F6BB">"Lavabo"</string>
+  
+  <string name="spoken_emoji_1F6BC">"Sinal de bebé"</string>
+  
+  <string name="spoken_emoji_1F6BD">"Casa-de-banho"</string>
+  
+  <string name="spoken_emoji_1F6BE">"\"Water closet\""</string>
+  
+  <string name="spoken_emoji_1F6BF">"Chuveiro"</string>
+  
+  <string name="spoken_emoji_1F6C0">"Banho"</string>
+  
+  <string name="spoken_emoji_1F6C1">"Banheira"</string>
+  
+  <string name="spoken_emoji_1F6C2">"Controlo de passaportes"</string>
+  
+  <string name="spoken_emoji_1F6C3">"Alfândega"</string>
+  
+  <string name="spoken_emoji_1F6C4">"Recolha de bagagem"</string>
+  
+  <string name="spoken_emoji_1F6C5">"Perdidos e achados"</string>
+</resources>

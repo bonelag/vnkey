@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="english_ime_input_options">"ආදාන විකල්ප"</string>
+  
+  <string name="vibrate_on_keypress">"යතුර ඔබන විට කම්පනය"</string>
+  
+  <string name="sound_on_keypress">"යතුරු එබිම මත හඬ"</string>
+  
+  <string name="popup_on_keypress">"යතුරු එබීම මත උත්පතනය"</string>
+  
+  <string name="show_language_switch_key">"භාෂා මාරු යතුර"</string>
+  
+  <string name="abbreviation_unit_milliseconds">&lt;string name="abbreviation_unit_milliseconds" msgid="3255301845626146979"&gt;&amp;quot;&lt;xliff:g id="MILLISECONDS"&gt;%s&lt;/xliff:g&gt;ms&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="use_personalized_dicts">"පෞද්ගලීකරණය කළ යෝජනා"</string>
+  
+  <string name="use_double_space_period">"දෙවරක්-ඉඩ නැවතීමේ ලකුණ"</string>
+  
+  <string name="use_double_space_period_summary">"ඉඩ යතුර මත දෙවරක් තට්ටු කිරීම හිස් තැනකට අනුගාමිව නැවතීමේ ලකුණක් ඇතුළත් කරයි."</string>
+  
+  <string name="auto_cap">"ස්වයං-ලොකු අකුරු කරණය"</string>
+  
+  <string name="auto_cap_summary">"එක් එක් වාක්‍යයේ පළමු වචනය ලොකු අකුරු කරන්න"</string>
+  
+  <string name="edit_personal_dictionary">"පුද්ගලික ශබ්ද කෝෂය"</string>
+  
+  <string name="prefs_show_suggestions">"නිවැරදි කිරීම් යෝජනා පෙන්වන්න"</string>
+  
+  <string name="prefs_show_suggestions_summary">"ටයිප් කරන අතරතුර යෝජිත වචන දර්ශනය කරන්න"</string>
+  
+  <string name="prefs_block_potentially_offensive_title">"අප්‍රසන්න වචන අවහිර කරන්න"</string>
+  
+  <string name="prefs_block_potentially_offensive_summary">"විභව්‍යව අප්‍රසන්න වචන යෝජනා නොකරන්න"</string>
+  
+  <string name="auto_correction">"ස්වයං-නිවැරදි කිරීම"</string>
+  
+  <string name="auto_correction_summary">"ඉඩ යතුර සහ විරාම ලකුණ වැරදියට ටයිප් කළ වචන ස්වයංක්‍රියව නිවැරදි කරයි"</string>
+  
+  <string name="bigram_prediction">"ඊළඟ-වචනයේ යෝජනා"</string>
+  
+  <string name="bigram_prediction_summary">"යෝජනා කිරීමේදී පෙර වචනය භාවිතා කරන්න"</string>
+  
+  <string name="language_selection_title">"භාෂා"</string>
+  
+  <string name="select_language">"භාෂා"</string>
+  
+  <string name="subtype_en_GB">"ඉංග්‍රීසි (UK)"</string>
+  
+  <string name="subtype_en_US">"ඉංග්‍රීසි (US)"</string>
+  
+  <string name="subtype_es_US">"ස්පාඤ්ඤ (US)"</string>
+  
+  <string name="subtype_hi_ZZ">"හින්ග්ලිෂ්"</string>
+  
+  <string name="subtype_sr_ZZ">"සර්බියානු (ලතින්)"</string>
+  
+  <string name="subtype_with_layout_en_GB">&lt;string name="subtype_with_layout_en_GB" msgid="4220344684463778660"&gt;&amp;quot;ඉංග්‍රීසි (එ.රා) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_en_US">&lt;string name="subtype_with_layout_en_US" msgid="4599421650961912769"&gt;&amp;quot;ඉංග්‍රීසි (එ.ජ) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_es_US">&lt;string name="subtype_with_layout_es_US" msgid="6866331205974243592"&gt;&amp;quot;ස්පාඤ්ඤ (එ.ජ) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_hi_ZZ">&lt;string name="subtype_with_layout_hi_ZZ" msgid="5439623653083985558"&gt;&amp;quot;හින්ග්ලිෂ් (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_sr_ZZ">&lt;string name="subtype_with_layout_sr_ZZ" msgid="546465971819327060"&gt;&amp;quot;සර්බියානු (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_traditional">&lt;string name="subtype_generic_traditional" msgid="5321023815277210849"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (සාම්ප්‍රදායික)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_compact">&lt;string name="subtype_generic_compact" msgid="2858514299576793292"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (සංයුක්ත)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_no_language">"භාෂාවක් නැත (අකාරාදිය)"</string>
+  
+  <string name="subtype_no_language_qwerty">"අකාරාදිය (QWERTY)"</string>
+  
+  <string name="subtype_no_language_qwertz">"අකාරාදිය (QWERTZ)"</string>
+  
+  <string name="subtype_no_language_azerty">"අකාරාදිය (AZERTY)"</string>
+  
+  <string name="subtype_no_language_dvorak">"අකාරාදිය (Dvorak)"</string>
+  
+  <string name="subtype_no_language_colemak">"අකාරාදිය (Colemak)"</string>
+  
+  <string name="subtype_no_language_pcqwerty">"අකාරාදිය (PC)"</string>
+  
+  <string name="subtype_emoji">"ඉමොජි"</string>
+  
+  <string name="cancel">"අවලංගු කරන්න"</string>
+  
+  <string name="go_to_settings">"සැකසීම්"</string>
+  
+  <string name="install_dict">"ස්ථාපනය"</string>
+  
+  <string name="cancel_download_dict">"අවලංගු කරන්න"</string>
+  
+  <string name="user_dict_settings_add_menu_title">"එක් කරන්න"</string>
+  
+  <string name="user_dict_settings_add_dialog_title">"ශබ්ද කෝෂය වෙත එක් කරන්න"</string>
+  
+  <string name="user_dict_settings_add_screen_title">"වාක්‍ය ඛණ්ඩය"</string>
+  
+  <string name="user_dict_settings_add_dialog_more_options">"තවත් විකල්ප"</string>
+  
+  <string name="user_dict_settings_add_dialog_less_options">"අඩු විකල්ප"</string>
+  
+  <string name="user_dict_settings_add_dialog_confirm">"හරි"</string>
+  
+  <string name="user_dict_settings_add_word_option_name">"වචනය:"</string>
+  
+  <string name="user_dict_settings_add_shortcut_option_name">"කෙටිමග:"</string>
+  
+  <string name="user_dict_settings_add_locale_option_name">"භාෂාව:"</string>
+  
+  <string name="user_dict_settings_add_word_hint">"වචනයක් ටයිප් කරන්න"</string>
+  
+  <string name="user_dict_settings_add_shortcut_hint">"විකල්පමය කෙටිමග"</string>
+  
+  <string name="user_dict_settings_edit_dialog_title">"වචනය සංස්කරණය කරන්න"</string>
+  
+  <string name="user_dict_settings_context_menu_edit_title">"සංස්කරණය"</string>
+  
+  <string name="user_dict_settings_context_menu_delete_title">"මකන්න"</string>
+  
+  <string name="user_dict_settings_empty_text">"ඔබට පරිශීලක ශබ්ද කෝෂය තුළ වචන කිසිවක් නැත. වචනයක් එක් කිරීමට, එක් කිරීමේ (+) බොත්තම තට්ටු කරන්න."</string>
+  
+  <string name="user_dict_settings_all_languages">"සියලු භාෂාවන් සඳහා"</string>
+  
+  <string name="user_dict_settings_more_languages">"තවත් භාෂා…"</string>
+  
+  <string name="user_dict_settings_delete">"මකන්න"</string>
+  
+  <string name="user_dict_fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+</resources>

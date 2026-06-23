@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"অন্য বর্ণৰ সোঁফালে ওপৰত লিখা \'a\' সূচক"</string>
+  
+  <string name="spoken_accented_letter_00B5">"মিউ বর্ণৰ চিহ্ন"</string>
+  
+  <string name="spoken_accented_letter_00BA">"অন্য বর্ণৰ সোঁফালে ওপৰত লিখা \'o\' সূচক"</string>
+  
+  <string name="spoken_accented_letter_00DF">"বিটা বর্ণৰ প্ৰতীক"</string>
+  
+  <string name="spoken_accented_letter_00E0">"Aৰ ওপৰত গ্ৰেভ একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_00E1">"Aৰ ওপৰত একিউট একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_00E2">"Aৰ ওপৰত চাৰকামফ্লেক্স একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_00E3">"Aৰ ওপৰত টিলডা একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_00E4">"Aৰ ওপৰত ডায়েৰেচিছ একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_00E5">"ওপৰত সৰু বৃত্ত থকা \'a\' আখৰ"</string>
+  
+  <string name="spoken_accented_letter_00E6">"\'A, E\' আখৰৰ যুক্তাক্ষৰ"</string>
+  
+  <string name="spoken_accented_letter_00E7">"Cৰ তলত চেডিলা একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_00E8">"Eৰ ওপৰত গ্ৰেভ একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_00E9">"Eৰ ওপৰত একিউট একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_00EA">"Eৰ ওপৰত চাৰকামফ্লেক্স একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_00EB">"Eৰ ওপৰত ডায়েৰেচিছ একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_00EC">"Iৰ ওপৰত গ্ৰেভ একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_00ED">"Iৰ ওপৰত একিউট একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_00EE">"Iৰ ওপৰত চাৰকামফ্লেক্স একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_00EF">"Iৰ ওপৰত ডায়েৰেচিছ একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_00F0">"লেটিন বর্ণমালাৰ আখৰ \'Eth\' ৰ প্ৰতীক"</string>
+  
+  <string name="spoken_accented_letter_00F1">"Nৰ ওপৰত টিলডা একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_00F2">"Oৰ ওপৰত গ্ৰেভ একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_00F3">"Oৰ ওপৰত একিউট একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_00F4">"Oৰ ওপৰত চাৰকামফ্লেক্স একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_00F5">"Oৰ ওপৰত টিলডা একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_00F6">"Oৰ ওপৰত ডায়েৰেচিছ একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_00F8">"Oত ষ্ট্ৰ\'ক একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_00F9">"Uৰ ওপৰত গ্ৰেভ একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_00FA">"Uৰ ওপৰত একিউট একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_00FB">"Uৰ ওপৰত চাৰকামফ্লেক্স একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_00FC">"Uৰ ওপৰত ডায়েৰেচিছ একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_00FD">"Yৰ ওপৰত একিউট একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_00FE">"লেটিন বর্ণমালাৰ সৰুফলাৰ থৰ্ণ বৰ্ণ"</string>
+  
+  <string name="spoken_accented_letter_00FF">"Yৰ ওপৰত ডায়েৰেচিছ একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_0101">"Aৰ ওপৰত মেক্ৰন একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_0103">"Aৰ ওপৰত ব্ৰীভ একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_0105">"Aৰ তলত অগ\'নেক একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_0107">"Cৰ ওপৰত একিউট একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_0109">"Cৰ ওপৰত চাৰকামফ্লেক্স একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_010B">"Cৰ ওপৰত এটা বিন্দু"</string>
+  
+  <string name="spoken_accented_letter_010D">"Cৰ ওপৰত কেৰণ একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_010F">"Dৰ ওপৰত কেৰণ একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_0111">"Dৰ ওপৰত ষ্ট্ৰ\'ক একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_0113">"Eৰ ওপৰত মেক্ৰন একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_0115">"Eৰ ওপৰত ব্ৰীভ একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_0117">"Eৰ ওপৰত এটা বিন্দু"</string>
+  
+  <string name="spoken_accented_letter_0119">"Eৰ তলত অগ\'নেক একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_011B">"Eৰ ওপৰত কেৰণ একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_011D">"Gৰ ওপৰত চাৰকামফ্লেক্স একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_011F">"Gৰ ওপৰত ব্ৰীভ একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_0121">"Gৰ ওপৰত এটা বিন্দু"</string>
+  
+  <string name="spoken_accented_letter_0123">"Gৰ ওপৰত চেডিলা একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_0125">"Hৰ ওপৰত চাৰকামফ্লেক্স একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_0127">"Hৰ ওপৰত ষ্ট্ৰ\'ক একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_0129">"Iৰ ওপৰত টিলডা একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_012B">"Iৰ ওপৰত মেক্ৰন একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_012D">"Iৰ ওপৰত ব্ৰীভ একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_012F">"Iৰ তলত অগ\'নেক একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_0131">"ওপৰত বিন্দু নথকা \'I\'"</string>
+  
+  <string name="spoken_accented_letter_0133">"I, J আখৰৰ যুক্তাক্ষৰ"</string>
+  
+  <string name="spoken_accented_letter_0135">"Jৰ ওপৰত চাৰকামফ্লেক্স একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_0137">"Kৰ তলত চেডিলা একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_0138">"লেটিন ভাষাৰ \'Kra\' বর্ণৰ প্ৰতীক"</string>
+  
+  <string name="spoken_accented_letter_013A">"Lৰ ওপৰত একিউট একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_013C">"lৰ তলত চেডিলা একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_013E">"Lৰ ওপৰত কেৰণ একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_0140">"সোঁফালে মধ্য অংশত বিন্দু থকা \'L\'"</string>
+  
+  <string name="spoken_accented_letter_0142">"Lত ষ্ট্ৰ\'ক একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_0144">"Nৰ ওপৰত একিউট একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_0146">"Nৰ ওপৰত চেডিলা একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_0148">"Nৰ ওপৰত কেৰণ একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_0149">"ঊর্ধ্বকমাৰ পাছত থকা \'N\'"</string>
+  
+  <string name="spoken_accented_letter_014B">"লেটিন বর্ণমালাৰ সৰুফলা \'Eng\' বুজোৱা প্ৰতীক"</string>
+  
+  <string name="spoken_accented_letter_014D">"Oৰ ওপৰত মেক্ৰন একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_014F">"Oৰ ওপৰত ব্ৰীভ একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_0151">"Oৰ ওপৰত দুডাল একিউটৰ একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_0153">"\'oe\' আখৰৰ যুক্তাক্ষৰ"</string>
+  
+  <string name="spoken_accented_letter_0155">"Rৰ ওপৰত একিউট একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_0157">"Rৰ তলত চেডিলা একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_0159">"Rৰ ওপৰত কেৰণ একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_015B">"Sৰ ওপৰত একিউট একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_015D">"Sৰ ওপৰত চাৰকামফ্লেক্স একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_015F">"Sৰ তলত চেডিলা একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_0161">"Sৰ ওপৰত কেৰণ একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_0163">"Tৰ তলত চেডিলা একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_0165">"Tৰ ওপৰত কেৰণ একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_0167">"Tত ষ্ট্ৰ\'ক একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_0169">"Uৰ ওপৰত টিলডা একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_016B">"Uৰ ওপৰত মেক্ৰনএকচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_016D">"Uৰ ওপৰত ব্ৰীভ একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_016F">"ওপৰত সৰু বৃত্ত থকা \'U\' আখৰ"</string>
+  
+  <string name="spoken_accented_letter_0171">"Uৰ ওপৰত দুডাল একিউটৰ একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_0173">"Uৰ তলত অগ\'নেক একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_0175">"Wৰ ওপৰত চাৰকামফ্লেক্স একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_0177">"yৰ ওপৰত চাৰকামফ্লেক্স একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_017A">"zৰ ওপৰত একিউট একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_017C">"Zৰ ওপৰত এটা বিন্দু"</string>
+  
+  <string name="spoken_accented_letter_017E">"zৰ ওপৰত কেৰণ একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_017F">"দীঘল \'s\' আকৃতিৰ লেটিন বর্ণৰ প্ৰতীক"</string>
+  
+  <string name="spoken_accented_letter_01A1">"Oৰ ওপৰত হৰ্ণ"</string>
+  
+  <string name="spoken_accented_letter_01B0">"uৰ ওপৰত হর্ণ একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_0219">"তলত কমা থকা \'s\'"</string>
+  
+  <string name="spoken_accented_letter_021B">"তলত কমা থকা \'t\'"</string>
+  
+  <string name="spoken_accented_letter_0259">"লেটিন ভাষাৰ সৰুফলা আখৰ স্বা"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"Aৰ তলত বিন্দু"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"\'a\'ৰ ওপৰত হুক একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"aৰ ওপৰত চাৰকামফ্লেক্স আৰু একিউট একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"aৰ ওপৰত চাৰকামফ্লেক্স আৰু গ্ৰেভ একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"aৰ ওপৰত চাৰকামফ্লেক্স আৰু হুক একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"aৰ ওপৰত চাৰকামফ্লেক্স আৰু টিলডা একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"aৰ ওপৰত চাৰকামফ্লেক্সৰ একচেণ্ট আৰু তলত বিন্দু"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"Aৰ ওপৰত ব্ৰীভ আৰু একিউট একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"aৰ ওপৰত ব্ৰীভ আৰু গ্ৰেভ একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"aৰ ওপৰত ব্ৰীভ আৰু হুক একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"aৰ ওপৰত ব্ৰীভ আৰু টিলডা একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"aৰ ওপৰত ব্ৰীভ একচেণ্ট আৰু তলত বিন্দু"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"Eৰ তলত বিন্দু"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"eৰ ওপৰত গ্ৰেভ একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"eৰ ওপৰত টিলডা একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"eৰ ওপৰত চাৰকামফ্লেক্স আৰু একিউট একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"eৰ ওপৰত চাৰকামফ্লেক্স আৰু গ্ৰেভ একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"Eৰ ওপৰত চাৰকামফ্লেক্স আৰু হুক একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"Eৰ ওপৰত চাৰকামফ্লেক্স আৰু টিলডা একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"eৰ ওপৰত চাৰকামফ্লেক্স একচেণ্ট আৰু তলত বিন্দু"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"iৰ ওপৰত হুক একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"iৰ তলত বিন্দু"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"Oৰ তলত বিন্দু"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"oৰ ওপৰত হুক একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"Oৰ ওপৰত চাৰকামফ্লেক্স আৰু একিউট একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"oৰ ওপৰত চাৰকামফ্লেক্স আৰু গ্ৰেভ একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"oৰ ওপৰত চাৰকামফ্লেক্স আৰু হুক একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"oৰ ওপৰত চাৰকামফ্লেক্স আৰু টিলডা একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"Oৰ ওপৰত চাৰকামফ্লেক্সৰ একচেণ্ট আৰু তলত বিন্দু"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"Oৰ ওপৰত হর্ণ আৰু একিউট একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"oৰ ওপৰত হ\'র্ণ আৰু গ্ৰেভ একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"oৰ ওপৰত হর্ণ আৰু হুক একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"oৰ ওপৰত হর্ণ আৰু টিলডা একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"oৰ ওপৰত হ\'র্ণ একচেণ্ট আৰু তলত বিন্দু"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"Uৰ তলত বিন্দু"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"Uৰ ওপৰত হুক একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"Uৰ ওপৰত হর্ণ আৰু একিউট একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"Uৰ ওপৰত হর্ণ আৰু গ্ৰেভ একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_1EED">"Uৰ ওপৰত হর্ণ আৰু হুক একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"Uৰ ওপৰত হর্ণ আৰু টিলডা একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"Uৰ ওপৰত হ\'র্ণ একচেণ্ট আৰু তলত বিন্দু"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"Yৰ ওপৰত গ্ৰেভ একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"yৰ তলত বিন্দু"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"yৰ ওপৰত হুক একচেণ্ট"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"yৰ ওপৰত টিলডা একচেণ্ট"</string>
+  
+  <string name="spoken_symbol_00A1">"ওলোটা ভাববোধক চিহ্ন"</string>
+  
+  <string name="spoken_symbol_00AB">"বাওঁফালে নির্দেশ কৰা দুটা কোণৰ প্ৰতীক"</string>
+  
+  <string name="spoken_symbol_00B7">"মধ্য বিন্দু"</string>
+  
+  <string name="spoken_symbol_00B9">"সোঁফালে ওপৰৰ অংশত লিখা সৰু \'1\'"</string>
+  
+  <string name="spoken_symbol_00BB">"সোঁফালে নির্দেশ কৰা দুটা কোণৰ প্ৰতীক"</string>
+  
+  <string name="spoken_symbol_00BF">"ওলোটা প্ৰশ্নবোধক চিহ্ন"</string>
+  
+  <string name="spoken_symbol_2018">"বাওঁফালৰ ঊৰ্ধ্বকমা"</string>
+  
+  <string name="spoken_symbol_2019">"সোঁফালৰ এডাল ঊৰ্ধ্বকমা"</string>
+  
+  <string name="spoken_symbol_201A">"তলত লিখা সোঁফালৰ ঊৰ্ধ্বকমা"</string>
+  
+  <string name="spoken_symbol_201C">"বাওঁ দ্বৈত ঊৰ্ধ্বকমা"</string>
+  
+  <string name="spoken_symbol_201D">"সোঁ দ্বৈত ঊৰ্ধ্বকমা"</string>
+  
+  <string name="spoken_symbol_2020">"ডেগাৰ চিহ্ন"</string>
+  
+  <string name="spoken_symbol_2021">"দ্বৈত্ব ডেগাৰ চিহ্ন"</string>
+  
+  <string name="spoken_symbol_2030">"প্ৰতি মাইলত বুজোৱা প্ৰতীক"</string>
+  
+  <string name="spoken_symbol_2032">"প্ৰাইম"</string>
+  
+  <string name="spoken_symbol_2033">"দৈর্ঘ্য জোখা একক ইঞ্চিৰ প্ৰতীক"</string>
+  
+  <string name="spoken_symbol_2039">"বাওঁফালে নির্দেশ কৰা এটা কোণৰ প্ৰতীক"</string>
+  
+  <string name="spoken_symbol_203A">"সোঁফালে নির্দেশ কৰা এটা কোণৰ প্ৰতীক"</string>
+  
+  <string name="spoken_symbol_2074">"সোঁফালে ওপৰত লিখা সৰু \'4\'"</string>
+  
+  <string name="spoken_symbol_207F">"সোঁফালে ওপৰত লিখা সৰু \'n\'"</string>
+  
+  <string name="spoken_symbol_20B1">"পেছ\' মুদ্ৰাৰ প্ৰতীক"</string>
+  
+  <string name="spoken_symbol_2105">"প্ৰযত্নে"</string>
+  
+  <string name="spoken_symbol_2192">"সোঁফালে নির্দেশ কৰা কাঁড়চিহ্ন"</string>
+  
+  <string name="spoken_symbol_2193">"অধোমুখী কাঁড় চিহ্ন"</string>
+  
+  <string name="spoken_symbol_2205">"ৰিক্ত সংহতি"</string>
+  
+  <string name="spoken_symbol_2206">"বৃদ্ধি"</string>
+  
+  <string name="spoken_symbol_2264">"ইয়াতকৈ কম বা ইয়াৰ সমান বুজোৱা প্ৰতীক"</string>
+  
+  <string name="spoken_symbol_2265">"ইয়াতকৈ বেছি বা ইয়াৰ সমান বুজোৱা প্ৰতীক"</string>
+  
+  <string name="spoken_symbol_2605">"ক\'লা তৰা প্ৰতীক"</string>
+</resources>

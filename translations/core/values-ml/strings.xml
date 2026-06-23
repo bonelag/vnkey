@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="english_ime_input_options">"ടൈപ്പിംഗ് ഓപ്‌ഷനുകൾ"</string>
+  
+  <string name="vibrate_on_keypress">"കീ അമർത്തുമ്പോൾ വൈബ്രേറ്റുചെയ്യുക"</string>
+  
+  <string name="sound_on_keypress">"കീ അമർത്തുമ്പോൾ ശബ്‌ദം"</string>
+  
+  <string name="popup_on_keypress">"കീ അമർത്തുമ്പോൾ പോപ്പപ്പ്"</string>
+  
+  <string name="show_language_switch_key">"ഭാഷ മാറൽ കീ"</string>
+  
+  <string name="abbreviation_unit_milliseconds">&lt;string name="abbreviation_unit_milliseconds" msgid="3255301845626146979"&gt;&amp;quot;&lt;xliff:g id="MILLISECONDS"&gt;%s&lt;/xliff:g&gt;മി.സെ&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="use_personalized_dicts">"വ്യക്തിഗത നിർദ്ദേശങ്ങൾ"</string>
+  
+  <string name="use_double_space_period">"ഡബിൾ സ്പേസ് പീരിഡ്"</string>
+  
+  <string name="use_double_space_period_summary">"സ്‌പെയ്‌സ് ബാറിൽ ഇരട്ട ടാപ്പുചെയ്യുന്നത്, ഒരു സ്‌പെയ്‌സിന് മുമ്പായി വിരാമം ഇടുന്നു"</string>
+  
+  <string name="auto_cap">"സ്വയം വലിയക്ഷരമാക്കുക"</string>
+  
+  <string name="auto_cap_summary">"ഓരോ വാക്യത്തിന്റെയും ആദ്യ പദം വലിയക്ഷരമാക്കുക"</string>
+  
+  <string name="edit_personal_dictionary">"വ്യക്തിഗത നിഘണ്ടു"</string>
+  
+  <string name="prefs_show_suggestions">"തിരുത്തലുകൾ കാണിക്കുക"</string>
+  
+  <string name="prefs_show_suggestions_summary">"ടൈപ്പുചെയ്യുമ്പോൾ നിർദ്ദേശിച്ച വാക്കുകൾ പ്രദർശിപ്പിക്കുക"</string>
+  
+  <string name="prefs_block_potentially_offensive_title">"നിന്ദ്യമായ വാക്കുകൾ തടയുക"</string>
+  
+  <string name="prefs_block_potentially_offensive_summary">"നിന്ദ്യമാകാനിടയുള്ള വാക്കുകൾ നിർദ്ദേശിക്കരുത്"</string>
+  
+  <string name="auto_correction">"സ്വയം തിരുത്തൽ"</string>
+  
+  <string name="auto_correction_summary">"തെറ്റായി ടൈപ്പുചെയ്‌ത വാക്കുകളിൽ സ്‌പെയ്‌സ് ബാറും ചിഹ്‌നവും സ്വയമേവ തിരുത്തുന്നു"</string>
+  
+  <string name="bigram_prediction">"അടുത്ത-പദ നിർദ്ദേശങ്ങൾ"</string>
+  
+  <string name="bigram_prediction_summary">"നിർദ്ദേശങ്ങൾ സൃഷ്‌ടിക്കാൻ മുമ്പത്തെ പദം ഉപയോഗിക്കുക"</string>
+  
+  <string name="language_selection_title">"ഭാഷകൾ"</string>
+  
+  <string name="select_language">"ഭാഷകൾ"</string>
+  
+  <string name="subtype_en_GB">"ഇംഗ്ലീഷ് (യുകെ)"</string>
+  
+  <string name="subtype_en_US">"ഇംഗ്ലീഷ് (യുഎസ്)"</string>
+  
+  <string name="subtype_es_US">"സ്‌പാനിഷ് (യുഎസ്)"</string>
+  
+  <string name="subtype_hi_ZZ">"ഹിംഗ്ലീഷ്"</string>
+  
+  <string name="subtype_sr_ZZ">"സെർബിയൻ (ലാറ്റിൻ)"</string>
+  
+  <string name="subtype_with_layout_en_GB">&lt;string name="subtype_with_layout_en_GB" msgid="4220344684463778660"&gt;&amp;quot;ഇംഗ്ലീഷ് (യുകെ) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_en_US">&lt;string name="subtype_with_layout_en_US" msgid="4599421650961912769"&gt;&amp;quot;ഇംഗ്ലീഷ് (യുഎസ്) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_es_US">&lt;string name="subtype_with_layout_es_US" msgid="6866331205974243592"&gt;&amp;quot;സ്‌പാനിഷ് (യുഎസ്) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_hi_ZZ">&lt;string name="subtype_with_layout_hi_ZZ" msgid="5439623653083985558"&gt;&amp;quot;ഹിംഗ്ലീഷ് (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_sr_ZZ">&lt;string name="subtype_with_layout_sr_ZZ" msgid="546465971819327060"&gt;&amp;quot;സെർബിയൻ (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_traditional">&lt;string name="subtype_generic_traditional" msgid="5321023815277210849"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (പരമ്പരാഗതം)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_compact">&lt;string name="subtype_generic_compact" msgid="2858514299576793292"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (കോം‌പാക്‌ട്)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_no_language">"ഭാഷയില്ല (അക്ഷരമാല)"</string>
+  
+  <string name="subtype_no_language_qwerty">"അക്ഷരമാല (QWERTY)"</string>
+  
+  <string name="subtype_no_language_qwertz">"അക്ഷരമാല (QWERTZ)"</string>
+  
+  <string name="subtype_no_language_azerty">"അക്ഷരമാല (AZERTY)"</string>
+  
+  <string name="subtype_no_language_dvorak">"അക്ഷരമാല (Dvorak)"</string>
+  
+  <string name="subtype_no_language_colemak">"അക്ഷരമാല (Colemak)"</string>
+  
+  <string name="subtype_no_language_pcqwerty">"അക്ഷരമാല (PC)"</string>
+  
+  <string name="subtype_emoji">"ഇമോജി"</string>
+  
+  <string name="cancel">"റദ്ദാക്കുക"</string>
+  
+  <string name="go_to_settings">"ക്രമീകരണം"</string>
+  
+  <string name="install_dict">"ഇൻസ്റ്റാളുചെയ്യുക"</string>
+  
+  <string name="cancel_download_dict">"റദ്ദാക്കുക"</string>
+  
+  <string name="user_dict_settings_add_menu_title">"ചേര്‍ക്കുക"</string>
+  
+  <string name="user_dict_settings_add_dialog_title">"നിഘണ്ടുവിൽ ചേർക്കുക"</string>
+  
+  <string name="user_dict_settings_add_screen_title">"വാക്യം"</string>
+  
+  <string name="user_dict_settings_add_dialog_more_options">"കൂടുതൽ ഓപ്‌ഷനുകൾ"</string>
+  
+  <string name="user_dict_settings_add_dialog_less_options">"കുറച്ച് ഓപ്‌ഷനുകൾ"</string>
+  
+  <string name="user_dict_settings_add_dialog_confirm">"ശരി"</string>
+  
+  <string name="user_dict_settings_add_word_option_name">"പദം:"</string>
+  
+  <string name="user_dict_settings_add_shortcut_option_name">"കുറുക്കുവഴി:"</string>
+  
+  <string name="user_dict_settings_add_locale_option_name">"ഭാഷ:"</string>
+  
+  <string name="user_dict_settings_add_word_hint">"ഒരു പദം ടൈപ്പുചെയ്യുക"</string>
+  
+  <string name="user_dict_settings_add_shortcut_hint">"ഓപ്‌ഷണൽ കുറുക്കുവഴി"</string>
+  
+  <string name="user_dict_settings_edit_dialog_title">"പദം എഡിറ്റുചെയ്യുക"</string>
+  
+  <string name="user_dict_settings_context_menu_edit_title">"എഡിറ്റുചെയ്യുക"</string>
+  
+  <string name="user_dict_settings_context_menu_delete_title">"ഇല്ലാതാക്കുക"</string>
+  
+  <string name="user_dict_settings_empty_text">"ഉപയോക്തൃ നിഘണ്ടുവിൽ നിങ്ങൾക്ക് പദങ്ങളൊന്നുമില്ല. ഒരു പദം ചേർക്കുന്നതിന്, ചേർക്കുക (+) ബട്ടൺ ടാപ്പ് ചെയ്യുക."</string>
+  
+  <string name="user_dict_settings_all_languages">"എല്ലാ ഭാഷകൾക്കുമായി"</string>
+  
+  <string name="user_dict_settings_more_languages">"കൂടുതൽ ഭാഷകൾ…"</string>
+  
+  <string name="user_dict_settings_delete">"ഇല്ലാതാക്കുക"</string>
+  
+  <string name="user_dict_fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+</resources>

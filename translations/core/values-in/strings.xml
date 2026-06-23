@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="english_ime_input_options">"Opsi masukan"</string>
+  
+  <string name="vibrate_on_keypress">"Getar jika tombol ditekan"</string>
+  
+  <string name="sound_on_keypress">"Berbunyi jika tombol ditekan"</string>
+  
+  <string name="popup_on_keypress">"Muncul saat tombol ditekan"</string>
+  
+  <string name="show_language_switch_key">"Tombol pengalih bahasa"</string>
+  
+  <string name="abbreviation_unit_milliseconds">&lt;string name="abbreviation_unit_milliseconds" msgid="3255301845626146979"&gt;&amp;quot;&lt;xliff:g id="MILLISECONDS"&gt;%s&lt;/xliff:g&gt; md&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="use_personalized_dicts">"Saran hasil personalisasi"</string>
+  
+  <string name="use_double_space_period">"Titik spasi ganda"</string>
+  
+  <string name="use_double_space_period_summary">"Mengetuk tombol spasi dua kali akan memasukkan titik diikuti satu spasi"</string>
+  
+  <string name="auto_cap">"Kapitalisasi otomatis"</string>
+  
+  <string name="auto_cap_summary">"Kapitalisasi kata pertama di setiap kalimat"</string>
+  
+  <string name="edit_personal_dictionary">"Kamus pribadi"</string>
+  
+  <string name="prefs_show_suggestions">"Tampilkan saran koreksi"</string>
+  
+  <string name="prefs_show_suggestions_summary">"Tampilkan kata yang disarankan ketika mengetik"</string>
+  
+  <string name="prefs_block_potentially_offensive_title">"Blokir kata tak pantas"</string>
+  
+  <string name="prefs_block_potentially_offensive_summary">"Jangan sarankan kata yang berpotensi menyinggung"</string>
+  
+  <string name="auto_correction">"Koreksi otomatis"</string>
+  
+  <string name="auto_correction_summary">"Bilah spasi dan tanda baca secara otomatis dikoreksi pada kata yang salah ketik"</string>
+  
+  <string name="auto_correction_tags">koreksi otomatis</string>
+  
+  <string name="bigram_prediction">"Saran kata berikutnya"</string>
+  
+  <string name="bigram_prediction_summary">"Gunakan kata sebelumnya dalam membuat saran"</string>
+  
+  <string name="language_selection_title">"Bahasa"</string>
+  
+  <string name="select_language">"Bahasa"</string>
+  
+  <string name="subtype_en_GB">"Inggris (Inggris)"</string>
+  
+  <string name="subtype_en_US">"Inggris (AS)"</string>
+  
+  <string name="subtype_es_US">"Spanyol (AS)"</string>
+  
+  <string name="subtype_hi_ZZ">"Hinglish"</string>
+  
+  <string name="subtype_sr_ZZ">"Serbia (Latin)"</string>
+  
+  <string name="subtype_with_layout_en_GB">&lt;string name="subtype_with_layout_en_GB" msgid="4220344684463778660"&gt;&amp;quot;(&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;) Inggris (Inggris)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_en_US">&lt;string name="subtype_with_layout_en_US" msgid="4599421650961912769"&gt;&amp;quot;(&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;) Inggris (AS)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_es_US">&lt;string name="subtype_with_layout_es_US" msgid="6866331205974243592"&gt;&amp;quot;(&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;) Spanyol (AS)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_hi_ZZ">&lt;string name="subtype_with_layout_hi_ZZ" msgid="5439623653083985558"&gt;&amp;quot;Hinglish (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_sr_ZZ">&lt;string name="subtype_with_layout_sr_ZZ" msgid="546465971819327060"&gt;&amp;quot;Serbia (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_traditional">&lt;string name="subtype_generic_traditional" msgid="5321023815277210849"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (Tradisional)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_compact">&lt;string name="subtype_generic_compact" msgid="2858514299576793292"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (Rapat)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_no_language">"Tidak ada bahasa (Abjad)"</string>
+  
+  <string name="subtype_no_language_qwerty">"Abjad (QWERTY)"</string>
+  
+  <string name="subtype_no_language_qwertz">"Abjad (QWERTZ)"</string>
+  
+  <string name="subtype_no_language_azerty">"Abjad (AZERTY)"</string>
+  
+  <string name="subtype_no_language_dvorak">"Abjad (Dvorak)"</string>
+  
+  <string name="subtype_no_language_colemak">"Abjad (Colemak)"</string>
+  
+  <string name="subtype_no_language_pcqwerty">"Abjad (PC)"</string>
+  
+  <string name="subtype_emoji">"Emoji"</string>
+  
+  <string name="cancel">"Batal"</string>
+  
+  <string name="go_to_settings">"Setelan"</string>
+  
+  <string name="install_dict">"Instal"</string>
+  
+  <string name="cancel_download_dict">"Batal"</string>
+  
+  <string name="user_dict_settings_add_menu_title">"Tambahkan"</string>
+  
+  <string name="user_dict_settings_add_dialog_title">"Tambahkan ke kamus"</string>
+  
+  <string name="user_dict_settings_add_screen_title">"Frasa"</string>
+  
+  <string name="user_dict_settings_add_dialog_more_options">"Opsi lainnya"</string>
+  
+  <string name="user_dict_settings_add_dialog_less_options">"Sedikit opsi"</string>
+  
+  <string name="user_dict_settings_add_dialog_confirm">"Oke"</string>
+  
+  <string name="user_dict_settings_add_word_option_name">"Kata:"</string>
+  
+  <string name="user_dict_settings_add_shortcut_option_name">"Pintasan:"</string>
+  
+  <string name="user_dict_settings_add_locale_option_name">"Bahasa:"</string>
+  
+  <string name="user_dict_settings_add_word_hint">"Ketik kata"</string>
+  
+  <string name="user_dict_settings_add_shortcut_hint">"Pintasan opsional"</string>
+  
+  <string name="user_dict_settings_edit_dialog_title">"Edit kata"</string>
+  
+  <string name="user_dict_settings_context_menu_edit_title">"Edit"</string>
+  
+  <string name="user_dict_settings_context_menu_delete_title">"Hapus"</string>
+  
+  <string name="user_dict_settings_empty_text">"Tidak ada kata-kata dalam kamus pengguna. Untuk menambahkan kata, ketuk Tambahkan (+)."</string>
+  
+  <string name="user_dict_settings_all_languages">"Untuk semua bahasa"</string>
+  
+  <string name="user_dict_settings_more_languages">"Bahasa lainnya..."</string>
+  
+  <string name="user_dict_settings_delete">"Hapus"</string>
+  
+  <string name="user_dict_fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+</resources>

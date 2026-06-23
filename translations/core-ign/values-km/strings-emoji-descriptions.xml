@@ -1,0 +1,1672 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These Emoji symbols are unsupported by TTS.
+  TODO: Remove this file when TTS/TalkBack support these Emoji symbols.
+-->
+
+<resources>
+  
+  <string name="spoken_emoji_00A9">"សញ្ញា​រក្សា​សិទ្ធ​"</string>
+  
+  <string name="spoken_emoji_00AE">"សញ្ញា​​​ចុះ​បញ្ជី"</string>
+  
+  <string name="spoken_emoji_203C">"សញ្ញា​ឧទាន​​ពីរ"</string>
+  
+  <string name="spoken_emoji_2049">"សញ្ញា​​ឧទាន​សញ្ញា​សួរ​​"</string>
+  
+  <string name="spoken_emoji_2122">"សញ្ញា​​​និក្ខិត្តសញ្ញា"</string>
+  
+  <string name="spoken_emoji_2139">"ប្រភព​ព័ត៌មាន"</string>
+  
+  <string name="spoken_emoji_2194">"ព្រួញ​ឆ្វេងស្ដាំ"</string>
+  
+  <string name="spoken_emoji_2195">"ព្រួញ​ឡើង​លើ​ចុះក្រោម"</string>
+  
+  <string name="spoken_emoji_2196">"ព្រួញ​ទិសពាយព្យ"</string>
+  
+  <string name="spoken_emoji_2197">"ព្រួញ​​ទិស​ឥសាន្ត​ឦសាន្ត​"</string>
+  
+  <string name="spoken_emoji_2198">"ព្រួញ​​ទិស​អាគ្នេយ៍"</string>
+  
+  <string name="spoken_emoji_2199">"ព្រួញ​​ទិស​និរតី"</string>
+  
+  <string name="spoken_emoji_21A9">"ព្រួញ​ទៅ​ឆ្វេង​មាន​ទំពក់"</string>
+  
+  <string name="spoken_emoji_21AA">"ព្រួញ​ទៅ​​ស្ដាំ​មាន​ទំពក់"</string>
+  
+  <string name="spoken_emoji_231A">"នាឡិកា​ដៃ"</string>
+  
+  <string name="spoken_emoji_231B">"នាឡិកា​ពិសោធន៍"</string>
+  
+  <string name="spoken_emoji_23E9">"ត្រីកោណ​ខ្មៅ​ពីរ​ចង្អុល​ទៅ​ស្ដាំ"</string>
+  
+  <string name="spoken_emoji_23EA">"ត្រីកោណ​ខ្មៅ​ពីរ​ចង្អុល​ទៅ​ឆ្វេង"</string>
+  
+  <string name="spoken_emoji_23EB">"ត្រីកោណ​ខ្មៅ​ពីរ​ចង្អុល​​ឡើង​លើ"</string>
+  
+  <string name="spoken_emoji_23EC">"ត្រីកោណ​ខ្មៅ​ពីរ​ចង្អុល​​ចុះក្រោម"</string>
+  
+  <string name="spoken_emoji_23F0">"នាឡិកា​រោទ៍​"</string>
+  
+  <string name="spoken_emoji_23F3">"កែវ​ពិសោធន៍​មាន​ខ្សាច់ហូរ"</string>
+  
+  <string name="spoken_emoji_24C2">"អក្សរ​អឹម​ធំ​ក្នុង​រង្វង់"</string>
+  
+  <string name="spoken_emoji_25AA">"ការ៉េ​តូច​​ពណ៌ខ្មៅ"</string>
+  
+  <string name="spoken_emoji_25AB">"ការ៉េ​តូច​ពណ៌​ស"</string>
+  
+  <string name="spoken_emoji_25B6">"ត្រីកោណ​ចង្អុល​ស្ដាំ​ពណ៌​ខ្មៅ"</string>
+  
+  <string name="spoken_emoji_25C0">"ត្រីកោណ​ចង្អុល​​ឆ្វេង​ពណ៌​ខ្មៅ"</string>
+  
+  <string name="spoken_emoji_25FB">"ការ៉េ​មធ្យម​ពណ៌ស"</string>
+  
+  <string name="spoken_emoji_25FC">"ការ៉េ​មធ្យម​ពណ៌​​ខ្មៅ"</string>
+  
+  <string name="spoken_emoji_25FD">"ការ៉េ​តូច​មធ្យម​ពណ៌​ស"</string>
+  
+  <string name="spoken_emoji_25FE">"ការ៉េ​តូច​មធ្យម​ពណ៌​ខ្មៅ"</string>
+  
+  <string name="spoken_emoji_2600">"ព្រះអាទិត្យ​ពណ៌​ខ្មៅ​​បញ្ចេញ​ពន្លឺ"</string>
+  
+  <string name="spoken_emoji_2601">"ពពក"</string>
+  
+  <string name="spoken_emoji_260E">"ទូរស័ព្ទ​ពណ៌​ខ្មៅ"</string>
+  
+  <string name="spoken_emoji_2611">"ប្រអប់​មាន​សញ្ញា​ធីក"</string>
+  
+  <string name="spoken_emoji_2614">"ឆត្រ​មាន​តំណក់​ទឹក​ភ្លៀង"</string>
+  
+  <string name="spoken_emoji_2615">"ភេសជ្ជៈ​ក្ដៅ"</string>
+  
+  <string name="spoken_emoji_261D">"ចង្អុល​ដៃ​ចង្អុល​ឡើង​ពណ៌ស"</string>
+  
+  <string name="spoken_emoji_263A">"មុខ​ញញឹម​ពណ៌​ស"</string>
+  
+  <string name="spoken_emoji_2648">"មេសៈរាសី"</string>
+  
+  <string name="spoken_emoji_2649">"តៅរ៉ូស"</string>
+  
+  <string name="spoken_emoji_264A">"ហ្គិមីនី"</string>
+  
+  <string name="spoken_emoji_264B">"សញ្ញា​ទី៤​នៃ​រាសីចក្រ"</string>
+  
+  <string name="spoken_emoji_264C">"លីអូ"</string>
+  
+  <string name="spoken_emoji_264D">"សញ្ញា​រាសី"</string>
+  
+  <string name="spoken_emoji_264E">"លីប្រា"</string>
+  
+  <string name="spoken_emoji_264F">"រាសីវច្ចៈ"</string>
+  
+  <string name="spoken_emoji_2650">"រាសី​ធ្នូ"</string>
+  
+  <string name="spoken_emoji_2651">"រាសី​សេះ"</string>
+  
+  <string name="spoken_emoji_2652">"Aquarius"</string>
+  
+  <string name="spoken_emoji_2653">"រាសី​អាប់អួ"</string>
+  
+  <string name="spoken_emoji_2660">"ឈុត​ប៊ិច​ពណ៌​ខ្មៅ"</string>
+  
+  <string name="spoken_emoji_2663">"ឈុត​​ជួង​ពណ៌​ខ្មៅ"</string>
+  
+  <string name="spoken_emoji_2665">"ឈុត​​កឺ​ពណ៌ខ្មៅ"</string>
+  
+  <string name="spoken_emoji_2666">"ឈុត​​ការ៉ូ​ពណ៌​ខ្មៅ"</string>
+  
+  <string name="spoken_emoji_2668">"Hot springs"</string>
+  
+  <string name="spoken_emoji_267B">"និមិត្ត​សញ្ញា​ធុងសំរាម​សកល​ពណ៌​ខ្មៅ"</string>
+  
+  <string name="spoken_emoji_267F">"និមិត្ត​សញ្ញា​រទេះ​រុញ"</string>
+  
+  <string name="spoken_emoji_2693">"យុថ្កា"</string>
+  
+  <string name="spoken_emoji_26A0">"សញ្ញា​ព្រមាន"</string>
+  
+  <string name="spoken_emoji_26A1">"សញ្ញា​តង់ស្យុង​​ខ្ពស់"</string>
+  
+  <string name="spoken_emoji_26AA">"រង្វង់​ពណ៌ស​មធ្យម"</string>
+  
+  <string name="spoken_emoji_26AB">"រង្វង់​ពណ៌​ខ្មៅ​មធ្យម"</string>
+  
+  <string name="spoken_emoji_26BD">"បាល់​ទាត់"</string>
+  
+  <string name="spoken_emoji_26BE">"បាល់បោះ"</string>
+  
+  <string name="spoken_emoji_26C4">"អ្នកលេង​ព្រិល​ដោយ​គ្មាន​ព្រិល"</string>
+  
+  <string name="spoken_emoji_26C5">"ព្រះអាទិត្យ​នៅ​​ក្រោយ​ពពក"</string>
+  
+  <string name="spoken_emoji_26CE">"សញ្ញាអាព្យូឈូស"</string>
+  
+  <string name="spoken_emoji_26D4">"ហាមចូល"</string>
+  
+  <string name="spoken_emoji_26EA">"វិហារ​សាសនា"</string>
+  
+  <string name="spoken_emoji_26F2">"បាញ់​ទឹក"</string>
+  
+  <string name="spoken_emoji_26F3">"ទង់ជាតិ​​​ក្នុង​រន្ធ"</string>
+  
+  <string name="spoken_emoji_26F5">"ទូក​ក្ដោង"</string>
+  
+  <string name="spoken_emoji_26FA">"តង់"</string>
+  
+  <string name="spoken_emoji_26FD">"បូម​ប្រេង"</string>
+  
+  <string name="spoken_emoji_2702">"កន្ត្រៃ​ពណ៌​ខ្មៅ"</string>
+  
+  <string name="spoken_emoji_2705">"សញ្ញា​ធីក​ពណ៌​ស​ធំ"</string>
+  
+  <string name="spoken_emoji_2708">"យន្តហោះ"</string>
+  
+  <string name="spoken_emoji_2709">"ស្រោម​សំបុត្រ"</string>
+  
+  <string name="spoken_emoji_270A">"លើក​កណ្ដាប់ដៃ"</string>
+  
+  <string name="spoken_emoji_270B">"លើកដៃ"</string>
+  
+  <string name="spoken_emoji_270C">"លើក​ដៃ​​ជ័យជម្នះ"</string>
+  
+  <string name="spoken_emoji_270F">"ខ្មៅដៃ"</string>
+  
+  <string name="spoken_emoji_2712">"ចុង​ខ្មៅ​ដៃ"</string>
+  
+  <string name="spoken_emoji_2714">"សញ្ញា​ធីក​ដិត"</string>
+  
+  <string name="spoken_emoji_2716">"សញ្ញា​គុណ​ដិត"</string>
+  
+  <string name="spoken_emoji_2728">"បញ្ចេញ​ពន្លឺ"</string>
+  
+  <string name="spoken_emoji_2733">"ផ្កាយ​ប្រាំ​បី​ជ្រុង"</string>
+  
+  <string name="spoken_emoji_2734">"ផ្កាយ​ប្រាំ​បី​ជ្រុង​ដិត"</string>
+  
+  <string name="spoken_emoji_2744">"ផ្កាព្រិល"</string>
+  
+  <string name="spoken_emoji_2747">"បញ្ចេញ​ពន្លឺ"</string>
+  
+  <string name="spoken_emoji_274C">"សញ្ញា​​ខ្វែង"</string>
+  
+  <string name="spoken_emoji_274E">"សញ្ញា​ខ្វែង​ក្នុង​ប្រអប់"</string>
+  
+  <string name="spoken_emoji_2753">"សញ្ញា​សួរ​ពណ៌​ខ្មៅ"</string>
+  
+  <string name="spoken_emoji_2754">"សញ្ញា​សួរ​ពណ៌ស"</string>
+  
+  <string name="spoken_emoji_2755">"សញ្ញា​ឧទាន​ពណ៌​ស"</string>
+  
+  <string name="spoken_emoji_2757">"សញ្ញា​ឧទាន​ពណ៌ខ្មៅ​ដិត"</string>
+  
+  <string name="spoken_emoji_2764">"បេះដូង​​​ពណ៌​ខ្មៅ"</string>
+  
+  <string name="spoken_emoji_2795">"សញ្ញា​បូក​ដិត"</string>
+  
+  <string name="spoken_emoji_2796">"សញ្ញា​ដក​​ដិត"</string>
+  
+  <string name="spoken_emoji_2797">"សញ្ញា​​​ចែក​ដិត"</string>
+  
+  <string name="spoken_emoji_27A1">"ព្រួញ​ទៅ​ស្ដាំ​ពណ៌​ខ្មៅ"</string>
+  
+  <string name="spoken_emoji_27B0">"រង្វង់​​អង្កាញ់"</string>
+  
+  <string name="spoken_emoji_27BF">"រង្វង់​អង្កាញ់​ពីរ"</string>
+  
+  <string name="spoken_emoji_2934">"ព្រួញ​ចង្អុល​ទៅ​ស្ដាំ​បន្ទាប់មក​បត់​ឡើង​លើ"</string>
+  
+  <string name="spoken_emoji_2935">"ព្រួញ​ចង្អុល​ទៅ​ស្ដាំ​បន្ទាប់មក​បត់​ចុះ​ក្រោម"</string>
+  
+  <string name="spoken_emoji_2B05">"ព្រួញ​ពណ៌ខ្មៅ​ទៅ​ឆ្វេង"</string>
+  
+  <string name="spoken_emoji_2B06">"ព្រួញ​​ពណ៌​ខ្មៅ​ឡើង​លើ"</string>
+  
+  <string name="spoken_emoji_2B07">"ព្រួញ​ពណ៌​ខ្មៅ​​ចុះក្រោម"</string>
+  
+  <string name="spoken_emoji_2B1B">"ប្រអប់​ការ៉េ​ធំ​ពណ៌​ខ្មៅ"</string>
+  
+  <string name="spoken_emoji_2B1C">"ប្រអប់​ការ៉េ​ធំ​ពណ៌​ស"</string>
+  
+  <string name="spoken_emoji_2B50">"​ផ្កាយ​​មធ្យម​ពណ៌ស"</string>
+  
+  <string name="spoken_emoji_2B55">"រង្វង់​ធំ​​ដិត"</string>
+  
+  <string name="spoken_emoji_3030">"សញ្ញា​​រលក​ដិត"</string>
+  
+  <string name="spoken_emoji_303D">"សញ្ញាចាប់ផ្តើមចម្រៀង"</string>
+  
+  <string name="spoken_emoji_3297">"សញ្ញាអបអរសាទរមូល"</string>
+  
+  <string name="spoken_emoji_3299">"សញ្ញាសម្ងាត់មូល"</string>
+  
+  <string name="spoken_emoji_1F004">"សញ្ញានាគក្រហមម៉ាចុង"</string>
+  
+  <string name="spoken_emoji_1F0CF">"រូបតុក្កតាបៀពណ៌ខ្មៅ"</string>
+  
+  <string name="spoken_emoji_1F170">"ឈាម​ប្រភេទ A"</string>
+  
+  <string name="spoken_emoji_1F171">"ឈាម​ប្រភេទ B"</string>
+  
+  <string name="spoken_emoji_1F17E">"ឈាម​ប្រភេទ O"</string>
+  
+  <string name="spoken_emoji_1F17F">"ចំណត"</string>
+  
+  <string name="spoken_emoji_1F18E">"ឈាម​ប្រភេទ AB"</string>
+  
+  <string name="spoken_emoji_1F191">"ប្រអប់ CL"</string>
+  
+  <string name="spoken_emoji_1F192">"ប្រអប់ cool"</string>
+  
+  <string name="spoken_emoji_1F193">"ប្រអប់ free"</string>
+  
+  <string name="spoken_emoji_1F194">"ប្រអប់ ID"</string>
+  
+  <string name="spoken_emoji_1F195">"ប្រអប់ new"</string>
+  
+  <string name="spoken_emoji_1F196">"ប្រអប់ N G"</string>
+  
+  <string name="spoken_emoji_1F197">"ប្រអប់ OK"</string>
+  
+  <string name="spoken_emoji_1F198">"ប្រអប់ SOS"</string>
+  
+  <string name="spoken_emoji_1F199">"ប្រអប់ up!"</string>
+  
+  <string name="spoken_emoji_1F19A">"ប្រអប់ vs"</string>
+  
+  <string name="spoken_emoji_1F201">"សញ្ញានៅទីនេះកាតាកាណាជ្រុង"</string>
+  
+  <string name="spoken_emoji_1F202">"សញ្ញាសេវាកម្មកាតាកាណាជ្រុង"</string>
+  
+  <string name="spoken_emoji_1F21A">"សញ្ញាឥតគិតថ្លៃជ្រុង"</string>
+  
+  <string name="spoken_emoji_1F22F">"សញ្ញាកន្លែងកក់រួចជ្រុង"</string>
+  
+  <string name="spoken_emoji_1F232">"សញ្ញាហាមឃាត់ជ្រុង"</string>
+  
+  <string name="spoken_emoji_1F233">"សញ្ញាកន្លែងទំនេរជ្រុង"</string>
+  
+  <string name="spoken_emoji_1F234">"សញ្ញាព្រមទទួលជ្រុង"</string>
+  
+  <string name="spoken_emoji_1F235">"សញ្ញាជួលពេញជ្រុង"</string>
+  
+  <string name="spoken_emoji_1F236">"សញ្ញាមានផ្តល់ជូនជ្រុង"</string>
+  
+  <string name="spoken_emoji_1F237">"សញ្ញាប្រចាំខែជ្រុង"</string>
+  
+  <string name="spoken_emoji_1F238">"សញ្ញាកម្មវិធីជ្រុង"</string>
+  
+  <string name="spoken_emoji_1F239">"សញ្ញាបញ្ចុះតម្លៃជ្រុង"</string>
+  
+  <string name="spoken_emoji_1F23A">"សញ្ញាដំណើរការអាជីវកម្មជ្រុង"</string>
+  
+  <string name="spoken_emoji_1F250">"សញ្ញាអត្ថប្រយោជន៍មូល"</string>
+  
+  <string name="spoken_emoji_1F251">"សញ្ញាយល់ព្រមមូល"</string>
+  
+  <string name="spoken_emoji_1F300">"ស៊ីក្លូន"</string>
+  
+  <string name="spoken_emoji_1F301">"អ័ភ្រ"</string>
+  
+  <string name="spoken_emoji_1F302">"ឆត្រ​បិទ"</string>
+  
+  <string name="spoken_emoji_1F303">"រាត្រី​​មាន​​ផ្កាយ"</string>
+  
+  <string name="spoken_emoji_1F304">"ព្រះ​អាទិត្យ​​​លើ​ភ្នំ"</string>
+  
+  <string name="spoken_emoji_1F305">"ព្រះ​អាទិត្យរះ"</string>
+  
+  <string name="spoken_emoji_1F306">"ទីក្រុង​ពេល​ព្រលប់"</string>
+  
+  <string name="spoken_emoji_1F307">"ព្រះអាទិត្យ​លិច​ចន្លោះ​អាគារ"</string>
+  
+  <string name="spoken_emoji_1F308">"ឥន្ទធនូ"</string>
+  
+  <string name="spoken_emoji_1F309">"ស្ពាន​ពេល​រាត្រី"</string>
+  
+  <string name="spoken_emoji_1F30A">"ទឹក​រលក"</string>
+  
+  <string name="spoken_emoji_1F30B">"ភ្នំភ្លើង"</string>
+  
+  <string name="spoken_emoji_1F30C">"មេឃ​ស្រទំ"</string>
+  
+  <string name="spoken_emoji_1F30D">"ភូគោល​​អឺរ៉ុប-អាហ្រិក"</string>
+  
+  <string name="spoken_emoji_1F30E">"ភូគោល​អាមេរិក"</string>
+  
+  <string name="spoken_emoji_1F30F">"ភូគោល​អាស៊ី-អូស្ត្រាលី"</string>
+  
+  <string name="spoken_emoji_1F310">"ភូគោល​មាន​ខ្សែ​វណ្ឌ"</string>
+  
+  <string name="spoken_emoji_1F311">"​​ព្រះចន្ទ"</string>
+  
+  <string name="spoken_emoji_1F312">"ព្រះ​ចន្ទ​មួយ​ចំណិត​ស្ដាំ"</string>
+  
+  <string name="spoken_emoji_1F313">"ព្រះ​ចន្ទ​ពាក់​កណ្ដាល"</string>
+  
+  <string name="spoken_emoji_1F314">"ព្រះ​ចន្ទ​មួយ​ចំណិត​ឆ្វេង"</string>
+  
+  <string name="spoken_emoji_1F315">"ព្រះចន្ទ​ពេញ​វង់​"</string>
+  
+  <string name="spoken_emoji_1F316">"ព្រះ​ចន្ទ​ភ្លឺ​មួយ​ចំហៀង"</string>
+  
+  <string name="spoken_emoji_1F317">"ព្រះ​ចន្ទ​ភ្លឺ​ពាក់​កណ្ដាល"</string>
+  
+  <string name="spoken_emoji_1F318">"ព្រះ​ចន្ទ​ភ្លឺ​មួយ​ចំណិត​ឆ្វេង"</string>
+  
+  <string name="spoken_emoji_1F319">"ព្រះ​ចន្ទ​មួយ​ចំណិត"</string>
+  
+  <string name="spoken_emoji_1F31A">"ព្រះ​ចន្ទ​មាន​មុខ​មនុស្ស"</string>
+  
+  <string name="spoken_emoji_1F31B">"ព្រះ​ចន្ទ​មាន​មុខ​មនុស្ស​ពាក់កណ្ដាល​ស្ដាំ"</string>
+  
+  <string name="spoken_emoji_1F31C">"ព្រះ​ចន្ទ​មាន​មុខ​មនុស្ស​ពាក់កណ្ដាលឆ្វេង"</string>
+  
+  <string name="spoken_emoji_1F31D">"ព្រះចន្ទ​មាន​មុខ​មនុស្ស​ពេញ​វង់"</string>
+  
+  <string name="spoken_emoji_1F31E">"ព្រះ​អាទិត្យ​មានមុខ​មនុស្ស"</string>
+  
+  <string name="spoken_emoji_1F31F">"ផ្កាយ"</string>
+  
+  <string name="spoken_emoji_1F320">"បាញ់​ផ្កាយ"</string>
+  
+  <string name="spoken_emoji_1F330">"ឆេសណាត់"</string>
+  
+  <string name="spoken_emoji_1F331">"កូន​ឈើ"</string>
+  
+  <string name="spoken_emoji_1F332">"ដើម​ឈើ​បៃតង"</string>
+  
+  <string name="spoken_emoji_1F333">"ដើម​ឈើ​មិន​ខៀវ​ជា​និច្ច"</string>
+  
+  <string name="spoken_emoji_1F334">"ដើម​ត្នោត"</string>
+  
+  <string name="spoken_emoji_1F335">"ដំបង​យក្ស"</string>
+  
+  <string name="spoken_emoji_1F337">"ផ្កា"</string>
+  
+  <string name="spoken_emoji_1F338">"ផ្កាឈឺរី"</string>
+  
+  <string name="spoken_emoji_1F339">"ផ្កា​កុលាប"</string>
+  
+  <string name="spoken_emoji_1F33A">"ផ្កា​រំយោល"</string>
+  
+  <string name="spoken_emoji_1F33B">"ផ្កា​ឈូករ័ត្ន"</string>
+  
+  <string name="spoken_emoji_1F33C">"ផ្កា"</string>
+  
+  <string name="spoken_emoji_1F33D">"ស្នៀត​​​​ពោត"</string>
+  
+  <string name="spoken_emoji_1F33E">"គួរ​ស្រូវ"</string>
+  
+  <string name="spoken_emoji_1F33F">"រុក្ខជាតិ"</string>
+  
+  <string name="spoken_emoji_1F340">"ដើម​ដង្ហិត"</string>
+  
+  <string name="spoken_emoji_1F341">"ស្លឹក​ឈើ"</string>
+  
+  <string name="spoken_emoji_1F342">"ស្លឹក​ឈើ​ជ្រុះ"</string>
+  
+  <string name="spoken_emoji_1F343">"ស្លឹកឈើបក់តាមខ្យល់"</string>
+  
+  <string name="spoken_emoji_1F344">"ផ្សិត"</string>
+  
+  <string name="spoken_emoji_1F345">"ប៉េងប៉ោះ"</string>
+  
+  <string name="spoken_emoji_1F346">"ត្រប់"</string>
+  
+  <string name="spoken_emoji_1F347">"ទំពាំង​បាយ​ជូរ"</string>
+  
+  <string name="spoken_emoji_1F348">"ត្រសក់​ស្រូវ"</string>
+  
+  <string name="spoken_emoji_1F349">"ឪឡឹក"</string>
+  
+  <string name="spoken_emoji_1F34A">"ក្រូច​ឃ្វិច"</string>
+  
+  <string name="spoken_emoji_1F34B">"ក្រូចឆ្មារ"</string>
+  
+  <string name="spoken_emoji_1F34C">"​ចេក"</string>
+  
+  <string name="spoken_emoji_1F34D">"ម្នាស់"</string>
+  
+  <string name="spoken_emoji_1F34E">"​ប៉ោម​​​ក្រហម"</string>
+  
+  <string name="spoken_emoji_1F34F">"​ប៉ោម​​​បៃតង"</string>
+  
+  <string name="spoken_emoji_1F350">"ផ្លែព័រ"</string>
+  
+  <string name="spoken_emoji_1F351">"ផ្លែប៉ែស"</string>
+  
+  <string name="spoken_emoji_1F352">"ផ្លែ​ឈឺរី"</string>
+  
+  <string name="spoken_emoji_1F353">"ផ្លែស្ត្របេរី"</string>
+  
+  <string name="spoken_emoji_1F354">"ហាំប៊ឺហ្គឺ"</string>
+  
+  <string name="spoken_emoji_1F355">"ភីហ្សា​​មួយ​ស្លាយ"</string>
+  
+  <string name="spoken_emoji_1F356">"សាច់ចង្កាក់"</string>
+  
+  <string name="spoken_emoji_1F357">"ភ្លៅ​មាន់"</string>
+  
+  <string name="spoken_emoji_1F358">"ប៊ីស្គី​បាយ"</string>
+  
+  <string name="spoken_emoji_1F359">"ដុំ​បាយ"</string>
+  
+  <string name="spoken_emoji_1F35A">"បាយ​មួយ​ចាន"</string>
+  
+  <string name="spoken_emoji_1F35B">"ការី​ និង​បាយ"</string>
+  
+  <string name="spoken_emoji_1F35C">"ចាន​ចំហុយ"</string>
+  
+  <string name="spoken_emoji_1F35D">"ស្ប៉ាហ្គាទី"</string>
+  
+  <string name="spoken_emoji_1F35E">"នំប៉័ង"</string>
+  
+  <string name="spoken_emoji_1F35F">"ដំឡូង​បំពង"</string>
+  
+  <string name="spoken_emoji_1F360">"ដំឡូង​ដុត"</string>
+  
+  <string name="spoken_emoji_1F361">"ប្រហិត​ដោត​ចង្កាក់"</string>
+  
+  <string name="spoken_emoji_1F362">"ម្ហូប​សមុទ្រ​ដោត​ចង្កាក់"</string>
+  
+  <string name="spoken_emoji_1F363">"ស៊ូស៊ី"</string>
+  
+  <string name="spoken_emoji_1F364">"កំពឹស​ចៀន"</string>
+  
+  <string name="spoken_emoji_1F365">"នំ​ត្រី​រាង​មូល"</string>
+  
+  <string name="spoken_emoji_1F366">"ការ៉េម​​បំពង់"</string>
+  
+  <string name="spoken_emoji_1F367">"ការ៉េម​កែវ"</string>
+  
+  <string name="spoken_emoji_1F368">"ការ៉េម​"</string>
+  
+  <string name="spoken_emoji_1F369">"ដូណាត់"</string>
+  
+  <string name="spoken_emoji_1F36A">"ខូគី"</string>
+  
+  <string name="spoken_emoji_1F36B">"​​សូកូឡា"</string>
+  
+  <string name="spoken_emoji_1F36C">"ស្ករគ្រាប់"</string>
+  
+  <string name="spoken_emoji_1F36D">"Lollipop"</string>
+  
+  <string name="spoken_emoji_1F36E">"សង់ខ្យា"</string>
+  
+  <string name="spoken_emoji_1F36F">"ថូ"</string>
+  
+  <string name="spoken_emoji_1F370">"នំ​ខេក"</string>
+  
+  <string name="spoken_emoji_1F371">"ប្រអប់​បេនតូ"</string>
+  
+  <string name="spoken_emoji_1F372">"ឆ្នាំង​អាហារ"</string>
+  
+  <string name="spoken_emoji_1F373">"ចម្អិន​អាហារ"</string>
+  
+  <string name="spoken_emoji_1F374">"សម ​និង​កាំបិត"</string>
+  
+  <string name="spoken_emoji_1F375">"ពែង​តែ​អត់​ដៃកាន់"</string>
+  
+  <string name="spoken_emoji_1F376">"ដប និង​ពែង"</string>
+  
+  <string name="spoken_emoji_1F377">"កែវ​ស្រា"</string>
+  
+  <string name="spoken_emoji_1F378">"កែវ​ស្រា​ក្រឡុក"</string>
+  
+  <string name="spoken_emoji_1F379">"ភេសជ្ជៈ​​​ត្រូពិក"</string>
+  
+  <string name="spoken_emoji_1F37A">"កែវ​​ស្រាបៀ​"</string>
+  
+  <string name="spoken_emoji_1F37B">"ជល់​កែវ​ស្រាបៀ"</string>
+  
+  <string name="spoken_emoji_1F37C">"ដប​ទឹកដោះ​គោ"</string>
+  
+  <string name="spoken_emoji_1F380">"ខ្សែ​បូ"</string>
+  
+  <string name="spoken_emoji_1F381">"ខ្ចប់​កា​ដូរ"</string>
+  
+  <string name="spoken_emoji_1F382">"នំ​ខួប​កំណើត"</string>
+  
+  <string name="spoken_emoji_1F383">"គោម"</string>
+  
+  <string name="spoken_emoji_1F384">"ដើម​ឈើ​បុណ្យ​ណូអែល"</string>
+  
+  <string name="spoken_emoji_1F385">"តា​ណូអែល"</string>
+  
+  <string name="spoken_emoji_1F386">"កាំជ្រួច"</string>
+  
+  <string name="spoken_emoji_1F387">"ពន្លឺ​កាំជ្រួច"</string>
+  
+  <string name="spoken_emoji_1F388">"ប៉េងប៉ោង"</string>
+  
+  <string name="spoken_emoji_1F389">"ឧបករណ៍​​​ផ្ទុះ​ពេល​ជប់លៀង"</string>
+  
+  <string name="spoken_emoji_1F38A">"ក្រដាស​ពណ៌​តូចៗ"</string>
+  
+  <string name="spoken_emoji_1F38B">"ដើម​​តាណាប៉ាតា"</string>
+  
+  <string name="spoken_emoji_1F38C">"ទង់​ជាតិ​ខ្វែង"</string>
+  
+  <string name="spoken_emoji_1F38D">"ការ​តុបតែង​ដោយ​​ផ្លែ​ស្រល់"</string>
+  
+  <string name="spoken_emoji_1F38E">"តុក្កតា​ជប៉ុន"</string>
+  
+  <string name="spoken_emoji_1F38F">"ខ្សែ​បូ​ត្រី​គល់រាំង"</string>
+  
+  <string name="spoken_emoji_1F390">"កណ្ដឹង​ខ្យល់"</string>
+  
+  <string name="spoken_emoji_1F391">"ពិធី​មើល​ព្រះ​ចន្ទ"</string>
+  
+  <string name="spoken_emoji_1F392">"កាបូប​ទៅសាលារៀន"</string>
+  
+  <string name="spoken_emoji_1F393">"មួក​ទទួល​សញ្ញាប័ត្រ"</string>
+  
+  <string name="spoken_emoji_1F3A0">"សេះ​ក្មេង​ជិះ​លេង"</string>
+  
+  <string name="spoken_emoji_1F3A1">"កន្ត្រក​វិល"</string>
+  
+  <string name="spoken_emoji_1F3A2">"រថយន្ត​សម្រាប់​ពាក់​ជិះ​រំអិល"</string>
+  
+  <string name="spoken_emoji_1F3A3">"ដង​សន្ទូច និង​ត្រី"</string>
+  
+  <string name="spoken_emoji_1F3A4">"មីក្រូហ្វូន"</string>
+  
+  <string name="spoken_emoji_1F3A5">"ម៉ាស៊ីន​ថត​ភាព​យន្ត"</string>
+  
+  <string name="spoken_emoji_1F3A6">"ភាពយន្ត"</string>
+  
+  <string name="spoken_emoji_1F3A7">"កាស"</string>
+  
+  <string name="spoken_emoji_1F3A8">"ក្ដារ​លាយ​ពណ៌​វិចិត្រករ"</string>
+  
+  <string name="spoken_emoji_1F3A9">"មួក​​​សម្ដែង​សិល្បៈ"</string>
+  
+  <string name="spoken_emoji_1F3AA">"តង់​សៀក​"</string>
+  
+  <string name="spoken_emoji_1F3AB">"សំបុត្រ"</string>
+  
+  <string name="spoken_emoji_1F3AC">"បន្ទះកណ្ដឹង"</string>
+  
+  <string name="spoken_emoji_1F3AD">"សម្ដែង​សិល្បៈ"</string>
+  
+  <string name="spoken_emoji_1F3AE">"ហ្គេម​​វីដេអូ"</string>
+  
+  <string name="spoken_emoji_1F3AF">"វាយ​​​ចំគោលដៅ"</string>
+  
+  <string name="spoken_emoji_1F3B0">"ម៉ាស៊ីន​​​ដាក់​កាក់"</string>
+  
+  <string name="spoken_emoji_1F3B1">"ល្បែង​បុក​ប៊ីយ៉ា"</string>
+  
+  <string name="spoken_emoji_1F3B2">"ហ្គេម​ឡុកឡាក់"</string>
+  
+  <string name="spoken_emoji_1F3B3">"ប៊ូលីង"</string>
+  
+  <string name="spoken_emoji_1F3B4">"សន្លឹក​បៀរ​​មាន​ផ្កា"</string>
+  
+  <string name="spoken_emoji_1F3B5">"ណោត​តន្ត្រី"</string>
+  
+  <string name="spoken_emoji_1F3B6">"ណោត​តន្ត្រីច្រើន"</string>
+  
+  <string name="spoken_emoji_1F3B7">"ត្រែ"</string>
+  
+  <string name="spoken_emoji_1F3B8">"ហ្គីតា"</string>
+  
+  <string name="spoken_emoji_1F3B9">"ខ្ទង់​សម្រាប់​ចុច​តន្ត្រី"</string>
+  
+  <string name="spoken_emoji_1F3BA">"ត្រុំប៉ែត"</string>
+  
+  <string name="spoken_emoji_1F3BB">"វីយូឡុង"</string>
+  
+  <string name="spoken_emoji_1F3BC">"និមិត្តសញ្ញា​តន្ត្រី"</string>
+  
+  <string name="spoken_emoji_1F3BD">"អាវ​កីឡា​​មាន​ខ្សែ​ឆៀង"</string>
+  
+  <string name="spoken_emoji_1F3BE">"រ៉ាកែត និង​បាល់"</string>
+  
+  <string name="spoken_emoji_1F3BF">"ជិះ​ស្គី ​និង​ក្ដារ​​ស្គី​"</string>
+  
+  <string name="spoken_emoji_1F3C0">"បាល់​បោះ​ និង​វណ្ណ​មូល"</string>
+  
+  <string name="spoken_emoji_1F3C1">"ទង់ជាតិ​ប្រណាំង​ម៉ូតូ"</string>
+  
+  <string name="spoken_emoji_1F3C2">"អ្នក​ជិះ​​ក្ដារ​រំអិល​លើ​ព្រិល​"</string>
+  
+  <string name="spoken_emoji_1F3C3">"អ្នក​រត់"</string>
+  
+  <string name="spoken_emoji_1F3C4">"អ្នក​ជិះ​ទូក​រអិល​លើ​ទឹក"</string>
+  
+  <string name="spoken_emoji_1F3C6">"ពាន​រង្វាន់"</string>
+  
+  <string name="spoken_emoji_1F3C7">"​ប្រណាំង​សេះ"</string>
+  
+  <string name="spoken_emoji_1F3C8">"​បាល់​ទាត់​អាមេរិក"</string>
+  
+  <string name="spoken_emoji_1F3C9">"បាល់​អោប"</string>
+  
+  <string name="spoken_emoji_1F3CA">"អ្នក​ហែលទឹក"</string>
+  
+  <string name="spoken_emoji_1F3E0">"ការ​សាងសង់​​ផ្ទះ"</string>
+  
+  <string name="spoken_emoji_1F3E1">"ផ្ទះ​មាន​សួន​ច្បារ"</string>
+  
+  <string name="spoken_emoji_1F3E2">"អគារ​ការិយាល័យ"</string>
+  
+  <string name="spoken_emoji_1F3E3">"ការិយាល័យ​ប្រៃសណីយ៍​ជប៉ុន"</string>
+  
+  <string name="spoken_emoji_1F3E4">"ការិយាល័យ​ប្រៃសណីយ៍​អឺរ៉ុប"</string>
+  
+  <string name="spoken_emoji_1F3E5">"មន្ទីរពេទ្យ"</string>
+  
+  <string name="spoken_emoji_1F3E6">"ធនាគារ"</string>
+  
+  <string name="spoken_emoji_1F3E7">"ម៉ាស៊ីន​​អេធីអឹម"</string>
+  
+  <string name="spoken_emoji_1F3E8">"សណ្ឋាគារ"</string>
+  
+  <string name="spoken_emoji_1F3E9">"សណ្ឋាគារ​ក្ដី​ស្រឡាញ់​"</string>
+  
+  <string name="spoken_emoji_1F3EA">"ហាង​​ទំនិញ ២៤​ម៉ោង"</string>
+  
+  <string name="spoken_emoji_1F3EB">"សាលារៀន"</string>
+  
+  <string name="spoken_emoji_1F3EC">"ហាង​​ទំនិញធំៗ"</string>
+  
+  <string name="spoken_emoji_1F3ED">"រោងចក្រ"</string>
+  
+  <string name="spoken_emoji_1F3EE">"ចង្កៀង​គោម Izakaya"</string>
+  
+  <string name="spoken_emoji_1F3EF">"វិមាន​​ជប៉ុន"</string>
+  
+  <string name="spoken_emoji_1F3F0">"វិមាន​អឺរ៉ុប"</string>
+  
+  <string name="spoken_emoji_1F400">"កណ្ដុរ​ប្រែង"</string>
+  
+  <string name="spoken_emoji_1F401">"កណ្ដុរ​ប្រមះ"</string>
+  
+  <string name="spoken_emoji_1F402">"គោ"</string>
+  
+  <string name="spoken_emoji_1F403">"ក្របី​ទឹក"</string>
+  
+  <string name="spoken_emoji_1F404">"គោ"</string>
+  
+  <string name="spoken_emoji_1F406">"ខ្លា​រខិន"</string>
+  
+  <string name="spoken_emoji_1F407">"ទន្សាយ"</string>
+  
+  <string name="spoken_emoji_1F408">"ឆ្មា"</string>
+  
+  <string name="spoken_emoji_1F409">"នាគ"</string>
+  
+  <string name="spoken_emoji_1F40A">"ក្រពើ"</string>
+  
+  <string name="spoken_emoji_1F40B">"​ត្រី​បាឡែន"</string>
+  
+  <string name="spoken_emoji_1F40C">"ខ្យង់ក្ដក់"</string>
+  
+  <string name="spoken_emoji_1F40D">"ពស់"</string>
+  
+  <string name="spoken_emoji_1F40E">"សេះ"</string>
+  
+  <string name="spoken_emoji_1F40F">"ចៀម​ឈ្មោល"</string>
+  
+  <string name="spoken_emoji_1F410">"ពពែ"</string>
+  
+  <string name="spoken_emoji_1F411">"ចៀម"</string>
+  
+  <string name="spoken_emoji_1F412">"ស្វា"</string>
+  
+  <string name="spoken_emoji_1F413">"មាន់​ឈ្មោល"</string>
+  
+  <string name="spoken_emoji_1F414">"​មាន់"</string>
+  
+  <string name="spoken_emoji_1F415">"ឆ្កែ"</string>
+  
+  <string name="spoken_emoji_1F416">"ជ្រូក"</string>
+  
+  <string name="spoken_emoji_1F417">"ជ្រូក​ព្រៃ"</string>
+  
+  <string name="spoken_emoji_1F418">"ដំរី"</string>
+  
+  <string name="spoken_emoji_1F419">"មឹក"</string>
+  
+  <string name="spoken_emoji_1F41A">"ខ្យង​គ្រែង"</string>
+  
+  <string name="spoken_emoji_1F41B">"សង្កើច"</string>
+  
+  <string name="spoken_emoji_1F41C">"ស្រមោច"</string>
+  
+  <string name="spoken_emoji_1F41D">"ឃ្មុំ"</string>
+  
+  <string name="spoken_emoji_1F41E">"អណ្ដើក​មាស"</string>
+  
+  <string name="spoken_emoji_1F41F">"ត្រី"</string>
+  
+  <string name="spoken_emoji_1F420">"ត្រី​តំបន់​ត្រូពិក"</string>
+  
+  <string name="spoken_emoji_1F421">"ត្រី​ក្រពត"</string>
+  
+  <string name="spoken_emoji_1F422">"អណ្ដើក"</string>
+  
+  <string name="spoken_emoji_1F423">"កូនមាន់ញាស់"</string>
+  
+  <string name="spoken_emoji_1F424">"កូន​មាន់"</string>
+  
+  <string name="spoken_emoji_1F425">"មុខ​កូន​មាន់"</string>
+  
+  <string name="spoken_emoji_1F426">"បក្សី"</string>
+  
+  <string name="spoken_emoji_1F427">"ភេនឃ្វីន"</string>
+  
+  <string name="spoken_emoji_1F428">"ខ្លាឃ្មុំ"</string>
+  
+  <string name="spoken_emoji_1F429">"ឆ្កែ"</string>
+  
+  <string name="spoken_emoji_1F42A">"អូដ្ឋ​​បូក​មួយ"</string>
+  
+  <string name="spoken_emoji_1F42B">"អូដ្ឋ​បូក​ពីរ"</string>
+  
+  <string name="spoken_emoji_1F42C">"ត្រី​ផ្សោត"</string>
+  
+  <string name="spoken_emoji_1F42D">"មុខ​កណ្ដុរ"</string>
+  
+  <string name="spoken_emoji_1F42E">"មុខ​​គោ"</string>
+  
+  <string name="spoken_emoji_1F42F">"មុខ​ខ្លា"</string>
+  
+  <string name="spoken_emoji_1F430">"មុខ​ទន្សាយ"</string>
+  
+  <string name="spoken_emoji_1F431">"មុខ​ឆ្មា"</string>
+  
+  <string name="spoken_emoji_1F432">"មុខ​នាគ"</string>
+  
+  <string name="spoken_emoji_1F433">"ព្រុយ​ត្រី​បាឡែន"</string>
+  
+  <string name="spoken_emoji_1F434">"មុខ​សេះ"</string>
+  
+  <string name="spoken_emoji_1F435">"មុខ​ស្វា"</string>
+  
+  <string name="spoken_emoji_1F436">"មុខ​ឆ្កែ"</string>
+  
+  <string name="spoken_emoji_1F437">"មុខ​ជ្រូក"</string>
+  
+  <string name="spoken_emoji_1F438">"មុខ​កង្កែប"</string>
+  
+  <string name="spoken_emoji_1F439">"មុខ​កណ្ដុរ"</string>
+  
+  <string name="spoken_emoji_1F43A">"មុខ​ចចក"</string>
+  
+  <string name="spoken_emoji_1F43B">"​​មុខ​ខ្លាឃ្មុំ"</string>
+  
+  <string name="spoken_emoji_1F43C">"មុខ​ខ្លាឃ្មុំ​ផេ​ន​ដា"</string>
+  
+  <string name="spoken_emoji_1F43D">"ច្រមុះ​ជ្រូក"</string>
+  
+  <string name="spoken_emoji_1F43E">"ក្រញាំ​​ជើង"</string>
+  
+  <string name="spoken_emoji_1F440">"ភ្នែក"</string>
+  
+  <string name="spoken_emoji_1F442">"ត្រចៀក"</string>
+  
+  <string name="spoken_emoji_1F443">"ច្រមុះ"</string>
+  
+  <string name="spoken_emoji_1F444">"មាត់"</string>
+  
+  <string name="spoken_emoji_1F445">"អណ្ដាត"</string>
+  
+  <string name="spoken_emoji_1F446">"ចង្អុល​ដៃ​ឡើង​លើ"</string>
+  
+  <string name="spoken_emoji_1F447">"ចង្អុល​ដៃ​​ចុះ​ក្រោម"</string>
+  
+  <string name="spoken_emoji_1F448">"ចង្អុល​ដៃ​ទៅ​ឆ្វេង"</string>
+  
+  <string name="spoken_emoji_1F449">"ចង្អុល​ដៃ​ទៅ​ស្ដាំ"</string>
+  
+  <string name="spoken_emoji_1F44A">"កណ្ដាប់ដៃ"</string>
+  
+  <string name="spoken_emoji_1F44B">"គ្រវី​បាត​ដៃ"</string>
+  
+  <string name="spoken_emoji_1F44C">"សញ្ញា​អូខេ"</string>
+  
+  <string name="spoken_emoji_1F44D">"​មេដៃ​ឡើង​លើ"</string>
+  
+  <string name="spoken_emoji_1F44E">"​មេដៃ​ចុះ​ក្រោម"</string>
+  
+  <string name="spoken_emoji_1F44F">"ទះ​ដៃ"</string>
+  
+  <string name="spoken_emoji_1F450">"លា​ដៃ​"</string>
+  
+  <string name="spoken_emoji_1F451">"មកុដ"</string>
+  
+  <string name="spoken_emoji_1F452">"មួក​​ស្ត្រី"</string>
+  
+  <string name="spoken_emoji_1F453">"វ៉ែនតា"</string>
+  
+  <string name="spoken_emoji_1F454">"ក្រ​វ៉ាត់​ករ​"</string>
+  
+  <string name="spoken_emoji_1F455">"អាវ​យឺត​​"</string>
+  
+  <string name="spoken_emoji_1F456">"ខោ​ខោវប៊យ"</string>
+  
+  <string name="spoken_emoji_1F457">"សំលៀក​បំពាក់"</string>
+  
+  <string name="spoken_emoji_1F458">"គី​ម៉ូណូ"</string>
+  
+  <string name="spoken_emoji_1F459">"ឈុត​ហែល​ទឹក"</string>
+  
+  <string name="spoken_emoji_1F45A">"សំលៀកបំពាក់​នារី"</string>
+  
+  <string name="spoken_emoji_1F45B">"កាបូប"</string>
+  
+  <string name="spoken_emoji_1F45C">"កាបូប​ដៃ"</string>
+  
+  <string name="spoken_emoji_1F45D">"ថង់"</string>
+  
+  <string name="spoken_emoji_1F45E">"ស្បែកជើង​បុរស"</string>
+  
+  <string name="spoken_emoji_1F45F">"ស្បែក​ជើង​កីឡា"</string>
+  
+  <string name="spoken_emoji_1F460">"ស្បែកជើង​កែង"</string>
+  
+  <string name="spoken_emoji_1F461">"ស្បែក​ជើង​ស៊ក​ស្រ្តី"</string>
+  
+  <string name="spoken_emoji_1F462">"​ស្បែក​ជើង​ក​វែង​ស្ត្រី"</string>
+  
+  <string name="spoken_emoji_1F463">"ដាន​ជើង"</string>
+  
+  <string name="spoken_emoji_1F464">"គណនី​ភ្ញៀវ"</string>
+  
+  <string name="spoken_emoji_1F465">"គណនី"</string>
+  
+  <string name="spoken_emoji_1F466">"ក្មេង​​ប្រុស"</string>
+  
+  <string name="spoken_emoji_1F467">"ក្មេង​ស្រី"</string>
+  
+  <string name="spoken_emoji_1F468">"បុរស​"</string>
+  
+  <string name="spoken_emoji_1F469">"ស្ត្រី​"</string>
+  
+  <string name="spoken_emoji_1F46A">"គ្រួសារ"</string>
+  
+  <string name="spoken_emoji_1F46B">"បុរស​​ និង​ស្ត្រី​កាន់ដៃ​គ្នា"</string>
+  
+  <string name="spoken_emoji_1F46C">"បុរស​ពីរ​នាក់​កាន់​ដៃ​គ្នា"</string>
+  
+  <string name="spoken_emoji_1F46D">"ស្ត្រី​​​ពីរ​កាន់​ដៃ​គ្នា"</string>
+  
+  <string name="spoken_emoji_1F46E">"មន្ត្រី​ប៉ូលិស"</string>
+  
+  <string name="spoken_emoji_1F46F">"ស្ត្រី​​ចង​សក់​ទីទុយ"</string>
+  
+  <string name="spoken_emoji_1F470">"កូនក្រមុំ​​ពាក់​​ស្បៃ​មុខ"</string>
+  
+  <string name="spoken_emoji_1F471">"មនុស្ស​​មាន​សក់​​ពណ៌​ទង់ដែង"</string>
+  
+  <string name="spoken_emoji_1F472">"បុរស​​ពុកមាត់​ឆ្មា"</string>
+  
+  <string name="spoken_emoji_1F473">"បុរស​ពាក់​ឈ្នួត"</string>
+  
+  <string name="spoken_emoji_1F474">"បុរស​​ចំណាស់"</string>
+  
+  <string name="spoken_emoji_1F475">"ស្ត្រី​ចំណាស់"</string>
+  
+  <string name="spoken_emoji_1F476">"ទារក"</string>
+  
+  <string name="spoken_emoji_1F477">"កម្មករ​សំណង់"</string>
+  
+  <string name="spoken_emoji_1F478">"ព្រះអង្គម្ចាស់​ក្សត្រី"</string>
+  
+  <string name="spoken_emoji_1F479">"សត្វ​ចម្លែក​ជប៉ុន"</string>
+  
+  <string name="spoken_emoji_1F47A">"ម្រេញគង្វាល​ជប៉ុន"</string>
+  
+  <string name="spoken_emoji_1F47B">"ខ្មោច"</string>
+  
+  <string name="spoken_emoji_1F47C">"អប្សរា​​ទារក"</string>
+  
+  <string name="spoken_emoji_1F47D">"មនុស្ស​ក្រៅ​ភព"</string>
+  
+  <string name="spoken_emoji_1F47E">"សត្វ​ចម្លែក​ក្រៅ​​ភព"</string>
+  
+  <string name="spoken_emoji_1F47F">"ប្រែត"</string>
+  
+  <string name="spoken_emoji_1F480">"លលាដ៍​ក្បាល"</string>
+  
+  <string name="spoken_emoji_1F481">"អ្នក​ផ្ដល់​ព័ត៌មាន"</string>
+  
+  <string name="spoken_emoji_1F482">"អ្នក​យាម"</string>
+  
+  <string name="spoken_emoji_1F483">"អ្នក​រាំ​"</string>
+  
+  <string name="spoken_emoji_1F484">"ក្រេម​លាប​បបូរ​មាត់"</string>
+  
+  <string name="spoken_emoji_1F485">"ថ្នាំ​លាប​​​ក្រចក"</string>
+  
+  <string name="spoken_emoji_1F486">"ម៉ាស្សា​មុខ"</string>
+  
+  <string name="spoken_emoji_1F487">"កាត់សក់"</string>
+  
+  <string name="spoken_emoji_1F488">"ស្លាក​សញ្ញា​កាត់សក់"</string>
+  
+  <string name="spoken_emoji_1F489">"ស៊ីរ៉ាំង"</string>
+  
+  <string name="spoken_emoji_1F48A">"ថ្នាំ​គ្រាប់​"</string>
+  
+  <string name="spoken_emoji_1F48B">"ស្នាម​ថើប"</string>
+  
+  <string name="spoken_emoji_1F48C">"លិខិត​ស្នេហា​"</string>
+  
+  <string name="spoken_emoji_1F48D">"រោទ៍"</string>
+  
+  <string name="spoken_emoji_1F48E">"ត្បូង​ថ្ម"</string>
+  
+  <string name="spoken_emoji_1F48F">"ថើប"</string>
+  
+  <string name="spoken_emoji_1F490">"បាច់​​ផ្កា"</string>
+  
+  <string name="spoken_emoji_1F491">"ប្ដី​ប្រពន្ធ​​ និង​រូប​បេះដូង"</string>
+  
+  <string name="spoken_emoji_1F492">"អាពាហ៍ពិពាហ៍"</string>
+  
+  <string name="spoken_emoji_1F493">"​សំឡេង​បេះដូង​លោត"</string>
+  
+  <string name="spoken_emoji_1F494">"ខូច​ចិត្ត"</string>
+  
+  <string name="spoken_emoji_1F495">"បេះដូង​​ពីរ"</string>
+  
+  <string name="spoken_emoji_1F496">"បេះដូង​​មាន​ពន្លឺ"</string>
+  
+  <string name="spoken_emoji_1F497">"បេះដូង​​លូតលាស់"</string>
+  
+  <string name="spoken_emoji_1F498">"បេះដូង​​ជាប់​ព្រួញ"</string>
+  
+  <string name="spoken_emoji_1F499">"បេះដូង​​ពណ៌​ខៀវ"</string>
+  
+  <string name="spoken_emoji_1F49A">"បេះដូង​​ពណ៌​បៃតង"</string>
+  
+  <string name="spoken_emoji_1F49B">"បេះដូង​​ពណ៌​លឿង"</string>
+  
+  <string name="spoken_emoji_1F49C">"បេះដូង​​ពណ៌ស្វាយ"</string>
+  
+  <string name="spoken_emoji_1F49D">"បេះដូង​ជាប់​ខ្សែ​បូ"</string>
+  
+  <string name="spoken_emoji_1F49E">"បេះដូង​វិល"</string>
+  
+  <string name="spoken_emoji_1F49F">"ការ​តុបតែង​បេះដូង"</string>
+  
+  <string name="spoken_emoji_1F4A0">"​រាង​ពេជ្រ​​មាន​​ចំណុច​​ខាង​ក្នុង"</string>
+  
+  <string name="spoken_emoji_1F4A1">"អំពូល​​អគ្គិសនី"</string>
+  
+  <string name="spoken_emoji_1F4A2">"និមិត្ត​សញ្ញា​កំហឹង"</string>
+  
+  <string name="spoken_emoji_1F4A3">"គ្រាប់បែក"</string>
+  
+  <string name="spoken_emoji_1F4A4">"និមិត្ត​សញ្ញា​​ដេក"</string>
+  
+  <string name="spoken_emoji_1F4A5">"និមិត្ត​សញ្ញា​​ប៉ះ​ទង្គិច​គ្នា"</string>
+  
+  <string name="spoken_emoji_1F4A6">"និមិត្ត​សញ្ញា​​ស្រក់​ញើស​"</string>
+  
+  <string name="spoken_emoji_1F4A7">"ដំណក់​ទឹក"</string>
+  
+  <string name="spoken_emoji_1F4A8">"និមិត្ត​សញ្ញា​​ដកឃ្លា"</string>
+  
+  <string name="spoken_emoji_1F4A9">"គំនរ​ធូលី"</string>
+  
+  <string name="spoken_emoji_1F4AA">"ដំឡើង​សាច់ដុំ​ដើមដៃ"</string>
+  
+  <string name="spoken_emoji_1F4AB">"និមិត្ត​សញ្ញា​​វិលមុខ"</string>
+  
+  <string name="spoken_emoji_1F4AC">"ប្រអប់​បញ្ចេញ​យោបល់"</string>
+  
+  <string name="spoken_emoji_1F4AD">"ប្រអប់​គំនិត"</string>
+  
+  <string name="spoken_emoji_1F4AE">"ផ្កា​​ពណ៌ស"</string>
+  
+  <string name="spoken_emoji_1F4AF">"និមិត្ត​សញ្ញា​​មួយ​រយ​ពិន្ទុ"</string>
+  
+  <string name="spoken_emoji_1F4B0">"កាបូប​​លុយ"</string>
+  
+  <string name="spoken_emoji_1F4B1">"ប្ដូរ​​រូបិយប័ណ្ណ"</string>
+  
+  <string name="spoken_emoji_1F4B2">"សញ្ញា​ដុល្លារ"</string>
+  
+  <string name="spoken_emoji_1F4B3">"កាត​​ឥណទាន"</string>
+  
+  <string name="spoken_emoji_1F4B4">"ក្រដាស​ប្រាក់​​ធនាគារ​មាន​សញ្ញា​​យ៉េន​​"</string>
+  
+  <string name="spoken_emoji_1F4B5">"លុយដុល្លារ"</string>
+  
+  <string name="spoken_emoji_1F4B6">"ក្រដាស​ប្រាក់​​ធនាគារ​មាន​សញ្ញា​អឺរ៉ូ"</string>
+  
+  <string name="spoken_emoji_1F4B7">"ក្រដាស​ប្រាក់​​ធនាគារ​មាន​សញ្ញា​​​ផោន"</string>
+  
+  <string name="spoken_emoji_1F4B8">"លុយ​មាន​ស្លាប"</string>
+  
+  <string name="spoken_emoji_1F4B9">"ក្រាហ្វិក​និន្នាការ​ឡើង​​មាន​​សញ្ញា​យ៉េន"</string>
+  
+  <string name="spoken_emoji_1F4BA">"កៅអី"</string>
+  
+  <string name="spoken_emoji_1F4BB">"កុំព្យូទ័រ​ផ្ទាល់ខ្លួន"</string>
+  
+  <string name="spoken_emoji_1F4BC">"វ៉ា​លី​"</string>
+  
+  <string name="spoken_emoji_1F4BD">"ឌីស​​តូច"</string>
+  
+  <string name="spoken_emoji_1F4BE">"ថា​ស​​ទន់"</string>
+  
+  <string name="spoken_emoji_1F4BF">"ថាស"</string>
+  
+  <string name="spoken_emoji_1F4C0">"ឌីវីឌី"</string>
+  
+  <string name="spoken_emoji_1F4C1">"ថត​​ឯកសារ"</string>
+  
+  <string name="spoken_emoji_1F4C2">"ថត​ឯកសារ​បើក"</string>
+  
+  <string name="spoken_emoji_1F4C3">"ទំព័រ​​កោង"</string>
+  
+  <string name="spoken_emoji_1F4C4">"ទំព័រ​បញ្ឈរ"</string>
+  
+  <string name="spoken_emoji_1F4C5">"ប្រតិទិន"</string>
+  
+  <string name="spoken_emoji_1F4C6">"ហែក​ប្រតិទិន​"</string>
+  
+  <string name="spoken_emoji_1F4C7">"​កាត​រៀប​តាម​អក្សរ"</string>
+  
+  <string name="spoken_emoji_1F4C8">"ក្រាហ្វិក​មាន​និន្នាការ​ឡើង"</string>
+  
+  <string name="spoken_emoji_1F4C9">"ក្រាហ្វិក​មាន​និន្នាការ​ចុះ"</string>
+  
+  <string name="spoken_emoji_1F4CA">"គំនូស​តាង​របារ"</string>
+  
+  <string name="spoken_emoji_1F4CB">"ក្ដារ​តម្បៀត​ខ្ទាស់"</string>
+  
+  <string name="spoken_emoji_1F4CC">"ម្ជុល"</string>
+  
+  <string name="spoken_emoji_1F4CD">"ម្ជុល​ក្បាល​មូល"</string>
+  
+  <string name="spoken_emoji_1F4CE">"ដង្កៀប​​ក្រដាស"</string>
+  
+  <string name="spoken_emoji_1F4CF">"បន្ទាត់​ត្រង់"</string>
+  
+  <string name="spoken_emoji_1F4D0">"បន្ទាត់​រៀង​ត្រីកោណ"</string>
+  
+  <string name="spoken_emoji_1F4D1">"ផ្ទាំង​​​ចំណាំ"</string>
+  
+  <string name="spoken_emoji_1F4D2">"បញ្ជី​កត់ត្រា"</string>
+  
+  <string name="spoken_emoji_1F4D3">"សៀវភៅ"</string>
+  
+  <string name="spoken_emoji_1F4D4">"សៀវភៅ​មាន​ក្រប​ពណ៌"</string>
+  
+  <string name="spoken_emoji_1F4D5">"សៀវភៅ​​បិទ"</string>
+  
+  <string name="spoken_emoji_1F4D6">"សៀវភៅ​បើក​​"</string>
+  
+  <string name="spoken_emoji_1F4D7">"សៀវភៅ​​ពណ៌​បៃតង"</string>
+  
+  <string name="spoken_emoji_1F4D8">"សៀវភៅ​​ពណ៌​ខៀវ"</string>
+  
+  <string name="spoken_emoji_1F4D9">"សៀវភៅ​​ពណ៌​ទឹកក្រូច"</string>
+  
+  <string name="spoken_emoji_1F4DA">"សៀវភៅ​"</string>
+  
+  <string name="spoken_emoji_1F4DB">"ស្លាកឈ្មោះ"</string>
+  
+  <string name="spoken_emoji_1F4DC">"ក្រដាស​រមូរ"</string>
+  
+  <string name="spoken_emoji_1F4DD">"កំណត់ចំណាំ"</string>
+  
+  <string name="spoken_emoji_1F4DE">"អ្នក​ទទួល​ទូរស័ព្ទ"</string>
+  
+  <string name="spoken_emoji_1F4DF">"ភេយ័រ"</string>
+  
+  <string name="spoken_emoji_1F4E0">"ម៉ាស៊ីន​​ទូរសារ"</string>
+  
+  <string name="spoken_emoji_1F4E1">"អង់តែន​​ផ្កាយ​រណប"</string>
+  
+  <string name="spoken_emoji_1F4E2">"អូប៉ាល័រ​ប្រកាស​សាធារណៈ"</string>
+  
+  <string name="spoken_emoji_1F4E3">"ឧបករណ៍​បំពង​សំឡេង"</string>
+  
+  <string name="spoken_emoji_1F4E4">"ថា​ស​​​ចេញ"</string>
+  
+  <string name="spoken_emoji_1F4E5">"ថា​ស​ចូល"</string>
+  
+  <string name="spoken_emoji_1F4E6">"កញ្ចប់​"</string>
+  
+  <string name="spoken_emoji_1F4E7">"និមិត្ត​សញ្ញា​អ៊ីមែល"</string>
+  
+  <string name="spoken_emoji_1F4E8">"ស្រោម​​សំបុត្រ​ចូល"</string>
+  
+  <string name="spoken_emoji_1F4E9">"ស្រោម​សំបុត្រ​​មាន​សញ្ញា​ព្រួញ​ពី​លើ"</string>
+  
+  <string name="spoken_emoji_1F4EA">"ប្រអប់​សំបុត្រ​បិទ​មាន​ទង់​ចុះក្រោម"</string>
+  
+  <string name="spoken_emoji_1F4EB">"ប្រអប់​សំបុត្រ​បិទ​មាន​ទង់​ឡើង​លើ"</string>
+  
+  <string name="spoken_emoji_1F4EC">"ប្រអប់​សំបុត្រ​បើក​មាន​ទង់​ឡើង​លើ"</string>
+  
+  <string name="spoken_emoji_1F4ED">"ប្រអប់​សំបុត្រ​បើក​មាន​ទង់ចុះក្រោម"</string>
+  
+  <string name="spoken_emoji_1F4EE">"ប្រអប់​ប្រៃសណីយ៍"</string>
+  
+  <string name="spoken_emoji_1F4EF">"ស្នែង​​ប្រៃសណីយ៍"</string>
+  
+  <string name="spoken_emoji_1F4F0">"កាសែត"</string>
+  
+  <string name="spoken_emoji_1F4F1">"ទូរស័ព្ទ​ចល័ត"</string>
+  
+  <string name="spoken_emoji_1F4F2">"ទូរស័ព្ទ​ចល័ត​មាន​សញ្ញា​ព្រួញ​ចូល​ពី​​ឆ្វេង"</string>
+  
+  <string name="spoken_emoji_1F4F3">"របៀប​​​ញ័រ"</string>
+  
+  <string name="spoken_emoji_1F4F4">"បិទ​ទូរស័ព្ទ​​ចល័ត"</string>
+  
+  <string name="spoken_emoji_1F4F5">"មិន​មាន​ទូរស័ព្ទ​​ចល័ត"</string>
+  
+  <string name="spoken_emoji_1F4F6">"អង់តែន​មាន​របារ"</string>
+  
+  <string name="spoken_emoji_1F4F7">"ម៉ាស៊ីន​ថត"</string>
+  
+  <string name="spoken_emoji_1F4F9">"ម៉ាស៊ីន​ថត​វីដេអូ"</string>
+  
+  <string name="spoken_emoji_1F4FA">"ទូរទស្សន៍"</string>
+  
+  <string name="spoken_emoji_1F4FB">"វិទ្យុ"</string>
+  
+  <string name="spoken_emoji_1F4FC">"ការ​សែត​វីដេអូ"</string>
+  
+  <string name="spoken_emoji_1F500">"ព្រួញ​រមួល​ទៅ​ស្ដាំ"</string>
+  
+  <string name="spoken_emoji_1F501">"ព្រួញ​រាង​ជា​រង្វង់​បើក​​​ស្រប​ទិស​ទ្រនិច​នាឡិកា​ទៅ​ឆ្វេង-ស្ដាំ"</string>
+  
+  <string name="spoken_emoji_1F502">"ព្រួញ​រាង​ជា​រង្វង់​បើក​​ស្រប​ទិស​ទ្រនិច​នាឡិកា​ទៅ​ឆ្វេង-ស្ដាំ​មាន​លេខ​ ១​ក្នុង​រង្វង់​នៅ​ពី​លើ"</string>
+  
+  <string name="spoken_emoji_1F503">"ព្រួញ​រាង​ជា​រង្វង់​បើក​​ស្រប​ទិស​ទ្រនិច​នាឡិកា​ចុះក្រោម-ឡើងលើ"</string>
+  
+  <string name="spoken_emoji_1F504">"ព្រួញ​រាង​ជា​រង្វង់​បើក​​ច្រាស​​ទិស​ទ្រនិច​នាឡិកា​ចុះក្រោម-ឡើងលើ"</string>
+  
+  <string name="spoken_emoji_1F505">"និមិត្ត​សញ្ញា​ពន្លឺ​​ទាប"</string>
+  
+  <string name="spoken_emoji_1F506">"និមិត្ត​សញ្ញា​​ពន្លឺ​ខ្ពស់"</string>
+  
+  <string name="spoken_emoji_1F507">"អូប៉ាល័រ​មាន​បន្ទាត់​កាត់"</string>
+  
+  <string name="spoken_emoji_1F508">"អូប៉ាល័រ"</string>
+  
+  <string name="spoken_emoji_1F509">"អូប៉ាល័រ​មាន​រលក​សំឡេង​មួយ"</string>
+  
+  <string name="spoken_emoji_1F50A">"អូប៉ាល័រ​មាន​រលក​សំឡេង​បី"</string>
+  
+  <string name="spoken_emoji_1F50B">"ថ្ម"</string>
+  
+  <string name="spoken_emoji_1F50C">"ដុយ​អគ្គិសនី"</string>
+  
+  <string name="spoken_emoji_1F50D">"កែវ​ពង្រីក​ចង្អុល​ខាង​ឆ្វេង"</string>
+  
+  <string name="spoken_emoji_1F50E">"កែវ​ពង្រីក​ចង្អុល​ខាង​ស្ដាំ"</string>
+  
+  <string name="spoken_emoji_1F50F">"ចាក់សោ​​​ដោយ​ប្រើ​​ប៊ិច​"</string>
+  
+  <string name="spoken_emoji_1F510">"បិទ​​សោ​ដោយ​ប្រើ​​​​កូនសោ"</string>
+  
+  <string name="spoken_emoji_1F511">"សោ"</string>
+  
+  <string name="spoken_emoji_1F512">"ចាក់សោ"</string>
+  
+  <string name="spoken_emoji_1F513">"បើក​សោ"</string>
+  
+  <string name="spoken_emoji_1F514">"កណ្ដឹង"</string>
+  
+  <string name="spoken_emoji_1F515">"កណ្ដឹង​មាន​បន្ទាត់​កាត់"</string>
+  
+  <string name="spoken_emoji_1F516">"​ចំណាំ"</string>
+  
+  <string name="spoken_emoji_1F517">"និមិត្ត​សញ្ញា​​តំណ"</string>
+  
+  <string name="spoken_emoji_1F518">"ប៊ូតុង​​មូល"</string>
+  
+  <string name="spoken_emoji_1F519">"ថយក្រោយ​មាន​ព្រួញ​ទៅ​ឆ្វេង​ខាង​លើ"</string>
+  
+  <string name="spoken_emoji_1F51A">"បញ្ចប់​មាន​ព្រួញ​ទៅ​ឆ្វេង​ខាង​លើ"</string>
+  
+  <string name="spoken_emoji_1F51B">"បើក​មាន​សញ្ញា​ឧទាន​​ជា​មួយ​នឹង​ព្រួញ​ទៅ​ឆ្វេង​​ខាង​លើ"</string>
+  
+  <string name="spoken_emoji_1F51C">"ឆាប់ៗ​មាន​ព្រួញ​ទៅ​ស្ដាំ​ខាង​លើ"</string>
+  
+  <string name="spoken_emoji_1F51D">"កំពូល​មាន​ព្រួញ​ឡើងលើ​នៅ​ខាង​លើ"</string>
+  
+  <string name="spoken_emoji_1F51E">"​និមិត្ត​សញ្ញា​គ្មាន​នរណា​ម្នាក់​​អាយុ​​ក្រោម​ដប់ប្រាំ​បី"</string>
+  
+  <string name="spoken_emoji_1F51F">"គ្រាប់​ចុច​ ១០"</string>
+  
+  <string name="spoken_emoji_1F520">"និមិត្ត​សញ្ញា​បញ្ចូល​សម្រាប់​អក្សរ​ឡាតាំង​ធំ"</string>
+  
+  <string name="spoken_emoji_1F521">"និមិត្ត​សញ្ញា​បញ្ចូល​សម្រាប់​អក្សរ​ឡាតាំង​តូច"</string>
+  
+  <string name="spoken_emoji_1F522">"និមិត្ត​សញ្ញា​បញ្ចូល​សម្រាប់​​លេខ​"</string>
+  
+  <string name="spoken_emoji_1F523">"ការ​បញ្ចូល​និមិត្តសញ្ញា"</string>
+  
+  <string name="spoken_emoji_1F524">"និមិត្ត​សញ្ញា​បញ្ចូល​សម្រាប់​អក្សរ​ឡាតាំង"</string>
+  
+  <string name="spoken_emoji_1F525">"ភ្លើង"</string>
+  
+  <string name="spoken_emoji_1F526">"ពិល​​អគ្គិសនី"</string>
+  
+  <string name="spoken_emoji_1F527">"ម៉ាឡេត"</string>
+  
+  <string name="spoken_emoji_1F528">"ញញួរ"</string>
+  
+  <string name="spoken_emoji_1F529">"ឡោ​ស៊ី​​"</string>
+  
+  <string name="spoken_emoji_1F52A">"កាំបិត​​"</string>
+  
+  <string name="spoken_emoji_1F52B">"កាំភ្លើង​ខ្លី"</string>
+  
+  <string name="spoken_emoji_1F52C">"មីក្រូទស្សន៍"</string>
+  
+  <string name="spoken_emoji_1F52D">"កែវ​យឹត"</string>
+  
+  <string name="spoken_emoji_1F52E">"​បាល់​គ្រីស្តាល់"</string>
+  
+  <string name="spoken_emoji_1F52F">"ផ្កាយ​ ៦ជ្រុងមាន​ចំណុចកណ្ដាល"</string>
+  
+  <string name="spoken_emoji_1F530">"និមិត្តសញ្ញា​ជប៉ុន​សម្រាប់​អ្នក​ចាប់ផ្ដើម"</string>
+  
+  <string name="spoken_emoji_1F531">"លំពែង​មុខ​បី"</string>
+  
+  <string name="spoken_emoji_1F532">"ប៊ូតុង​ការេ​ពណ៌​ខ្មៅ"</string>
+  
+  <string name="spoken_emoji_1F533">"ប៊ូតុង​ការ៉េ​ពណ៌​ស​"</string>
+  
+  <string name="spoken_emoji_1F534">"រង្វង់​ពណ៌​ក្រហម​​​ធំ"</string>
+  
+  <string name="spoken_emoji_1F535">"រង្វង់​ពណ៌​ខៀវ​ធំ"</string>
+  
+  <string name="spoken_emoji_1F536">"ពេជ្រ​ពណ៌​ទឹកក្រូច​ធំ"</string>
+  
+  <string name="spoken_emoji_1F537">"ពេជ្រ​ពណ៌​ខៀវ​​ធំ"</string>
+  
+  <string name="spoken_emoji_1F538">"ពេជ្រ​ពណ៌​ទឹកក្រូច​​តូច"</string>
+  
+  <string name="spoken_emoji_1F539">"ពេជ្រ​ពណ៌​ខៀវ​​តូច"</string>
+  
+  <string name="spoken_emoji_1F53A">"ត្រីកោណ​ពណ៌​ក្រហម​កំពូល​ឡើងលើ"</string>
+  
+  <string name="spoken_emoji_1F53B">"ត្រីកោណ​ពណ៌​ក្រហម​កំពូល​​ចុះ​ក្រោម"</string>
+  
+  <string name="spoken_emoji_1F53C">"ត្រីកោណ​ពណ៌​ក្រហម​តូច​កំពូល​ឡើងលើ"</string>
+  
+  <string name="spoken_emoji_1F53D">"ត្រីកោណ​ពណ៌​ក្រហម​​តូច​កំពូល​​ចុះ​ក្រោម"</string>
+  
+  <string name="spoken_emoji_1F550">"មុខ​នាឡិកា​ម៉ោង​មួយ"</string>
+  
+  <string name="spoken_emoji_1F551">"មុខ​នាឡិកា​ម៉ោង​ពីរ"</string>
+  
+  <string name="spoken_emoji_1F552">"មុខ​នាឡិកា​ម៉ោង​បី"</string>
+  
+  <string name="spoken_emoji_1F553">"មុខ​នាឡិកា​ម៉ោង​បួន"</string>
+  
+  <string name="spoken_emoji_1F554">"មុខ​នាឡិកា​ម៉ោង​​ប្រាំ"</string>
+  
+  <string name="spoken_emoji_1F555">"មុខ​នាឡិកា​ម៉ោង​ប្រាំមួយ"</string>
+  
+  <string name="spoken_emoji_1F556">"មុខ​នាឡិកា​ម៉ោង​ប្រាំពីរ"</string>
+  
+  <string name="spoken_emoji_1F557">"មុខ​នាឡិកា​ម៉ោង​ប្រាំបី"</string>
+  
+  <string name="spoken_emoji_1F558">"មុខ​នាឡិកា​ម៉ោង​ប្រាំ​បួន"</string>
+  
+  <string name="spoken_emoji_1F559">"មុខ​នាឡិកា​ម៉ោង​ដប់"</string>
+  
+  <string name="spoken_emoji_1F55A">"មុខ​នាឡិកា​ម៉ោង​ដប់​មួយ"</string>
+  
+  <string name="spoken_emoji_1F55B">"មុខ​នាឡិកា​ម៉ោង​ដប់​ពីរ"</string>
+  
+  <string name="spoken_emoji_1F55C">"មុខ​នាឡិកា​ម៉ោង​មួយ​កន្លះ"</string>
+  
+  <string name="spoken_emoji_1F55D">"មុខ​នាឡិកា​ម៉ោង​ពីរ​កន្លះ"</string>
+  
+  <string name="spoken_emoji_1F55E">"មុខ​នាឡិកា​ម៉ោង​​បី​​កន្លះ"</string>
+  
+  <string name="spoken_emoji_1F55F">"មុខ​នាឡិកា​ម៉ោង​​បួន​​កន្លះ"</string>
+  
+  <string name="spoken_emoji_1F560">"មុខ​នាឡិកា​ម៉ោង​ប្រាំ​កន្លះ"</string>
+  
+  <string name="spoken_emoji_1F561">"មុខ​នាឡិកា​ម៉ោង​​ប្រាំ​មួយ​កន្លះ"</string>
+  
+  <string name="spoken_emoji_1F562">"មុខ​នាឡិកា​ម៉ោង​ប្រាំ​ពីរ​កន្លះ"</string>
+  
+  <string name="spoken_emoji_1F563">"មុខ​នាឡិកា​ម៉ោង​​ប្រាំ​បី​កន្លះ"</string>
+  
+  <string name="spoken_emoji_1F564">"មុខ​នាឡិកា​ម៉ោង​​ប្រាំ​បួន​​​កន្លះ"</string>
+  
+  <string name="spoken_emoji_1F565">"មុខ​នាឡិកា​ម៉ោង​ដប់​កន្លះ"</string>
+  
+  <string name="spoken_emoji_1F566">"មុខ​នាឡិកា​ម៉ោង​ដប់​​មួយ​កន្លះ"</string>
+  
+  <string name="spoken_emoji_1F567">"មុខ​នាឡិកា​ម៉ោង​ដប់​ពីរ​​កន្លះ"</string>
+  
+  <string name="spoken_emoji_1F5FB">"ភ្នំ​ហ្វូជី"</string>
+  
+  <string name="spoken_emoji_1F5FC">"អគារ​ទី​ក្រុង​តូក្យូ"</string>
+  
+  <string name="spoken_emoji_1F5FD">"រូបសំណាក​​សេរីភាព"</string>
+  
+  <string name="spoken_emoji_1F5FE">"គំនូរ​ស្រមោល​​ជប៉ុន"</string>
+  
+  <string name="spoken_emoji_1F5FF">"ម៉ូយ៉ៃ"</string>
+  
+  <string name="spoken_emoji_1F600">"មុខ​ញញឹម​ខាំ​ធ្មេញ"</string>
+  
+  <string name="spoken_emoji_1F601">"មុខ​ញញឹម​ខាំ​ធ្មេញ​ជា​មួយ​ភ្នែក​បើក"</string>
+  
+  <string name="spoken_emoji_1F602">"មុខ​ទ​ទឹក​មាន​ភ្នែក​រីករាយ"</string>
+  
+  <string name="spoken_emoji_1F603">"មុខ​ញញឹម​បើក​មាត់"</string>
+  
+  <string name="spoken_emoji_1F604">"មុខ​ញញឹម​បើក​មាត់ និង​បើក​ភ្នែក"</string>
+  
+  <string name="spoken_emoji_1F605">"ញញឹម​មុខ​​បើក​មាត់ និង​ខ្វល់ខ្វាយ"</string>
+  
+  <string name="spoken_emoji_1F606">"ញញឹម​មុខ​​បើក​មាត់ និង​​បិទ​ភ្នែក​បន្តិច"</string>
+  
+  <string name="spoken_emoji_1F607">"មុខ​ញញឹម​មាន​រង្វង់​ខាង​លើ"</string>
+  
+  <string name="spoken_emoji_1F608">"មុខ​ញញឹម​​មាន​ស្នែង"</string>
+  
+  <string name="spoken_emoji_1F609">"មុខ​មិច​ភ្នែក"</string>
+  
+  <string name="spoken_emoji_1F60A">"មុខ​ញញឹម​បើក​ភ្នែក"</string>
+  
+  <string name="spoken_emoji_1F60B">"មុខ​បង្ហាញ​រសជាតិ​អាហារ​ឆ្ងាញ់"</string>
+  
+  <string name="spoken_emoji_1F60C">"មុខ​​ធូរ​​ស្រាល"</string>
+  
+  <string name="spoken_emoji_1F60D">"មុខ​ញញឹម​ជា​មួយ​ភ្នែក​រូប​បេះ​ដូង"</string>
+  
+  <string name="spoken_emoji_1F60E">"មុខ​ញញឹម​ពាក់​វ៉ែនតា​ខ្មៅ"</string>
+  
+  <string name="spoken_emoji_1F60F">"មុខ​ញញឹម​ចំអក"</string>
+  
+  <string name="spoken_emoji_1F610">"មុខ​​អព្យាក្រឹត"</string>
+  
+  <string name="spoken_emoji_1F611">"មុខ​គ្មាន​អារម្មណ៍"</string>
+  
+  <string name="spoken_emoji_1F612">"មុខ​អត់​សប្បាយ​ចិត្ត"</string>
+  
+  <string name="spoken_emoji_1F613">"មុខ​​​មាន​​ញើស"</string>
+  
+  <string name="spoken_emoji_1F614">"មុខគិត"</string>
+  
+  <string name="spoken_emoji_1F615">"មុខ​​យល់​ច្រឡំ"</string>
+  
+  <string name="spoken_emoji_1F616">"មុខ​​អាក្រក់"</string>
+  
+  <string name="spoken_emoji_1F617">"មុខ​ថើប"</string>
+  
+  <string name="spoken_emoji_1F618">"មុខ​បង្ហាញ​ការ​ថើប"</string>
+  
+  <string name="spoken_emoji_1F619">"មុខ​ថើប​បើក​ភ្នែក"</string>
+  
+  <string name="spoken_emoji_1F61A">"មុខ​ថើប​បិទ​ភ្នែក"</string>
+  
+  <string name="spoken_emoji_1F61B">"មុខ​លៀន​​អណ្ដាត"</string>
+  
+  <string name="spoken_emoji_1F61C">"មុខ​លៀន​​អណ្ដាត ហើយ​មិច​ភ្នែក"</string>
+  
+  <string name="spoken_emoji_1F61D">"មុខ​លៀន​អណ្ដាត ហើយ​​បិទ​ភ្នែក​បន្តិច"</string>
+  
+  <string name="spoken_emoji_1F61E">"មុខ​ខកចិត្ត"</string>
+  
+  <string name="spoken_emoji_1F61F">"មុខ​​ព្រួយ​បារម្ភ"</string>
+  
+  <string name="spoken_emoji_1F620">"មុខ​​ខឹង"</string>
+  
+  <string name="spoken_emoji_1F621">"មុខ​ក្និកក្នក់"</string>
+  
+  <string name="spoken_emoji_1F622">"មុខ​យំ"</string>
+  
+  <string name="spoken_emoji_1F623">"មុខ​លំបាក"</string>
+  
+  <string name="spoken_emoji_1F624">"មុខ​ជ័យ​ជំនះ"</string>
+  
+  <string name="spoken_emoji_1F625">"មុខ​ខកចិត្ត​ប៉ុន្តែ​ធូរស្រាល"</string>
+  
+  <string name="spoken_emoji_1F626">"មុខ​ក្រញូវ​បើកមាត់"</string>
+  
+  <string name="spoken_emoji_1F627">"មុខ​ខូច​ចិត្ត"</string>
+  
+  <string name="spoken_emoji_1F628">"មុខ​ភ័យ​ខ្លាច"</string>
+  
+  <string name="spoken_emoji_1F629">"មុខ​​នឿយហត់"</string>
+  
+  <string name="spoken_emoji_1F62A">"មុខ​​ងងុយ​គេង"</string>
+  
+  <string name="spoken_emoji_1F62B">"មុខ​អស់កម្លាំង​​"</string>
+  
+  <string name="spoken_emoji_1F62C">"មុខ​ក្រញេវក្រញូវ​"</string>
+  
+  <string name="spoken_emoji_1F62D">"មុខ​យំ​លឺៗ"</string>
+  
+  <string name="spoken_emoji_1F62E">"មុខ​បើក​មាត់"</string>
+  
+  <string name="spoken_emoji_1F62F">"មុខ​ស្ងៀមស្ងាត់"</string>
+  
+  <string name="spoken_emoji_1F630">"មុខ​បើក​មាត់​ ហើយ​មាន​ញើស"</string>
+  
+  <string name="spoken_emoji_1F631">"មុខ​ស្រែក​ដោយ​ភ័យ​ខ្លាច"</string>
+  
+  <string name="spoken_emoji_1F632">"មុខ​រ​ភ្ញាក់​ផ្អើល"</string>
+  
+  <string name="spoken_emoji_1F633">"មុខ​ក្រហម"</string>
+  
+  <string name="spoken_emoji_1F634">"មុខ​កំពុង​ដេក"</string>
+  
+  <string name="spoken_emoji_1F635">"មុខ​​កំពុង​វិលមុខ"</string>
+  
+  <string name="spoken_emoji_1F636">"មុខ​អត់មាន​មាត់"</string>
+  
+  <string name="spoken_emoji_1F637">"មុខ​ពាក់​ម៉ាស់"</string>
+  
+  <string name="spoken_emoji_1F638">"មុខ​ឆ្មា​ញញឹម​ខាំធ្មេញ​ ហើយ​បើក​ភ្នែក"</string>
+  
+  <string name="spoken_emoji_1F639">"មុខ​ឆ្មា​ស្រក​ទឹកភ្នែក"</string>
+  
+  <string name="spoken_emoji_1F63A">"មុខ​ឆ្មា​ញញឹម​ ហើយ​បើក​មាត់"</string>
+  
+  <string name="spoken_emoji_1F63B">"មុខ​ឆ្មា​ញញឹម​ជា​មួ​យ​ភ្នែក​រាង​បេះដូង"</string>
+  
+  <string name="spoken_emoji_1F63C">"មុខ​ឆ្មា​ជា​មួយ​ការ​ញញឹម​ញាក់​មុខ"</string>
+  
+  <string name="spoken_emoji_1F63D">"មុខ​ឆ្មា​ថើប​ហើយ​បិទ​ភ្នែក"</string>
+  
+  <string name="spoken_emoji_1F63E">"មុខ​ឆ្មា​ក្និកក្នក់"</string>
+  
+  <string name="spoken_emoji_1F63F">"មុខ​ឆ្មា​យំ"</string>
+  
+  <string name="spoken_emoji_1F640">"មុខ​ឆ្មា​នឿយ​ហត់"</string>
+  
+  <string name="spoken_emoji_1F645">"មុខ​គ្មាន​កាយវិការ​ល្អ"</string>
+  
+  <string name="spoken_emoji_1F646">"មុខ​មាន​កាយវិការ​យល់ព្រម"</string>
+  
+  <string name="spoken_emoji_1F647">"មនុស្ស​អោន​ខ្លួន​ខ្លាំង"</string>
+  
+  <string name="spoken_emoji_1F648">"ស្វា​បិទ​ភ្នែក"</string>
+  
+  <string name="spoken_emoji_1F649">"ស្វា​បិទ​ត្រចៀក"</string>
+  
+  <string name="spoken_emoji_1F64A">"ស្វា​បិទ​មាត់"</string>
+  
+  <string name="spoken_emoji_1F64B">"មនុស្ស​សប្បាយ​​លើក​ដៃ​មួយ"</string>
+  
+  <string name="spoken_emoji_1F64C">"លើក​ដៃ​ទាំង​ពីរ​អបអរ"</string>
+  
+  <string name="spoken_emoji_1F64D">"មនុស្ស​ចង​ចិញ្ចើម"</string>
+  
+  <string name="spoken_emoji_1F64E">"មនុស្ស​មាន​មុខ​ក្និកក្នក់"</string>
+  
+  <string name="spoken_emoji_1F64F">"មនុស្ស​អោប​ដៃ"</string>
+  
+  <string name="spoken_emoji_1F680">"គ្រាប់​​រ៉ុកកែត"</string>
+  
+  <string name="spoken_emoji_1F681">"ឧទ្ធម្ភាគចក្រ"</string>
+  
+  <string name="spoken_emoji_1F682">"ក្បាល​រថភ្លើង"</string>
+  
+  <string name="spoken_emoji_1F683">"ទូរ​​រថភ្លើង"</string>
+  
+  <string name="spoken_emoji_1F684">"រថភ្លើង​ល្បឿន​លឿន"</string>
+  
+  <string name="spoken_emoji_1F685">"រថភ្លើង​ល្បឿន​លឿន​​មាន​ច្រមុះ"</string>
+  
+  <string name="spoken_emoji_1F686">"រថភ្លើង​"</string>
+  
+  <string name="spoken_emoji_1F687">"មេត្រូ"</string>
+  
+  <string name="spoken_emoji_1F688">"រថភ្លើង​ប្រើ​​​ពន្លឺ"</string>
+  
+  <string name="spoken_emoji_1F689">"ស្ថានីយ"</string>
+  
+  <string name="spoken_emoji_1F68A">"រថយន្ត​រត់​លើ​ផ្លូវ​ដែក"</string>
+  
+  <string name="spoken_emoji_1F68B">"រថយន្ត​រត់​លើ​ផ្លូវ​ដែក"</string>
+  
+  <string name="spoken_emoji_1F68C">"រថយន្តក្រុង"</string>
+  
+  <string name="spoken_emoji_1F68D">"រថយន្ត​ក្រុង​ខាង​មុខ"</string>
+  
+  <string name="spoken_emoji_1F68E">"រថយន្ត​ប្រើ​ចរន្ត​អគ្គិសនី"</string>
+  
+  <string name="spoken_emoji_1F68F">"ចំណត​រថយន្ត​ក្រុង"</string>
+  
+  <string name="spoken_emoji_1F690">"រថយន្ត​ទេសចរណ៍​​​តូច"</string>
+  
+  <string name="spoken_emoji_1F691">"រថយន្ត​សង្គ្រោះ​បន្ទាន់"</string>
+  
+  <string name="spoken_emoji_1F692">"ម៉ាស៊ីន​ភ្លើង"</string>
+  
+  <string name="spoken_emoji_1F693">"រថយន្ត​ប៉ូលិស"</string>
+  
+  <string name="spoken_emoji_1F694">"រថយន្ត​ប៉ូលិស​ខាង​មុខ"</string>
+  
+  <string name="spoken_emoji_1F695">"តាក់ស៊ី"</string>
+  
+  <string name="spoken_emoji_1F696">"តាក់ស៊ី​ខាង​មុខ"</string>
+  
+  <string name="spoken_emoji_1F697">"រថយន្ត"</string>
+  
+  <string name="spoken_emoji_1F698">"រថយន្ត​ខាង​មុខ"</string>
+  
+  <string name="spoken_emoji_1F699">"រថយន្ត​​​សម្រាប់​កម្សាន្ត​"</string>
+  
+  <string name="spoken_emoji_1F69A">"រថយន្ត​​ចែក​ចាយ"</string>
+  
+  <string name="spoken_emoji_1F69B">"ឡាន​កាមីយ៉ុង"</string>
+  
+  <string name="spoken_emoji_1F69C">"ត្រាក់ទ័រ"</string>
+  
+  <string name="spoken_emoji_1F69D">"ប្រព័ន្ធ​ផ្លូវ​រថភ្លើង"</string>
+  
+  <string name="spoken_emoji_1F69E">"ផ្លូវ​​រថភ្លើង​កាត់​​ភ្នំ"</string>
+  
+  <string name="spoken_emoji_1F69F">"ផ្លូវ​រថភ្លើង​ផ្អាក​ដំណើរការ"</string>
+  
+  <string name="spoken_emoji_1F6A0">"ខ្សែ​កាប​ឆ្លង​ភ្នំុ"</string>
+  
+  <string name="spoken_emoji_1F6A1">"ផ្លូវ​រថភ្លើង​លើ​អាកាស"</string>
+  
+  <string name="spoken_emoji_1F6A2">"កប៉ាល់"</string>
+  
+  <string name="spoken_emoji_1F6A3">"ទូកចែវ"</string>
+  
+  <string name="spoken_emoji_1F6A4">"ទូក​ល្បឿន​លឿន"</string>
+  
+  <string name="spoken_emoji_1F6A5">"ភ្លើង​ចរាចរណ៍"</string>
+  
+  <string name="spoken_emoji_1F6A6">"ភ្លើង​ចរាចរណ៍​បញ្ឈរ"</string>
+  
+  <string name="spoken_emoji_1F6A7">"សញ្ញា​​សំណង់"</string>
+  
+  <string name="spoken_emoji_1F6A8">"រថយន្ត​​ប៉ូលិស​បើក​សារ៉ែន​វិល"</string>
+  
+  <string name="spoken_emoji_1F6A9">"បង្គោល​ទង់ជាតិ​រាង​ត្រីកោណ​"</string>
+  
+  <string name="spoken_emoji_1F6AA">"ទ្វារ"</string>
+  
+  <string name="spoken_emoji_1F6AB">"សញ្ញា​ហាម​ចូល"</string>
+  
+  <string name="spoken_emoji_1F6AC">"​សញ្ញា​ជក់​បារី"</string>
+  
+  <string name="spoken_emoji_1F6AD">"ហាម​ជក់​បារី"</string>
+  
+  <string name="spoken_emoji_1F6AE">"និមិត្តសញ្ញា​ដាក់​សំរាម​ក្នុង​ធុង"</string>
+  
+  <string name="spoken_emoji_1F6AF">"និមិត្តសញ្ញា​ហាម​ចោល​សំរាម"</string>
+  
+  <string name="spoken_emoji_1F6B0">"និមិត្ត​សញ្ញា​ទឹក​ចល័ត"</string>
+  
+  <string name="spoken_emoji_1F6B1">"និមិត្ត​សញ្ញា​​ទឹក​មិន​ចល័ត"</string>
+  
+  <string name="spoken_emoji_1F6B2">"កង់"</string>
+  
+  <string name="spoken_emoji_1F6B3">"ហាម​ជិះ​កង់"</string>
+  
+  <string name="spoken_emoji_1F6B4">"អ្នក​ជិះកង់"</string>
+  
+  <string name="spoken_emoji_1F6B5">"អ្នក​ជិះ​កង់​ឡើង​ភ្នំ"</string>
+  
+  <string name="spoken_emoji_1F6B6">"ថ្មើរជើង"</string>
+  
+  <string name="spoken_emoji_1F6B7">"មិន​សម្រាប់​ថ្មើរ​ជើង"</string>
+  
+  <string name="spoken_emoji_1F6B8">"កុមារ​​ឆ្លងកាត់"</string>
+  
+  <string name="spoken_emoji_1F6B9">"និមិត្ត​សញ្ញា​បុរស"</string>
+  
+  <string name="spoken_emoji_1F6BA">"និមិត្ត​សញ្ញា​ស្ត្រី"</string>
+  
+  <string name="spoken_emoji_1F6BB">"បន្ទប់ទឹក"</string>
+  
+  <string name="spoken_emoji_1F6BC">"និមិត្ត​សញ្ញា​ទារក"</string>
+  
+  <string name="spoken_emoji_1F6BD">"បង្គន់"</string>
+  
+  <string name="spoken_emoji_1F6BE">"បន្ទប់​ទឹក"</string>
+  
+  <string name="spoken_emoji_1F6BF">"ផ្កាឈូក​ងូត​ទឹក"</string>
+  
+  <string name="spoken_emoji_1F6C0">"​ងូតទឹក"</string>
+  
+  <string name="spoken_emoji_1F6C1">"អាង​​ងូត​ទឹក"</string>
+  
+  <string name="spoken_emoji_1F6C2">"ការ​ត្រួត​ពិនិត្យ​លិខិត​ឆ្លង​ដែន"</string>
+  
+  <string name="spoken_emoji_1F6C3">"គយ"</string>
+  
+  <string name="spoken_emoji_1F6C4">"ប្រកាស​​ឥវ៉ាន់"</string>
+  
+  <string name="spoken_emoji_1F6C5">"ឥវ៉ាន់​នៅ​សល់"</string>
+</resources>

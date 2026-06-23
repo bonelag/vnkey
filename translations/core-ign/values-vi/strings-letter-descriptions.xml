@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"Chỉ báo thứ tự giống cái"</string>
+  
+  <string name="spoken_accented_letter_00B5">"Ký hiệu micrô"</string>
+  
+  <string name="spoken_accented_letter_00BA">"Chỉ báo thứ tự giống đực"</string>
+  
+  <string name="spoken_accented_letter_00DF">"Sharp S"</string>
+  
+  <string name="spoken_accented_letter_00E0">"A, dấu huyền"</string>
+  
+  <string name="spoken_accented_letter_00E1">"A, dấu sắc"</string>
+  
+  <string name="spoken_accented_letter_00E2">"A, dấu mũ"</string>
+  
+  <string name="spoken_accented_letter_00E3">"A, dấu ngã"</string>
+  
+  <string name="spoken_accented_letter_00E4">"A, dấu tách đôi"</string>
+  
+  <string name="spoken_accented_letter_00E5">"A, dấu nhẫn phía trên"</string>
+  
+  <string name="spoken_accented_letter_00E6">"A, E, dấu gạch nối"</string>
+  
+  <string name="spoken_accented_letter_00E7">"C, dấu móc dưới"</string>
+  
+  <string name="spoken_accented_letter_00E8">"E, dấu huyền"</string>
+  
+  <string name="spoken_accented_letter_00E9">"E, dấu sắc"</string>
+  
+  <string name="spoken_accented_letter_00EA">"E, dấu mũ"</string>
+  
+  <string name="spoken_accented_letter_00EB">"E, dấu tách đôi"</string>
+  
+  <string name="spoken_accented_letter_00EC">"I, dấu huyền"</string>
+  
+  <string name="spoken_accented_letter_00ED">"I, dấu sắc"</string>
+  
+  <string name="spoken_accented_letter_00EE">"I, dấu mũ"</string>
+  
+  <string name="spoken_accented_letter_00EF">"I, dấu tách đôi"</string>
+  
+  <string name="spoken_accented_letter_00F0">"Eth"</string>
+  
+  <string name="spoken_accented_letter_00F1">"N, dấu ngã"</string>
+  
+  <string name="spoken_accented_letter_00F2">"O, dấu huyền"</string>
+  
+  <string name="spoken_accented_letter_00F3">"O, dấu sắc"</string>
+  
+  <string name="spoken_accented_letter_00F4">"O, dấu mũ"</string>
+  
+  <string name="spoken_accented_letter_00F5">"O, dấu ngã"</string>
+  
+  <string name="spoken_accented_letter_00F6">"O, dấu tách đôi"</string>
+  
+  <string name="spoken_accented_letter_00F8">"O, nét gạch"</string>
+  
+  <string name="spoken_accented_letter_00F9">"U, dấu huyền"</string>
+  
+  <string name="spoken_accented_letter_00FA">"U, dấu sắc"</string>
+  
+  <string name="spoken_accented_letter_00FB">"U, dấu mũ"</string>
+  
+  <string name="spoken_accented_letter_00FC">"U, dấu tách đôi"</string>
+  
+  <string name="spoken_accented_letter_00FD">"Y, dấu sắc"</string>
+  
+  <string name="spoken_accented_letter_00FE">"Dấu móc"</string>
+  
+  <string name="spoken_accented_letter_00FF">"Y, dấu tách đôi"</string>
+  
+  <string name="spoken_accented_letter_0101">"A, sự làm dấu"</string>
+  
+  <string name="spoken_accented_letter_0103">"A, dấu ngân"</string>
+  
+  <string name="spoken_accented_letter_0105">"A, một cái đuôi nhỏ"</string>
+  
+  <string name="spoken_accented_letter_0107">"C, dấu sắc"</string>
+  
+  <string name="spoken_accented_letter_0109">"C, dấu mũ"</string>
+  
+  <string name="spoken_accented_letter_010B">"C, dấu chấm phía trên"</string>
+  
+  <string name="spoken_accented_letter_010D">"C, dấu mũ ngược"</string>
+  
+  <string name="spoken_accented_letter_010F">"D, dấu mũ ngược"</string>
+  
+  <string name="spoken_accented_letter_0111">"D, nét gạch"</string>
+  
+  <string name="spoken_accented_letter_0113">"E, sự làm dấu"</string>
+  
+  <string name="spoken_accented_letter_0115">"E, dấu ngân"</string>
+  
+  <string name="spoken_accented_letter_0117">"E, dấu chấm phía trên"</string>
+  
+  <string name="spoken_accented_letter_0119">"E, một cái đuôi nhỏ"</string>
+  
+  <string name="spoken_accented_letter_011B">"E, dấu mũ ngược"</string>
+  
+  <string name="spoken_accented_letter_011D">"G, dấu mũ"</string>
+  
+  <string name="spoken_accented_letter_011F">"G, dấu ngân"</string>
+  
+  <string name="spoken_accented_letter_0121">"G, dấu chấm phía trên"</string>
+  
+  <string name="spoken_accented_letter_0123">"G, dấu móc dưới"</string>
+  
+  <string name="spoken_accented_letter_0125">"H, dấu mũ"</string>
+  
+  <string name="spoken_accented_letter_0127">"H, nét gạch"</string>
+  
+  <string name="spoken_accented_letter_0129">"I, dấu ngã"</string>
+  
+  <string name="spoken_accented_letter_012B">"I, sự làm dấu"</string>
+  
+  <string name="spoken_accented_letter_012D">"I, dấu ngân"</string>
+  
+  <string name="spoken_accented_letter_012F">"I, một cái đuôi nhỏ"</string>
+  
+  <string name="spoken_accented_letter_0131">"I không dấu chấm"</string>
+  
+  <string name="spoken_accented_letter_0133">"I, J, dấu gạch nối"</string>
+  
+  <string name="spoken_accented_letter_0135">"J, dấu mũ"</string>
+  
+  <string name="spoken_accented_letter_0137">"K, dấu móc dưới"</string>
+  
+  <string name="spoken_accented_letter_0138">"Kra"</string>
+  
+  <string name="spoken_accented_letter_013A">"L, dấu sắc"</string>
+  
+  <string name="spoken_accented_letter_013C">"L, dấu móc dưới"</string>
+  
+  <string name="spoken_accented_letter_013E">"L, dấu mũ ngược"</string>
+  
+  <string name="spoken_accented_letter_0140">"L, chấm ở giữa"</string>
+  
+  <string name="spoken_accented_letter_0142">"L, nét gạch"</string>
+  
+  <string name="spoken_accented_letter_0144">"N, dấu sắc"</string>
+  
+  <string name="spoken_accented_letter_0146">"N, dấu móc dưới"</string>
+  
+  <string name="spoken_accented_letter_0148">"N, dấu mũ ngược"</string>
+  
+  <string name="spoken_accented_letter_0149">"N, theo sau dấu móc lửng"</string>
+  
+  <string name="spoken_accented_letter_014B">"Eng"</string>
+  
+  <string name="spoken_accented_letter_014D">"O, sự làm dấu"</string>
+  
+  <string name="spoken_accented_letter_014F">"O, dấu ngân"</string>
+  
+  <string name="spoken_accented_letter_0151">"O, hai dấu sắc"</string>
+  
+  <string name="spoken_accented_letter_0153">"O, E, dấu gạch nối"</string>
+  
+  <string name="spoken_accented_letter_0155">"R, dấu sắc"</string>
+  
+  <string name="spoken_accented_letter_0157">"R, dấu móc dưới"</string>
+  
+  <string name="spoken_accented_letter_0159">"R, dấu mũ ngược"</string>
+  
+  <string name="spoken_accented_letter_015B">"S, dấu sắc"</string>
+  
+  <string name="spoken_accented_letter_015D">"S, dấu mũ"</string>
+  
+  <string name="spoken_accented_letter_015F">"S, dấu móc dưới"</string>
+  
+  <string name="spoken_accented_letter_0161">"S, dấu mũ ngược"</string>
+  
+  <string name="spoken_accented_letter_0163">"T, dấu móc dưới"</string>
+  
+  <string name="spoken_accented_letter_0165">"T, dấu mũ ngược"</string>
+  
+  <string name="spoken_accented_letter_0167">"T, nét gạch"</string>
+  
+  <string name="spoken_accented_letter_0169">"U, dấu ngã"</string>
+  
+  <string name="spoken_accented_letter_016B">"U, sự làm dấu"</string>
+  
+  <string name="spoken_accented_letter_016D">"U, dấu ngân"</string>
+  
+  <string name="spoken_accented_letter_016F">"U, dấu nhẫn ở trên"</string>
+  
+  <string name="spoken_accented_letter_0171">"U, hai dấu sắc"</string>
+  
+  <string name="spoken_accented_letter_0173">"U, một cái đuôi nhỏ"</string>
+  
+  <string name="spoken_accented_letter_0175">"W, dấu mũ"</string>
+  
+  <string name="spoken_accented_letter_0177">"Y, dấu mũ"</string>
+  
+  <string name="spoken_accented_letter_017A">"Z, dấu sắc"</string>
+  
+  <string name="spoken_accented_letter_017C">"Z, dấu chấm phía trên"</string>
+  
+  <string name="spoken_accented_letter_017E">"Z, dấu mũ ngược"</string>
+  
+  <string name="spoken_accented_letter_017F">"S dài"</string>
+  
+  <string name="spoken_accented_letter_01A1">"O, dấu móc"</string>
+  
+  <string name="spoken_accented_letter_01B0">"U, dấu móc"</string>
+  
+  <string name="spoken_accented_letter_0219">"S, dấu phẩy phía dưới"</string>
+  
+  <string name="spoken_accented_letter_021B">"T, dấu phẩy phía dưới"</string>
+  
+  <string name="spoken_accented_letter_0259">"Âm Schwa"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"A, dấu chấm phía dưới"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"A, dấu móc phía trên"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"A, dấu mũ và dấu sắc"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"A, dấu mũ và dấu huyền"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"A, dấu mũ và móc phía trên"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"A, dấu mũ và dấu ngã"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"A, dấu mũ và dấu chấm phía dưới"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"A, dấu ngân và dấu sắc"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"A, dấu ngân và dấu huyền"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"A, dấu ngân và móc phía trên"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"A, dấu ngân và dấu ngã"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"A, dấu ngân và dấu chấm phía dưới"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"E, dấu chấm phía dưới"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"E, móc phía trên"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"E, dấu ngã"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"E, dấu mũ và dấu sắc"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"E, dấu mũ và dấu huyền"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"E, dấu mũ và móc phía trên"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"E, dấu mũ và dấu ngã"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"E, dấu mũ và dấu chấm phía dưới"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"I, móc phía trên"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"I, dấu chấm phía dưới"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"O, dấu chấm phía dưới"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"O, móc phía trên"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"O, dấu mũ và dấu sắc"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"O, dấu mũ và dấu huyền"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"O, dấu mũ và móc phía trên"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"O, dấu mũ và dấu ngã"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"O, dấu mũ và dấu chấm phía dưới"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"O, dấu móc và dấu sắc"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"O, dấu móc và dấu huyền"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"O, dấu móc và móc phía trên"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"O, dấu móc và dấu ngã"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"O, dấu móc và dấu chấm phía dưới"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"U, dấu chấm phía dưới"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"U, móc phía trên"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"U, dấu móc và dấu sắc"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"U, dấu móc và dấu huyền"</string>
+  
+  <string name="spoken_accented_letter_1EED">"U, dấu móc và móc phía trên"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"U, dấu móc và dấu ngã"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"U, dấu móc và dấu chấm phía dưới"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"Y, dấu huyền"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"Y, dấu chấm phía dưới"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"Y, móc phía trên"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"Y, dấu ngã"</string>
+  
+  <string name="spoken_symbol_00A1">"Dấu cảm thán đảo ngược"</string>
+  
+  <string name="spoken_symbol_00AB">"Dấu ngoặc kép mở"</string>
+  
+  <string name="spoken_symbol_00B7">"Dấu chấm ở giữa"</string>
+  
+  <string name="spoken_symbol_00B9">"Chỉ số trên một"</string>
+  
+  <string name="spoken_symbol_00BB">"Dấu ngoặc kép đóng"</string>
+  
+  <string name="spoken_symbol_00BF">"Dấu hỏi đảo ngược"</string>
+  
+  <string name="spoken_symbol_2018">"Dấu ngoặc đơn mở"</string>
+  
+  <string name="spoken_symbol_2019">"Dấu ngoặc đơn đóng"</string>
+  
+  <string name="spoken_symbol_201A">"Dấu trích dẫn đơn"</string>
+  
+  <string name="spoken_symbol_201C">"Dấu ngoặc kép mở"</string>
+  
+  <string name="spoken_symbol_201D">"Dấu ngoặc kép đóng"</string>
+  
+  <string name="spoken_symbol_2020">"Dấu chữ thập"</string>
+  
+  <string name="spoken_symbol_2021">"Dấu chữ thập kép"</string>
+  
+  <string name="spoken_symbol_2030">"Dấu cho mỗi ngàn"</string>
+  
+  <string name="spoken_symbol_2032">"Dấu phẩy"</string>
+  
+  <string name="spoken_symbol_2033">"Hai phẩy"</string>
+  
+  <string name="spoken_symbol_2039">"Dấu ngoặc đơn mở"</string>
+  
+  <string name="spoken_symbol_203A">"Dấu ngoặc đơn đóng"</string>
+  
+  <string name="spoken_symbol_2074">"Chỉ số trên bốn"</string>
+  
+  <string name="spoken_symbol_207F">"Chỉ số trên của n thường"</string>
+  
+  <string name="spoken_symbol_20B1">"Ký hiệu đồng Pêsô"</string>
+  
+  <string name="spoken_symbol_2105">"Dấu phần trăm"</string>
+  
+  <string name="spoken_symbol_2192">"Mũi tên về phía phải"</string>
+  
+  <string name="spoken_symbol_2193">"Mũi tên xuống dưới"</string>
+  
+  <string name="spoken_symbol_2205">"Tập rỗng"</string>
+  
+  <string name="spoken_symbol_2206">"Tăng dần"</string>
+  
+  <string name="spoken_symbol_2264">"Nhỏ hơn hoặc bằng"</string>
+  
+  <string name="spoken_symbol_2265">"Lớn hơn hoặc bằng"</string>
+  
+  <string name="spoken_symbol_2605">"Sao đen"</string>
+</resources>

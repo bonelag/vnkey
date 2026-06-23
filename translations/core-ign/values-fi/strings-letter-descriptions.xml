@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"Feminiinisen järjestysluvun merkki"</string>
+  
+  <string name="spoken_accented_letter_00B5">"Mikro-merkki"</string>
+  
+  <string name="spoken_accented_letter_00BA">"Maskuliinisen järjestysluvun merkki"</string>
+  
+  <string name="spoken_accented_letter_00DF">"Kaksois-s"</string>
+  
+  <string name="spoken_accented_letter_00E0">"A ja gravis"</string>
+  
+  <string name="spoken_accented_letter_00E1">"A ja akuutti"</string>
+  
+  <string name="spoken_accented_letter_00E2">"A ja sirkumfleksi"</string>
+  
+  <string name="spoken_accented_letter_00E3">"A ja tilde"</string>
+  
+  <string name="spoken_accented_letter_00E4">"A ja treema"</string>
+  
+  <string name="spoken_accented_letter_00E5">"A ja yläpuolinen ympyrä"</string>
+  
+  <string name="spoken_accented_letter_00E6">"Ligatuuri ae"</string>
+  
+  <string name="spoken_accented_letter_00E7">"C ja sedilji"</string>
+  
+  <string name="spoken_accented_letter_00E8">"E ja gravis"</string>
+  
+  <string name="spoken_accented_letter_00E9">"E ja akuutti"</string>
+  
+  <string name="spoken_accented_letter_00EA">"E ja sirkumfleksi"</string>
+  
+  <string name="spoken_accented_letter_00EB">"E ja treema"</string>
+  
+  <string name="spoken_accented_letter_00EC">"I ja gravis"</string>
+  
+  <string name="spoken_accented_letter_00ED">"I ja akuutti"</string>
+  
+  <string name="spoken_accented_letter_00EE">"I ja sirkumfleksi"</string>
+  
+  <string name="spoken_accented_letter_00EF">"I ja treema"</string>
+  
+  <string name="spoken_accented_letter_00F0">"Eth"</string>
+  
+  <string name="spoken_accented_letter_00F1">"N ja tilde"</string>
+  
+  <string name="spoken_accented_letter_00F2">"O ja gravis"</string>
+  
+  <string name="spoken_accented_letter_00F3">"O ja akuutti"</string>
+  
+  <string name="spoken_accented_letter_00F4">"O ja sirkumfleksi"</string>
+  
+  <string name="spoken_accented_letter_00F5">"O ja tilde"</string>
+  
+  <string name="spoken_accented_letter_00F6">"O ja treema"</string>
+  
+  <string name="spoken_accented_letter_00F8">"O ja vinoviiva yli"</string>
+  
+  <string name="spoken_accented_letter_00F9">"U ja gravis"</string>
+  
+  <string name="spoken_accented_letter_00FA">"U ja akuutti"</string>
+  
+  <string name="spoken_accented_letter_00FB">"U ja sirkumfleksi"</string>
+  
+  <string name="spoken_accented_letter_00FC">"U ja treema"</string>
+  
+  <string name="spoken_accented_letter_00FD">"Y ja akuutti"</string>
+  
+  <string name="spoken_accented_letter_00FE">"Thorn"</string>
+  
+  <string name="spoken_accented_letter_00FF">"Y ja treema"</string>
+  
+  <string name="spoken_accented_letter_0101">"A ja pituusmerkki"</string>
+  
+  <string name="spoken_accented_letter_0103">"A ja lyhyysmerkki"</string>
+  
+  <string name="spoken_accented_letter_0105">"A ja ogonek"</string>
+  
+  <string name="spoken_accented_letter_0107">"C ja akuutti"</string>
+  
+  <string name="spoken_accented_letter_0109">"C ja sirkumfleksi"</string>
+  
+  <string name="spoken_accented_letter_010B">"C ja yläpuolinen piste"</string>
+  
+  <string name="spoken_accented_letter_010D">"C ja hattu"</string>
+  
+  <string name="spoken_accented_letter_010F">"D ja hattu"</string>
+  
+  <string name="spoken_accented_letter_0111">"D ja poikkiviiva"</string>
+  
+  <string name="spoken_accented_letter_0113">"E ja pituusmerkki"</string>
+  
+  <string name="spoken_accented_letter_0115">"E ja lyhyysmerkki"</string>
+  
+  <string name="spoken_accented_letter_0117">"E ja yläpuolinen piste"</string>
+  
+  <string name="spoken_accented_letter_0119">"E ja ogonek"</string>
+  
+  <string name="spoken_accented_letter_011B">"E ja hattu"</string>
+  
+  <string name="spoken_accented_letter_011D">"G ja sirkumfleksi"</string>
+  
+  <string name="spoken_accented_letter_011F">"G ja lyhyysmerkki"</string>
+  
+  <string name="spoken_accented_letter_0121">"G ja yläpuolinen piste"</string>
+  
+  <string name="spoken_accented_letter_0123">"G ja sedilji"</string>
+  
+  <string name="spoken_accented_letter_0125">"H ja sirkumfleksi"</string>
+  
+  <string name="spoken_accented_letter_0127">"H ja poikkiviiva"</string>
+  
+  <string name="spoken_accented_letter_0129">"I ja tilde"</string>
+  
+  <string name="spoken_accented_letter_012B">"I ja pituusmerkki"</string>
+  
+  <string name="spoken_accented_letter_012D">"I ja lyhyysmerkki"</string>
+  
+  <string name="spoken_accented_letter_012F">"I ja ogonek"</string>
+  
+  <string name="spoken_accented_letter_0131">"Pisteetön I"</string>
+  
+  <string name="spoken_accented_letter_0133">"Ligatuuri ij"</string>
+  
+  <string name="spoken_accented_letter_0135">"J ja sirkumfleksi"</string>
+  
+  <string name="spoken_accented_letter_0137">"K ja sedilji"</string>
+  
+  <string name="spoken_accented_letter_0138">"Kra"</string>
+  
+  <string name="spoken_accented_letter_013A">"L ja akuutti"</string>
+  
+  <string name="spoken_accented_letter_013C">"L ja sedilji"</string>
+  
+  <string name="spoken_accented_letter_013E">"L ja hattu"</string>
+  
+  <string name="spoken_accented_letter_0140">"L ja piste keskellä"</string>
+  
+  <string name="spoken_accented_letter_0142">"L ja vino poikkiviiva"</string>
+  
+  <string name="spoken_accented_letter_0144">"N ja akuutti"</string>
+  
+  <string name="spoken_accented_letter_0146">"N ja sedilji"</string>
+  
+  <string name="spoken_accented_letter_0148">"N ja hattu"</string>
+  
+  <string name="spoken_accented_letter_0149">"N, jota edeltää heittomerkki"</string>
+  
+  <string name="spoken_accented_letter_014B">"Äng"</string>
+  
+  <string name="spoken_accented_letter_014D">"O ja pituusmerkki"</string>
+  
+  <string name="spoken_accented_letter_014F">"O ja lyhyysmerkki"</string>
+  
+  <string name="spoken_accented_letter_0151">"O ja kaksoisakuutti"</string>
+  
+  <string name="spoken_accented_letter_0153">"Ligatuuri oe"</string>
+  
+  <string name="spoken_accented_letter_0155">"R ja akuutti"</string>
+  
+  <string name="spoken_accented_letter_0157">"R ja sedilji"</string>
+  
+  <string name="spoken_accented_letter_0159">"R ja hattu"</string>
+  
+  <string name="spoken_accented_letter_015B">"S ja akuutti"</string>
+  
+  <string name="spoken_accented_letter_015D">"S ja sirkumfleksi"</string>
+  
+  <string name="spoken_accented_letter_015F">"S ja sedilji"</string>
+  
+  <string name="spoken_accented_letter_0161">"S ja hattu"</string>
+  
+  <string name="spoken_accented_letter_0163">"T ja sedilji"</string>
+  
+  <string name="spoken_accented_letter_0165">"T ja hattu"</string>
+  
+  <string name="spoken_accented_letter_0167">"T ja poikkiviiva"</string>
+  
+  <string name="spoken_accented_letter_0169">"U ja tilde"</string>
+  
+  <string name="spoken_accented_letter_016B">"U ja pituusmerkki"</string>
+  
+  <string name="spoken_accented_letter_016D">"U ja lyhyysmerkki"</string>
+  
+  <string name="spoken_accented_letter_016F">"U ja yläpuolinen ympyrä"</string>
+  
+  <string name="spoken_accented_letter_0171">"U ja kaksoisakuutti"</string>
+  
+  <string name="spoken_accented_letter_0173">"U ja ogonek"</string>
+  
+  <string name="spoken_accented_letter_0175">"W ja sirkumfleksi"</string>
+  
+  <string name="spoken_accented_letter_0177">"Y ja sirkumfleksi"</string>
+  
+  <string name="spoken_accented_letter_017A">"Z ja akuutti"</string>
+  
+  <string name="spoken_accented_letter_017C">"Z ja yläpuolinen piste"</string>
+  
+  <string name="spoken_accented_letter_017E">"Z ja hattu"</string>
+  
+  <string name="spoken_accented_letter_017F">"Pitkä s"</string>
+  
+  <string name="spoken_accented_letter_01A1">"O ja sarvi"</string>
+  
+  <string name="spoken_accented_letter_01B0">"U ja sarvi"</string>
+  
+  <string name="spoken_accented_letter_0219">"S ja alapuolinen pilkku"</string>
+  
+  <string name="spoken_accented_letter_021B">"T ja alapuolinen pilkku"</string>
+  
+  <string name="spoken_accented_letter_0259">"Švaa"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"A ja alapuolinen piste"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"A ja yläpuolinen koukku"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"A sekä sirkumfleksi ja akuutti"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"A sekä sirkumfleksi ja gravis"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"A sekä sirkumfleksi ja yläpuolinen koukku"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"A sekä sirkumfleksi ja tilde"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"A sekä sirkumfleksi ja alapuolinen piste"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"A sekä lyhyysmerkki ja akuutti"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"A sekä lyhyysmerkki ja gravis"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"A sekä lyhyysmerkki ja yläpuolinen koukku"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"A sekä lyhyysmerkki ja tilde"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"A sekä lyhyysmerkki ja alapuolinen piste"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"E ja alapuolinen piste"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"E ja yläpuolinen koukku"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"E ja tilde"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"E sekä sirkumfleksi ja akuutti"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"E sekä sirkumfleksi ja gravis"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"E sekä sirkumfleksi ja yläpuolinen koukku"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"E sekä sirkumfleksi ja tilde"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"E sekä sirkumfleksi ja alapuolinen piste"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"I ja yläpuolinen koukku"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"I ja alapuolinen piste"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"O ja alapuolinen piste"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"O ja yläpuolinen koukku"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"O sekä sirkumfleksi ja akuutti"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"O sekä sirkumfleksi ja gravis"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"O sekä sirkumfleksi ja yläpuolinen koukku"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"O sekä sirkumfleksi ja tilde"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"O sekä sirkumfleksi ja alapuolinen piste"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"O sekä sarvi ja akuutti"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"O sekä sarvi ja gravis"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"O sekä sarvi ja yläpuolinen koukku"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"O sekä sarvi ja tilde"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"O sekä sarvi ja alapuolinen piste"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"U ja alapuolinen piste"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"U ja yläpuolinen koukku"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"U sekä sarvi ja akuutti"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"U sekä sarvi ja gravis"</string>
+  
+  <string name="spoken_accented_letter_1EED">"U sekä sarvi ja yläpuolinen koukku"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"U sekä sarvi ja tilde"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"U sekä sarvi ja alapuolinen piste"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"Y ja gravis"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"Y ja alapuolinen piste"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"Y ja yläpuolinen koukku"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"Y ja tilde"</string>
+  
+  <string name="spoken_symbol_00A1">"Ylösalainen huutomerkki"</string>
+  
+  <string name="spoken_symbol_00AB">"Vasemmalle osoittava kaksinkertainen kulmalainausmerkki"</string>
+  
+  <string name="spoken_symbol_00B7">"Rivinkeskinen piste"</string>
+  
+  <string name="spoken_symbol_00B9">"Yläindeksi yksi"</string>
+  
+  <string name="spoken_symbol_00BB">"Oikealle osoittava kaksinkertainen kulmalainausmerkki"</string>
+  
+  <string name="spoken_symbol_00BF">"Ylösalainen kysymysmerkki"</string>
+  
+  <string name="spoken_symbol_2018">"Ylösalainen puolilainausmerkki"</string>
+  
+  <string name="spoken_symbol_2019">"Puolilainausmerkki"</string>
+  
+  <string name="spoken_symbol_201A">"Rivinalinen puolilainausmerkki"</string>
+  
+  <string name="spoken_symbol_201C">"Ylösalainen kokolainausmerkki"</string>
+  
+  <string name="spoken_symbol_201D">"Kokolainausmerkki"</string>
+  
+  <string name="spoken_symbol_2020">"Risti"</string>
+  
+  <string name="spoken_symbol_2021">"Kaksoisristi"</string>
+  
+  <string name="spoken_symbol_2030">"Promillemerkki"</string>
+  
+  <string name="spoken_symbol_2032">"Yläpuolinen indeksointipilkku"</string>
+  
+  <string name="spoken_symbol_2033">"Kaksinkertainen yläpuolinen indeksointipilkku"</string>
+  
+  <string name="spoken_symbol_2039">"Vasemmalle osoittava kulmapuolilainausmerkki"</string>
+  
+  <string name="spoken_symbol_203A">"Oikealle osoittava kulmapuolilainausmerkki"</string>
+  
+  <string name="spoken_symbol_2074">"Yläindeksi neljä"</string>
+  
+  <string name="spoken_symbol_207F">"Yläindeksi latinalainen pienaakkonen n"</string>
+  
+  <string name="spoken_symbol_20B1">"Peson merkki"</string>
+  
+  <string name="spoken_symbol_2105">"Care of -merkki"</string>
+  
+  <string name="spoken_symbol_2192">"Nuoli oikealle"</string>
+  
+  <string name="spoken_symbol_2193">"Nuoli alas"</string>
+  
+  <string name="spoken_symbol_2205">"Tyhjä joukko"</string>
+  
+  <string name="spoken_symbol_2206">"Delta"</string>
+  
+  <string name="spoken_symbol_2264">"Pienempi tai yhtä suuri kuin -merkki"</string>
+  
+  <string name="spoken_symbol_2265">"Suurempi tai yhtä suuri kuin -merkki"</string>
+  
+  <string name="spoken_symbol_2605">"Musta tähti"</string>
+</resources>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="english_ime_input_options">"گزینه‌های ورودی"</string>
+  
+  <string name="vibrate_on_keypress">"لرزش با فشار کلید"</string>
+  
+  <string name="sound_on_keypress">"صدا با فشار کلید"</string>
+  
+  <string name="popup_on_keypress">"بازشدن با فشار کلید"</string>
+  
+  <string name="show_language_switch_key">"کلید تغییر زبان"</string>
+  
+  <string name="abbreviation_unit_milliseconds">&lt;string name="abbreviation_unit_milliseconds" msgid="3255301845626146979"&gt;&amp;quot;&lt;xliff:g id="MILLISECONDS"&gt;%s&lt;/xliff:g&gt; میلی‌ثانیه&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="use_personalized_dicts">"پیشنهادات شخصی شده"</string>
+  
+  <string name="use_double_space_period">"نقطه با دو فاصله"</string>
+  
+  <string name="use_double_space_period_summary">"با دو بار ضربه روی دکمه فاصله، نقطه بعلاوه فاصله‌ای بعد آن درج می‌شود"</string>
+  
+  <string name="auto_cap">"بزرگ‌کردن خودکار حروف"</string>
+  
+  <string name="auto_cap_summary">"بزرگ‌نویسی کلمه اول هر جمله"</string>
+  
+  <string name="edit_personal_dictionary">"واژه‌نامه شخصی"</string>
+  
+  <string name="prefs_show_suggestions">"نمایش پیشنهادات تصحیح"</string>
+  
+  <string name="prefs_show_suggestions_summary">"نمایش واژه‌های پیشنهادی در حین تایپ"</string>
+  
+  <string name="prefs_block_potentially_offensive_title">"عدم نمایش کلمات توهین‌آمیز"</string>
+  
+  <string name="prefs_block_potentially_offensive_summary">"کلمات توهین‌آمیز احتمالی پیشنهاد نشود"</string>
+  
+  <string name="auto_correction">"تصحیح خودکار"</string>
+  
+  <string name="auto_correction_summary">"کلید فاصله و علائم سجاوندی به‌صورت خودکار کلماتی را که غلط تایپ شده‌اند تصحیح می‌کند"</string>
+  
+  <string name="bigram_prediction">"پیشنهادات کلمه بعدی"</string>
+  
+  <string name="bigram_prediction_summary">"از کلمه قبلی در دادن پیشنهادات استفاده شود"</string>
+  
+  <string name="language_selection_title">"زبان‌ها"</string>
+  
+  <string name="select_language">"زبان‌ها"</string>
+  
+  <string name="subtype_en_GB">"انگلیسی (بریتانیا)"</string>
+  
+  <string name="subtype_en_US">"انگلیسی (امریکا)"</string>
+  
+  <string name="subtype_es_US">"اسپانیایی (امریکا)"</string>
+  
+  <string name="subtype_hi_ZZ">"هندی انگلیسی"</string>
+  
+  <string name="subtype_sr_ZZ">"صربی (لاتین)"</string>
+  
+  <string name="subtype_with_layout_en_GB">&lt;string name="subtype_with_layout_en_GB" msgid="4220344684463778660"&gt;&amp;quot;انگلیسی (بریتانیا) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_en_US">&lt;string name="subtype_with_layout_en_US" msgid="4599421650961912769"&gt;&amp;quot;انگلیسی (امریکا) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_es_US">&lt;string name="subtype_with_layout_es_US" msgid="6866331205974243592"&gt;&amp;quot;اسپانیایی (امریکا) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_hi_ZZ">&lt;string name="subtype_with_layout_hi_ZZ" msgid="5439623653083985558"&gt;&amp;quot;هندی انگلیسی (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_sr_ZZ">&lt;string name="subtype_with_layout_sr_ZZ" msgid="546465971819327060"&gt;&amp;quot;صربی (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_traditional">&lt;string name="subtype_generic_traditional" msgid="5321023815277210849"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (سنتی)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_compact">&lt;string name="subtype_generic_compact" msgid="2858514299576793292"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (فشرده)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_no_language">"بدون زبان (حروف الفبا)"</string>
+  
+  <string name="subtype_no_language_qwerty">"‏حروف الفبا (QWERTY)"</string>
+  
+  <string name="subtype_no_language_qwertz">"‏حروف الفبا (QWERTZ)"</string>
+  
+  <string name="subtype_no_language_azerty">"‏حروف الفبا (AZERTY)"</string>
+  
+  <string name="subtype_no_language_dvorak">"‏حروف الفبا (Dvorak)"</string>
+  
+  <string name="subtype_no_language_colemak">"‏حروف الفبا (Colemak)"</string>
+  
+  <string name="subtype_no_language_pcqwerty">"‏حروف الفبا (PC)"</string>
+  
+  <string name="subtype_emoji">"اموجی"</string>
+  
+  <string name="cancel">"لغو"</string>
+  
+  <string name="go_to_settings">"تنظیمات"</string>
+  
+  <string name="install_dict">"نصب"</string>
+  
+  <string name="cancel_download_dict">"لغو"</string>
+  
+  <string name="user_dict_settings_add_menu_title">"افرودن"</string>
+  
+  <string name="user_dict_settings_add_dialog_title">"افزودن به واژه‌نامه"</string>
+  
+  <string name="user_dict_settings_add_screen_title">"عبارت"</string>
+  
+  <string name="user_dict_settings_add_dialog_more_options">"گزینه‌های بیشتر"</string>
+  
+  <string name="user_dict_settings_add_dialog_less_options">"گزینه‌های کمتر"</string>
+  
+  <string name="user_dict_settings_add_dialog_confirm">"تأیید"</string>
+  
+  <string name="user_dict_settings_add_word_option_name">"کلمه:"</string>
+  
+  <string name="user_dict_settings_add_shortcut_option_name">"میان‌بر:"</string>
+  
+  <string name="user_dict_settings_add_locale_option_name">"زبان:"</string>
+  
+  <string name="user_dict_settings_add_word_hint">"کلمه‌ای تایپ کنید"</string>
+  
+  <string name="user_dict_settings_add_shortcut_hint">"میان‌بر اختیاری"</string>
+  
+  <string name="user_dict_settings_edit_dialog_title">"ویرایش کلمه"</string>
+  
+  <string name="user_dict_settings_context_menu_edit_title">"ویرایش"</string>
+  
+  <string name="user_dict_settings_context_menu_delete_title">"حذف"</string>
+  
+  <string name="user_dict_settings_empty_text">"واژه‌ای در واژه‌نامه کاربر ندارید. برای افزودن واژه، روی دکمه افزودن (+) ضربه بزنید."</string>
+  
+  <string name="user_dict_settings_all_languages">"برای همه زبان‌ها"</string>
+  
+  <string name="user_dict_settings_more_languages">"زبان‌های بیشتر…"</string>
+  
+  <string name="user_dict_settings_delete">"حذف"</string>
+  
+  <string name="user_dict_fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+</resources>

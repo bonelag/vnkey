@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="spoken_use_headphones">Uključite slušalice da čujete čitanje lozinke naglas.</string>
+  
+  <string name="spoken_current_text_is">Uneti tekst je "%s"</string>
+  
+  <string name="spoken_no_text_entered">Nema unetog teksta</string>
+  
+  <string name="spoken_auto_correct">&lt;string name="spoken_auto_correct"&gt;&lt;xliff:g id="KEY_NAME" example="Space"&gt;%1$s&lt;/xliff:g&gt; prepravlja &lt;xliff:g id="ORIGINAL_WORD"&gt;%2$s&lt;/xliff:g&gt; u &lt;xliff:g id="CORRECTED_WORD"&gt;%3$s&lt;/xliff:g&gt;&lt;/string&gt;</string>
+  
+  <string name="spoken_auto_correct_obscured">&lt;string name="spoken_auto_correct_obscured"&gt;&lt;xliff:g id="KEY_NAME" example="Space"&gt;%1$s&lt;/xliff:g&gt; izvršava automatsku ispravku&lt;/string&gt;</string>
+  
+  <string name="spoken_empty_suggestion">Bez sugestija</string>
+  
+  <string name="spoken_description_unknown">Nepoznati znak</string>
+  
+  <string name="spoken_description_shift">Velika slova</string>
+  
+  <string name="spoken_description_symbols_shift">Više znakova</string>
+  
+  <string name="spoken_description_shift_shifted">Mala slova</string>
+  
+  <string name="spoken_description_symbols_shift_shifted">Znaci</string>
+  
+  <string name="spoken_description_caps_lock">Mala slova</string>
+  
+  <string name="spoken_description_delete">Briši</string>
+  
+  <string name="spoken_description_to_symbol">Znaci</string>
+  
+  <string name="spoken_description_to_alpha">Slova</string>
+  
+  <string name="spoken_description_to_numeric">Brojevi</string>
+  
+  <string name="spoken_description_settings">Postavke</string>
+  
+  <string name="spoken_description_tab">Tab</string>
+  
+  <string name="spoken_description_space">Razmak</string>
+  
+  <string name="spoken_description_mic">Glasovni unos</string>
+  
+  <string name="spoken_description_emoji">Emodži</string>
+  
+  <string name="spoken_description_return">Return</string>
+  
+  <string name="spoken_description_search">Traži</string>
+  
+  <string name="spoken_description_dot">Bulit</string>
+  
+  <string name="spoken_description_language_switch">Menjaj jezik</string>
+  
+  <string name="spoken_description_action_next">Dalje</string>
+  
+  <string name="spoken_description_action_previous">Nazad</string>
+  
+  <string name="spoken_description_to_alt_0">Strana 1</string>
+  <string name="spoken_description_to_alt_1">Strana 2</string>
+  <string name="spoken_description_to_alt_2">Strana 3</string>
+  
+  <string name="keyboard_mode_date">datum</string>
+  
+  <string name="keyboard_mode_date_time">datum i vreme</string>
+  
+  <string name="keyboard_mode_email">mejl</string>
+</resources>

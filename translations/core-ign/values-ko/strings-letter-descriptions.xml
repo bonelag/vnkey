@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"여성형 서수 표시기"</string>
+  
+  <string name="spoken_accented_letter_00B5">"마이크로 기호"</string>
+  
+  <string name="spoken_accented_letter_00BA">"남성형 서수 표시기"</string>
+  
+  <string name="spoken_accented_letter_00DF">"샤프 에스"</string>
+  
+  <string name="spoken_accented_letter_00E0">"에이, 그레이브"</string>
+  
+  <string name="spoken_accented_letter_00E1">"에이, 어큐트"</string>
+  
+  <string name="spoken_accented_letter_00E2">"에이, 서컴플렉스"</string>
+  
+  <string name="spoken_accented_letter_00E3">"에이, 틸드"</string>
+  
+  <string name="spoken_accented_letter_00E4">"에이, 디애레시스"</string>
+  
+  <string name="spoken_accented_letter_00E5">"에이, 위 링"</string>
+  
+  <string name="spoken_accented_letter_00E6">"에이, 이, 리가츄어"</string>
+  
+  <string name="spoken_accented_letter_00E7">"씨, 세딜라"</string>
+  
+  <string name="spoken_accented_letter_00E8">"이, 그레이브"</string>
+  
+  <string name="spoken_accented_letter_00E9">"이, 어큐트"</string>
+  
+  <string name="spoken_accented_letter_00EA">"이, 서컴플렉스"</string>
+  
+  <string name="spoken_accented_letter_00EB">"이, 디애레시스"</string>
+  
+  <string name="spoken_accented_letter_00EC">"아이, 그레이브"</string>
+  
+  <string name="spoken_accented_letter_00ED">"아이, 어큐트"</string>
+  
+  <string name="spoken_accented_letter_00EE">"아이, 서컴플렉스"</string>
+  
+  <string name="spoken_accented_letter_00EF">"아이, 디애레시스"</string>
+  
+  <string name="spoken_accented_letter_00F0">"에쓰"</string>
+  
+  <string name="spoken_accented_letter_00F1">"엔, 틸드"</string>
+  
+  <string name="spoken_accented_letter_00F2">"오, 그레이브"</string>
+  
+  <string name="spoken_accented_letter_00F3">"오, 어큐트"</string>
+  
+  <string name="spoken_accented_letter_00F4">"오, 서컴플렉스"</string>
+  
+  <string name="spoken_accented_letter_00F5">"오, 틸드"</string>
+  
+  <string name="spoken_accented_letter_00F6">"오, 디애레시스"</string>
+  
+  <string name="spoken_accented_letter_00F8">"오, 스트로크"</string>
+  
+  <string name="spoken_accented_letter_00F9">"유, 그레이브"</string>
+  
+  <string name="spoken_accented_letter_00FA">"유, 어큐트"</string>
+  
+  <string name="spoken_accented_letter_00FB">"유, 서컴플렉스"</string>
+  
+  <string name="spoken_accented_letter_00FC">"유, 디애레시스"</string>
+  
+  <string name="spoken_accented_letter_00FD">"와이, 어큐트"</string>
+  
+  <string name="spoken_accented_letter_00FE">"쏜"</string>
+  
+  <string name="spoken_accented_letter_00FF">"와이, 디애레시스"</string>
+  
+  <string name="spoken_accented_letter_0101">"에이, 매크론"</string>
+  
+  <string name="spoken_accented_letter_0103">"에이, 브레베"</string>
+  
+  <string name="spoken_accented_letter_0105">"에이, 오고넥"</string>
+  
+  <string name="spoken_accented_letter_0107">"씨, 어큐트"</string>
+  
+  <string name="spoken_accented_letter_0109">"씨, 서컴플렉스"</string>
+  
+  <string name="spoken_accented_letter_010B">"씨, 위 닷"</string>
+  
+  <string name="spoken_accented_letter_010D">"씨, 캐론"</string>
+  
+  <string name="spoken_accented_letter_010F">"디, 캐론"</string>
+  
+  <string name="spoken_accented_letter_0111">"디, 스트로크"</string>
+  
+  <string name="spoken_accented_letter_0113">"이, 매크론"</string>
+  
+  <string name="spoken_accented_letter_0115">"이, 브레베"</string>
+  
+  <string name="spoken_accented_letter_0117">"이, 위 닷"</string>
+  
+  <string name="spoken_accented_letter_0119">"이, 오고넥"</string>
+  
+  <string name="spoken_accented_letter_011B">"이, 캐론"</string>
+  
+  <string name="spoken_accented_letter_011D">"지, 서컴플렉스"</string>
+  
+  <string name="spoken_accented_letter_011F">"지, 브레베"</string>
+  
+  <string name="spoken_accented_letter_0121">"지, 위 닷"</string>
+  
+  <string name="spoken_accented_letter_0123">"지, 세딜라"</string>
+  
+  <string name="spoken_accented_letter_0125">"에이치, 서컴플렉스"</string>
+  
+  <string name="spoken_accented_letter_0127">"에이치, 스트로크"</string>
+  
+  <string name="spoken_accented_letter_0129">"아이, 틸드"</string>
+  
+  <string name="spoken_accented_letter_012B">"아이, 매크론"</string>
+  
+  <string name="spoken_accented_letter_012D">"아이, 브레베"</string>
+  
+  <string name="spoken_accented_letter_012F">"아이, 오고넥"</string>
+  
+  <string name="spoken_accented_letter_0131">"닷리스 아이"</string>
+  
+  <string name="spoken_accented_letter_0133">"아이, 제이, 리가츄어"</string>
+  
+  <string name="spoken_accented_letter_0135">"제이, 서컴플렉스"</string>
+  
+  <string name="spoken_accented_letter_0137">"케이, 세딜라"</string>
+  
+  <string name="spoken_accented_letter_0138">"크라"</string>
+  
+  <string name="spoken_accented_letter_013A">"엘, 어큐트"</string>
+  
+  <string name="spoken_accented_letter_013C">"엘, 세딜라"</string>
+  
+  <string name="spoken_accented_letter_013E">"엘, 캐론"</string>
+  
+  <string name="spoken_accented_letter_0140">"엘, 가운데 닷"</string>
+  
+  <string name="spoken_accented_letter_0142">"엘, 스트로크"</string>
+  
+  <string name="spoken_accented_letter_0144">"엔, 어큐트"</string>
+  
+  <string name="spoken_accented_letter_0146">"엔, 세딜라"</string>
+  
+  <string name="spoken_accented_letter_0148">"엔, 캐론"</string>
+  
+  <string name="spoken_accented_letter_0149">"엔, 앞 아포스트로피"</string>
+  
+  <string name="spoken_accented_letter_014B">"잉"</string>
+  
+  <string name="spoken_accented_letter_014D">"오, 매크론"</string>
+  
+  <string name="spoken_accented_letter_014F">"오, 브레베"</string>
+  
+  <string name="spoken_accented_letter_0151">"오, 더블 어큐트"</string>
+  
+  <string name="spoken_accented_letter_0153">"오, 이, 리가츄어"</string>
+  
+  <string name="spoken_accented_letter_0155">"알, 어큐트"</string>
+  
+  <string name="spoken_accented_letter_0157">"알, 세딜라"</string>
+  
+  <string name="spoken_accented_letter_0159">"알, 캐론"</string>
+  
+  <string name="spoken_accented_letter_015B">"에스, 어큐트"</string>
+  
+  <string name="spoken_accented_letter_015D">"에스, 서컴플렉스"</string>
+  
+  <string name="spoken_accented_letter_015F">"에스, 세딜라"</string>
+  
+  <string name="spoken_accented_letter_0161">"에스, 캐론"</string>
+  
+  <string name="spoken_accented_letter_0163">"티, 세딜라"</string>
+  
+  <string name="spoken_accented_letter_0165">"티, 캐론"</string>
+  
+  <string name="spoken_accented_letter_0167">"티, 스트로크"</string>
+  
+  <string name="spoken_accented_letter_0169">"유, 틸드"</string>
+  
+  <string name="spoken_accented_letter_016B">"유, 매크론"</string>
+  
+  <string name="spoken_accented_letter_016D">"유, 브레베"</string>
+  
+  <string name="spoken_accented_letter_016F">"유, 위 링"</string>
+  
+  <string name="spoken_accented_letter_0171">"유, 더블 어큐트"</string>
+  
+  <string name="spoken_accented_letter_0173">"유, 오고넥"</string>
+  
+  <string name="spoken_accented_letter_0175">"더블유, 서컴플렉스"</string>
+  
+  <string name="spoken_accented_letter_0177">"와이, 서컴플렉스"</string>
+  
+  <string name="spoken_accented_letter_017A">"지, 어큐트"</string>
+  
+  <string name="spoken_accented_letter_017C">"지, 위 닷"</string>
+  
+  <string name="spoken_accented_letter_017E">"지, 캐론"</string>
+  
+  <string name="spoken_accented_letter_017F">"롱 에스"</string>
+  
+  <string name="spoken_accented_letter_01A1">"오, 혼"</string>
+  
+  <string name="spoken_accented_letter_01B0">"유, 혼"</string>
+  
+  <string name="spoken_accented_letter_0219">"에스, 아래 콤마"</string>
+  
+  <string name="spoken_accented_letter_021B">"티, 아래 콤마"</string>
+  
+  <string name="spoken_accented_letter_0259">"슈와"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"에이, 아래 닷"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"에이, 위 후크"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"에이, 서컴플렉스 및 어큐트"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"에이, 서컴플렉스 및 그레이브"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"에이, 서컴플렉스 및 위 후크"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"에이, 서컴플렉스 및 틸드"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"에이, 서컴플렉스 및 아래 닷"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"에이, 브레베 및 어큐트"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"에이, 브레베 및 그레이브"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"에이, 브레베 및 위 후크"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"에이, 브레베 및 틸드"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"에이, 브레베 및 아래 닷"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"이, 아래 닷"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"이, 위 후크"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"이, 틸드"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"이, 서컴플렉스 및 어큐트"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"이, 서컴플렉스 및 그레이브"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"이, 서컴플렉스 및 위 후크"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"이, 서컴플렉스 및 틸드"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"이, 서컴플렉스 및 아래 닷"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"아이, 위 후크"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"아이, 아래 닷"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"오, 아래 닷"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"오, 위 후크"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"오, 서컴플렉스 및 어큐트"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"오, 서컴플렉스 및 그레이브"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"오, 서컴플렉스 및 위 후크"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"오, 서컴플렉스 및 틸드"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"오, 서컴플렉스 및 아래 닷"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"오, 혼 및 어큐트"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"오, 혼 및 그레이브"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"오, 혼 및 위 후크"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"오, 혼 및 틸드"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"오, 혼 및 아래 닷"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"유, 아래 닷"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"유, 위 후크"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"유, 혼 및 어큐트"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"유, 혼 및 그레이브"</string>
+  
+  <string name="spoken_accented_letter_1EED">"유, 혼 및 위 후크"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"유, 혼 및 틸드"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"유, 혼 및 아래 닷"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"와이, 그레이브"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"와이, 아래 닷"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"와이, 위 후크"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"와이, 틸드"</string>
+  
+  <string name="spoken_symbol_00A1">"반전 느낌표"</string>
+  
+  <string name="spoken_symbol_00AB">"왼쪽 겹꺾쇠표"</string>
+  
+  <string name="spoken_symbol_00B7">"가운뎃점"</string>
+  
+  <string name="spoken_symbol_00B9">"슈퍼스크립트 1"</string>
+  
+  <string name="spoken_symbol_00BB">"오른쪽 겹꺾쇠표"</string>
+  
+  <string name="spoken_symbol_00BF">"반전 물음표"</string>
+  
+  <string name="spoken_symbol_2018">"왼쪽 작은따옴표"</string>
+  
+  <string name="spoken_symbol_2019">"오른쪽 작은따옴표"</string>
+  
+  <string name="spoken_symbol_201A">"쉼표"</string>
+  
+  <string name="spoken_symbol_201C">"왼쪽 큰따옴표"</string>
+  
+  <string name="spoken_symbol_201D">"오른쪽 큰따옴표"</string>
+  
+  <string name="spoken_symbol_2020">"단검표"</string>
+  
+  <string name="spoken_symbol_2021">"2중 단검표"</string>
+  
+  <string name="spoken_symbol_2030">"퍼밀 기호"</string>
+  
+  <string name="spoken_symbol_2032">"프라임"</string>
+  
+  <string name="spoken_symbol_2033">"더블 프라임"</string>
+  
+  <string name="spoken_symbol_2039">"왼쪽 꺾쇠표"</string>
+  
+  <string name="spoken_symbol_203A">"오른쪽 꺾쇠표"</string>
+  
+  <string name="spoken_symbol_2074">"슈퍼스크립트 4"</string>
+  
+  <string name="spoken_symbol_207F">"슈퍼스크립트 라틴 소문자 엔"</string>
+  
+  <string name="spoken_symbol_20B1">"페소 기호"</string>
+  
+  <string name="spoken_symbol_2105">"전교 기호"</string>
+  
+  <string name="spoken_symbol_2192">"오른쪽 화살표"</string>
+  
+  <string name="spoken_symbol_2193">"아래쪽 화살표"</string>
+  
+  <string name="spoken_symbol_2205">"공집합 기호"</string>
+  
+  <string name="spoken_symbol_2206">"델타"</string>
+  
+  <string name="spoken_symbol_2264">"작거나 같음"</string>
+  
+  <string name="spoken_symbol_2265">"크거나 같음"</string>
+  
+  <string name="spoken_symbol_2605">"검은 별"</string>
+</resources>

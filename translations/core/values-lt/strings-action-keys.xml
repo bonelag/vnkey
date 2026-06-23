@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">"Prad."</string>
+  
+  <string name="label_next_key">"Kitas"</string>
+  
+  <string name="label_previous_key">"Anks."</string>
+  
+  <string name="label_done_key">"Atl."</string>
+  
+  <string name="label_send_key">"Siųs."</string>
+  
+  <string name="label_search_key">"Paieška"</string>
+  
+  <string name="label_pause_key">"Pris."</string>
+  
+  <string name="label_wait_key">"Lauk."</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">"යන්න"</string>
+  
+  <string name="label_next_key">"මීළඟ"</string>
+  
+  <string name="label_previous_key">"පෙර"</string>
+  
+  <string name="label_done_key">"හරි"</string>
+  
+  <string name="label_send_key">"යවන්න"</string>
+  
+  <string name="label_search_key">"සොයන්න"</string>
+  
+  <string name="label_pause_key">"විරාමය"</string>
+  
+  <string name="label_wait_key">"රැඳීම"</string>
+</resources>

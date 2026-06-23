@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+  <string name="english_ime_name">FUTO Klavye</string>
+  
+  <string name="spell_checker_service_name">FUTO Yazım Denetleyici</string>
+  
+  <string name="english_ime_settings">FUTO Klavye Ayarları</string>
+  
+  <string name="android_spell_checker_settings">FUTO Yazım Denetleyici Ayarları</string>
+</resources>

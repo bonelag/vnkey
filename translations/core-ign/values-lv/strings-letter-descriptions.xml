@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"Sieviešu dzimtes kārtas skaitļa vārds"</string>
+  
+  <string name="spoken_accented_letter_00B5">"Mikro zīme"</string>
+  
+  <string name="spoken_accented_letter_00BA">"Vīriešu dzimtes kārtas skaitļa vārds"</string>
+  
+  <string name="spoken_accented_letter_00DF">"S ligatūra"</string>
+  
+  <string name="spoken_accented_letter_00E0">"A ar gravi"</string>
+  
+  <string name="spoken_accented_letter_00E1">"A ar akcentu"</string>
+  
+  <string name="spoken_accented_letter_00E2">"A ar cirkumfleksu"</string>
+  
+  <string name="spoken_accented_letter_00E3">"A ar tildi"</string>
+  
+  <string name="spoken_accented_letter_00E4">"A ar diairēsi"</string>
+  
+  <string name="spoken_accented_letter_00E5">"A ar aplīti virs burta"</string>
+  
+  <string name="spoken_accented_letter_00E6">"A-E ligatūra"</string>
+  
+  <string name="spoken_accented_letter_00E7">"C ar sediļu"</string>
+  
+  <string name="spoken_accented_letter_00E8">"E ar gravi"</string>
+  
+  <string name="spoken_accented_letter_00E9">"E ar akcentu"</string>
+  
+  <string name="spoken_accented_letter_00EA">"E ar cirkumfleksu"</string>
+  
+  <string name="spoken_accented_letter_00EB">"E ar diairēsi"</string>
+  
+  <string name="spoken_accented_letter_00EC">"I ar gravi"</string>
+  
+  <string name="spoken_accented_letter_00ED">"I ar akcentu"</string>
+  
+  <string name="spoken_accented_letter_00EE">"I ar cirkumfleksu"</string>
+  
+  <string name="spoken_accented_letter_00EF">"I ar diairēsi"</string>
+  
+  <string name="spoken_accented_letter_00F0">"Eth"</string>
+  
+  <string name="spoken_accented_letter_00F1">"N ar tildi"</string>
+  
+  <string name="spoken_accented_letter_00F2">"O ar gravi"</string>
+  
+  <string name="spoken_accented_letter_00F3">"O ar akcentu"</string>
+  
+  <string name="spoken_accented_letter_00F4">"O ar cirkumfleksu"</string>
+  
+  <string name="spoken_accented_letter_00F5">"O ar tildi"</string>
+  
+  <string name="spoken_accented_letter_00F6">"O ar diairēsi"</string>
+  
+  <string name="spoken_accented_letter_00F8">"O ar vilkumu"</string>
+  
+  <string name="spoken_accented_letter_00F9">"U ar gravi"</string>
+  
+  <string name="spoken_accented_letter_00FA">"U ar akcentu"</string>
+  
+  <string name="spoken_accented_letter_00FB">"U ar cirkumfleksu"</string>
+  
+  <string name="spoken_accented_letter_00FC">"U ar diairēsi"</string>
+  
+  <string name="spoken_accented_letter_00FD">"Y ar akcentu"</string>
+  
+  <string name="spoken_accented_letter_00FE">"Thorn"</string>
+  
+  <string name="spoken_accented_letter_00FF">"Y ar diairēsi"</string>
+  
+  <string name="spoken_accented_letter_0101">"A ar garumzīmi"</string>
+  
+  <string name="spoken_accented_letter_0103">"A ar īsuma zīmi"</string>
+  
+  <string name="spoken_accented_letter_0105">"A ar ogonek astīti"</string>
+  
+  <string name="spoken_accented_letter_0107">"C ar akcentu"</string>
+  
+  <string name="spoken_accented_letter_0109">"C ar cirkumfleksu"</string>
+  
+  <string name="spoken_accented_letter_010B">"C ar punktu virs burta"</string>
+  
+  <string name="spoken_accented_letter_010D">"C ar apgriezto jumtiņu"</string>
+  
+  <string name="spoken_accented_letter_010F">"D ar apgriezto jumtiņu"</string>
+  
+  <string name="spoken_accented_letter_0111">"D ar vilkumu"</string>
+  
+  <string name="spoken_accented_letter_0113">"E ar garumzīmi"</string>
+  
+  <string name="spoken_accented_letter_0115">"E ar īsuma zīmi"</string>
+  
+  <string name="spoken_accented_letter_0117">"E ar punktu virs burta"</string>
+  
+  <string name="spoken_accented_letter_0119">"E ar ogonek astīti"</string>
+  
+  <string name="spoken_accented_letter_011B">"E ar apgriezto jumtiņu"</string>
+  
+  <string name="spoken_accented_letter_011D">"G ar cirkumfleksu"</string>
+  
+  <string name="spoken_accented_letter_011F">"G ar īsuma zīmi"</string>
+  
+  <string name="spoken_accented_letter_0121">"G ar punktu virs burta"</string>
+  
+  <string name="spoken_accented_letter_0123">"G ar sediļu"</string>
+  
+  <string name="spoken_accented_letter_0125">"H ar cirkumfleksu"</string>
+  
+  <string name="spoken_accented_letter_0127">"H ar vilkumu"</string>
+  
+  <string name="spoken_accented_letter_0129">"I ar tildi"</string>
+  
+  <string name="spoken_accented_letter_012B">"I ar garumzīmi"</string>
+  
+  <string name="spoken_accented_letter_012D">"I ar īsuma zīmi"</string>
+  
+  <string name="spoken_accented_letter_012F">"I ar ogonek astīti"</string>
+  
+  <string name="spoken_accented_letter_0131">"Bezpunkta I"</string>
+  
+  <string name="spoken_accented_letter_0133">"I-J ligatūra"</string>
+  
+  <string name="spoken_accented_letter_0135">"J ar cirkumfleksu"</string>
+  
+  <string name="spoken_accented_letter_0137">"K ar sediļu"</string>
+  
+  <string name="spoken_accented_letter_0138">"Kra"</string>
+  
+  <string name="spoken_accented_letter_013A">"L ar akcentu"</string>
+  
+  <string name="spoken_accented_letter_013C">"L ar sediļu"</string>
+  
+  <string name="spoken_accented_letter_013E">"L ar apgriezto jumtiņu"</string>
+  
+  <string name="spoken_accented_letter_0140">"L ar viduspunktu"</string>
+  
+  <string name="spoken_accented_letter_0142">"L ar vilkumu"</string>
+  
+  <string name="spoken_accented_letter_0144">"N ar akcentu"</string>
+  
+  <string name="spoken_accented_letter_0146">"N ar sediļu"</string>
+  
+  <string name="spoken_accented_letter_0148">"N ar apgriezto jumtiņu"</string>
+  
+  <string name="spoken_accented_letter_0149">"N ar apostrofu pirms burta"</string>
+  
+  <string name="spoken_accented_letter_014B">"Eng"</string>
+  
+  <string name="spoken_accented_letter_014D">"O ar garumzīmi"</string>
+  
+  <string name="spoken_accented_letter_014F">"O ar īsuma zīmi"</string>
+  
+  <string name="spoken_accented_letter_0151">"O ar dubultakcentu"</string>
+  
+  <string name="spoken_accented_letter_0153">"O-E ligatūra"</string>
+  
+  <string name="spoken_accented_letter_0155">"R ar akcentu"</string>
+  
+  <string name="spoken_accented_letter_0157">"R ar sediļu"</string>
+  
+  <string name="spoken_accented_letter_0159">"R ar apgriezto jumtiņu"</string>
+  
+  <string name="spoken_accented_letter_015B">"S ar akcentu"</string>
+  
+  <string name="spoken_accented_letter_015D">"S ar cirkumfleksu"</string>
+  
+  <string name="spoken_accented_letter_015F">"S ar sediļu"</string>
+  
+  <string name="spoken_accented_letter_0161">"S ar apgriezto jumtiņu"</string>
+  
+  <string name="spoken_accented_letter_0163">"T ar sediļu"</string>
+  
+  <string name="spoken_accented_letter_0165">"T ar apgriezto jumtiņu"</string>
+  
+  <string name="spoken_accented_letter_0167">"T ar vilkumu"</string>
+  
+  <string name="spoken_accented_letter_0169">"U ar tildi"</string>
+  
+  <string name="spoken_accented_letter_016B">"U ar garumzīmi"</string>
+  
+  <string name="spoken_accented_letter_016D">"U ar īsuma zīmi"</string>
+  
+  <string name="spoken_accented_letter_016F">"U ar aplīti virs burta"</string>
+  
+  <string name="spoken_accented_letter_0171">"U ar dubultakcentu"</string>
+  
+  <string name="spoken_accented_letter_0173">"U ar ogonek astīti"</string>
+  
+  <string name="spoken_accented_letter_0175">"W ar cirkumfleksu"</string>
+  
+  <string name="spoken_accented_letter_0177">"Y ar cirkumfleksu"</string>
+  
+  <string name="spoken_accented_letter_017A">"Z ar akcentu"</string>
+  
+  <string name="spoken_accented_letter_017C">"Z ar aplīti virs burta"</string>
+  
+  <string name="spoken_accented_letter_017E">"Z ar apgriezto jumtiņu"</string>
+  
+  <string name="spoken_accented_letter_017F">"Garais S"</string>
+  
+  <string name="spoken_accented_letter_01A1">"O ar raga zīmi"</string>
+  
+  <string name="spoken_accented_letter_01B0">"U ar raga zīmi"</string>
+  
+  <string name="spoken_accented_letter_0219">"S ar komatu zem burta"</string>
+  
+  <string name="spoken_accented_letter_021B">"T ar komatu zem burta"</string>
+  
+  <string name="spoken_accented_letter_0259">"Neitrāls patskanis"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"A ar punktu zem burta"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"A ar āķa zīmi"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"A ar cirkumfleksu un akcentu"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"A ar cirkumfleksu un gravi"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"A ar cirkumfleksu un āķa zīmi virs burta"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"A ar cirkumfleksu un tildi"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"A ar cirkumfleksu un punktu zem burta"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"A ar īsuma zīmi un akcentu"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"A ar īsuma zīmi un gravi"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"A ar īsuma zīmi un āķa zīmi virs burta"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"A ar īsuma zīmi un tildi"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"A ar īsuma zīmi un punktu zem burta"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"E ar punktu zem burta"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"E ar āķa zīmi virs burta"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"E ar tildi"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"E ar cirkumfleksu un akcentu"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"E ar cirkumfleksu un gravi"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"E ar cirkumfleksu un āķa zīmi virs burta"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"E ar cirkumfleksu un tildi"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"E ar cirkumfleksu un punktu zem burta"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"I ar āķa zīmi virs burta"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"I ar punktu zem burta"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"O ar punktu zem burta"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"O ar āķa zīmi virs burta"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"O ar cirkumfleksu un akcentu"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"O ar cirkumfleksu un gravi"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"O ar cirkumfleksu un āķa zīmi virs burta"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"O ar cirkumfleksu un tildi"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"O ar cirkumfleksu un punktu zem burta"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"O ar raga zīmi un akcentu"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"O ar raga zīmi un gravi"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"O ar raga zīmi un āķa zīmi virs burta"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"O ar raga zīmi un tildi"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"O ar raga zīmi un punktu zem burta"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"U ar punktu zem burta"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"U ar āķa zīmi virs burta"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"U ar raga zīmi un akcentu"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"U ar raga zīmi un gravi"</string>
+  
+  <string name="spoken_accented_letter_1EED">"U ar raga zīmi un āķa zīmi virs burta"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"U ar raga zīmi un tildi"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"U ar raga zīmi un punktu zem burta"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"Y ar gravi"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"Y ar punktu zem burta"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"Y ar āķa zīmi virs burta"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"Y ar tildi"</string>
+  
+  <string name="spoken_symbol_00A1">"Apgriezta izsaukuma zīme"</string>
+  
+  <string name="spoken_symbol_00AB">"Pa kreisi vērsta dubultā leņķa pēdiņa"</string>
+  
+  <string name="spoken_symbol_00B7">"Viduspunkts"</string>
+  
+  <string name="spoken_symbol_00B9">"“Viens” augšrakstā"</string>
+  
+  <string name="spoken_symbol_00BB">"Pa labi vērsta dubultā leņķa pēdiņa"</string>
+  
+  <string name="spoken_symbol_00BF">"Apgriezta jautājuma zīme"</string>
+  
+  <string name="spoken_symbol_2018">"Viena kreisās puses pēdiņa"</string>
+  
+  <string name="spoken_symbol_2019">"Viena labās puses pēdiņa"</string>
+  
+  <string name="spoken_symbol_201A">"Viena izliekta “9” formas pēdiņa"</string>
+  
+  <string name="spoken_symbol_201C">"Divas kreisās puses pēdiņas"</string>
+  
+  <string name="spoken_symbol_201D">"Divas labās puses pēdiņas"</string>
+  
+  <string name="spoken_symbol_2020">"Krustiņš"</string>
+  
+  <string name="spoken_symbol_2021">"Dubultkrustiņš"</string>
+  
+  <string name="spoken_symbol_2030">"Promiles zīme"</string>
+  
+  <string name="spoken_symbol_2032">"Štrihs"</string>
+  
+  <string name="spoken_symbol_2033">"Dubultštrihs"</string>
+  
+  <string name="spoken_symbol_2039">"Viena pa kreisi vērsta leņķa pēdiņa"</string>
+  
+  <string name="spoken_symbol_203A">"Viena pa labi vērsta leņķa pēdiņa"</string>
+  
+  <string name="spoken_symbol_2074">"“Četri” augšrakstā"</string>
+  
+  <string name="spoken_symbol_207F">"Latīņu mazais burts “n” augšrakstā"</string>
+  
+  <string name="spoken_symbol_20B1">"Peso zīme"</string>
+  
+  <string name="spoken_symbol_2105">"c/o"</string>
+  
+  <string name="spoken_symbol_2192">"Pa labi vērsta bultiņa"</string>
+  
+  <string name="spoken_symbol_2193">"Uz leju vērsta bultiņa"</string>
+  
+  <string name="spoken_symbol_2205">"Tukša kopa"</string>
+  
+  <string name="spoken_symbol_2206">"Palielinājums"</string>
+  
+  <string name="spoken_symbol_2264">"Mazāks par vai vienāds ar"</string>
+  
+  <string name="spoken_symbol_2265">"Lielāks par vai vienāds ar"</string>
+  
+  <string name="spoken_symbol_2605">"Melna zvaigzne"</string>
+</resources>

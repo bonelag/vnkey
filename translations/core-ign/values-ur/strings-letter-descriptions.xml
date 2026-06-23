@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"مؤنث علامتِ ترتيب"</string>
+  
+  <string name="spoken_accented_letter_00B5">"مائیکرو کا نشان"</string>
+  
+  <string name="spoken_accented_letter_00BA">"مذکر علامتِ ترتيب"</string>
+  
+  <string name="spoken_accented_letter_00DF">"‏شارپ S"</string>
+  
+  <string name="spoken_accented_letter_00E0">"‏A، گریو"</string>
+  
+  <string name="spoken_accented_letter_00E1">"‏A، اکیوٹ"</string>
+  
+  <string name="spoken_accented_letter_00E2">"‏A، سرکمفلیکس"</string>
+  
+  <string name="spoken_accented_letter_00E3">"‏A، ٹلڈا"</string>
+  
+  <string name="spoken_accented_letter_00E4">"‏A، ڈایاریسس"</string>
+  
+  <string name="spoken_accented_letter_00E5">"‏A، اوپر رِنگ"</string>
+  
+  <string name="spoken_accented_letter_00E6">"‏A, E، لیگاچر"</string>
+  
+  <string name="spoken_accented_letter_00E7">"‏C، سڈِلا"</string>
+  
+  <string name="spoken_accented_letter_00E8">"‏E، گریو"</string>
+  
+  <string name="spoken_accented_letter_00E9">"‏E، اکیوٹ"</string>
+  
+  <string name="spoken_accented_letter_00EA">"‏E، سرکمفلیکس"</string>
+  
+  <string name="spoken_accented_letter_00EB">"‏E، ڈایاریسس"</string>
+  
+  <string name="spoken_accented_letter_00EC">"‏I، گریو"</string>
+  
+  <string name="spoken_accented_letter_00ED">"‏I، اکیوٹ"</string>
+  
+  <string name="spoken_accented_letter_00EE">"‏I، سرکمفلیکس"</string>
+  
+  <string name="spoken_accented_letter_00EF">"‏I، ڈایاریسس"</string>
+  
+  <string name="spoken_accented_letter_00F0">"Eth"</string>
+  
+  <string name="spoken_accented_letter_00F1">"‏N، ٹلڈا"</string>
+  
+  <string name="spoken_accented_letter_00F2">"‏O، گریو"</string>
+  
+  <string name="spoken_accented_letter_00F3">"‏O، اکیوٹ"</string>
+  
+  <string name="spoken_accented_letter_00F4">"‏O، سرکمفلیکس"</string>
+  
+  <string name="spoken_accented_letter_00F5">"‏O، ٹلڈا"</string>
+  
+  <string name="spoken_accented_letter_00F6">"‏O، ڈایاریسس"</string>
+  
+  <string name="spoken_accented_letter_00F8">"‏O، اسٹروک"</string>
+  
+  <string name="spoken_accented_letter_00F9">"‏U، گریو"</string>
+  
+  <string name="spoken_accented_letter_00FA">"‏U، اکیوٹ"</string>
+  
+  <string name="spoken_accented_letter_00FB">"‏U، سرکمفلیکس"</string>
+  
+  <string name="spoken_accented_letter_00FC">"‏U، ڈایاریسس"</string>
+  
+  <string name="spoken_accented_letter_00FD">"‏Y، اکیوٹ"</string>
+  
+  <string name="spoken_accented_letter_00FE">"تھورن"</string>
+  
+  <string name="spoken_accented_letter_00FF">"‏Y، ڈایاریسس"</string>
+  
+  <string name="spoken_accented_letter_0101">"‏A، میکران"</string>
+  
+  <string name="spoken_accented_letter_0103">"‏A، بریو"</string>
+  
+  <string name="spoken_accented_letter_0105">"‏A، اوگونیک"</string>
+  
+  <string name="spoken_accented_letter_0107">"‏C، اکیوٹ"</string>
+  
+  <string name="spoken_accented_letter_0109">"‏C، سرکمفلیکس"</string>
+  
+  <string name="spoken_accented_letter_010B">"‏C، اوپر ڈاٹ"</string>
+  
+  <string name="spoken_accented_letter_010D">"‏C، کیران"</string>
+  
+  <string name="spoken_accented_letter_010F">"‏D، کیران"</string>
+  
+  <string name="spoken_accented_letter_0111">"‏D، اسٹروک"</string>
+  
+  <string name="spoken_accented_letter_0113">"‏E، میکران"</string>
+  
+  <string name="spoken_accented_letter_0115">"‏E، بریو"</string>
+  
+  <string name="spoken_accented_letter_0117">"‏E، اوپر ڈاٹ"</string>
+  
+  <string name="spoken_accented_letter_0119">"‏E، اوگونیک"</string>
+  
+  <string name="spoken_accented_letter_011B">"‏E، کیران"</string>
+  
+  <string name="spoken_accented_letter_011D">"‏G، سرکمفلیکس"</string>
+  
+  <string name="spoken_accented_letter_011F">"‏G، بریو"</string>
+  
+  <string name="spoken_accented_letter_0121">"‏G، اوپر ڈاٹ"</string>
+  
+  <string name="spoken_accented_letter_0123">"‏G، سڈِلا"</string>
+  
+  <string name="spoken_accented_letter_0125">"‏H، سرکمفلیکس"</string>
+  
+  <string name="spoken_accented_letter_0127">"‏H، اسٹروک"</string>
+  
+  <string name="spoken_accented_letter_0129">"‏I، ٹلڈا"</string>
+  
+  <string name="spoken_accented_letter_012B">"‏I، میکران"</string>
+  
+  <string name="spoken_accented_letter_012D">"‏I، بریو"</string>
+  
+  <string name="spoken_accented_letter_012F">"‏I، اوگونیک"</string>
+  
+  <string name="spoken_accented_letter_0131">"‏بغیر ڈاٹ والی I"</string>
+  
+  <string name="spoken_accented_letter_0133">"‏I, J لیگاچر"</string>
+  
+  <string name="spoken_accented_letter_0135">"‏J، سرکمفلیکس"</string>
+  
+  <string name="spoken_accented_letter_0137">"‏K، سڈِلا"</string>
+  
+  <string name="spoken_accented_letter_0138">"Kra"</string>
+  
+  <string name="spoken_accented_letter_013A">"‏L، اکیوٹ"</string>
+  
+  <string name="spoken_accented_letter_013C">"‏L، سڈِلا"</string>
+  
+  <string name="spoken_accented_letter_013E">"‏L، کیران"</string>
+  
+  <string name="spoken_accented_letter_0140">"‏L، درمیانی ڈاٹ"</string>
+  
+  <string name="spoken_accented_letter_0142">"‏L، اسٹروک"</string>
+  
+  <string name="spoken_accented_letter_0144">"‏N، اکیوٹ"</string>
+  
+  <string name="spoken_accented_letter_0146">"‏N، سڈِلا"</string>
+  
+  <string name="spoken_accented_letter_0148">"‏N، کیران"</string>
+  
+  <string name="spoken_accented_letter_0149">"‏N، جس سے پہلے علامت حذف ہو"</string>
+  
+  <string name="spoken_accented_letter_014B">"Eng"</string>
+  
+  <string name="spoken_accented_letter_014D">"‏O، میکران"</string>
+  
+  <string name="spoken_accented_letter_014F">"‏O، بریو"</string>
+  
+  <string name="spoken_accented_letter_0151">"‏O، ڈبل اکیوٹ"</string>
+  
+  <string name="spoken_accented_letter_0153">"‏O, E، لیگاچر"</string>
+  
+  <string name="spoken_accented_letter_0155">"‏R، اکیوٹ"</string>
+  
+  <string name="spoken_accented_letter_0157">"‏R، سڈِلا"</string>
+  
+  <string name="spoken_accented_letter_0159">"‏R، کیران"</string>
+  
+  <string name="spoken_accented_letter_015B">"‏S، اکیوٹ"</string>
+  
+  <string name="spoken_accented_letter_015D">"‏S، سرکمفلیکس"</string>
+  
+  <string name="spoken_accented_letter_015F">"‏S، سڈِلا"</string>
+  
+  <string name="spoken_accented_letter_0161">"‏S، کیران"</string>
+  
+  <string name="spoken_accented_letter_0163">"‏T، سڈِلا"</string>
+  
+  <string name="spoken_accented_letter_0165">"‏T، کیران"</string>
+  
+  <string name="spoken_accented_letter_0167">"‏T، اسٹروک"</string>
+  
+  <string name="spoken_accented_letter_0169">"‏U، ٹلڈا"</string>
+  
+  <string name="spoken_accented_letter_016B">"‏U، میکران"</string>
+  
+  <string name="spoken_accented_letter_016D">"‏U، بریو"</string>
+  
+  <string name="spoken_accented_letter_016F">"‏U، اوپر رِنگ"</string>
+  
+  <string name="spoken_accented_letter_0171">"‏U، ڈبل اکیوٹ"</string>
+  
+  <string name="spoken_accented_letter_0173">"‏U، اوگونیک"</string>
+  
+  <string name="spoken_accented_letter_0175">"‏W، سرکمفلیکس"</string>
+  
+  <string name="spoken_accented_letter_0177">"‏Y، سرکمفلیکس"</string>
+  
+  <string name="spoken_accented_letter_017A">"‏Z، اکیوٹ"</string>
+  
+  <string name="spoken_accented_letter_017C">"‏Z، اوپر ڈاٹ"</string>
+  
+  <string name="spoken_accented_letter_017E">"‏Z، کیران"</string>
+  
+  <string name="spoken_accented_letter_017F">"‏طویل S"</string>
+  
+  <string name="spoken_accented_letter_01A1">"‏O، ہورن"</string>
+  
+  <string name="spoken_accented_letter_01B0">"‏U، ہورن"</string>
+  
+  <string name="spoken_accented_letter_0219">"‏S، ذیل میں کوما"</string>
+  
+  <string name="spoken_accented_letter_021B">"‏T، ذیل میں کوما"</string>
+  
+  <string name="spoken_accented_letter_0259">"شوا"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"‏A، ذیل میں ڈاٹ"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"‏A، اوپر ہوک"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"‏A، سرکمفلیکس اور اکیوٹ"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"‏A، سرکمفلیکس اور گریو"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"‏A، سرکمفلیکس اور اوپر ہوک"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"‏A، سرکمفلیکس اور ٹلڈا"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"‏A، سرکمفلیکس اور ذیل میں ڈاٹ"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"‏A، بریو اور اکیوٹ"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"‏A، بریو اور گریو"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"‏A، بریو اور اوپر ہوک"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"‏A، بریو اور ٹلڈا"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"‏A، بریو اور ذیل میں ڈاٹ"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"‏E، ذیل میں ڈاٹ"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"‏E، اوپر ہوک"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"‏E، ٹلڈا"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"‏E، سرکمفلیکس اور اکیوٹ"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"‏E، سرکمفلیکس اور گریو"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"‏E، سرکمفلیکس اور اوپر ہوک"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"‏E، سرکمفلیکس اور ٹلڈا"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"‏E، سرکمفلیکس اور ذیل میں ڈاٹ"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"‏I، اوپر ہوک"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"‏I، ذیل میں ڈاٹ"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"‏O، ذیل میں ڈاٹ"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"‏O، اوپر ہوک"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"‏O، سرکمفلیکس اور اکیوٹ"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"‏O، سرکمفلیکس اور گریو"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"‏O، سرکمفلیکس اور اوپر ہوک"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"‏O، سرکمفلیکس اور ٹلڈا"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"‏O، سرکمفلیکس اور ذیل میں ڈاٹ"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"‏O، ہورن اور اکیوٹ"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"‏O، ہورن اور گریو"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"‏O، ہورن اور اوپر ہوک"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"‏O، ہورن اور ٹلڈا"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"‏O، ہورن اور ذیل میں ڈاٹ"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"‏U، ذیل میں ڈاٹ"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"‏U، اوپر ہوک"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"‏U، ہورن اور اکیوٹ"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"‏U، ہورن اور گریو"</string>
+  
+  <string name="spoken_accented_letter_1EED">"‏U، اوپر ہورن اور ہوک"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"‏U، ہورن اور ٹلڈا"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"‏U، ہورن اور ذیل میں ڈاٹ"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"‏Y، گریو"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"‏Y، ذیل میں ڈاٹ"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"‏Y، اوپر ہوک"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"‏Y، ٹلڈا"</string>
+  
+  <string name="spoken_symbol_00A1">"الٹی علامت استعجاب"</string>
+  
+  <string name="spoken_symbol_00AB">"بائیں طرف اشارہ کرنے والا دو زاویہ علامت قوسین"</string>
+  
+  <string name="spoken_symbol_00B7">"درمیانی ڈاٹ"</string>
+  
+  <string name="spoken_symbol_00B9">"سپر اسکرپٹ ایک"</string>
+  
+  <string name="spoken_symbol_00BB">"دائیں طرف اشارہ کرنے والا دو زاویہ علامت اقتباس"</string>
+  
+  <string name="spoken_symbol_00BF">"الٹا سوالیہ نشان"</string>
+  
+  <string name="spoken_symbol_2018">"بائیں طرف والی ایک علامت اقتباس"</string>
+  
+  <string name="spoken_symbol_2019">"دائیں طرف والی ایک علامت اقتباس"</string>
+  
+  <string name="spoken_symbol_201A">"واحد ذیلی 9 علامت اقتباس"</string>
+  
+  <string name="spoken_symbol_201C">"بائیں طرف والی دہری علامت اقتباس"</string>
+  
+  <string name="spoken_symbol_201D">"دائیں دہری علامت اقتباس"</string>
+  
+  <string name="spoken_symbol_2020">"ڈیگر"</string>
+  
+  <string name="spoken_symbol_2021">"ڈبل ڈیگر"</string>
+  
+  <string name="spoken_symbol_2030">"فی ملی علامت"</string>
+  
+  <string name="spoken_symbol_2032">"پرائم"</string>
+  
+  <string name="spoken_symbol_2033">"ڈبل پرائم"</string>
+  
+  <string name="spoken_symbol_2039">"بائیں طرف اشارہ کرنے والا ایک زاویہ علامت اقتباس"</string>
+  
+  <string name="spoken_symbol_203A">"دائیں طرف اشارہ کرنے والا ایک زاویہ علامت اقتباس"</string>
+  
+  <string name="spoken_symbol_2074">"سپر اسکرپٹ چار"</string>
+  
+  <string name="spoken_symbol_207F">"‏سپر اسکرپٹ لاطینی چھوٹا حرف n"</string>
+  
+  <string name="spoken_symbol_20B1">"پیسو علامت"</string>
+  
+  <string name="spoken_symbol_2105">"کیئر آف"</string>
+  
+  <string name="spoken_symbol_2192">"دائیں طرف کا تیر کا نشان"</string>
+  
+  <string name="spoken_symbol_2193">"نیچے کی طرف کا تیر کا نشان"</string>
+  
+  <string name="spoken_symbol_2205">"خالی سیٹ"</string>
+  
+  <string name="spoken_symbol_2206">"اضافہ"</string>
+  
+  <string name="spoken_symbol_2264">"اس سے کم یا اس کے برابر"</string>
+  
+  <string name="spoken_symbol_2265">"اس سے بڑا یا اس کے برابر"</string>
+  
+  <string name="spoken_symbol_2605">"سیاہ ستارہ کا نشان"</string>
+</resources>

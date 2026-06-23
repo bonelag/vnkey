@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- TODO: these settings depend on the language. They should be put either in the dictionary
+         header, or in the subtype maybe? -->
+    
+    <string name="suggested_punctuations">!,?,\\,,:,;,\",(,),\',-,/,@,_</string>
+    
+    <string name="symbols_preceded_by_space"></string>
+    
+    <string name="symbols_followed_by_space">.,;:!?)]}</string>
+    
+    <string name="symbols_optionally_preceded_by_space">;:</string>
+    
+    <string name="symbols_followed_by_space_iff_preceded_by_space">-&amp;</string>
+    
+    <string name="symbols_clustering_together"></string>
+    
+    
+    <string name="symbols_word_separators">"&#x0009;&#x0020;&#x000A;&#x00A0;"()[]{}*&amp;&lt;&gt;+=|.,;:!?/_\"-#$`\\%&#x00bf;&#x00a1;&#x00bf;&#x2014;&#x2013;&#x201e;&#x201c;&#x201d;&#x00ab;&#x00bb;&#x2039;&#x203a;&#x2026;~</string>
+    
+    <string name="symbols_word_connectors">\'</string>
+    
+    
+    <integer name="sentence_separator">46</integer>
+    
+    
+    <integer name="abbreviation_marker">46</integer>
+    
+    <string name="symbols_sentence_terminators">.?!</string>
+    
+    <bool name="current_language_has_spaces">true</bool>
+</resources>

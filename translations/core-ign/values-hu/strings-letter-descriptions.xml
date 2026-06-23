@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"Sorszámnévjelölő (nőnemű)"</string>
+  
+  <string name="spoken_accented_letter_00B5">"„mű” jel"</string>
+  
+  <string name="spoken_accented_letter_00BA">"Sorszámnévjelölő (hímnemű)"</string>
+  
+  <string name="spoken_accented_letter_00DF">"Scharfes S"</string>
+  
+  <string name="spoken_accented_letter_00E0">"A, tompa ékezettel"</string>
+  
+  <string name="spoken_accented_letter_00E1">"A, éles ékezettel"</string>
+  
+  <string name="spoken_accented_letter_00E2">"A, kúpos ékezettel"</string>
+  
+  <string name="spoken_accented_letter_00E3">"A, hullámvonallal"</string>
+  
+  <string name="spoken_accented_letter_00E4">"A, trémával"</string>
+  
+  <string name="spoken_accented_letter_00E5">"A, felette körrel"</string>
+  
+  <string name="spoken_accented_letter_00E6">"A, E, ikerbetű"</string>
+  
+  <string name="spoken_accented_letter_00E7">"C, cédille-jel"</string>
+  
+  <string name="spoken_accented_letter_00E8">"E, tompa ékezettel"</string>
+  
+  <string name="spoken_accented_letter_00E9">"E, éles ékezettel"</string>
+  
+  <string name="spoken_accented_letter_00EA">"E, kúpos ékezettel"</string>
+  
+  <string name="spoken_accented_letter_00EB">"E, trémával"</string>
+  
+  <string name="spoken_accented_letter_00EC">"I, tompa ékezettel"</string>
+  
+  <string name="spoken_accented_letter_00ED">"I, éles ékezettel"</string>
+  
+  <string name="spoken_accented_letter_00EE">"I, kúpos ékezettel"</string>
+  
+  <string name="spoken_accented_letter_00EF">"I, trémával"</string>
+  
+  <string name="spoken_accented_letter_00F0">"Eth betű"</string>
+  
+  <string name="spoken_accented_letter_00F1">"N, hullámvonallal"</string>
+  
+  <string name="spoken_accented_letter_00F2">"O, tompa ékezettel"</string>
+  
+  <string name="spoken_accented_letter_00F3">"O, éles ékezettel"</string>
+  
+  <string name="spoken_accented_letter_00F4">"O, kúpos ékezettel"</string>
+  
+  <string name="spoken_accented_letter_00F5">"O, hullámvonallal"</string>
+  
+  <string name="spoken_accented_letter_00F6">"O, trémával"</string>
+  
+  <string name="spoken_accented_letter_00F8">"O, áthúzva"</string>
+  
+  <string name="spoken_accented_letter_00F9">"U, tompa ékezettel"</string>
+  
+  <string name="spoken_accented_letter_00FA">"U, éles ékezettel"</string>
+  
+  <string name="spoken_accented_letter_00FB">"U, kúpos ékezettel"</string>
+  
+  <string name="spoken_accented_letter_00FC">"U, trémával"</string>
+  
+  <string name="spoken_accented_letter_00FD">"Y, éles ékezettel"</string>
+  
+  <string name="spoken_accented_letter_00FE">"Thorn betű"</string>
+  
+  <string name="spoken_accented_letter_00FF">"Y, trémával"</string>
+  
+  <string name="spoken_accented_letter_0101">"A, hosszúsági jellel"</string>
+  
+  <string name="spoken_accented_letter_0103">"A, rövidségi jellel"</string>
+  
+  <string name="spoken_accented_letter_0105">"A, horoggal"</string>
+  
+  <string name="spoken_accented_letter_0107">"C, éles ékezettel"</string>
+  
+  <string name="spoken_accented_letter_0109">"C, kúpos ékezettel"</string>
+  
+  <string name="spoken_accented_letter_010B">"C, felette ponttal"</string>
+  
+  <string name="spoken_accented_letter_010D">"C, hacsekkel"</string>
+  
+  <string name="spoken_accented_letter_010F">"D, hacsekkel"</string>
+  
+  <string name="spoken_accented_letter_0111">"D, áthúzva"</string>
+  
+  <string name="spoken_accented_letter_0113">"E, hosszúsági jellel"</string>
+  
+  <string name="spoken_accented_letter_0115">"E, rövidségi jellel"</string>
+  
+  <string name="spoken_accented_letter_0117">"E, felette ponttal"</string>
+  
+  <string name="spoken_accented_letter_0119">"E, horoggal"</string>
+  
+  <string name="spoken_accented_letter_011B">"E, hacsekkel"</string>
+  
+  <string name="spoken_accented_letter_011D">"G, kúpos ékezettel"</string>
+  
+  <string name="spoken_accented_letter_011F">"G, rövidségi jellel"</string>
+  
+  <string name="spoken_accented_letter_0121">"G, felette ponttal"</string>
+  
+  <string name="spoken_accented_letter_0123">"G, cédille-jel"</string>
+  
+  <string name="spoken_accented_letter_0125">"H, kúpos ékezettel"</string>
+  
+  <string name="spoken_accented_letter_0127">"H, áthúzva"</string>
+  
+  <string name="spoken_accented_letter_0129">"I, hullámvonallal"</string>
+  
+  <string name="spoken_accented_letter_012B">"I, hosszúsági jellel"</string>
+  
+  <string name="spoken_accented_letter_012D">"I, rövidségi jellel"</string>
+  
+  <string name="spoken_accented_letter_012F">"I, horoggal"</string>
+  
+  <string name="spoken_accented_letter_0131">"Pont nélküli I"</string>
+  
+  <string name="spoken_accented_letter_0133">"I, J, ikerbetű"</string>
+  
+  <string name="spoken_accented_letter_0135">"J, kúpos ékezettel"</string>
+  
+  <string name="spoken_accented_letter_0137">"K, cédille-jel"</string>
+  
+  <string name="spoken_accented_letter_0138">"Kra betű"</string>
+  
+  <string name="spoken_accented_letter_013A">"L, éles ékezettel"</string>
+  
+  <string name="spoken_accented_letter_013C">"L, cédille-jel"</string>
+  
+  <string name="spoken_accented_letter_013E">"L, hacsekkel"</string>
+  
+  <string name="spoken_accented_letter_0140">"L, középen ponttal"</string>
+  
+  <string name="spoken_accented_letter_0142">"L, áthúzva"</string>
+  
+  <string name="spoken_accented_letter_0144">"N, éles ékezettel"</string>
+  
+  <string name="spoken_accented_letter_0146">"N, cédille-jel"</string>
+  
+  <string name="spoken_accented_letter_0148">"N, hacsekkel"</string>
+  
+  <string name="spoken_accented_letter_0149">"N, előtte aposztróffal"</string>
+  
+  <string name="spoken_accented_letter_014B">"Eng betű"</string>
+  
+  <string name="spoken_accented_letter_014D">"O, hosszúsági jellel"</string>
+  
+  <string name="spoken_accented_letter_014F">"O, rövidségi jellel"</string>
+  
+  <string name="spoken_accented_letter_0151">"O, dupla éles ékezettel"</string>
+  
+  <string name="spoken_accented_letter_0153">"O, E, ikerbetű"</string>
+  
+  <string name="spoken_accented_letter_0155">"R, éles ékezettel"</string>
+  
+  <string name="spoken_accented_letter_0157">"R, cédille-jel"</string>
+  
+  <string name="spoken_accented_letter_0159">"R, hacsekkel"</string>
+  
+  <string name="spoken_accented_letter_015B">"S, éles ékezettel"</string>
+  
+  <string name="spoken_accented_letter_015D">"S, kúpos ékezettel"</string>
+  
+  <string name="spoken_accented_letter_015F">"S, cédille-jel"</string>
+  
+  <string name="spoken_accented_letter_0161">"S, hacsekkel"</string>
+  
+  <string name="spoken_accented_letter_0163">"T, cédille-jel"</string>
+  
+  <string name="spoken_accented_letter_0165">"T, hacsekkel"</string>
+  
+  <string name="spoken_accented_letter_0167">"T, áthúzva"</string>
+  
+  <string name="spoken_accented_letter_0169">"U, hullámvonallal"</string>
+  
+  <string name="spoken_accented_letter_016B">"U, hosszúsági jellel"</string>
+  
+  <string name="spoken_accented_letter_016D">"U, rövidségi jellel"</string>
+  
+  <string name="spoken_accented_letter_016F">"U, felette körrel"</string>
+  
+  <string name="spoken_accented_letter_0171">"U, dupla éles ékezettel"</string>
+  
+  <string name="spoken_accented_letter_0173">"U, horoggal"</string>
+  
+  <string name="spoken_accented_letter_0175">"W, kúpos ékezettel"</string>
+  
+  <string name="spoken_accented_letter_0177">"Y, kúpos ékezettel"</string>
+  
+  <string name="spoken_accented_letter_017A">"Z, éles ékezettel"</string>
+  
+  <string name="spoken_accented_letter_017C">"Z, felette ponttal"</string>
+  
+  <string name="spoken_accented_letter_017E">"Z, hacsekkel"</string>
+  
+  <string name="spoken_accented_letter_017F">"Hosszú S"</string>
+  
+  <string name="spoken_accented_letter_01A1">"O, szarvval"</string>
+  
+  <string name="spoken_accented_letter_01B0">"U, szarvval"</string>
+  
+  <string name="spoken_accented_letter_0219">"S, alatta vesszővel"</string>
+  
+  <string name="spoken_accented_letter_021B">"T, alatta vesszővel"</string>
+  
+  <string name="spoken_accented_letter_0259">"Schwa betű"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"A, alatta ponttal"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"A, felette kampóval"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"A, kúpos ékezettel és éles ékezettel"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"A, kúpos ékezettel és tompa ékezettel"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"A, kúpos ékezettel és felette kampóval"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"A, kúpos ékezettel és hullámvonallal"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"A, kúpos ékezettel és alatta ponttal"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"A, rövidségi jellel és éles ékezettel"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"A, rövidségi jellel és tompa ékezettel"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"A, rövidségi jellel és felette kampóval"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"A, rövidségi jellel és hullámvonallal"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"A, rövidségi jellel és alatta ponttal"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"E, alatta ponttal"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"E, felette kampóval"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"E, hullámvonallal"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"E, kúpos ékezettel és éles ékezettel"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"E, kúpos ékezettel és tompa ékezettel"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"E, kúpos ékezettel és felette kampóval"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"E, kúpos ékezettel és hullámvonallal"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"E, kúpos ékezettel és alatta ponttal"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"I, felette kampóval"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"I, alatta ponttal"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"O, alatta ponttal"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"O, felette kampóval"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"O, kúpos ékezettel és éles ékezettel"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"O, kúpos ékezettel és tompa ékezettel"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"O, kúpos ékezettel és felette kampóval"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"O, kúpos ékezettel és hullámvonallal"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"O, kúpos ékezettel és alatta ponttal"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"O, szarvval és éles ékezettel"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"O, szarvval és tompa ékezettel"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"O, szarvval és felette kampóval"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"O, szarvval és hullámvonallal"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"O, szarvval és alatta ponttal"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"U, alatta ponttal"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"U, felette kampóval"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"U, szarvval és éles ékezettel"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"U, szarvval és tompa ékezettel"</string>
+  
+  <string name="spoken_accented_letter_1EED">"U, szarvval és felette kampóval"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"U, szarvval és hullámvonallal"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"U, szarvval és alatta ponttal"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"Y, tompa ékezettel"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"Y, alatta ponttal"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"Y, felette kampóval"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"Y, hullámvonallal"</string>
+  
+  <string name="spoken_symbol_00A1">"Fordított felkiáltójel"</string>
+  
+  <string name="spoken_symbol_00AB">"Balra mutató francia csúcsos dupla idézőjel"</string>
+  
+  <string name="spoken_symbol_00B7">"Középső pont"</string>
+  
+  <string name="spoken_symbol_00B9">"Felső indexszám egy"</string>
+  
+  <string name="spoken_symbol_00BB">"Jobbra mutató francia csúcsos dupla idézőjel"</string>
+  
+  <string name="spoken_symbol_00BF">"Fordított kérdőjel"</string>
+  
+  <string name="spoken_symbol_2018">"Bal angol szimpla idézőjel"</string>
+  
+  <string name="spoken_symbol_2019">"Jobb angol szimpla idézőjel"</string>
+  
+  <string name="spoken_symbol_201A">"Bal német szimpla idézőjel"</string>
+  
+  <string name="spoken_symbol_201C">"Bal dupla idézőjel"</string>
+  
+  <string name="spoken_symbol_201D">"Jobb dupla idézőjel"</string>
+  
+  <string name="spoken_symbol_2020">"Kereszt"</string>
+  
+  <string name="spoken_symbol_2021">"Kettős kereszt"</string>
+  
+  <string name="spoken_symbol_2030">"Ezrelékjel"</string>
+  
+  <string name="spoken_symbol_2032">"Percjel"</string>
+  
+  <string name="spoken_symbol_2033">"Másodpercjel"</string>
+  
+  <string name="spoken_symbol_2039">"Balra mutató francia csúcsos szimpla idézőjel"</string>
+  
+  <string name="spoken_symbol_203A">"Jobbra mutató francia csúcsos szimpla idézőjel"</string>
+  
+  <string name="spoken_symbol_2074">"Felső indexszám négy"</string>
+  
+  <string name="spoken_symbol_207F">"Felső index latin kisbetűs n"</string>
+  
+  <string name="spoken_symbol_20B1">"Peso jel"</string>
+  
+  <string name="spoken_symbol_2105">"Százalék"</string>
+  
+  <string name="spoken_symbol_2192">"Jobbra mutató nyíl"</string>
+  
+  <string name="spoken_symbol_2193">"Lefelé mutató nyíl"</string>
+  
+  <string name="spoken_symbol_2205">"Üres halmaz"</string>
+  
+  <string name="spoken_symbol_2206">"Növekmény"</string>
+  
+  <string name="spoken_symbol_2264">"Egyenlő vagy kisebb mint"</string>
+  
+  <string name="spoken_symbol_2265">"Egyenlő vagy nagyobb mint"</string>
+  
+  <string name="spoken_symbol_2605">"Fekete csillag"</string>
+</resources>

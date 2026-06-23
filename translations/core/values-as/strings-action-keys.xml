@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">"যাওক"</string>
+  
+  <string name="label_next_key">"পৰৱৰ্তী"</string>
+  
+  <string name="label_previous_key">"আগৰ"</string>
+  
+  <string name="label_done_key">"হ’ল"</string>
+  
+  <string name="label_send_key">"পঠিয়াওক"</string>
+  
+  <string name="label_search_key">"সন্ধান"</string>
+  
+  <string name="label_pause_key">"পজ কৰক"</string>
+  
+  <string name="label_wait_key">"ৰ\'ব"</string>
+</resources>

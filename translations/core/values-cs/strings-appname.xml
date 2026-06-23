@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+  <string name="english_ime_name">Klávesnice FUTO</string>
+  
+  <string name="spell_checker_service_name">Kontrola pravopisu FUTO</string>
+  
+  <string name="english_ime_settings">Nastavení Klávesnice FUTO</string>
+  
+  <string name="android_spell_checker_settings">Nastavení Kontroly pravopisu FUTO</string>
+</resources>

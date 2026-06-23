@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"ఫెమినైన్ ఆర్డినల్ సూచిక"</string>
+  
+  <string name="spoken_accented_letter_00B5">"సూక్ష్మ గుర్తు"</string>
+  
+  <string name="spoken_accented_letter_00BA">"మాస్క్యూలిన్ ఆర్డినల్ సూచిక"</string>
+  
+  <string name="spoken_accented_letter_00DF">"షార్ప్ S"</string>
+  
+  <string name="spoken_accented_letter_00E0">"A, గ్రేవ్"</string>
+  
+  <string name="spoken_accented_letter_00E1">"A, అక్యూట్"</string>
+  
+  <string name="spoken_accented_letter_00E2">"A, సర్కమ్‌ఫ్లెక్స్"</string>
+  
+  <string name="spoken_accented_letter_00E3">"A, టిల్డ్"</string>
+  
+  <string name="spoken_accented_letter_00E4">"A, డయేరిసిస్"</string>
+  
+  <string name="spoken_accented_letter_00E5">"A, ఎగువన రింగ్"</string>
+  
+  <string name="spoken_accented_letter_00E6">"A, E, లిగేచర్"</string>
+  
+  <string name="spoken_accented_letter_00E7">"C, సిడిల్లా"</string>
+  
+  <string name="spoken_accented_letter_00E8">"E, గ్రేవ్"</string>
+  
+  <string name="spoken_accented_letter_00E9">"E, అక్యూట్"</string>
+  
+  <string name="spoken_accented_letter_00EA">"E, సర్కమ్‌ఫ్లెక్స్"</string>
+  
+  <string name="spoken_accented_letter_00EB">"E, డయేరిసిస్"</string>
+  
+  <string name="spoken_accented_letter_00EC">"I, గ్రేవ్"</string>
+  
+  <string name="spoken_accented_letter_00ED">"I, అక్యూట్"</string>
+  
+  <string name="spoken_accented_letter_00EE">"I, సర్కమ్‌ఫ్లెక్స్"</string>
+  
+  <string name="spoken_accented_letter_00EF">"I, డయేరిసిస్"</string>
+  
+  <string name="spoken_accented_letter_00F0">"ఈథ్"</string>
+  
+  <string name="spoken_accented_letter_00F1">"N, టిల్డ్"</string>
+  
+  <string name="spoken_accented_letter_00F2">"O, గ్రేవ్"</string>
+  
+  <string name="spoken_accented_letter_00F3">"O, అక్యూట్"</string>
+  
+  <string name="spoken_accented_letter_00F4">"O, సర్కమ్‌ఫ్లెక్స్"</string>
+  
+  <string name="spoken_accented_letter_00F5">"O, టిల్డ్"</string>
+  
+  <string name="spoken_accented_letter_00F6">"O, డయేరిసిస్"</string>
+  
+  <string name="spoken_accented_letter_00F8">"O, స్ట్రోక్"</string>
+  
+  <string name="spoken_accented_letter_00F9">"U, గ్రేవ్"</string>
+  
+  <string name="spoken_accented_letter_00FA">"U, అక్యూట్"</string>
+  
+  <string name="spoken_accented_letter_00FB">"U, సర్కమ్‌ఫ్లెక్స్"</string>
+  
+  <string name="spoken_accented_letter_00FC">"U, డయేరిసిస్"</string>
+  
+  <string name="spoken_accented_letter_00FD">"Y, అక్యూట్"</string>
+  
+  <string name="spoken_accented_letter_00FE">"థార్న్"</string>
+  
+  <string name="spoken_accented_letter_00FF">"Y, డయేరిసిస్"</string>
+  
+  <string name="spoken_accented_letter_0101">"A, మ్యాక్రాన్"</string>
+  
+  <string name="spoken_accented_letter_0103">"A, బ్రీవ్"</string>
+  
+  <string name="spoken_accented_letter_0105">"A, ఒగోనెక్"</string>
+  
+  <string name="spoken_accented_letter_0107">"C, అక్యూట్"</string>
+  
+  <string name="spoken_accented_letter_0109">"C, సర్కమ్‌ఫ్లెక్స్"</string>
+  
+  <string name="spoken_accented_letter_010B">"C, ఎగువన చుక్క"</string>
+  
+  <string name="spoken_accented_letter_010D">"C, క్యారాన్"</string>
+  
+  <string name="spoken_accented_letter_010F">"D, క్యారాన్"</string>
+  
+  <string name="spoken_accented_letter_0111">"D, స్ట్రోక్"</string>
+  
+  <string name="spoken_accented_letter_0113">"E, మ్యాక్రాన్"</string>
+  
+  <string name="spoken_accented_letter_0115">"E, బ్రీవ్"</string>
+  
+  <string name="spoken_accented_letter_0117">"E, ఎగువన చుక్క"</string>
+  
+  <string name="spoken_accented_letter_0119">"E, ఒగోనెక్"</string>
+  
+  <string name="spoken_accented_letter_011B">"E, క్యారాన్"</string>
+  
+  <string name="spoken_accented_letter_011D">"G, సర్కమ్‌ఫ్లెక్స్"</string>
+  
+  <string name="spoken_accented_letter_011F">"G, బ్రీవ్"</string>
+  
+  <string name="spoken_accented_letter_0121">"G, ఎగువన చుక్క"</string>
+  
+  <string name="spoken_accented_letter_0123">"G, సిడిల్లా"</string>
+  
+  <string name="spoken_accented_letter_0125">"H, సర్కమ్‌ఫ్లెక్స్"</string>
+  
+  <string name="spoken_accented_letter_0127">"H, స్ట్రోక్"</string>
+  
+  <string name="spoken_accented_letter_0129">"I, టిల్డ్"</string>
+  
+  <string name="spoken_accented_letter_012B">"I, మ్యాక్రాన్"</string>
+  
+  <string name="spoken_accented_letter_012D">"I, బ్రీవ్"</string>
+  
+  <string name="spoken_accented_letter_012F">"I, ఒగోనెక్"</string>
+  
+  <string name="spoken_accented_letter_0131">"డాట్‌లెస్ I"</string>
+  
+  <string name="spoken_accented_letter_0133">"I, J, లిగేచర్"</string>
+  
+  <string name="spoken_accented_letter_0135">"J, సర్కమ్‌ఫ్లెక్స్"</string>
+  
+  <string name="spoken_accented_letter_0137">"K, సిడిల్లా"</string>
+  
+  <string name="spoken_accented_letter_0138">"క్రా"</string>
+  
+  <string name="spoken_accented_letter_013A">"L, అక్యూట్"</string>
+  
+  <string name="spoken_accented_letter_013C">"L, సిడిల్లా"</string>
+  
+  <string name="spoken_accented_letter_013E">"L, క్యారాన్"</string>
+  
+  <string name="spoken_accented_letter_0140">"L, మధ్యలో చుక్క"</string>
+  
+  <string name="spoken_accented_letter_0142">"L, స్ట్రోక్"</string>
+  
+  <string name="spoken_accented_letter_0144">"N, అక్యూట్"</string>
+  
+  <string name="spoken_accented_letter_0146">"N, సిడిల్లా"</string>
+  
+  <string name="spoken_accented_letter_0148">"N, క్యారాన్"</string>
+  
+  <string name="spoken_accented_letter_0149">"N, ముందు భాగంలో అపాస్ట్రఫీ"</string>
+  
+  <string name="spoken_accented_letter_014B">"ఇంజి"</string>
+  
+  <string name="spoken_accented_letter_014D">"O, మ్యాక్రాన్"</string>
+  
+  <string name="spoken_accented_letter_014F">"O, బ్రీవ్"</string>
+  
+  <string name="spoken_accented_letter_0151">"O, డబుల్ అక్యూట్"</string>
+  
+  <string name="spoken_accented_letter_0153">"O, E, లిగేచర్"</string>
+  
+  <string name="spoken_accented_letter_0155">"R, అక్యూట్"</string>
+  
+  <string name="spoken_accented_letter_0157">"R, సిడిల్లా"</string>
+  
+  <string name="spoken_accented_letter_0159">"R, క్యారాన్"</string>
+  
+  <string name="spoken_accented_letter_015B">"S, అక్యూట్"</string>
+  
+  <string name="spoken_accented_letter_015D">"S, సర్కమ్‌ఫ్లెక్స్"</string>
+  
+  <string name="spoken_accented_letter_015F">"S, సిడిల్లా"</string>
+  
+  <string name="spoken_accented_letter_0161">"S, క్యారాన్"</string>
+  
+  <string name="spoken_accented_letter_0163">"T, సిడిల్లా"</string>
+  
+  <string name="spoken_accented_letter_0165">"T, క్యారాన్"</string>
+  
+  <string name="spoken_accented_letter_0167">"T, స్ట్రోక్"</string>
+  
+  <string name="spoken_accented_letter_0169">"U, టిల్డ్"</string>
+  
+  <string name="spoken_accented_letter_016B">"U, మ్యాక్రాన్"</string>
+  
+  <string name="spoken_accented_letter_016D">"U, బ్రీవ్"</string>
+  
+  <string name="spoken_accented_letter_016F">"U, ఎగువన రింగ్"</string>
+  
+  <string name="spoken_accented_letter_0171">"U, డబుల్ అక్యూట్"</string>
+  
+  <string name="spoken_accented_letter_0173">"U, ఒగోనెక్"</string>
+  
+  <string name="spoken_accented_letter_0175">"W, సర్కమ్‌ఫ్లెక్స్"</string>
+  
+  <string name="spoken_accented_letter_0177">"Y, సర్కమ్‌ఫ్లెక్స్"</string>
+  
+  <string name="spoken_accented_letter_017A">"Z, అక్యూట్"</string>
+  
+  <string name="spoken_accented_letter_017C">"Z, ఎగువన చుక్క"</string>
+  
+  <string name="spoken_accented_letter_017E">"Z, క్యారాన్"</string>
+  
+  <string name="spoken_accented_letter_017F">"పొడవైన S"</string>
+  
+  <string name="spoken_accented_letter_01A1">"O, హార్న్"</string>
+  
+  <string name="spoken_accented_letter_01B0">"U, హార్న్"</string>
+  
+  <string name="spoken_accented_letter_0219">"S, దిగువన కామా"</string>
+  
+  <string name="spoken_accented_letter_021B">"T, దిగువన కామా"</string>
+  
+  <string name="spoken_accented_letter_0259">"ష్వా"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"A, దిగువన చుక్క"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"A, ఎగువన హుక్"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"A, సర్కమ్‌ఫ్లెక్స్ మరియు అక్యూట్"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"A, సర్కమ్‌ఫ్లెక్స్ మరియు గ్రేవ్"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"A, సర్కమ్‌‌ఫ్లెక్స్ మరియు ఎగువన హుక్"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"A, సర్కమ్‌ఫ్లెక్స్ మరియు టిల్డ్"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"A, సర్కమ్‌ఫ్లెక్స్ మరియు దిగువన చుక్క"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"A, బ్రీవ్ మరియు అక్యూట్"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"A, బ్రీవ్ మరియు గ్రేవ్"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"A, బ్రీవ్ మరియు ఎగువన హుక్"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"A, బ్రీవ్ మరియు టిల్డ్"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"A, బ్రీవ్ మరియు దిగువన చుక్క"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"E, దిగువన చుక్క"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"E, ఎగువన చుక్క"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"E, టిల్డ్"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"E, సర్కమ్‌ఫ్లెక్ మరియు అక్యూట్"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"E, సర్కమ్‌ఫ్లెక్స్ మరియు గ్రేవ్"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"E, సర్కమ్‌ఫ్లెక్స్ మరియు ఎగువన హుక్"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"E, సర్కమ్‌ఫ్లెక్స్ మరియు టిల్డ్"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"E, సర్కమ్‌ఫ్లెక్స్ మరియు దిగువన చుక్క"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"I, ఎగువన హుక్"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"I, దిగువన చుక్క"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"O, దిగువన చుక్క"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"O, ఎగువన హుక్"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"O, సర్కమ్‌ఫ్లెక్స్ మరియు అక్యూట్"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"O, సర్కమ్‌ఫ్లెక్స్ మరియు గ్రేవ్"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"O, సర్కమ్‌ఫ్లెక్స్ మరియు ఎగువన హుక్"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"O, సర్కమ్‌ఫ్లెక్స్ మరియు టిల్డ్"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"O, సర్కమ్‌ఫ్లెక్స్ మరియు దిగువన చుక్క"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"O, హార్న్ మరియు అక్యూట్"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"O, హార్న్ మరియు గ్రేవ్"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"O, హార్న్ మరియు ఎగువన హుక్"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"O, హార్న్ మరియు టిల్డ్"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"O, హార్న్ మరియు దిగువన చుక్క"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"U, దిగువన చుక్క"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"U, ఎగువన హుక్"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"U, హార్న్ మరియు అక్యూట్"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"U, హార్న్ మరియు గ్రేవ్"</string>
+  
+  <string name="spoken_accented_letter_1EED">"U, హార్న్ మరియు ఎగువన హుక్"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"U, హార్న్ మరియు టిల్డ్"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"U, హార్న్ మరియు దిగువన చుక్క"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"Y, గ్రేవ్"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"Y, దిగువన చుక్క"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"Y, ఎగువన హుక్"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"Y, టిల్డ్"</string>
+  
+  <string name="spoken_symbol_00A1">"విలోమ ఆశ్చర్యార్థక గుర్తు"</string>
+  
+  <string name="spoken_symbol_00AB">"ఎడమవైపుకి ఉండే డబుల్ యాంగిల్ కొటేషన్ గుర్తు"</string>
+  
+  <string name="spoken_symbol_00B7">"మధ్యలో చుక్క"</string>
+  
+  <string name="spoken_symbol_00B9">"సూపర్‌స్క్రిప్ట్ ఒకటి"</string>
+  
+  <string name="spoken_symbol_00BB">"కుడివైపుకి ఉండే డబుల్ యాంగిల్ కొటేషన్ గుర్తు"</string>
+  
+  <string name="spoken_symbol_00BF">"విలోమ ప్రశార్థక గుర్తు"</string>
+  
+  <string name="spoken_symbol_2018">"ఎడమవైపు సింగిల్ కొటేషన్ గుర్తు"</string>
+  
+  <string name="spoken_symbol_2019">"కుడివైపు సింగిల్ కొటేషన్ గుర్తు"</string>
+  
+  <string name="spoken_symbol_201A">"ఒక దిగువ-9 కొటేషన్ గుర్తు"</string>
+  
+  <string name="spoken_symbol_201C">"ఎడమవైపు డబుల్ కొటేషన్ గుర్తు"</string>
+  
+  <string name="spoken_symbol_201D">"కుడివైపు డబుల్ కొటేషన్ గుర్తు"</string>
+  
+  <string name="spoken_symbol_2020">"డ్యాగర్"</string>
+  
+  <string name="spoken_symbol_2021">"డబుల్ డ్యాగర్"</string>
+  
+  <string name="spoken_symbol_2030">"ఒక మిల్లేకి గుర్తు"</string>
+  
+  <string name="spoken_symbol_2032">"ప్రైమ్"</string>
+  
+  <string name="spoken_symbol_2033">"డబుల్ ప్రైమ్"</string>
+  
+  <string name="spoken_symbol_2039">"ఒకటి ఎడమవైపుకి ఉండే యాంగిల్ కొటేషన్ గుర్తు"</string>
+  
+  <string name="spoken_symbol_203A">"ఒకటి కుడివైపుకి ఉండే యాంగిల్ కొటేషన్ గుర్తు"</string>
+  
+  <string name="spoken_symbol_2074">"సూపర్‌స్క్రిప్ట్ నాలుగు"</string>
+  
+  <string name="spoken_symbol_207F">"సూపర్‌స్క్రిప్ట్ లాటిన్ చిన్న అక్షరం n"</string>
+  
+  <string name="spoken_symbol_20B1">"పెసో గుర్తు"</string>
+  
+  <string name="spoken_symbol_2105">"కేరాఫ్"</string>
+  
+  <string name="spoken_symbol_2192">"కుడివైపుకి ఉండే బాణం"</string>
+  
+  <string name="spoken_symbol_2193">"దిగువకు ఉండే బాణం"</string>
+  
+  <string name="spoken_symbol_2205">"శూన్య సమితి"</string>
+  
+  <string name="spoken_symbol_2206">"వృద్ధి"</string>
+  
+  <string name="spoken_symbol_2264">"దీని కంటే తక్కువ లేదా దీనికి సమానం"</string>
+  
+  <string name="spoken_symbol_2265">"దీని కంటే ఎక్కువ లేదా దీనికి సమానం"</string>
+  
+  <string name="spoken_symbol_2605">"నలుపు రంగు నక్షత్రం"</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">"പോകുക"</string>
+  
+  <string name="label_next_key">"അടുത്തത്"</string>
+  
+  <string name="label_previous_key">"മുമ്പത്തെ"</string>
+  
+  <string name="label_done_key">"പൂർത്തിയായി"</string>
+  
+  <string name="label_send_key">"അയയ്‌ക്കുക"</string>
+  
+  <string name="label_search_key">"തിരയുക"</string>
+  
+  <string name="label_pause_key">"താൽക്കാലികമായി നിർത്തുക"</string>
+  
+  <string name="label_wait_key">"കാത്തിരിക്കുക"</string>
+</resources>

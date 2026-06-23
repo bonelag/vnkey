@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="english_ime_input_options">"Indstillinger for input"</string>
+  
+  <string name="vibrate_on_keypress">"Vibration ved tastetryk"</string>
+  
+  <string name="sound_on_keypress">"Lyd ved tastetryk"</string>
+  
+  <string name="popup_on_keypress">"Pop op ved tastetryk"</string>
+  
+  <string name="show_language_switch_key">"Knap til sprogskift"</string>
+  
+  <string name="abbreviation_unit_milliseconds">&lt;string name="abbreviation_unit_milliseconds" msgid="3255301845626146979"&gt;&amp;quot;&lt;xliff:g id="MILLISECONDS"&gt;%s&lt;/xliff:g&gt; ms&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="use_personalized_dicts">"Tilpassede forslag"</string>
+  
+  <string name="use_double_space_period">"To mellemrum for punktum"</string>
+  
+  <string name="use_double_space_period_summary">"To tryk på mellemrumstasten indsætter et punktum og et mellemrum"</string>
+  
+  <string name="auto_cap">"Skriv automatisk med stort"</string>
+  
+  <string name="auto_cap_summary">"Skriv det første ord i hver sætning med stort"</string>
+  
+  <string name="edit_personal_dictionary">"Personlig ordbog"</string>
+  
+  <string name="prefs_show_suggestions">"Vis rettelsesforslag"</string>
+  
+  <string name="prefs_show_suggestions_summary">"Vis ordforslag under indtastning"</string>
+  
+  <string name="prefs_block_potentially_offensive_title">"Bloker stødende ord"</string>
+  
+  <string name="prefs_block_potentially_offensive_summary">"Foreslå ikke potentielt stødende ord"</string>
+  
+  <string name="auto_correction">"Automatisk rettelse"</string>
+  
+  <string name="auto_correction_summary">"Mellemrumstast og tegnsætning retter automatisk forkerte ord"</string>
+  
+  <string name="bigram_prediction">"Forslag til næste ord"</string>
+  
+  <string name="bigram_prediction_summary">"Brug det forrige ord til at give forslag"</string>
+  
+  <string name="language_selection_title">"Sprog"</string>
+  
+  <string name="select_language">"Sprog"</string>
+  
+  <string name="subtype_en_GB">"engelsk (Storbritannien)"</string>
+  
+  <string name="subtype_en_US">"engelsk (USA)"</string>
+  
+  <string name="subtype_es_US">"Spansk (USA)"</string>
+  
+  <string name="subtype_hi_ZZ">"Hinglish"</string>
+  
+  <string name="subtype_sr_ZZ">"Serbisk (latinsk)"</string>
+  
+  <string name="subtype_with_layout_en_GB">&lt;string name="subtype_with_layout_en_GB" msgid="4220344684463778660"&gt;&amp;quot;Engelsk (Storbritannien) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_en_US">&lt;string name="subtype_with_layout_en_US" msgid="4599421650961912769"&gt;&amp;quot;Engelsk (USA) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_es_US">&lt;string name="subtype_with_layout_es_US" msgid="6866331205974243592"&gt;&amp;quot;Spansk (USA) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_hi_ZZ">&lt;string name="subtype_with_layout_hi_ZZ" msgid="5439623653083985558"&gt;&amp;quot;Hinglish (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_sr_ZZ">&lt;string name="subtype_with_layout_sr_ZZ" msgid="546465971819327060"&gt;&amp;quot;Serbisk (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_traditional">&lt;string name="subtype_generic_traditional" msgid="5321023815277210849"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (traditionelt)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_compact">&lt;string name="subtype_generic_compact" msgid="2858514299576793292"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (kompakt)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_no_language">"Intet sprog (Alfabet)"</string>
+  
+  <string name="subtype_no_language_qwerty">"Alfabet (QWERTY)"</string>
+  
+  <string name="subtype_no_language_qwertz">"Alfabet (QWERTZ)"</string>
+  
+  <string name="subtype_no_language_azerty">"Alfabet (AZERTY)"</string>
+  
+  <string name="subtype_no_language_dvorak">"Alfabet (Dvorak)"</string>
+  
+  <string name="subtype_no_language_colemak">"Alfabet (Colemak)"</string>
+  
+  <string name="subtype_no_language_pcqwerty">"Alfabet (PC)"</string>
+  
+  <string name="subtype_emoji">"Emoji"</string>
+  
+  <string name="cancel">"Annuller"</string>
+  
+  <string name="go_to_settings">"Indstillinger"</string>
+  
+  <string name="install_dict">"Installer"</string>
+  
+  <string name="cancel_download_dict">"Annuller"</string>
+  
+  <string name="user_dict_settings_add_menu_title">"Tilføj"</string>
+  
+  <string name="user_dict_settings_add_dialog_title">"Føj til ordbog"</string>
+  
+  <string name="user_dict_settings_add_screen_title">"Sætning"</string>
+  
+  <string name="user_dict_settings_add_dialog_more_options">"Flere muligheder"</string>
+  
+  <string name="user_dict_settings_add_dialog_less_options">"Færre muligh."</string>
+  
+  <string name="user_dict_settings_add_dialog_confirm">"OK"</string>
+  
+  <string name="user_dict_settings_add_word_option_name">"Ord:"</string>
+  
+  <string name="user_dict_settings_add_shortcut_option_name">"Genvej:"</string>
+  
+  <string name="user_dict_settings_add_locale_option_name">"Sprog:"</string>
+  
+  <string name="user_dict_settings_add_word_hint">"Skriv et ord"</string>
+  
+  <string name="user_dict_settings_add_shortcut_hint">"Valgfri genvej"</string>
+  
+  <string name="user_dict_settings_edit_dialog_title">"Rediger ord"</string>
+  
+  <string name="user_dict_settings_context_menu_edit_title">"Rediger"</string>
+  
+  <string name="user_dict_settings_context_menu_delete_title">"Slet"</string>
+  
+  <string name="user_dict_settings_empty_text">"Du har ikke nogen ord i brugerordbogen. Du kan tilføje et ord ved at trykke på knappen Tilføj (+)."</string>
+  
+  <string name="user_dict_settings_all_languages">"For alle sprog"</string>
+  
+  <string name="user_dict_settings_more_languages">"Flere sprog..."</string>
+  
+  <string name="user_dict_settings_delete">"Slet"</string>
+  
+  <string name="user_dict_fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+</resources>

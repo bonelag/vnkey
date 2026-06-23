@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"Индикатор за поредност от женски род"</string>
+  
+  <string name="spoken_accented_letter_00B5">"Знак за микро"</string>
+  
+  <string name="spoken_accented_letter_00BA">"Индикатор за поредност от мъжки род"</string>
+  
+  <string name="spoken_accented_letter_00DF">"Малка буква есцет"</string>
+  
+  <string name="spoken_accented_letter_00E0">"Малка буква а с тежко ударение"</string>
+  
+  <string name="spoken_accented_letter_00E1">"Малка буква а с остро ударение"</string>
+  
+  <string name="spoken_accented_letter_00E2">"Малка буква а със сложно ударение"</string>
+  
+  <string name="spoken_accented_letter_00E3">"Малка буква а с тилда"</string>
+  
+  <string name="spoken_accented_letter_00E4">"Малка буква а с трема"</string>
+  
+  <string name="spoken_accented_letter_00E5">"Малка буква а с кръгче отгоре"</string>
+  
+  <string name="spoken_accented_letter_00E6">"Малка лигатура ae"</string>
+  
+  <string name="spoken_accented_letter_00E7">"Малка буква c със селил"</string>
+  
+  <string name="spoken_accented_letter_00E8">"Малка буква e с тежко ударение"</string>
+  
+  <string name="spoken_accented_letter_00E9">"Малка буква e с остро ударение"</string>
+  
+  <string name="spoken_accented_letter_00EA">"Малка буква e със сложно ударение"</string>
+  
+  <string name="spoken_accented_letter_00EB">"Малка буква e с трема"</string>
+  
+  <string name="spoken_accented_letter_00EC">"Малка буква i с тежко ударение"</string>
+  
+  <string name="spoken_accented_letter_00ED">"Малка буква i с остро ударение"</string>
+  
+  <string name="spoken_accented_letter_00EE">"Малка буква i със сложно ударение"</string>
+  
+  <string name="spoken_accented_letter_00EF">"Малка буква i с трема"</string>
+  
+  <string name="spoken_accented_letter_00F0">"Малка пресечена буква"</string>
+  
+  <string name="spoken_accented_letter_00F1">"Малка буква n с тилда"</string>
+  
+  <string name="spoken_accented_letter_00F2">"Малка буква o с тежко ударение"</string>
+  
+  <string name="spoken_accented_letter_00F3">"Малка буква o с остро ударение"</string>
+  
+  <string name="spoken_accented_letter_00F4">"Малка буква o със сложно ударение"</string>
+  
+  <string name="spoken_accented_letter_00F5">"Малка буква o с тилда"</string>
+  
+  <string name="spoken_accented_letter_00F6">"Малка буква o с трема"</string>
+  
+  <string name="spoken_accented_letter_00F8">"Малка буква o с черта"</string>
+  
+  <string name="spoken_accented_letter_00F9">"Малка буква u с тежко ударение"</string>
+  
+  <string name="spoken_accented_letter_00FA">"Малка буква u с остро ударение"</string>
+  
+  <string name="spoken_accented_letter_00FB">"Малка буква u със сложно ударение"</string>
+  
+  <string name="spoken_accented_letter_00FC">"Малка буква u с трема"</string>
+  
+  <string name="spoken_accented_letter_00FD">"Малка буква y с остро ударение"</string>
+  
+  <string name="spoken_accented_letter_00FE">"Малка буква торн"</string>
+  
+  <string name="spoken_accented_letter_00FF">"Малка буква y с трема"</string>
+  
+  <string name="spoken_accented_letter_0101">"Малка буква a с макрон"</string>
+  
+  <string name="spoken_accented_letter_0103">"Малка буква a с бревис"</string>
+  
+  <string name="spoken_accented_letter_0105">"Малка буква a с огонек"</string>
+  
+  <string name="spoken_accented_letter_0107">"Малка буква c с остро ударение"</string>
+  
+  <string name="spoken_accented_letter_0109">"Малка буква c със сложно ударение"</string>
+  
+  <string name="spoken_accented_letter_010B">"Малка буква c с точка отгоре"</string>
+  
+  <string name="spoken_accented_letter_010D">"Малка буква c с обърнато сложно ударение"</string>
+  
+  <string name="spoken_accented_letter_010F">"Малка буква d с обърнато сложно ударение"</string>
+  
+  <string name="spoken_accented_letter_0111">"Малка буква d с черта"</string>
+  
+  <string name="spoken_accented_letter_0113">"Малка буква e с макрон"</string>
+  
+  <string name="spoken_accented_letter_0115">"Малка буква e с бревис"</string>
+  
+  <string name="spoken_accented_letter_0117">"Малка буква e с точка отгоре"</string>
+  
+  <string name="spoken_accented_letter_0119">"Малка буква e с огонек"</string>
+  
+  <string name="spoken_accented_letter_011B">"Малка буква e с обърнато сложно ударение"</string>
+  
+  <string name="spoken_accented_letter_011D">"Малка буква g със сложно ударение"</string>
+  
+  <string name="spoken_accented_letter_011F">"Малка буква g с бревис"</string>
+  
+  <string name="spoken_accented_letter_0121">"Малка буква g с точка отгоре"</string>
+  
+  <string name="spoken_accented_letter_0123">"Малка буква g със селил"</string>
+  
+  <string name="spoken_accented_letter_0125">"Малка буква h със сложно ударение"</string>
+  
+  <string name="spoken_accented_letter_0127">"Малка буква h с черта"</string>
+  
+  <string name="spoken_accented_letter_0129">"Малка буква i с тилда"</string>
+  
+  <string name="spoken_accented_letter_012B">"Малка буква i с макрон"</string>
+  
+  <string name="spoken_accented_letter_012D">"Малка буква i с бревис"</string>
+  
+  <string name="spoken_accented_letter_012F">"Малка буква i с огонек"</string>
+  
+  <string name="spoken_accented_letter_0131">"Малка буква i без точка"</string>
+  
+  <string name="spoken_accented_letter_0133">"Малка лигатура ij"</string>
+  
+  <string name="spoken_accented_letter_0135">"Малка буква j със сложно ударение"</string>
+  
+  <string name="spoken_accented_letter_0137">"Малка буква k със селил"</string>
+  
+  <string name="spoken_accented_letter_0138">"Малка буква кра"</string>
+  
+  <string name="spoken_accented_letter_013A">"Малка буква l с остро ударение"</string>
+  
+  <string name="spoken_accented_letter_013C">"Малка буква l със селил"</string>
+  
+  <string name="spoken_accented_letter_013E">"Малка буква l с обърнато сложно ударение"</string>
+  
+  <string name="spoken_accented_letter_0140">"Малка буква l с точка в средата"</string>
+  
+  <string name="spoken_accented_letter_0142">"Малка буква l с черта"</string>
+  
+  <string name="spoken_accented_letter_0144">"Малка буква n с остро ударение"</string>
+  
+  <string name="spoken_accented_letter_0146">"Малка буква n със селил"</string>
+  
+  <string name="spoken_accented_letter_0148">"Малка буква n с обърнато сложно ударение"</string>
+  
+  <string name="spoken_accented_letter_0149">"Малка буква n с апостроф отпред"</string>
+  
+  <string name="spoken_accented_letter_014B">"Малка буква енг"</string>
+  
+  <string name="spoken_accented_letter_014D">"Малка буква o с макрон"</string>
+  
+  <string name="spoken_accented_letter_014F">"Малка буква o с бревис"</string>
+  
+  <string name="spoken_accented_letter_0151">"Малка буква o с двойно остро ударение"</string>
+  
+  <string name="spoken_accented_letter_0153">"Малка лигатура oe"</string>
+  
+  <string name="spoken_accented_letter_0155">"Малка буква r с остро ударение"</string>
+  
+  <string name="spoken_accented_letter_0157">"Малка буква r със селил"</string>
+  
+  <string name="spoken_accented_letter_0159">"Малка буква r с обърнато сложно ударение"</string>
+  
+  <string name="spoken_accented_letter_015B">"Малка буква s с остро ударение"</string>
+  
+  <string name="spoken_accented_letter_015D">"Малка буква s със сложно ударение"</string>
+  
+  <string name="spoken_accented_letter_015F">"Малка буква s със селил"</string>
+  
+  <string name="spoken_accented_letter_0161">"Малка буква s с обърнато сложно ударение"</string>
+  
+  <string name="spoken_accented_letter_0163">"Малка буква t със селил"</string>
+  
+  <string name="spoken_accented_letter_0165">"Малка буква t с обърнато сложно ударение"</string>
+  
+  <string name="spoken_accented_letter_0167">"Малка буква t с черта"</string>
+  
+  <string name="spoken_accented_letter_0169">"Малка буква u с тилда"</string>
+  
+  <string name="spoken_accented_letter_016B">"Малка буква u с макрон"</string>
+  
+  <string name="spoken_accented_letter_016D">"Малка буква u с бревис"</string>
+  
+  <string name="spoken_accented_letter_016F">"Малка буква u с кръгче отгоре"</string>
+  
+  <string name="spoken_accented_letter_0171">"Малка буква u с двойно остро ударение"</string>
+  
+  <string name="spoken_accented_letter_0173">"Малка буква u с огонек"</string>
+  
+  <string name="spoken_accented_letter_0175">"Малка буква w със сложно ударение"</string>
+  
+  <string name="spoken_accented_letter_0177">"Малка буква y със сложно ударение"</string>
+  
+  <string name="spoken_accented_letter_017A">"Малка буква z с остро ударение"</string>
+  
+  <string name="spoken_accented_letter_017C">"Малка буква z с точка отгоре"</string>
+  
+  <string name="spoken_accented_letter_017E">"Малка буква z с обърнато сложно ударение"</string>
+  
+  <string name="spoken_accented_letter_017F">"Малка дълга буква s"</string>
+  
+  <string name="spoken_accented_letter_01A1">"Малка буква o с рогче"</string>
+  
+  <string name="spoken_accented_letter_01B0">"Малка буква u с рогче"</string>
+  
+  <string name="spoken_accented_letter_0219">"Малка буква s със запетая отдолу"</string>
+  
+  <string name="spoken_accented_letter_021B">"Малка буква t със запетая отдолу"</string>
+  
+  <string name="spoken_accented_letter_0259">"Малка буква шва"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"Малка буква a с точка отдолу"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"Малка буква a с ченгел отгоре"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"Малка буква a със сложно и с остро ударение"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"Малка буква a със сложно и с тежко ударение"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"Малка буква a със сложно ударение и с ченгел отгоре"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"Малка буква a със сложно ударение и с тилда"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"Малка буква a със сложно ударение и с точка отдолу"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"Малка буква a с бревис и с остро ударение"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"Малка буква a с бревис и с тежко ударение"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"Малка буква a с бревис и с ченгел отгоре"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"Малка буква a с бревис и с тилда"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"Малка буква a с бревис и с точка отдолу"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"Малка буква e с точка отдолу"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"Малка буква e с ченгел отгоре"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"Малка буква e с тилда"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"Малка буква e със сложно и с остро ударение"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"Малка буква e със сложно и с тежко ударение"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"Малка буква e със сложно ударение и с ченгел отгоре"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"Малка буква e със сложно ударение и с тилда"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"Малка буква e със сложно ударение и с точка отдолу"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"Малка буква i с ченгел отгоре"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"Малка буква i с точка отдолу"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"Малка буква o с точка отдолу"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"Малка буква o с ченгел отгоре"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"Малка буква o със сложно и с остро ударение"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"Малка буква о със сложно и с тежко ударение"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"Малка буква o със сложно ударение и с ченгел отгоре"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"Малка буква o със сложно ударение и с тилда"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"Малка буква o със сложно ударение и с точка отдолу"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"Малка буква o с рогче и с остро ударение"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"Малка буква о с рогче и с тежко ударение"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"Малка буква o с рогче и с ченгел отгоре"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"Малка буква o с рогче и с тилда"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"Малка буква o с рогче и с точка отдолу"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"Малка буква u с точка отдолу"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"Малка буква u с ченгел отгоре"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"Малка буква u с рогче и с остро ударение"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"Малка буква u с рогче и с тежко ударение"</string>
+  
+  <string name="spoken_accented_letter_1EED">"Малка буква u с рогче и с ченгел отгоре"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"Малка буква u с рогче и с тилда"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"Малка буква u с рогче и с точка отдолу"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"Малка буква y с тежко ударение"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"Малка буква y с точка отдолу"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"Малка буква y с ченгел отгоре"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"Малка буква y с тилда"</string>
+  
+  <string name="spoken_symbol_00A1">"Обърнат удивителен знак"</string>
+  
+  <string name="spoken_symbol_00AB">"Сочеща наляво двойна ъглова кавичка"</string>
+  
+  <string name="spoken_symbol_00B7">"Точка в средата"</string>
+  
+  <string name="spoken_symbol_00B9">"Горен индекс за първа степен"</string>
+  
+  <string name="spoken_symbol_00BB">"Сочеща надясно двойна ъглова кавичка"</string>
+  
+  <string name="spoken_symbol_00BF">"Обърнат въпросителен знак"</string>
+  
+  <string name="spoken_symbol_2018">"Лява единична кавичка"</string>
+  
+  <string name="spoken_symbol_2019">"Дясна единична кавичка"</string>
+  
+  <string name="spoken_symbol_201A">"Единична долна кавичка"</string>
+  
+  <string name="spoken_symbol_201C">"Лява двойна кавичка"</string>
+  
+  <string name="spoken_symbol_201D">"Дясна двойна кавичка"</string>
+  
+  <string name="spoken_symbol_2020">"Дагер"</string>
+  
+  <string name="spoken_symbol_2021">"Двоен дагер"</string>
+  
+  <string name="spoken_symbol_2030">"Знак за промил"</string>
+  
+  <string name="spoken_symbol_2032">"Щрих"</string>
+  
+  <string name="spoken_symbol_2033">"Двоен щрих"</string>
+  
+  <string name="spoken_symbol_2039">"Сочеща наляво единична ъглова кавичка"</string>
+  
+  <string name="spoken_symbol_203A">"Сочеща надясно единична ъглова кавичка"</string>
+  
+  <string name="spoken_symbol_2074">"Горен индекс за четвърта степен"</string>
+  
+  <string name="spoken_symbol_207F">"Горен индекс за n-та степен"</string>
+  
+  <string name="spoken_symbol_20B1">"Знак за песо"</string>
+  
+  <string name="spoken_symbol_2105">"На вниманието на"</string>
+  
+  <string name="spoken_symbol_2192">"Сочеща надясно стрелка"</string>
+  
+  <string name="spoken_symbol_2193">"Сочеща надолу стрелка"</string>
+  
+  <string name="spoken_symbol_2205">"Празно множество"</string>
+  
+  <string name="spoken_symbol_2206">"Инкремент"</string>
+  
+  <string name="spoken_symbol_2264">"По-малко или равно на"</string>
+  
+  <string name="spoken_symbol_2265">"По-голямо или равно на"</string>
+  
+  <string name="spoken_symbol_2605">"Черна звезда"</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+  <string name="stop_recording">Peata salvestamine</string>
+  
+  <string name="try_saying_something">Proovi midagi öelda</string>
+  
+  <string name="no_audio_detected_is_your_microphone_blocked">Heli ei tuvastatud, kas mikrofon on blokeeritud?</string>
+  
+  <string name="listening">Kuulamine…</string>
+  
+  <string name="grant_microphone_permission_to_use_voice_input">Anna mikrofonile luba häälsisendi kasutamiseks</string>
+  <string name="open_voice_input_settings">Ava häälsisendi seaded</string>
+  
+  <string name="switching_model">Keele vahetamine…</string>
+  
+  <string name="processing">Töötlemine…</string>
+</resources>

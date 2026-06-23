@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"ಫೆಮಿನೈನ್ ಆರ್ಡಿನಲ್ ಸೂಚಕ"</string>
+  
+  <string name="spoken_accented_letter_00B5">"ಮೈಕ್ರೋ ಚಿಹ್ನೆ"</string>
+  
+  <string name="spoken_accented_letter_00BA">"ಫೆಮಿನೈನ್ ಆರ್ಡಿನಲ್ ಸೂಚಕ"</string>
+  
+  <string name="spoken_accented_letter_00DF">"ಶಾರ್ಪ್ S"</string>
+  
+  <string name="spoken_accented_letter_00E0">"A, ಗ್ರೇವ್"</string>
+  
+  <string name="spoken_accented_letter_00E1">"A, ಮೊನಚು"</string>
+  
+  <string name="spoken_accented_letter_00E2">"A, ಬಾಗಿರುವ"</string>
+  
+  <string name="spoken_accented_letter_00E3">"A, ಟಿಲ್ಡ್"</string>
+  
+  <string name="spoken_accented_letter_00E4">"A, ಡಯಾರೆಸಿಸ್"</string>
+  
+  <string name="spoken_accented_letter_00E5">"A, ಮೇಲೆ ರಿಂಗ್"</string>
+  
+  <string name="spoken_accented_letter_00E6">"A, E, ಲಿಗೇಚರ್"</string>
+  
+  <string name="spoken_accented_letter_00E7">"C, ಸೆಡಿಲಾ"</string>
+  
+  <string name="spoken_accented_letter_00E8">"E, ಗ್ರೇವ್"</string>
+  
+  <string name="spoken_accented_letter_00E9">"E, ಮೊನಚಾದ"</string>
+  
+  <string name="spoken_accented_letter_00EA">"E, ಬಾಗಿರುವ"</string>
+  
+  <string name="spoken_accented_letter_00EB">"E, ಡಯಾರೆಸಿಸ್"</string>
+  
+  <string name="spoken_accented_letter_00EC">"I, ಗ್ರೇವ್"</string>
+  
+  <string name="spoken_accented_letter_00ED">"I, ಮೊನಚಾದ"</string>
+  
+  <string name="spoken_accented_letter_00EE">"I, ಬಾಗಿರುವ"</string>
+  
+  <string name="spoken_accented_letter_00EF">"I, ಡಯಾರೆಸಿಸ್"</string>
+  
+  <string name="spoken_accented_letter_00F0">"Eನೇ"</string>
+  
+  <string name="spoken_accented_letter_00F1">"N, ಟಿಲ್ಡ್"</string>
+  
+  <string name="spoken_accented_letter_00F2">"O, ಗ್ರೇವ್"</string>
+  
+  <string name="spoken_accented_letter_00F3">"O, ಮೊನಚಾದ"</string>
+  
+  <string name="spoken_accented_letter_00F4">"O, ಬಾಗಿರುವ"</string>
+  
+  <string name="spoken_accented_letter_00F5">"O, ಟಿಲ್ಡ್"</string>
+  
+  <string name="spoken_accented_letter_00F6">"O, ಡಯಾರೆಸಿಸ್"</string>
+  
+  <string name="spoken_accented_letter_00F8">"O, ಸ್ಟ್ರೋಕ್"</string>
+  
+  <string name="spoken_accented_letter_00F9">"U, ಗ್ರೇವ್"</string>
+  
+  <string name="spoken_accented_letter_00FA">"U, ಮೊನಚಾದ"</string>
+  
+  <string name="spoken_accented_letter_00FB">"U, ಬಾಗಿರುವ"</string>
+  
+  <string name="spoken_accented_letter_00FC">"U, ಡಯಾರೆಸಿಸ್"</string>
+  
+  <string name="spoken_accented_letter_00FD">"Y, ಮೊನಚಾದ"</string>
+  
+  <string name="spoken_accented_letter_00FE">"ಥಾರ್ನ್"</string>
+  
+  <string name="spoken_accented_letter_00FF">"Y, ಡಯಾರೆಸಿಸ್"</string>
+  
+  <string name="spoken_accented_letter_0101">"A, ಮ್ಯಾಕ್ರಾನ್"</string>
+  
+  <string name="spoken_accented_letter_0103">"A, ಬ್ರೀವ್"</string>
+  
+  <string name="spoken_accented_letter_0105">"A, ಒಗೊನೆಕ್"</string>
+  
+  <string name="spoken_accented_letter_0107">"C, ಮೊನಚಾದ"</string>
+  
+  <string name="spoken_accented_letter_0109">"C, ಬಾಗಿರುವ"</string>
+  
+  <string name="spoken_accented_letter_010B">"C, ಮೇಲೆ ಡಾಟ್"</string>
+  
+  <string name="spoken_accented_letter_010D">"C, ಕ್ಯಾರನ್"</string>
+  
+  <string name="spoken_accented_letter_010F">"D, ಕ್ಯಾರನ್"</string>
+  
+  <string name="spoken_accented_letter_0111">"D, ಸ್ಟ್ರೋಕ್"</string>
+  
+  <string name="spoken_accented_letter_0113">"E, ಮ್ಯಾಕ್ರಾನ್"</string>
+  
+  <string name="spoken_accented_letter_0115">"E, ಬ್ರೀವ್"</string>
+  
+  <string name="spoken_accented_letter_0117">"E, ಮೇಲೆ ಡಾಟ್"</string>
+  
+  <string name="spoken_accented_letter_0119">"E, ಒಗೊನೆಕ್"</string>
+  
+  <string name="spoken_accented_letter_011B">"E, ಕ್ಯಾರನ್"</string>
+  
+  <string name="spoken_accented_letter_011D">"G, ಬಾಗಿರುವ"</string>
+  
+  <string name="spoken_accented_letter_011F">"G, ಬ್ರೀವ್"</string>
+  
+  <string name="spoken_accented_letter_0121">"G, ಮೇಲೆ ಡಾಟ್"</string>
+  
+  <string name="spoken_accented_letter_0123">"G, ಸೆಡಿಲಾ"</string>
+  
+  <string name="spoken_accented_letter_0125">"H, ಬಾಗಿರುವ"</string>
+  
+  <string name="spoken_accented_letter_0127">"H, ಸ್ಟ್ರೋಕ್"</string>
+  
+  <string name="spoken_accented_letter_0129">"I, ಟಿಲ್ಡ್"</string>
+  
+  <string name="spoken_accented_letter_012B">"I, ಮ್ಯಾಕ್ರಾನ್"</string>
+  
+  <string name="spoken_accented_letter_012D">"I, ಬ್ರೀವ್"</string>
+  
+  <string name="spoken_accented_letter_012F">"I, ಒಗೊನೆಕ್"</string>
+  
+  <string name="spoken_accented_letter_0131">"ಡಾಟ್ ಇಲ್ಲದ I"</string>
+  
+  <string name="spoken_accented_letter_0133">"I, J, ಲಿಗೇಚರ್"</string>
+  
+  <string name="spoken_accented_letter_0135">"J, ಬಾಗಿರುವ"</string>
+  
+  <string name="spoken_accented_letter_0137">"K, ಸೆಡಿಲಾ"</string>
+  
+  <string name="spoken_accented_letter_0138">"ಕ್ರಾ"</string>
+  
+  <string name="spoken_accented_letter_013A">"L, ಮೊನಚಾದ"</string>
+  
+  <string name="spoken_accented_letter_013C">"L, ಸೆಡಿಲಾ"</string>
+  
+  <string name="spoken_accented_letter_013E">"L, ಕ್ಯಾರನ್"</string>
+  
+  <string name="spoken_accented_letter_0140">"L, ಮಧ್ಯದ ಡಾಟ್"</string>
+  
+  <string name="spoken_accented_letter_0142">"L, ಸ್ಟ್ರೋಕ್"</string>
+  
+  <string name="spoken_accented_letter_0144">"N, ಮೊನಚಾದ"</string>
+  
+  <string name="spoken_accented_letter_0146">"N, ಸೆಡಿಲಾ"</string>
+  
+  <string name="spoken_accented_letter_0148">"N, ಕ್ಯಾರನ್"</string>
+  
+  <string name="spoken_accented_letter_0149">"N, ಅಫಾಸ್ಟ್ರಫಿಯಿಂದ ಮುಂದುವರೆದ"</string>
+  
+  <string name="spoken_accented_letter_014B">"ಇಂಗ್ಲಿ"</string>
+  
+  <string name="spoken_accented_letter_014D">"O, ಮ್ಯಾಕ್ರಾನ್"</string>
+  
+  <string name="spoken_accented_letter_014F">"O, ಬ್ರೀವ್"</string>
+  
+  <string name="spoken_accented_letter_0151">"O, ಡಬಲ್ ಅಕ್ಯೂಟ್"</string>
+  
+  <string name="spoken_accented_letter_0153">"O, E, ಲಿಗೇಚರ್"</string>
+  
+  <string name="spoken_accented_letter_0155">"R, ಮೊನಚಾದ"</string>
+  
+  <string name="spoken_accented_letter_0157">"R, ಸೆಡಿಲಾ"</string>
+  
+  <string name="spoken_accented_letter_0159">"R, ಕ್ಯಾರನ್"</string>
+  
+  <string name="spoken_accented_letter_015B">"S, ಮೊನಚಾದ"</string>
+  
+  <string name="spoken_accented_letter_015D">"S, ಬಾಗಿರುವ"</string>
+  
+  <string name="spoken_accented_letter_015F">"S, ಸೆಡಿಲಾ"</string>
+  
+  <string name="spoken_accented_letter_0161">"S, ಕ್ಯಾರನ್"</string>
+  
+  <string name="spoken_accented_letter_0163">"T, ಸೆಡಿಲಾ"</string>
+  
+  <string name="spoken_accented_letter_0165">"T, ಕ್ಯಾರನ್"</string>
+  
+  <string name="spoken_accented_letter_0167">"T, ಸ್ಟ್ರೋಕ್"</string>
+  
+  <string name="spoken_accented_letter_0169">"U, ಟಿಲ್ಡ್"</string>
+  
+  <string name="spoken_accented_letter_016B">"U, ಮ್ಯಾಕ್ರಾನ್"</string>
+  
+  <string name="spoken_accented_letter_016D">"U, ಬ್ರೀವ್"</string>
+  
+  <string name="spoken_accented_letter_016F">"U, ಮೇಲೆ ರಿಂಗ್"</string>
+  
+  <string name="spoken_accented_letter_0171">"U, ಡಬಲ್ ಅಕ್ಯೂಟ್"</string>
+  
+  <string name="spoken_accented_letter_0173">"U, ಒಗೊನೆಕ್"</string>
+  
+  <string name="spoken_accented_letter_0175">"W, ಬಾಗಿರುವ"</string>
+  
+  <string name="spoken_accented_letter_0177">"Y, ಬಾಗಿರುವ"</string>
+  
+  <string name="spoken_accented_letter_017A">"Z, ಮೊನಚಾದ"</string>
+  
+  <string name="spoken_accented_letter_017C">"Z, ಮೇಲೆ ಡಾಟ್"</string>
+  
+  <string name="spoken_accented_letter_017E">"Z, ಕ್ಯಾರನ್"</string>
+  
+  <string name="spoken_accented_letter_017F">"ದೀರ್ಘ S"</string>
+  
+  <string name="spoken_accented_letter_01A1">"O, ಕೋಡುಗಳು"</string>
+  
+  <string name="spoken_accented_letter_01B0">"U, ಕೋಡು"</string>
+  
+  <string name="spoken_accented_letter_0219">"S, ಕೆಳಗೆ ಅಲ್ಪವಿರಾಮ"</string>
+  
+  <string name="spoken_accented_letter_021B">"T, ಕೆಳಗೆ ಅಲ್ಪವಿರಾಮ"</string>
+  
+  <string name="spoken_accented_letter_0259">"ಸ್ಕ್ವಾ"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"A, ಕೆಳಗೆ ಡಾಟ್"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"A, ಮೇಲೆ ಹುಕ್"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"A, ಬಾಗಿರುವ ಮತ್ತು ಮೊನಚಾದ"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"A, ಬಾಗಿರುವ ಮತ್ತು ಗ್ರೇವ್"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"A, ಬಾಗಿರುವ ಮತ್ತು ಮೇಲೆ ಹುಕ್"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"A, ಬಾಗಿರುವ ಮತ್ತು ಟಿಲ್ಡ್"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"A, ಬಾಗಿರುವ ಮತ್ತು ಕೆಳಗೆ ಡಾಟ್"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"A, ಬ್ರೀವ್ ಮತ್ತು ಮೊನಚಾದ"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"A, ಬ್ರೀವ್ ಮತ್ತು ಗ್ರೇವ್"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"A, ಬ್ರೀವ್ ಮತ್ತು ಮೇಲೆ ಹುಕ್"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"A, ಬ್ರೀವ್ ಮತ್ತು ಟಿಲ್ಡ್"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"A, ಬ್ರೀವ್ ಮತ್ತು ಕೆಳಗೆ ಡಾಟ್"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"E, ಕೆಳಗೆ ಡಾಟ್"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"E, ಮೇಲೆ ಹುಕ್"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"E, ಟಿಲ್ಡ್"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"E, ಬಾಗಿರುವ ಮತ್ತು ಮೊನಚಾದ"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"E, ಬಾಗಿರುವ ಮತ್ತು ಗ್ರೇವ್"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"E, ಬಾಗಿರುವ ಮತ್ತು ಮೇಲೆ ಹುಕ್"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"E, ಬಾಗಿರುವ ಮತ್ತು ಟಿಲ್ಡ್"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"E, ಬಾಗಿರುವ ಮತ್ತು ಕೆಳಗೆ ಡಾಟ್"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"I, ಮೇಲೆ ಹುಕ್"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"I, ಕೆಳಗೆ ಡಾಟ್"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"O, ಕೆಳಗೆ ಡಾಟ್"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"O, ಮೇಲೆ ಹುಕ್"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"O, ಬಾಗಿರುವ ಮತ್ತು ಮೊನಚಾದ"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"O, ಬಾಗಿರುವ ಮತ್ತು ಗ್ರೇವ್"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"O, ಬಾಗಿರುವ ಮತ್ತು ಮೇಲೆ ಹುಕ್"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"O, ಬಾಗಿರುವ ಮತ್ತು ಟಿಲ್ಡ್"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"O, ಬಾಗಿರುವ ಮತ್ತು ಕೆಳಗೆ ಡಾಟ್"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"O, ಕೋಡು ಮತ್ತು ಮೊನಚಾದ"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"O, ಕೋಡು ಮತ್ತು ಸಮಾಧಿ"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"O, ಕೋಡು ಮತ್ತು ಮೇಲೆ ಹುಕ್"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"O, ಕೋಡು ಮತ್ತು ಟಿಲ್ಡ್"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"O, ಕೋಡು ಮತ್ತು ಕೆಳಗೆ ಡಾಟ್"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"U, ಕೆಳಗೆ ಡಾಟ್"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"U, ಮೇಲೆ ಹುಕ್"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"U, ಕೋಡು ಮತ್ತು ಮೊನಚಾದ"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"U, ಕೋಡು ಮತ್ತು ಗ್ರೇವ್"</string>
+  
+  <string name="spoken_accented_letter_1EED">"U, ಕೋಡು ಮತ್ತು ಮೇಲೆ ಹುಕ್"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"U, ಕೋಡು ಮತ್ತು ಟಿಲ್ಡ್"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"U, ಕೋಡು ಮತ್ತು ಕೆಳಗೆ ಡಾಟ್"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"Y, ಗ್ರೇವ್"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"Y, ಕೆಳಗೆ ಡಾಟ್"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"Y, ಮೇಲೆ ಹುಕ್"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"Y, ಟಿಲ್ಡ್"</string>
+  
+  <string name="spoken_symbol_00A1">"ತಲೆಕೆಳಗಾದ ಆಶ್ಚರ್ಯಸೂಚಕ ಚಿಹ್ನೆ"</string>
+  
+  <string name="spoken_symbol_00AB">"ಎಡಕ್ಕೆ ತಿರುಗಿದ ಡಬಲ್ ಕೋನದ ಉಲ್ಲೇಖನ ಗುರುತು"</string>
+  
+  <string name="spoken_symbol_00B7">"ಮಧ್ಯ ಡಾಟ್"</string>
+  
+  <string name="spoken_symbol_00B9">"ಸೂಪರ್‌ಸ್ಕ್ರಿಪ್ಟ್ ಒಂದು"</string>
+  
+  <string name="spoken_symbol_00BB">"ಬಲಕ್ಕೆ ತಿರುಗಿದ ಎರಡು ಕೋನದ ಉದ್ಧರಣ ಚಿಹ್ನೆ"</string>
+  
+  <string name="spoken_symbol_00BF">"ತಲೆಕೆಳಗಾದ ಪ್ರಶ್ನಾರ್ಥಕ ಚಿಹ್ನೆ"</string>
+  
+  <string name="spoken_symbol_2018">"ಎಡ ಏಕ ಉದ್ಧರಣ ಚಿಹ್ನೆ"</string>
+  
+  <string name="spoken_symbol_2019">"ಬಲ ಏಕ ಉದ್ಧರಣ ಚಿಹ್ನೆ"</string>
+  
+  <string name="spoken_symbol_201A">"ಏಕೈಕ ಕೆಳಗಿನ-9 ಉದ್ಧರಣ ಚಿಹ್ನೆ"</string>
+  
+  <string name="spoken_symbol_201C">"ಎಡ ಡಬಲ್ ಉದ್ಧರಣ ಚಿಹ್ನೆ"</string>
+  
+  <string name="spoken_symbol_201D">"ಬಲ ಡಬಲ್ ಉದ್ಧರಣ ಚಿಹ್ನೆ"</string>
+  
+  <string name="spoken_symbol_2020">"ಡ್ಯಾಗರ್"</string>
+  
+  <string name="spoken_symbol_2021">"ಡಬಲ್ ಡ್ಯಾಗರ್"</string>
+  
+  <string name="spoken_symbol_2030">"ಪರ್ ಮಿಲ್ಲೆ ಚಿಹ್ನೆ"</string>
+  
+  <string name="spoken_symbol_2032">"ಪ್ರೈಮ್"</string>
+  
+  <string name="spoken_symbol_2033">"ಡಬಲ್ ಪ್ರೈಮ್"</string>
+  
+  <string name="spoken_symbol_2039">"ಏಕ ಎಡಕ್ಕೆ ತಿರುಗಿದ ಕೋನದ ಉದ್ಧರಣ ಚಿಹ್ನೆ"</string>
+  
+  <string name="spoken_symbol_203A">"ಏಕ ಬಲಕ್ಕೆ ತಿರುಗಿದ ಕೋನದ ಉದ್ಧರಣ ಚಿಹ್ನೆ"</string>
+  
+  <string name="spoken_symbol_2074">"ಸೂಪರ್‌ಸ್ಕ್ರಿಪ್ಟ್ ನಾಲ್ಕು"</string>
+  
+  <string name="spoken_symbol_207F">"ಸೂಪರ್‌ಸ್ಕ್ರಿಪ್ಟ್ ಲ್ಯಾಟಿನ್ ಸಣ್ಣ ಅಕ್ಷರ n"</string>
+  
+  <string name="spoken_symbol_20B1">"ಪೆಸೊ ಚಿಹ್ನೆ"</string>
+  
+  <string name="spoken_symbol_2105">"ಆರೈಕೆ"</string>
+  
+  <string name="spoken_symbol_2192">"ಬಲಭಾಗದ ಬಾಣ"</string>
+  
+  <string name="spoken_symbol_2193">"ಕೆಳಮುಖವಾಗಿರುವ ಬಾಣ"</string>
+  
+  <string name="spoken_symbol_2205">"ಖಾಲಿ ಸೆಟ್"</string>
+  
+  <string name="spoken_symbol_2206">"ವೃದ್ಧಿ"</string>
+  
+  <string name="spoken_symbol_2264">"ಅದಕ್ಕಿಂತ ಕಡಿಮೆ ಅಥವಾ ಸಮ"</string>
+  
+  <string name="spoken_symbol_2265">"ಅದಕ್ಕಿಂತ ಹೆಚ್ಚು ಅಥವಾ ಸಮ"</string>
+  
+  <string name="spoken_symbol_2605">"ಬ್ಲ್ಯಾಕ್ ಸ್ಟಾರ್"</string>
+</resources>

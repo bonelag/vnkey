@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"Indikátor radovej číslovky ženského rodu"</string>
+  
+  <string name="spoken_accented_letter_00B5">"Znak mikro"</string>
+  
+  <string name="spoken_accented_letter_00BA">"Indikátor radovej číslovky mužského rodu"</string>
+  
+  <string name="spoken_accented_letter_00DF">"Ostré S"</string>
+  
+  <string name="spoken_accented_letter_00E0">"A s opačným dĺžňom"</string>
+  
+  <string name="spoken_accented_letter_00E1">"A s dĺžňom"</string>
+  
+  <string name="spoken_accented_letter_00E2">"A s vokáňom"</string>
+  
+  <string name="spoken_accented_letter_00E3">"A s vlnovkou"</string>
+  
+  <string name="spoken_accented_letter_00E4">"A s dvoma bodkami"</string>
+  
+  <string name="spoken_accented_letter_00E5">"A s krúžkom"</string>
+  
+  <string name="spoken_accented_letter_00E6">"Ligatúra písmen A, E"</string>
+  
+  <string name="spoken_accented_letter_00E7">"C s háčikom pod písmenom"</string>
+  
+  <string name="spoken_accented_letter_00E8">"E s opačným dĺžňom"</string>
+  
+  <string name="spoken_accented_letter_00E9">"E s dĺžňom"</string>
+  
+  <string name="spoken_accented_letter_00EA">"E s vokáňom"</string>
+  
+  <string name="spoken_accented_letter_00EB">"E s dvoma bodkami"</string>
+  
+  <string name="spoken_accented_letter_00EC">"I s opačným dĺžňom"</string>
+  
+  <string name="spoken_accented_letter_00ED">"I s dĺžňom"</string>
+  
+  <string name="spoken_accented_letter_00EE">"I s vokáňom"</string>
+  
+  <string name="spoken_accented_letter_00EF">"I s dvoma bodkami"</string>
+  
+  <string name="spoken_accented_letter_00F0">"Eth"</string>
+  
+  <string name="spoken_accented_letter_00F1">"N s vlnovkou"</string>
+  
+  <string name="spoken_accented_letter_00F2">"O s opačným dĺžňom"</string>
+  
+  <string name="spoken_accented_letter_00F3">"O s dĺžňom"</string>
+  
+  <string name="spoken_accented_letter_00F4">"O s vokáňom"</string>
+  
+  <string name="spoken_accented_letter_00F5">"O s vlnovkou"</string>
+  
+  <string name="spoken_accented_letter_00F6">"O s dvoma bodkami"</string>
+  
+  <string name="spoken_accented_letter_00F8">"Prečiarknuté O"</string>
+  
+  <string name="spoken_accented_letter_00F9">"U s opačným dĺžňom"</string>
+  
+  <string name="spoken_accented_letter_00FA">"U s dĺžňom"</string>
+  
+  <string name="spoken_accented_letter_00FB">"U s vokáňom"</string>
+  
+  <string name="spoken_accented_letter_00FC">"U s dvoma bodkami"</string>
+  
+  <string name="spoken_accented_letter_00FD">"Y s dĺžňom"</string>
+  
+  <string name="spoken_accented_letter_00FE">"Thorn"</string>
+  
+  <string name="spoken_accented_letter_00FF">"Y s dvoma bodkami"</string>
+  
+  <string name="spoken_accented_letter_0101">"A s vodorovnou čiarkou"</string>
+  
+  <string name="spoken_accented_letter_0103">"A s oblúčikom"</string>
+  
+  <string name="spoken_accented_letter_0105">"A s nožičkou"</string>
+  
+  <string name="spoken_accented_letter_0107">"C s dĺžňom"</string>
+  
+  <string name="spoken_accented_letter_0109">"C s vokáňom"</string>
+  
+  <string name="spoken_accented_letter_010B">"C s bodkou nad písmenom"</string>
+  
+  <string name="spoken_accented_letter_010D">"C s mäkčeňom"</string>
+  
+  <string name="spoken_accented_letter_010F">"D s mäkčeňom"</string>
+  
+  <string name="spoken_accented_letter_0111">"Prečiarknuté D"</string>
+  
+  <string name="spoken_accented_letter_0113">"E s vodorovnou čiarkou"</string>
+  
+  <string name="spoken_accented_letter_0115">"E s oblúčikom"</string>
+  
+  <string name="spoken_accented_letter_0117">"E s bodkou nad písmenom"</string>
+  
+  <string name="spoken_accented_letter_0119">"E s nožičkou"</string>
+  
+  <string name="spoken_accented_letter_011B">"E s mäkčeňom"</string>
+  
+  <string name="spoken_accented_letter_011D">"G s vokáňom"</string>
+  
+  <string name="spoken_accented_letter_011F">"G s oblúčikom"</string>
+  
+  <string name="spoken_accented_letter_0121">"G s bodkou nad písmenom"</string>
+  
+  <string name="spoken_accented_letter_0123">"G s háčikom pod písmenom"</string>
+  
+  <string name="spoken_accented_letter_0125">"H s vokáňom"</string>
+  
+  <string name="spoken_accented_letter_0127">"Prečiarknuté H"</string>
+  
+  <string name="spoken_accented_letter_0129">"I s vlnovkou"</string>
+  
+  <string name="spoken_accented_letter_012B">"I s vodorovnou čiarkou"</string>
+  
+  <string name="spoken_accented_letter_012D">"I s oblúčikom"</string>
+  
+  <string name="spoken_accented_letter_012F">"I s nožičkou"</string>
+  
+  <string name="spoken_accented_letter_0131">"I bez bodky"</string>
+  
+  <string name="spoken_accented_letter_0133">"Ligatúra písmen I, J"</string>
+  
+  <string name="spoken_accented_letter_0135">"J s vokáňom"</string>
+  
+  <string name="spoken_accented_letter_0137">"K s háčikom pod písmenom"</string>
+  
+  <string name="spoken_accented_letter_0138">"Kra"</string>
+  
+  <string name="spoken_accented_letter_013A">"L s dĺžňom"</string>
+  
+  <string name="spoken_accented_letter_013C">"L s háčikom pod písmenom"</string>
+  
+  <string name="spoken_accented_letter_013E">"L s mäkčeňom"</string>
+  
+  <string name="spoken_accented_letter_0140">"L s bodkou uprostred"</string>
+  
+  <string name="spoken_accented_letter_0142">"Prečiarknuté L"</string>
+  
+  <string name="spoken_accented_letter_0144">"N s dĺžňom"</string>
+  
+  <string name="spoken_accented_letter_0146">"N s háčikom pod písmenom"</string>
+  
+  <string name="spoken_accented_letter_0148">"N s mäkčeňom"</string>
+  
+  <string name="spoken_accented_letter_0149">"N s apostrofom na začiatku"</string>
+  
+  <string name="spoken_accented_letter_014B">"Eng"</string>
+  
+  <string name="spoken_accented_letter_014D">"O s vodorovnou čiarkou"</string>
+  
+  <string name="spoken_accented_letter_014F">"O s oblúčikom"</string>
+  
+  <string name="spoken_accented_letter_0151">"O s dvoma dĺžňami"</string>
+  
+  <string name="spoken_accented_letter_0153">"Ligatúra písmen O, E"</string>
+  
+  <string name="spoken_accented_letter_0155">"R s dĺžňom"</string>
+  
+  <string name="spoken_accented_letter_0157">"R s háčikom pod písmenom"</string>
+  
+  <string name="spoken_accented_letter_0159">"R s mäkčeňom"</string>
+  
+  <string name="spoken_accented_letter_015B">"S s dĺžňom"</string>
+  
+  <string name="spoken_accented_letter_015D">"S s vokáňom"</string>
+  
+  <string name="spoken_accented_letter_015F">"S s háčikom pod písmenom"</string>
+  
+  <string name="spoken_accented_letter_0161">"S s mäkčeňom"</string>
+  
+  <string name="spoken_accented_letter_0163">"T s háčikom pod písmenom"</string>
+  
+  <string name="spoken_accented_letter_0165">"T s mäkčeňom"</string>
+  
+  <string name="spoken_accented_letter_0167">"Prečiarknuté T"</string>
+  
+  <string name="spoken_accented_letter_0169">"U s vlnovkou"</string>
+  
+  <string name="spoken_accented_letter_016B">"U s vodorovnou čiarkou"</string>
+  
+  <string name="spoken_accented_letter_016D">"U s oblúčikom"</string>
+  
+  <string name="spoken_accented_letter_016F">"U s krúžkom"</string>
+  
+  <string name="spoken_accented_letter_0171">"U s dvoma dĺžňami"</string>
+  
+  <string name="spoken_accented_letter_0173">"U s nožičkou"</string>
+  
+  <string name="spoken_accented_letter_0175">"W s vokáňom"</string>
+  
+  <string name="spoken_accented_letter_0177">"Y s vokáňom"</string>
+  
+  <string name="spoken_accented_letter_017A">"Z s dĺžňom"</string>
+  
+  <string name="spoken_accented_letter_017C">"Z s bokou nad písmenom"</string>
+  
+  <string name="spoken_accented_letter_017E">"Z s mäkčeňom"</string>
+  
+  <string name="spoken_accented_letter_017F">"Dlhé S"</string>
+  
+  <string name="spoken_accented_letter_01A1">"O s rohom"</string>
+  
+  <string name="spoken_accented_letter_01B0">"U s rohom"</string>
+  
+  <string name="spoken_accented_letter_0219">"S s čiarkou pod písmenom"</string>
+  
+  <string name="spoken_accented_letter_021B">"T s čiarkou pod písmenom"</string>
+  
+  <string name="spoken_accented_letter_0259">"Schwa"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"A s bodkou pod písmenom"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"A s háčikom nad písmenom"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"A s vokáňom aj dĺžňom"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"A s vokáňom aj opačným dĺžňom"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"A s vokáňom aj háčikom nad písmenom"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"A s vokáňom aj vlnovkou"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"A s vokáňom aj bodkou pod písmenom"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"A s oblúčikom aj dĺžňom"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"A s oblúčikom aj opačným dĺžňom"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"A s oblúčikom aj háčikom nad písmenom"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"A s oblúčikom aj vlnovkou"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"A s oblúčikom aj bodkou pod písmenom"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"E s bodkou pod písmenom"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"E s háčikom nad písmenom"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"E s vlnovkou"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"E s vokáňom aj dĺžňom"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"E s vokáňom aj opačným dĺžňom"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"E s vokáňom aj háčikom nad písmenom"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"E s vokáňom aj vlnovkou"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"E s vokáňom aj bodkou pod písmenom"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"I s háčikom nad písmenom"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"I s bodkou pod písmenom"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"O s bodkou pod písmenom"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"O s háčikom nad písmenom"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"O s vokáňom aj dĺžňom"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"O s vokáňom aj opačným dĺžňom"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"O s vokáňom aj háčikom nad písmenom"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"O s vokáňom aj vlnovkou"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"O s vokáňom aj bodkou pod písmenom"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"O s rohom aj dĺžňom"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"O s rohom aj opačným dĺžňom"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"O s rohom aj háčikom nad písmenom"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"O s rohom aj vlnovkou"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"O s rohom aj bodkou pod písmenom"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"U s bodkou pod písmenom"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"U s háčikom nad písmenom"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"U s rohom aj dĺžňom"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"U s rohom aj opačným dĺžňom"</string>
+  
+  <string name="spoken_accented_letter_1EED">"U s rohom aj háčikom nad písmenom"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"U s rohom aj vlnovkou"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"U s rohom aj bodkou pod písmenom"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"Y s opačným dĺžňom"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"Y s bodkou pod písmenom"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"Y s háčikom nad písmenom"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"Y s vlnovkou"</string>
+  
+  <string name="spoken_symbol_00A1">"Obrátený výkričník"</string>
+  
+  <string name="spoken_symbol_00AB">"Lomené ľavé dvojité úvodzovky"</string>
+  
+  <string name="spoken_symbol_00B7">"Bodka uprostred"</string>
+  
+  <string name="spoken_symbol_00B9">"Jednotka v hornom indexe"</string>
+  
+  <string name="spoken_symbol_00BB">"Lomené pravé dvojité úvodzovky"</string>
+  
+  <string name="spoken_symbol_00BF">"Obrátený otáznik"</string>
+  
+  <string name="spoken_symbol_2018">"Ľavé jednoduché úvodzovky"</string>
+  
+  <string name="spoken_symbol_2019">"Pravé jednoduché úvodzovky"</string>
+  
+  <string name="spoken_symbol_201A">"Dolné jednoduché úvodzovky"</string>
+  
+  <string name="spoken_symbol_201C">"Ľavé dvojité úvodzovky"</string>
+  
+  <string name="spoken_symbol_201D">"Pravé dvojité úvodzovky"</string>
+  
+  <string name="spoken_symbol_2020">"Krížik"</string>
+  
+  <string name="spoken_symbol_2021">"Dvojitý krížik"</string>
+  
+  <string name="spoken_symbol_2030">"Znak promile"</string>
+  
+  <string name="spoken_symbol_2032">"Indexová čiarka"</string>
+  
+  <string name="spoken_symbol_2033">"Dvojitá indexová čiarka"</string>
+  
+  <string name="spoken_symbol_2039">"Jednoduché ľavé úvodzovky"</string>
+  
+  <string name="spoken_symbol_203A">"Jednoduché pravé úvodzovky"</string>
+  
+  <string name="spoken_symbol_2074">"Štvorka v hornom indexe"</string>
+  
+  <string name="spoken_symbol_207F">"Latinka – malé písmeno n v hornom indexe"</string>
+  
+  <string name="spoken_symbol_20B1">"Znak pesa"</string>
+  
+  <string name="spoken_symbol_2105">"Malé písmená c a o oddelené lomkou"</string>
+  
+  <string name="spoken_symbol_2192">"Šípka vpravo"</string>
+  
+  <string name="spoken_symbol_2193">"Šípka nadol"</string>
+  
+  <string name="spoken_symbol_2205">"Prázdna množina"</string>
+  
+  <string name="spoken_symbol_2206">"Prírastok"</string>
+  
+  <string name="spoken_symbol_2264">"Menšie alebo rovné ako"</string>
+  
+  <string name="spoken_symbol_2265">"Väčšie alebo rovné ako"</string>
+  
+  <string name="spoken_symbol_2605">"Čierna hviezda"</string>
+</resources>

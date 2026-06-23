@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+  <string name="stop_recording">Ferma Registrazione</string>
+  
+  <string name="try_saying_something">Prova a dire qualcosa</string>
+  
+  <string name="no_audio_detected_is_your_microphone_blocked">Nessun audio rilevato, il microfono è bloccato?</string>
+  
+  <string name="listening">In ascolto…</string>
+  
+  <string name="grant_microphone_permission_to_use_voice_input">Concedi l\'autorizzazione al microfono per utilizzare l\'input vocale</string>
+  <string name="open_voice_input_settings">Apri le impostazioni dell\'input vocale</string>
+  
+  <string name="extracting_features">Estrazione delle caratteristiche…</string>
+  
+  <string name="loading_model">Caricamento del modello…</string>
+  
+  <string name="decoding">Decodifica avviata…</string>
+  
+  <string name="switching_model">Cambiamento della lingua…</string>
+  
+  <string name="processing">Elaborazione in corso…</string>
+  
+  <string name="initializing">Inizializzazione…</string>
+  
+  <string name="tiny_en_name">English-39 (default)</string>
+  
+  <string name="base_en_name">English-74 (più lento, più accurato)</string>
+  
+  <string name="small_en_name">English-244 (lento)</string>
+  
+  <string name="tiny_name">Multilingual-39 (meno accurato)</string>
+  
+  <string name="base_name">Multilingual-74 (default)</string>
+  
+  <string name="small_name">Multilingual-244 (lento)</string>
+  
+  <string name="using_bluetooth_mic">Utilizzo del microfono Bluetooth (%1$s)</string>
+  
+  <string name="using_built_in_mic">Utilizzo del microfono incorporato (%1$s)</string>
+</resources>

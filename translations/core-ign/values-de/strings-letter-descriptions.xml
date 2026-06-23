@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"Ordnungszeichen weiblich"</string>
+  
+  <string name="spoken_accented_letter_00B5">"Mikrozeichen"</string>
+  
+  <string name="spoken_accented_letter_00BA">"Ordnungszeichen männlich"</string>
+  
+  <string name="spoken_accented_letter_00DF">"Scharfes S"</string>
+  
+  <string name="spoken_accented_letter_00E0">"A mit Gravis"</string>
+  
+  <string name="spoken_accented_letter_00E1">"A mit Akut"</string>
+  
+  <string name="spoken_accented_letter_00E2">"A mit Zirkumflex"</string>
+  
+  <string name="spoken_accented_letter_00E3">"A mit Tilde"</string>
+  
+  <string name="spoken_accented_letter_00E4">"A mit Trema"</string>
+  
+  <string name="spoken_accented_letter_00E5">"A mit Ring"</string>
+  
+  <string name="spoken_accented_letter_00E6">"AE-Ligatur"</string>
+  
+  <string name="spoken_accented_letter_00E7">"C mit Cédille"</string>
+  
+  <string name="spoken_accented_letter_00E8">"E mit Gravis"</string>
+  
+  <string name="spoken_accented_letter_00E9">"E mit Akut"</string>
+  
+  <string name="spoken_accented_letter_00EA">"E mit Zirkumflex"</string>
+  
+  <string name="spoken_accented_letter_00EB">"E mit Trema"</string>
+  
+  <string name="spoken_accented_letter_00EC">"I mit Gravis"</string>
+  
+  <string name="spoken_accented_letter_00ED">"I mit Akut"</string>
+  
+  <string name="spoken_accented_letter_00EE">"I mit Zirkumflex"</string>
+  
+  <string name="spoken_accented_letter_00EF">"I mit Trema"</string>
+  
+  <string name="spoken_accented_letter_00F0">"Eth"</string>
+  
+  <string name="spoken_accented_letter_00F1">"N mit Tilde"</string>
+  
+  <string name="spoken_accented_letter_00F2">"O mit Gravis"</string>
+  
+  <string name="spoken_accented_letter_00F3">"O mit Akut"</string>
+  
+  <string name="spoken_accented_letter_00F4">"O mit Zirkumflex"</string>
+  
+  <string name="spoken_accented_letter_00F5">"O mit Tilde"</string>
+  
+  <string name="spoken_accented_letter_00F6">"O mit Trema"</string>
+  
+  <string name="spoken_accented_letter_00F8">"O mit Strich"</string>
+  
+  <string name="spoken_accented_letter_00F9">"U mit Gravis"</string>
+  
+  <string name="spoken_accented_letter_00FA">"U mit Akut"</string>
+  
+  <string name="spoken_accented_letter_00FB">"U mit Zirkumflex"</string>
+  
+  <string name="spoken_accented_letter_00FC">"U mit Trema"</string>
+  
+  <string name="spoken_accented_letter_00FD">"Y mit Akut"</string>
+  
+  <string name="spoken_accented_letter_00FE">"Thorn"</string>
+  
+  <string name="spoken_accented_letter_00FF">"Y mit Trema"</string>
+  
+  <string name="spoken_accented_letter_0101">"A mit Makron"</string>
+  
+  <string name="spoken_accented_letter_0103">"A mit Breve"</string>
+  
+  <string name="spoken_accented_letter_0105">"A mit Ogonek"</string>
+  
+  <string name="spoken_accented_letter_0107">"C mit Akut"</string>
+  
+  <string name="spoken_accented_letter_0109">"C mit Zirkumflex"</string>
+  
+  <string name="spoken_accented_letter_010B">"C mit übergesetztem Punkt"</string>
+  
+  <string name="spoken_accented_letter_010D">"C mit Hatschek"</string>
+  
+  <string name="spoken_accented_letter_010F">"D mit Hatschek"</string>
+  
+  <string name="spoken_accented_letter_0111">"D mit Querstrich"</string>
+  
+  <string name="spoken_accented_letter_0113">"E mit Makron"</string>
+  
+  <string name="spoken_accented_letter_0115">"E mit Breve"</string>
+  
+  <string name="spoken_accented_letter_0117">"E mit übergesetztem Punkt"</string>
+  
+  <string name="spoken_accented_letter_0119">"E mit Ogonek"</string>
+  
+  <string name="spoken_accented_letter_011B">"E mit Hatschek"</string>
+  
+  <string name="spoken_accented_letter_011D">"G mit Zirkumflex"</string>
+  
+  <string name="spoken_accented_letter_011F">"G mit Breve"</string>
+  
+  <string name="spoken_accented_letter_0121">"G mit übergesetztem Punkt"</string>
+  
+  <string name="spoken_accented_letter_0123">"G mit Cédille"</string>
+  
+  <string name="spoken_accented_letter_0125">"H mit Zirkumflex"</string>
+  
+  <string name="spoken_accented_letter_0127">"H mit Querstrich"</string>
+  
+  <string name="spoken_accented_letter_0129">"I mit Tilde"</string>
+  
+  <string name="spoken_accented_letter_012B">"I mit Makron"</string>
+  
+  <string name="spoken_accented_letter_012D">"I mit Breve"</string>
+  
+  <string name="spoken_accented_letter_012F">"I mit Ogonek"</string>
+  
+  <string name="spoken_accented_letter_0131">"Punktloses I"</string>
+  
+  <string name="spoken_accented_letter_0133">"Ligatur IJ"</string>
+  
+  <string name="spoken_accented_letter_0135">"J mit Zirkumflex"</string>
+  
+  <string name="spoken_accented_letter_0137">"K mit Cédille"</string>
+  
+  <string name="spoken_accented_letter_0138">"Kra"</string>
+  
+  <string name="spoken_accented_letter_013A">"L mit Akut"</string>
+  
+  <string name="spoken_accented_letter_013C">"L mit Cédille"</string>
+  
+  <string name="spoken_accented_letter_013E">"L mit Hatschek"</string>
+  
+  <string name="spoken_accented_letter_0140">"L mit Mittelpunkt"</string>
+  
+  <string name="spoken_accented_letter_0142">"L mit Schrägstrich"</string>
+  
+  <string name="spoken_accented_letter_0144">"N mit Akut"</string>
+  
+  <string name="spoken_accented_letter_0146">"N mit Cédille"</string>
+  
+  <string name="spoken_accented_letter_0148">"N mit Hatschek"</string>
+  
+  <string name="spoken_accented_letter_0149">"N mit vorangehendem Apostroph"</string>
+  
+  <string name="spoken_accented_letter_014B">"Eng"</string>
+  
+  <string name="spoken_accented_letter_014D">"O mit Makron"</string>
+  
+  <string name="spoken_accented_letter_014F">"O mit Breve"</string>
+  
+  <string name="spoken_accented_letter_0151">"O mit Doppelakut"</string>
+  
+  <string name="spoken_accented_letter_0153">"Ligatur OE"</string>
+  
+  <string name="spoken_accented_letter_0155">"R mit Akut"</string>
+  
+  <string name="spoken_accented_letter_0157">"R mit Cédille"</string>
+  
+  <string name="spoken_accented_letter_0159">"R mit Hatschek"</string>
+  
+  <string name="spoken_accented_letter_015B">"S mit Akut"</string>
+  
+  <string name="spoken_accented_letter_015D">"S mit Zirkumflex"</string>
+  
+  <string name="spoken_accented_letter_015F">"S mit Cédille"</string>
+  
+  <string name="spoken_accented_letter_0161">"S mit Hatschek"</string>
+  
+  <string name="spoken_accented_letter_0163">"T mit Cédille"</string>
+  
+  <string name="spoken_accented_letter_0165">"T mit Hatschek"</string>
+  
+  <string name="spoken_accented_letter_0167">"T mit Querstrich"</string>
+  
+  <string name="spoken_accented_letter_0169">"U mit Tilde"</string>
+  
+  <string name="spoken_accented_letter_016B">"U mit Makron"</string>
+  
+  <string name="spoken_accented_letter_016D">"U mit Breve"</string>
+  
+  <string name="spoken_accented_letter_016F">"U mit übergesetztem Ring"</string>
+  
+  <string name="spoken_accented_letter_0171">"U mit Doppelakut"</string>
+  
+  <string name="spoken_accented_letter_0173">"U mit Ogonek"</string>
+  
+  <string name="spoken_accented_letter_0175">"W mit Zirkumflex"</string>
+  
+  <string name="spoken_accented_letter_0177">"Y mit Zirkumflex"</string>
+  
+  <string name="spoken_accented_letter_017A">"Z mit Akut"</string>
+  
+  <string name="spoken_accented_letter_017C">"Z mit übergesetztem Punkt"</string>
+  
+  <string name="spoken_accented_letter_017E">"Z mit Hatschek"</string>
+  
+  <string name="spoken_accented_letter_017F">"Langes S"</string>
+  
+  <string name="spoken_accented_letter_01A1">"O mit Horn"</string>
+  
+  <string name="spoken_accented_letter_01B0">"U mit Horn"</string>
+  
+  <string name="spoken_accented_letter_0219">"S mit Komma"</string>
+  
+  <string name="spoken_accented_letter_021B">"T mit Komma"</string>
+  
+  <string name="spoken_accented_letter_0259">"Schwa"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"A mit Punkt unten"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"A mit Haken oben"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"A mit Zirkumflex und Akut"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"A mit Zirkumflex und Gravis"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"A mit Zirkumflex und Haken oben"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"A mit Zirkumflex und Tilde"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"A mit Zirkumflex und Punkt unten"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"A mit Breve und Akut"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"A mit Breve und Gravis"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"A mit Breve und Haken oben"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"A mit Breve und Tilde"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"A mit Breve und Punkt unten"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"E mit Punkt unten"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"E mit Haken oben"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"E mit Tilde"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"E mit Zirkumflex und Akut"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"E mit Zirkumflex und Gravis"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"E mit Zirkumflex und Haken oben"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"E mit Zirkumflex und Tilde"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"E mit Zirkumflex und Punkt unten"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"I mit Haken oben"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"I mit Punkt unten"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"O mit Punkt unten"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"O mit Haken oben"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"O mit Zirkumflex und Akut"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"O mit Zirkumflex und Gravis"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"O mit Zirkumflex und Haken oben"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"O mit Zirkumflex und Tilde"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"O mit Zirkumflex und Punkt unten"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"O mit Horn und Akut"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"O mit Horn und Gravis"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"O mit Horn und Haken oben"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"O mit Horn und Tilde"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"O mit Horn und Punkt unten"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"U mit Punkt unten"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"U mit Haken oben"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"U mit Horn und Akut"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"U mit Horn und Gravis"</string>
+  
+  <string name="spoken_accented_letter_1EED">"U mit Horn und Haken oben"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"U mit Horn und Tilde"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"U mit Horn und Punkt unten"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"Y mit Gravis"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"Y mit Punkt unten"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"Y mit Haken oben"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"Y mit Tilde"</string>
+  
+  <string name="spoken_symbol_00A1">"Umgekehrtes Ausrufezeichen"</string>
+  
+  <string name="spoken_symbol_00AB">"Nach links zeigendes doppeltes spitzes Anführungszeichen"</string>
+  
+  <string name="spoken_symbol_00B7">"Mittelpunkt"</string>
+  
+  <string name="spoken_symbol_00B9">"Hochgestellte Eins"</string>
+  
+  <string name="spoken_symbol_00BB">"Nach rechts zeigendes doppeltes spitzes Anführungszeichen"</string>
+  
+  <string name="spoken_symbol_00BF">"Umgekehrtes Fragezeichen"</string>
+  
+  <string name="spoken_symbol_2018">"Einfaches linkes Anführungszeichen"</string>
+  
+  <string name="spoken_symbol_2019">"Einfaches rechtes Anführungszeichen"</string>
+  
+  <string name="spoken_symbol_201A">"Einfaches Anführungszeichen unten"</string>
+  
+  <string name="spoken_symbol_201C">"Doppeltes linkes Anführungszeichen"</string>
+  
+  <string name="spoken_symbol_201D">"Doppeltes rechtes Anführungszeichen"</string>
+  
+  <string name="spoken_symbol_2020">"Kreuz"</string>
+  
+  <string name="spoken_symbol_2021">"Zweibalkenkreuz"</string>
+  
+  <string name="spoken_symbol_2030">"Promillezeichen"</string>
+  
+  <string name="spoken_symbol_2032">"Minutenzeichen"</string>
+  
+  <string name="spoken_symbol_2033">"Sekundenzeichen"</string>
+  
+  <string name="spoken_symbol_2039">"Einfaches nach links zeigendes spitzes Anführungszeichen"</string>
+  
+  <string name="spoken_symbol_203A">"Einfaches nach rechts zeigendes spitzes Anführungszeichen"</string>
+  
+  <string name="spoken_symbol_2074">"Hochgestellte Vier"</string>
+  
+  <string name="spoken_symbol_207F">"Hochgestellter Kleinbuchstabe n"</string>
+  
+  <string name="spoken_symbol_20B1">"Peso-Zeichen"</string>
+  
+  <string name="spoken_symbol_2105">"Per Adresse"</string>
+  
+  <string name="spoken_symbol_2192">"Pfeil nach rechts"</string>
+  
+  <string name="spoken_symbol_2193">"Abwärtspfeil"</string>
+  
+  <string name="spoken_symbol_2205">"Leere Menge"</string>
+  
+  <string name="spoken_symbol_2206">"Differenzzeichen"</string>
+  
+  <string name="spoken_symbol_2264">"Kleiner/gleich"</string>
+  
+  <string name="spoken_symbol_2265">"Größer/gleich"</string>
+  
+  <string name="spoken_symbol_2605">"Schwarzer fünfzackiger Stern"</string>
+</resources>

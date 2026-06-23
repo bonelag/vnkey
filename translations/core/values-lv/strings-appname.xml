@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+  <string name="english_ime_name">FUTO Tastatūra</string>
+  
+  <string name="spell_checker_service_name">FUTO Pareizrakstība</string>
+  
+  <string name="english_ime_settings">FUTO Tastatūras Iestatījumi</string>
+  
+  <string name="android_spell_checker_settings">FUTO Pareizrakstības Iestatījumi</string>
+</resources>

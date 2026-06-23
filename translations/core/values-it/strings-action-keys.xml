@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">"Vai"</string>
+  
+  <string name="label_next_key">"Succ."</string>
+  
+  <string name="label_previous_key">"Prec."</string>
+  
+  <string name="label_done_key">"Fine"</string>
+  
+  <string name="label_send_key">"Invia"</string>
+  
+  <string name="label_search_key">"Cerca"</string>
+  
+  <string name="label_pause_key">"Pausa"</string>
+  
+  <string name="label_wait_key">"Attendi"</string>
+</resources>

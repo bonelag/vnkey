@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="spoken_use_headphones">"Parooliklahvide kuulamiseks ühendage peakomplekt."</string>
+  
+  <string name="spoken_current_text_is">"Praegune tekst on %s"</string>
+  
+  <string name="spoken_no_text_entered">"Teksti ei ole sisestatud"</string>
+  
+  <string name="spoken_auto_correct">&lt;string name="spoken_auto_correct" msgid="965889269068888859"&gt;&amp;quot;&lt;xliff:g id="KEY_NAME"&gt;%1$s&lt;/xliff:g&gt; parandab sõna &lt;xliff:g id="ORIGINAL_WORD"&gt;%2$s&lt;/xliff:g&gt; järgmiselt: &lt;xliff:g id="CORRECTED_WORD"&gt;%3$s&lt;/xliff:g&gt;&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="spoken_auto_correct_obscured">&lt;string name="spoken_auto_correct_obscured" msgid="7511607899335382699"&gt;&amp;quot;&lt;xliff:g id="KEY_NAME"&gt;%1$s&lt;/xliff:g&gt; teeb automaatse paranduse&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="spoken_empty_suggestion">"Soovitusi pole"</string>
+  
+  <string name="spoken_description_unknown">"Tundmatu tähemärk"</string>
+  
+  <string name="spoken_description_shift">"Tõstuklahv"</string>
+  
+  <string name="spoken_description_symbols_shift">"Rohkem sümboleid"</string>
+  
+  <string name="spoken_description_shift_shifted">"Tõstuklahv"</string>
+  
+  <string name="spoken_description_symbols_shift_shifted">"Sümbolid"</string>
+  
+  <string name="spoken_description_caps_lock">"Tõstuklahv"</string>
+  
+  <string name="spoken_description_delete">"Kustutamine"</string>
+  
+  <string name="spoken_description_to_symbol">"Sümbolid"</string>
+  
+  <string name="spoken_description_to_alpha">"Tähed"</string>
+  
+  <string name="spoken_description_to_numeric">"Numbrid"</string>
+  
+  <string name="spoken_description_settings">"Seaded"</string>
+  
+  <string name="spoken_description_tab">"Tabulaator"</string>
+  
+  <string name="spoken_description_space">"Tühik"</string>
+  
+  <string name="spoken_description_mic">"Häälsisend"</string>
+  
+  <string name="spoken_description_emoji">"Emotikon"</string>
+  
+  <string name="spoken_description_return">"Tagasi"</string>
+  
+  <string name="spoken_description_search">"Otsing"</string>
+  
+  <string name="spoken_description_dot">"Punkt"</string>
+  
+  <string name="spoken_description_language_switch">"Keele vahetamine"</string>
+  
+  <string name="spoken_description_action_next">"Järgmine"</string>
+  
+  <string name="spoken_description_action_previous">"Eelmine"</string>
+  
+  <string name="spoken_description_to_alt_0">1. lehekülg</string>
+  <string name="spoken_description_to_alt_1">2. lehekülg</string>
+  <string name="spoken_description_to_alt_2">3. lehekülg</string>
+  
+  <string name="spoken_description_shiftmode_on">"Tõstuklahv on lubatud"</string>
+  
+  <string name="spoken_description_shiftmode_locked">"Suurtähelukk on lubatud"</string>
+  
+  <string name="spoken_description_mode_symbol">"Sümbolite režiim"</string>
+  
+  <string name="spoken_description_mode_symbol_shift">"Režiim Rohkem sümboleid"</string>
+  
+  <string name="spoken_description_mode_alpha">"Tähtede režiim"</string>
+  
+  <string name="spoken_description_mode_phone">"Telefonirežiim"</string>
+  
+  <string name="spoken_description_mode_phone_shift">"Telefoni sümbolite režiim"</string>
+  
+  <string name="spoken_description_mode_digits">Numbrite režiim</string>
+  
+  <string name="announce_keyboard_hidden">"Klaviatuur on peidetud"</string>
+  
+  <string name="announce_keyboard_mode">&lt;string name="announce_keyboard_mode" msgid="5314352981874590170"&gt;&amp;quot;Näitab klaviatuuri režiimil &lt;xliff:g id="KEYBOARD_MODE"&gt;%s&lt;/xliff:g&gt;&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="keyboard_mode_date">"kuupäev"</string>
+  
+  <string name="keyboard_mode_date_time">"kuupäev ja kellaaeg"</string>
+  
+  <string name="keyboard_mode_email">"e-post"</string>
+  
+  <string name="keyboard_mode_im">"sõnumiside"</string>
+  
+  <string name="keyboard_mode_number">"number"</string>
+  
+  <string name="keyboard_mode_phone">"telefon"</string>
+  
+  <string name="keyboard_mode_text">"tekst"</string>
+  
+  <string name="keyboard_mode_time">"aeg"</string>
+  
+  <string name="keyboard_mode_url">"URL"</string>
+  
+  <string name="spoken_descrption_emoji_category_recents">"Hiljutised"</string>
+  
+  <string name="spoken_descrption_emoji_category_people">"Inimesed"</string>
+  
+  <string name="spoken_descrption_emoji_category_objects">"Objektid"</string>
+  
+  <string name="spoken_descrption_emoji_category_nature">"Loodus"</string>
+  
+  <string name="spoken_descrption_emoji_category_places">"Kohad"</string>
+  
+  <string name="spoken_descrption_emoji_category_symbols">"Sümbolid"</string>
+  
+  <string name="spoken_descrption_emoji_category_flags">"Lipud"</string>
+  
+  <string name="spoken_descrption_emoji_category_eight_smiley_people">"Naerunägu ja inimesed"</string>
+  
+  <string name="spoken_descrption_emoji_category_eight_animals_nature">"Loomad ja loodus"</string>
+  
+  <string name="spoken_descrption_emoji_category_eight_food_drink">"Söök ja jook"</string>
+  
+  <string name="spoken_descrption_emoji_category_eight_travel_places">"Reisimine ja kohad"</string>
+  
+  <string name="spoken_descrption_emoji_category_eight_activity">"Tegevused"</string>
+  
+  <string name="spoken_descrption_emoji_category_emoticons">"Emotikonid"</string>
+  
+  <string name="spoken_description_upper_case">&lt;string name="spoken_description_upper_case" msgid="548189286451849550"&gt;&amp;quot;Suurtäht &lt;xliff:g id="LOWER_LETTER"&gt;%s&lt;/xliff:g&gt;&amp;quot;&lt;/string&gt;</string>
+  <!--
+    Spoken description for Unicode code point U+0049: "I" LATIN CAPITAL LETTER I
+    Note that depending on locale, the lower-case of this letter is U+0069 or U+0131.
+  -->
+  <string name="spoken_letter_0049">"Suurtäht I"</string>
+  <!--
+    Spoken description for Unicode code point U+0130: "İ" LATIN CAPITAL LETTER I WITH DOT ABOVE
+    Note that depending on locale, the lower-case of this letter is U+0069 or U+0131.
+  -->
+  <string name="spoken_letter_0130">"Suurtäht I, ülapunkt"</string>
+  
+  <string name="spoken_symbol_unknown">"Tundmatu sümbol"</string>
+  
+  <string name="spoken_emoji_unknown">"Tundmatu emoji"</string>
+  
+  <string name="spoken_emoticon_3A_2D_21_20">"Igavlev nägu"</string>
+  
+  <string name="spoken_emoticon_3A_2D_24_20">"Piinlikkust tundev nägu"</string>
+  
+  <string name="spoken_emoticon_42_2D_29_20">"Päikseprillidega nägu"</string>
+  
+  <string name="spoken_emoticon_3A_4F_20">"Üllatunud nägu"</string>
+  
+  <string name="spoken_emoticon_3A_2D_2A_20">"Suudlev nägu"</string>
+  
+  <string name="spoken_emoticon_3A_2D_5B_20">"Kulmu kortsutav nägu"</string>
+  
+  <string name="spoken_open_more_keys_keyboard">"Alternatiivsed tähemärgid on saadaval"</string>
+  
+  <string name="spoken_close_more_keys_keyboard">"Alternatiivsed tähemärgid eemaldatakse"</string>
+  
+  <string name="spoken_open_more_suggestions">"Alternatiivsed soovitused on saadaval"</string>
+  
+  <string name="spoken_close_more_suggestions">"Alternatiivsed soovitused eemaldatakse"</string>
+  
+  <string name="action_menu_closed">%1$s suleti</string>
+</resources>

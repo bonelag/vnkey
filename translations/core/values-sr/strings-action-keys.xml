@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">"Иди"</string>
+  
+  <string name="label_next_key">"След"</string>
+  
+  <string name="label_previous_key">"Претх"</string>
+  
+  <string name="label_done_key">"Готов"</string>
+  
+  <string name="label_send_key">"Шаљи"</string>
+  
+  <string name="label_search_key">"Тражи"</string>
+  
+  <string name="label_pause_key">"Пауза"</string>
+  
+  <string name="label_wait_key">"Чекај"</string>
+</resources>

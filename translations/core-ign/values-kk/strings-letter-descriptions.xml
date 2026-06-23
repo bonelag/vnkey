@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"Әйел реттік көрсеткіші"</string>
+  
+  <string name="spoken_accented_letter_00B5">"Микро белгісі"</string>
+  
+  <string name="spoken_accented_letter_00BA">"Еркек реттік көрсеткіші"</string>
+  
+  <string name="spoken_accented_letter_00DF">"Эсцет"</string>
+  
+  <string name="spoken_accented_letter_00E0">"A гравис"</string>
+  
+  <string name="spoken_accented_letter_00E1">"A-акут"</string>
+  
+  <string name="spoken_accented_letter_00E2">"Циркумфлексі бар а"</string>
+  
+  <string name="spoken_accented_letter_00E3">"Тильдасы бар A"</string>
+  
+  <string name="spoken_accented_letter_00E4">"A-умлаут"</string>
+  
+  <string name="spoken_accented_letter_00E5">"Дөңгелегі бар A"</string>
+  
+  <string name="spoken_accented_letter_00E6">"AE, лигатура"</string>
+  
+  <string name="spoken_accented_letter_00E7">"Седиль бар C"</string>
+  
+  <string name="spoken_accented_letter_00E8">"Грейві бар E"</string>
+  
+  <string name="spoken_accented_letter_00E9">"Акуты бар E"</string>
+  
+  <string name="spoken_accented_letter_00EA">"Циркумфлексі бар E"</string>
+  
+  <string name="spoken_accented_letter_00EB">"Тремасы бар Е"</string>
+  
+  <string name="spoken_accented_letter_00EC">"Грейві бар I"</string>
+  
+  <string name="spoken_accented_letter_00ED">"Акуты бар I"</string>
+  
+  <string name="spoken_accented_letter_00EE">"Циркумфлексі бар I"</string>
+  
+  <string name="spoken_accented_letter_00EF">"Тремасы бар I"</string>
+  
+  <string name="spoken_accented_letter_00F0">"Eth"</string>
+  
+  <string name="spoken_accented_letter_00F1">"Тильдасы бар N"</string>
+  
+  <string name="spoken_accented_letter_00F2">"Грейві бар O"</string>
+  
+  <string name="spoken_accented_letter_00F3">"Акуты бар O"</string>
+  
+  <string name="spoken_accented_letter_00F4">"Циркумфлексі бар O"</string>
+  
+  <string name="spoken_accented_letter_00F5">"Тильдасы бар O"</string>
+  
+  <string name="spoken_accented_letter_00F6">"Тремасы бар O"</string>
+  
+  <string name="spoken_accented_letter_00F8">"Штрихі бар O"</string>
+  
+  <string name="spoken_accented_letter_00F9">"Грейві бар U"</string>
+  
+  <string name="spoken_accented_letter_00FA">"Акуты бар U"</string>
+  
+  <string name="spoken_accented_letter_00FB">"Циркумфлексі бар U"</string>
+  
+  <string name="spoken_accented_letter_00FC">"Тремасы бар U"</string>
+  
+  <string name="spoken_accented_letter_00FD">"Акуты бар Y"</string>
+  
+  <string name="spoken_accented_letter_00FE">"Торн"</string>
+  
+  <string name="spoken_accented_letter_00FF">"Тремасы бар Y"</string>
+  
+  <string name="spoken_accented_letter_0101">"Макроны бар A"</string>
+  
+  <string name="spoken_accented_letter_0103">"Бревисі бар A"</string>
+  
+  <string name="spoken_accented_letter_0105">"A, огонэк"</string>
+  
+  <string name="spoken_accented_letter_0107">"Акуты бар C"</string>
+  
+  <string name="spoken_accented_letter_0109">"Циркумфлексі бар C"</string>
+  
+  <string name="spoken_accented_letter_010B">"Үстінде нүктесі бар C"</string>
+  
+  <string name="spoken_accented_letter_010D">"Гачек бар C"</string>
+  
+  <string name="spoken_accented_letter_010F">"Гачек бар D"</string>
+  
+  <string name="spoken_accented_letter_0111">"Штрихі бар D"</string>
+  
+  <string name="spoken_accented_letter_0113">"Макроны бар E"</string>
+  
+  <string name="spoken_accented_letter_0115">"Бревисі бар E"</string>
+  
+  <string name="spoken_accented_letter_0117">"Үстінде нүктесі бар E"</string>
+  
+  <string name="spoken_accented_letter_0119">"Огонэк бар E"</string>
+  
+  <string name="spoken_accented_letter_011B">"Гачек бар E"</string>
+  
+  <string name="spoken_accented_letter_011D">"Циркумфлексі бар G"</string>
+  
+  <string name="spoken_accented_letter_011F">"Бревисі бар G"</string>
+  
+  <string name="spoken_accented_letter_0121">"Үстінде нүктесі бар G"</string>
+  
+  <string name="spoken_accented_letter_0123">"Седиль бар G"</string>
+  
+  <string name="spoken_accented_letter_0125">"Циркумфлексі бар H"</string>
+  
+  <string name="spoken_accented_letter_0127">"Штрихі бар H"</string>
+  
+  <string name="spoken_accented_letter_0129">"Тильдасы бар I"</string>
+  
+  <string name="spoken_accented_letter_012B">"Макроны бар I"</string>
+  
+  <string name="spoken_accented_letter_012D">"Бревисі бар I"</string>
+  
+  <string name="spoken_accented_letter_012F">"Огонэк бар I"</string>
+  
+  <string name="spoken_accented_letter_0131">"Нүктесіз I"</string>
+  
+  <string name="spoken_accented_letter_0133">"IJ лигатурасы"</string>
+  
+  <string name="spoken_accented_letter_0135">"Циркумфлексі бар J"</string>
+  
+  <string name="spoken_accented_letter_0137">"Седиль бар K"</string>
+  
+  <string name="spoken_accented_letter_0138">"Кра"</string>
+  
+  <string name="spoken_accented_letter_013A">"Акуты бар L"</string>
+  
+  <string name="spoken_accented_letter_013C">"Седиль бар L"</string>
+  
+  <string name="spoken_accented_letter_013E">"Гачек бар L"</string>
+  
+  <string name="spoken_accented_letter_0140">"Үшкір нүктесі бар L"</string>
+  
+  <string name="spoken_accented_letter_0142">"Штрихі бар L"</string>
+  
+  <string name="spoken_accented_letter_0144">"Акуты бар N"</string>
+  
+  <string name="spoken_accented_letter_0146">"Седиль бар N"</string>
+  
+  <string name="spoken_accented_letter_0148">"Гачек бар N"</string>
+  
+  <string name="spoken_accented_letter_0149">"Алдында апострофы бар N"</string>
+  
+  <string name="spoken_accented_letter_014B">"Eng"</string>
+  
+  <string name="spoken_accented_letter_014D">"Макроны бар O"</string>
+  
+  <string name="spoken_accented_letter_014F">"Бревисі бар O"</string>
+  
+  <string name="spoken_accented_letter_0151">"Қос акуты бар O"</string>
+  
+  <string name="spoken_accented_letter_0153">"OE лигатурасы"</string>
+  
+  <string name="spoken_accented_letter_0155">"Акуты бар R"</string>
+  
+  <string name="spoken_accented_letter_0157">"Седиль бар R"</string>
+  
+  <string name="spoken_accented_letter_0159">"Гачек бар R"</string>
+  
+  <string name="spoken_accented_letter_015B">"Акуты бар S"</string>
+  
+  <string name="spoken_accented_letter_015D">"Циркумфлексі бар S"</string>
+  
+  <string name="spoken_accented_letter_015F">"Седиль бар S"</string>
+  
+  <string name="spoken_accented_letter_0161">"Гачек бар S"</string>
+  
+  <string name="spoken_accented_letter_0163">"Седиль бар T"</string>
+  
+  <string name="spoken_accented_letter_0165">"Гачек бар T"</string>
+  
+  <string name="spoken_accented_letter_0167">"Штрих бар T"</string>
+  
+  <string name="spoken_accented_letter_0169">"Тильдасы бар U"</string>
+  
+  <string name="spoken_accented_letter_016B">"Макроны бар U"</string>
+  
+  <string name="spoken_accented_letter_016D">"Бревисі бар U"</string>
+  
+  <string name="spoken_accented_letter_016F">"Дөңгелегі бар U"</string>
+  
+  <string name="spoken_accented_letter_0171">"Қос акуты бар U"</string>
+  
+  <string name="spoken_accented_letter_0173">"Огонэк бар U"</string>
+  
+  <string name="spoken_accented_letter_0175">"Циркумфлексі бар W"</string>
+  
+  <string name="spoken_accented_letter_0177">"Циркумфлексі бар Y"</string>
+  
+  <string name="spoken_accented_letter_017A">"Акуты бар Z"</string>
+  
+  <string name="spoken_accented_letter_017C">"Үстінде нүктесі бар Z"</string>
+  
+  <string name="spoken_accented_letter_017E">"Гачек бар Z"</string>
+  
+  <string name="spoken_accented_letter_017F">"Ұзын S"</string>
+  
+  <string name="spoken_accented_letter_01A1">"Қармағы бар O"</string>
+  
+  <string name="spoken_accented_letter_01B0">"Қармағы бар U"</string>
+  
+  <string name="spoken_accented_letter_0219">"Астында үтір бар S"</string>
+  
+  <string name="spoken_accented_letter_021B">"Астында үтір бар T"</string>
+  
+  <string name="spoken_accented_letter_0259">"Шва"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"Астында нүкте бар A"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"Үстінде ілгегі бар A"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"Циркумфлексі және акуты бар A"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"Циркумфлексі және грейві бар A"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"Үстінде циркумфлексі және ілгегі бар A"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"Циркумфлексі және тильдасы бар A"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"Астында циркумфлексі және нүктесі бар A"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"Бревисі және акуты бар A"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"Бревисі және грейві бар A"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"Үстінде бревисі және ілгегі бар A"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"Бревисі және тильдасы бар A"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"Астында бревисі және нүктесі бар A"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"Астында нүктесі бар E"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"Үстінде ілгегі бар E"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"Тильдасы бар E"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"Циркумфлексі және акуты бар E"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"Циркумфлексі және грейві бар E"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"Үстінде циркумфлексі және ілгегі бар E"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"Циркумфлексі және тильдасы бар E"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"Астында циркумфлексі және нүктесі бар E"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"Үстінде ілгегі бар I"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"Астында нүктесі бар I"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"Астында нүктесі бар O"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"Үстінде ілгегі бар O"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"Циркумфлексі және акуты бар O"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"Циркумфлексі және грейві бар O"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"Үстінде циркумфлексі және ілгегі бар O"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"Циркумфлексі және тильдасы бар O"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"Астында циркумфлексі және нүктесі бар O"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"Қармағы және акуты бар O"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"Қармағы және грейві бар O"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"Үстінде қармағы және ілгегі бар O"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"Қармағы және тильдасы бар O"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"Астында қармағы және нүктесі бар O"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"Астында нүктесі бар U"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"Үстінде ілгегі бар U"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"Қармағы және акуты бар U"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"Қармағы және грейві бар U"</string>
+  
+  <string name="spoken_accented_letter_1EED">"Үстінде қармағы және ілгегі бар U"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"Қармағы және тильдасы бар U"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"Астында қармағы және нүктесі бар U"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"Грейві бар Y"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"Астында нүктесі бар Y"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"Үстінде қармағы бар Y"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"Тильдасы бар Y"</string>
+  
+  <string name="spoken_symbol_00A1">"Аударылған леп белгісі"</string>
+  
+  <string name="spoken_symbol_00AB">"Жабатын тырнақша"</string>
+  
+  <string name="spoken_symbol_00B7">"Ортаңғы нүкте"</string>
+  
+  <string name="spoken_symbol_00B9">"Жоғарғы индексті бір"</string>
+  
+  <string name="spoken_symbol_00BB">"Ашатын тырнақша"</string>
+  
+  <string name="spoken_symbol_00BF">"Аударылған сұрақ белгісі"</string>
+  
+  <string name="spoken_symbol_2018">"Сол жақ жалғыз тырнақша"</string>
+  
+  <string name="spoken_symbol_2019">"Оң жақ жалғыз тырнақша"</string>
+  
+  <string name="spoken_symbol_201A">"Жалғыз төмен-9 тырнақшасы"</string>
+  
+  <string name="spoken_symbol_201C">"Сол жақ қос тырнақша"</string>
+  
+  <string name="spoken_symbol_201D">"Оң жақ қос тырнақша"</string>
+  
+  <string name="spoken_symbol_2020">"Типографиялық шағын крест"</string>
+  
+  <string name="spoken_symbol_2021">"Қос типографиялық шағын крест"</string>
+  
+  <string name="spoken_symbol_2030">"Промилле белгісі"</string>
+  
+  <string name="spoken_symbol_2032">"Штрих"</string>
+  
+  <string name="spoken_symbol_2033">"Қос штрих"</string>
+  
+  <string name="spoken_symbol_2039">"Жалғыз ашатын бұрыштық тырнақша"</string>
+  
+  <string name="spoken_symbol_203A">"Жалғыз жабатын бұрыштық тырнақша"</string>
+  
+  <string name="spoken_symbol_2074">"Жоғарғы индексті төрт"</string>
+  
+  <string name="spoken_symbol_207F">"Жоғарғы индексті n латын шағын әрпі"</string>
+  
+  <string name="spoken_symbol_20B1">"Песо белгісі"</string>
+  
+  <string name="spoken_symbol_2105">"Кімнің атына"</string>
+  
+  <string name="spoken_symbol_2192">"Оң жақ көрсеткі"</string>
+  
+  <string name="spoken_symbol_2193">"Төмен көрсеткі"</string>
+  
+  <string name="spoken_symbol_2205">"Диаметр"</string>
+  
+  <string name="spoken_symbol_2206">"Арту"</string>
+  
+  <string name="spoken_symbol_2264">"Азырақ немесе тең"</string>
+  
+  <string name="spoken_symbol_2265">"Үлкенірек немесе тең"</string>
+  
+  <string name="spoken_symbol_2605">"Қара жұлдызша"</string>
+</resources>

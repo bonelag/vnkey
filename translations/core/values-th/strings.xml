@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="english_ime_input_options">"ตัวเลือกการป้อนข้อมูล"</string>
+  
+  <string name="vibrate_on_keypress">"สั่นเมื่อกดปุ่ม"</string>
+  
+  <string name="sound_on_keypress">"ส่งเสียงเมื่อกดปุ่ม"</string>
+  
+  <string name="popup_on_keypress">"ป๊อปอัปเมื่อกดแป้น"</string>
+  
+  <string name="show_language_switch_key">"แป้นสลับภาษา"</string>
+  
+  <string name="abbreviation_unit_milliseconds">&lt;string name="abbreviation_unit_milliseconds" msgid="3255301845626146979"&gt;&amp;quot;&lt;xliff:g id="MILLISECONDS"&gt;%s&lt;/xliff:g&gt; มิลลิวิ&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="use_personalized_dicts">"คำแนะนำในแบบของคุณ"</string>
+  
+  <string name="use_double_space_period">"เคาะวรรคสองครั้งเพื่อพิมพ์จุด"</string>
+  
+  <string name="use_double_space_period_summary">"เคาะวรรคสองครั้งจะแทรกจุดตามด้วยช่องว่างหนึ่งช่อง"</string>
+  
+  <string name="auto_cap">"ปรับเป็นตัวพิมพ์ใหญ่อัตโนมัติ"</string>
+  
+  <string name="auto_cap_summary">"ทำให้คำแรกของทุกประโยคเป็นตัวพิมพ์ใหญ่"</string>
+  
+  <string name="edit_personal_dictionary">"พจนานุกรมส่วนตัว"</string>
+  
+  <string name="prefs_show_suggestions">"แสดงคำแนะนำการแก้ไข"</string>
+  
+  <string name="prefs_show_suggestions_summary">"แสดงคำที่แนะนำขณะพิมพ์"</string>
+  
+  <string name="prefs_block_potentially_offensive_title">"บล็อกคำที่ไม่เหมาะสม"</string>
+  
+  <string name="prefs_block_potentially_offensive_summary">"ไม่แนะนำคำที่อาจไม่เหมาะสม"</string>
+  
+  <string name="auto_correction">"การแก้ไขคำผิดอัตโนมัติ"</string>
+  
+  <string name="auto_correction_summary">"กดเว้นวรรคและเครื่องหมายจะแก้คำผิดอัตโนมัติ"</string>
+  
+  <string name="bigram_prediction">"คำแนะนำสำหรับคำถัดไป"</string>
+  
+  <string name="bigram_prediction_summary">"ใช้คำก่อนหน้าในการสร้างข้อเสนอแนะ"</string>
+  
+  <string name="language_selection_title">"ภาษา"</string>
+  
+  <string name="select_language">"ภาษา"</string>
+  
+  <string name="subtype_en_GB">"อังกฤษ (สหราชอาณาจักร)"</string>
+  
+  <string name="subtype_en_US">"อังกฤษ (อเมริกัน)"</string>
+  
+  <string name="subtype_es_US">"สเปน (สหรัฐอเมริกา)"</string>
+  
+  <string name="subtype_hi_ZZ">"ภาษาอังกฤษผสมกับฮินดู"</string>
+  
+  <string name="subtype_sr_ZZ">"เซอร์เบีย (ละติน)"</string>
+  
+  <string name="subtype_with_layout_en_GB">&lt;string name="subtype_with_layout_en_GB" msgid="4220344684463778660"&gt;&amp;quot;อังกฤษ (สหราชอาณาจักร) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_en_US">&lt;string name="subtype_with_layout_en_US" msgid="4599421650961912769"&gt;&amp;quot;อังกฤษ (สหรัฐอเมริกา) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_es_US">&lt;string name="subtype_with_layout_es_US" msgid="6866331205974243592"&gt;&amp;quot;สเปน (สหรัฐอเมริกา) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_hi_ZZ">&lt;string name="subtype_with_layout_hi_ZZ" msgid="5439623653083985558"&gt;&amp;quot;ภาษาอังกฤษผสมกับฮินดู (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_sr_ZZ">&lt;string name="subtype_with_layout_sr_ZZ" msgid="546465971819327060"&gt;&amp;quot;เซอร์เบีย (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_traditional">&lt;string name="subtype_generic_traditional" msgid="5321023815277210849"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (ดั้งเดิม)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_compact">&lt;string name="subtype_generic_compact" msgid="2858514299576793292"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (แบบกะทัดรัด)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_no_language">"ไม่มีภาษา (ตัวอักษรละติน)"</string>
+  
+  <string name="subtype_no_language_qwerty">"ตัวอักษร (QWERTY)"</string>
+  
+  <string name="subtype_no_language_qwertz">"ตัวอักษร (QWERTZ)"</string>
+  
+  <string name="subtype_no_language_azerty">"ตัวอักษร (AZERTY)"</string>
+  
+  <string name="subtype_no_language_dvorak">"ตัวอักษร (Dvorak)"</string>
+  
+  <string name="subtype_no_language_colemak">"ตัวอักษร (Colemak)"</string>
+  
+  <string name="subtype_no_language_pcqwerty">"ตัวอักษร (PC)"</string>
+  
+  <string name="subtype_emoji">"อีโมจิ"</string>
+  
+  <string name="cancel">"ยกเลิก"</string>
+  
+  <string name="go_to_settings">"การตั้งค่า"</string>
+  
+  <string name="install_dict">"ติดตั้ง"</string>
+  
+  <string name="cancel_download_dict">"ยกเลิก"</string>
+  
+  <string name="user_dict_settings_add_menu_title">"เพิ่ม"</string>
+  
+  <string name="user_dict_settings_add_dialog_title">"เพิ่มในพจนานุกรม"</string>
+  
+  <string name="user_dict_settings_add_screen_title">"ข้อความ"</string>
+  
+  <string name="user_dict_settings_add_dialog_more_options">"ตัวเลือกอื่น"</string>
+  
+  <string name="user_dict_settings_add_dialog_less_options">"ลดตัวเลือก"</string>
+  
+  <string name="user_dict_settings_add_dialog_confirm">"ตกลง"</string>
+  
+  <string name="user_dict_settings_add_word_option_name">"คำ:"</string>
+  
+  <string name="user_dict_settings_add_shortcut_option_name">"ทางลัด:"</string>
+  
+  <string name="user_dict_settings_add_locale_option_name">"ภาษา:"</string>
+  
+  <string name="user_dict_settings_add_word_hint">"พิมพ์คำ"</string>
+  
+  <string name="user_dict_settings_add_shortcut_hint">"ทางลัดที่ไม่บังคับ"</string>
+  
+  <string name="user_dict_settings_edit_dialog_title">"แก้ไขคำ"</string>
+  
+  <string name="user_dict_settings_context_menu_edit_title">"แก้ไข"</string>
+  
+  <string name="user_dict_settings_context_menu_delete_title">"ลบ"</string>
+  
+  <string name="user_dict_settings_empty_text">"คุณยังไม่มีคำในพจนานุกรมผู้ใช้ หากต้องการเพิ่มคำ ให้แตะปุ่มเพิ่ม (+)"</string>
+  
+  <string name="user_dict_settings_all_languages">"สำหรับทุกภาษา"</string>
+  
+  <string name="user_dict_settings_more_languages">"ภาษาเพิ่มเติม…"</string>
+  
+  <string name="user_dict_settings_delete">"ลบ"</string>
+  
+  <string name="user_dict_fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+</resources>

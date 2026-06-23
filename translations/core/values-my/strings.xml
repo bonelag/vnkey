@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="english_ime_input_options">"ထည့်သွင်းရန် နည်းလမ်းများ"</string>
+  
+  <string name="vibrate_on_keypress">"ခလုတ်နှိပ်သည်နှင့် တုံခါစေပါ"</string>
+  
+  <string name="sound_on_keypress">"ခလုတ်နှိပ်လျှင် အသံမြည်"</string>
+  
+  <string name="popup_on_keypress">"ခလုတ်နှိပ်လိုက်သည်နှင့် ပေါ်လာရန်"</string>
+  
+  <string name="show_language_switch_key">"ဘာသာစကား ပြောင်းခလုတ်"</string>
+  
+  <string name="abbreviation_unit_milliseconds">&lt;string name="abbreviation_unit_milliseconds" msgid="3255301845626146979"&gt;&amp;quot;&lt;xliff:g id="MILLISECONDS"&gt;%s&lt;/xliff:g&gt;ms&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="use_personalized_dicts">"ကိုယ်ရေးကိုယ်တာ အကြံပြုချက်များ"</string>
+  
+  <string name="use_double_space_period">"နှစ်နေရာခြား အဆုံးသတ်"</string>
+  
+  <string name="use_double_space_period_summary">"အချိန်ကာလ"</string>
+  
+  <string name="auto_cap">"အော်တိုစာလုံးကြီးပြောင်း"</string>
+  
+  <string name="auto_cap_summary">"စာကြောင်းတိုင်း ပထမစာလုံးကို အကြီးလုပ်ရန်"</string>
+  
+  <string name="edit_personal_dictionary">"ကိုယ်ပိုင် အဘိဓာန်"</string>
+  
+  <string name="prefs_show_suggestions">"အမှားပြင်ခြင်း အကြံပေးချက်များပြရန်"</string>
+  
+  <string name="prefs_show_suggestions_summary">"ရိုက်နေစဉ် အကြံပြုထားသည့် စကားလုံးများ ပြပါ"</string>
+  
+  <string name="prefs_block_potentially_offensive_title">"ရိုင်းစိုင်းစကားများပိတ်ရန်"</string>
+  
+  <string name="prefs_block_potentially_offensive_summary">"ရိုင်းစိုင်းသည့် စကားလုံးများအား အကြံမပြုပါနှင့်"</string>
+  
+  <string name="auto_correction">"အလိုလျောက် အမှားပြင်ခြင်း"</string>
+  
+  <string name="auto_correction_summary">"မှားယွင်းစွာ ရိုက်ခဲ့သည့် စာလုံးများကို နေရာခြားခလုတ်နှင့် သတ်ပုံမှန်ကန်ခြင်းသည် အလိုအလျောက် ပြုပြင်ပေးသည်"</string>
+  
+  <string name="bigram_prediction">"နောက်စကားလုံး အကြံပြုချက်များ"</string>
+  
+  <string name="bigram_prediction_summary">"အကြံပြုချက်များပြုလုပ်ရာ၌ ပြီးခဲ့သည့် စကားလုံးကို အသုံးပြုရန်"</string>
+  
+  <string name="language_selection_title">"ဘာသာစကားများ"</string>
+  
+  <string name="select_language">"ဘာသာစကားများ"</string>
+  
+  <string name="subtype_en_GB">"အင်္ဂလိပ်(ယူကေ)"</string>
+  
+  <string name="subtype_en_US">"အင်္ဂလိပ် (ယူအက်စ်)"</string>
+  
+  <string name="subtype_es_US">"စပိန် (ယူအက်စ်)"</string>
+  
+  <string name="subtype_hi_ZZ">"ဟင်ဂလိပ်"</string>
+  
+  <string name="subtype_sr_ZZ">"ဆားဘီယား (လက်တင်)"</string>
+  
+  <string name="subtype_with_layout_en_GB">&lt;string name="subtype_with_layout_en_GB" msgid="4220344684463778660"&gt;&amp;quot;အင်္ဂလိပ် (ယူကေ) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_en_US">&lt;string name="subtype_with_layout_en_US" msgid="4599421650961912769"&gt;&amp;quot;အင်္ဂလိပ် (ယူအက်စ်) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_es_US">&lt;string name="subtype_with_layout_es_US" msgid="6866331205974243592"&gt;&amp;quot;စပိန် (ယူအက်စ်) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_hi_ZZ">&lt;string name="subtype_with_layout_hi_ZZ" msgid="5439623653083985558"&gt;&amp;quot;ဟင်ဂလိပ် (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_sr_ZZ">&lt;string name="subtype_with_layout_sr_ZZ" msgid="546465971819327060"&gt;&amp;quot;ဆားဘီယား (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_traditional">&lt;string name="subtype_generic_traditional" msgid="5321023815277210849"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (ရိုးရာ)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_compact">&lt;string name="subtype_generic_compact" msgid="2858514299576793292"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (ကျစ်လစ်သော)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_no_language">"ဘာသာစကားမရှိ (ဗျည်းအက္ခရာ)"</string>
+  
+  <string name="subtype_no_language_qwerty">"ဗျည်းအက္ခရာ (ကွာတီ)"</string>
+  
+  <string name="subtype_no_language_qwertz">"ဗျည်းအက္ခရာ (ကွာတီ)"</string>
+  
+  <string name="subtype_no_language_azerty">"ဗျည်း (အဇာတည်)"</string>
+  
+  <string name="subtype_no_language_dvorak">"ဗျည်းအက္ခရာ (ဒီဘိုရခ်)"</string>
+  
+  <string name="subtype_no_language_colemak">"ဗျည်းအက္ခရာ (ကိုလ်မာ့ခ်)"</string>
+  
+  <string name="subtype_no_language_pcqwerty">"ဗျည်း (PC)"</string>
+  
+  <string name="subtype_emoji">"အီမိုဂျီ"</string>
+  
+  <string name="cancel">"မလုပ်တော့"</string>
+  
+  <string name="go_to_settings">"ဆက်တင်များ"</string>
+  
+  <string name="install_dict">"တပ်ဆင်ပါ"</string>
+  
+  <string name="cancel_download_dict">"မလုပ်တော့"</string>
+  
+  <string name="user_dict_settings_add_menu_title">"ထည့်ရန်"</string>
+  
+  <string name="user_dict_settings_add_dialog_title">"အဘိဓာန်ထဲ ထည့်ပါ"</string>
+  
+  <string name="user_dict_settings_add_screen_title">"စကားစု"</string>
+  
+  <string name="user_dict_settings_add_dialog_more_options">"နောက်ထပ် ရွေးစရာ"</string>
+  
+  <string name="user_dict_settings_add_dialog_less_options">"ရွေးစရာလျှော့ရန်"</string>
+  
+  <string name="user_dict_settings_add_dialog_confirm">"OK"</string>
+  
+  <string name="user_dict_settings_add_word_option_name">"စာလုံး:"</string>
+  
+  <string name="user_dict_settings_add_shortcut_option_name">"အတိုကောက်:"</string>
+  
+  <string name="user_dict_settings_add_locale_option_name">"ဘာသာစကား:"</string>
+  
+  <string name="user_dict_settings_add_word_hint">"စကားလုံးတစ်လုံး ရိုက်ပါ"</string>
+  
+  <string name="user_dict_settings_add_shortcut_hint">"ရွေးစရာအတိုကောက်"</string>
+  
+  <string name="user_dict_settings_edit_dialog_title">"စာလုံးကို ပြင်ဆင်မည်"</string>
+  
+  <string name="user_dict_settings_context_menu_edit_title">"တည်းဖြတ်ရန်"</string>
+  
+  <string name="user_dict_settings_context_menu_delete_title">"ဖျက်ရန်"</string>
+  
+  <string name="user_dict_settings_empty_text">"အသုံးပြုသူ အဘိဓာန်တွင် မည်သည့်စကားလုံးမျှ မရှိပါ။ စကားလုံးကိုပေါင်းထည့်ရန် (+) ခလုတ် ကိုတို့ပါ။"</string>
+  
+  <string name="user_dict_settings_all_languages">"ဘာသာစကားအားလုံးအတွက်"</string>
+  
+  <string name="user_dict_settings_more_languages">"ဘာသာစကားပိုများများ…"</string>
+  
+  <string name="user_dict_settings_delete">"ဖျက်ရန်"</string>
+  
+  <string name="user_dict_fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+</resources>

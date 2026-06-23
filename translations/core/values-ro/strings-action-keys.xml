@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">"Start"</string>
+  
+  <string name="label_next_key">"Înai."</string>
+  
+  <string name="label_previous_key">"Înap."</string>
+  
+  <string name="label_done_key">"Gata"</string>
+  
+  <string name="label_send_key">"Trim."</string>
+  
+  <string name="label_search_key">"Căutați"</string>
+  
+  <string name="label_pause_key">"Pauză"</string>
+  
+  <string name="label_wait_key">"Așt."</string>
+</resources>

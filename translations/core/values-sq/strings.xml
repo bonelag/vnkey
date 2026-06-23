@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="english_ime_input_options">"Opsionet e hyrjes"</string>
+  
+  <string name="vibrate_on_keypress">"Lësho dridhje kur shtyp tastin"</string>
+  
+  <string name="sound_on_keypress">"Lësho tingull kur shtyp tastin"</string>
+  
+  <string name="popup_on_keypress">"Zmadhim germe kur shtyp"</string>
+  
+  <string name="show_language_switch_key">"Tasti i ndryshimit të gjuhës"</string>
+  
+  <string name="abbreviation_unit_milliseconds">&lt;string name="abbreviation_unit_milliseconds" msgid="3255301845626146979"&gt;&amp;quot;&lt;xliff:g id="MILLISECONDS"&gt;%s&lt;/xliff:g&gt; milisek.&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="use_personalized_dicts">"Sugjerime të personalizuara"</string>
+  
+  <string name="use_double_space_period">"Pikë me hapësirë të dyfishtë"</string>
+  
+  <string name="use_double_space_period_summary">"Trokitja dy herë në tastin e hapësirës vendos një pikë të pasuar nga një hapësirë"</string>
+  
+  <string name="auto_cap">"Kapitalizim automatik"</string>
+  
+  <string name="auto_cap_summary">"Kapitalizo fjalën e parë të çdo fjalie"</string>
+  
+  <string name="edit_personal_dictionary">"Fjalor personal"</string>
+  
+  <string name="prefs_show_suggestions">"Shfaq sugjerimet e korrigjimit"</string>
+  
+  <string name="prefs_show_suggestions_summary">"Shfaq fjalë sugjeruese kur shkruan"</string>
+  
+  <string name="prefs_block_potentially_offensive_title">"Blloko fjalë ofenduese"</string>
+  
+  <string name="prefs_block_potentially_offensive_summary">"Mos sugjero fjalë që mund të jetë ofenduese"</string>
+  
+  <string name="auto_correction">"Auto-korrigjim"</string>
+  
+  <string name="auto_correction_summary">"Hapësira ose pikësimi korrigjojnë automatikisht fjalët e gabuara"</string>
+  
+  <string name="bigram_prediction">"Sugjerimet për fjalën e radhës"</string>
+  
+  <string name="bigram_prediction_summary">"Përdor fjalën e mëparshme për të ofruar sugjerime"</string>
+  
+  <string name="language_selection_title">"Gjuhët"</string>
+  
+  <string name="select_language">"Gjuhët"</string>
+  
+  <string name="subtype_en_GB">"anglisht (MB)"</string>
+  
+  <string name="subtype_en_US">"anglisht (SHBA)"</string>
+  
+  <string name="subtype_es_US">"spanjisht (SHBA)"</string>
+  
+  <string name="subtype_hi_ZZ">"hinglisht"</string>
+  
+  <string name="subtype_sr_ZZ">"serbisht (latin)"</string>
+  
+  <string name="subtype_with_layout_en_GB">&lt;string name="subtype_with_layout_en_GB" msgid="4220344684463778660"&gt;&amp;quot;anglisht (MB) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_en_US">&lt;string name="subtype_with_layout_en_US" msgid="4599421650961912769"&gt;&amp;quot;anglisht (SHBA) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_es_US">&lt;string name="subtype_with_layout_es_US" msgid="6866331205974243592"&gt;&amp;quot;spanjisht (SHBA) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_hi_ZZ">&lt;string name="subtype_with_layout_hi_ZZ" msgid="5439623653083985558"&gt;&amp;quot;hinglisht (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_sr_ZZ">&lt;string name="subtype_with_layout_sr_ZZ" msgid="546465971819327060"&gt;&amp;quot;serbisht (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_traditional">&lt;string name="subtype_generic_traditional" msgid="5321023815277210849"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (tradicionale)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_compact">&lt;string name="subtype_generic_compact" msgid="2858514299576793292"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (kompakte)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_no_language">"nuk ka gjuhë (alfabeti)"</string>
+  
+  <string name="subtype_no_language_qwerty">"alfabeti (QWERTY)"</string>
+  
+  <string name="subtype_no_language_qwertz">"alfabeti (QWERTZ)"</string>
+  
+  <string name="subtype_no_language_azerty">"alfabeti (AZERTY)"</string>
+  
+  <string name="subtype_no_language_dvorak">"alfabeti (dvorak)"</string>
+  
+  <string name="subtype_no_language_colemak">"alfabeti (Colemak)"</string>
+  
+  <string name="subtype_no_language_pcqwerty">"alfabeti (PC)"</string>
+  
+  <string name="subtype_emoji">"\"Emoji\""</string>
+  
+  <string name="cancel">"Anulo"</string>
+  
+  <string name="go_to_settings">"Cilësimet"</string>
+  
+  <string name="install_dict">"Instalo"</string>
+  
+  <string name="cancel_download_dict">"Anulo"</string>
+  
+  <string name="user_dict_settings_add_menu_title">"Shto"</string>
+  
+  <string name="user_dict_settings_add_dialog_title">"Shto në fjalor"</string>
+  
+  <string name="user_dict_settings_add_screen_title">"Frazë"</string>
+  
+  <string name="user_dict_settings_add_dialog_more_options">"Më shumë opsione"</string>
+  
+  <string name="user_dict_settings_add_dialog_less_options">"Më pak opsione"</string>
+  
+  <string name="user_dict_settings_add_dialog_confirm">"Në rregull!"</string>
+  
+  <string name="user_dict_settings_add_word_option_name">"Fjala:"</string>
+  
+  <string name="user_dict_settings_add_shortcut_option_name">"Shkurtorja:"</string>
+  
+  <string name="user_dict_settings_add_locale_option_name">"Gjuha:"</string>
+  
+  <string name="user_dict_settings_add_word_hint">"Shkruaj një fjalë"</string>
+  
+  <string name="user_dict_settings_add_shortcut_hint">"Shkurtore opsionale"</string>
+  
+  <string name="user_dict_settings_edit_dialog_title">"Redakto fjalën"</string>
+  
+  <string name="user_dict_settings_context_menu_edit_title">"Redakto"</string>
+  
+  <string name="user_dict_settings_context_menu_delete_title">"Fshi"</string>
+  
+  <string name="user_dict_settings_empty_text">"Nuk ke asnjë fjalë në fjalorin e përdoruesit. Për të shtuar një fjalë, trokit te butoni \"Shto (+)\"."</string>
+  
+  <string name="user_dict_settings_all_languages">"Për të gjitha gjuhët"</string>
+  
+  <string name="user_dict_settings_more_languages">"Gjuhë të tjera…"</string>
+  
+  <string name="user_dict_settings_delete">"Fshi"</string>
+  
+  <string name="user_dict_fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+</resources>

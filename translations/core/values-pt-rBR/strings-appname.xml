@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+  <string name="english_ime_name">Teclado FUTO</string>
+  
+  <string name="spell_checker_service_name">Verificador ortográfico do FUTO</string>
+  
+  <string name="english_ime_settings">Configurações do Teclado FUTO</string>
+  
+  <string name="android_spell_checker_settings">Configurações do verificador ortográfico do FUTO</string>
+</resources>

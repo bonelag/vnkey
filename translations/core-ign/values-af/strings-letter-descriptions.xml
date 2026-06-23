@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"Vroulike rangtelwoordaanwyser"</string>
+  
+  <string name="spoken_accented_letter_00B5">"Mikroteken"</string>
+  
+  <string name="spoken_accented_letter_00BA">"Manlike rangtelwoordaanwyser"</string>
+  
+  <string name="spoken_accented_letter_00DF">"Stemlose S"</string>
+  
+  <string name="spoken_accented_letter_00E0">"A, gravis"</string>
+  
+  <string name="spoken_accented_letter_00E1">"A, akuut"</string>
+  
+  <string name="spoken_accented_letter_00E2">"A, kappie"</string>
+  
+  <string name="spoken_accented_letter_00E3">"A, tilde"</string>
+  
+  <string name="spoken_accented_letter_00E4">"A, deelteken"</string>
+  
+  <string name="spoken_accented_letter_00E5">"A, sirkel bo"</string>
+  
+  <string name="spoken_accented_letter_00E6">"A, E, koppelletter"</string>
+  
+  <string name="spoken_accented_letter_00E7">"C, cédille"</string>
+  
+  <string name="spoken_accented_letter_00E8">"E, gravis"</string>
+  
+  <string name="spoken_accented_letter_00E9">"E, akuut"</string>
+  
+  <string name="spoken_accented_letter_00EA">"E, kappie"</string>
+  
+  <string name="spoken_accented_letter_00EB">"E, deelteken"</string>
+  
+  <string name="spoken_accented_letter_00EC">"I, gravis"</string>
+  
+  <string name="spoken_accented_letter_00ED">"I, akuut"</string>
+  
+  <string name="spoken_accented_letter_00EE">"I, kappie"</string>
+  
+  <string name="spoken_accented_letter_00EF">"I, deelteken"</string>
+  
+  <string name="spoken_accented_letter_00F0">"Eth"</string>
+  
+  <string name="spoken_accented_letter_00F1">"N, tilde"</string>
+  
+  <string name="spoken_accented_letter_00F2">"O, gravis"</string>
+  
+  <string name="spoken_accented_letter_00F3">"O, akuut"</string>
+  
+  <string name="spoken_accented_letter_00F4">"O, kappie"</string>
+  
+  <string name="spoken_accented_letter_00F5">"O, tilde"</string>
+  
+  <string name="spoken_accented_letter_00F6">"O, deelteken"</string>
+  
+  <string name="spoken_accented_letter_00F8">"O, deurhaal"</string>
+  
+  <string name="spoken_accented_letter_00F9">"U, gravis"</string>
+  
+  <string name="spoken_accented_letter_00FA">"U, akuut"</string>
+  
+  <string name="spoken_accented_letter_00FB">"U, kappie"</string>
+  
+  <string name="spoken_accented_letter_00FC">"U, deelteken"</string>
+  
+  <string name="spoken_accented_letter_00FD">"Y, akuut"</string>
+  
+  <string name="spoken_accented_letter_00FE">"Thorn"</string>
+  
+  <string name="spoken_accented_letter_00FF">"Y, deelteken"</string>
+  
+  <string name="spoken_accented_letter_0101">"A, makron"</string>
+  
+  <string name="spoken_accented_letter_0103">"A, brevis"</string>
+  
+  <string name="spoken_accented_letter_0105">"A, ogonek"</string>
+  
+  <string name="spoken_accented_letter_0107">"C, akuut"</string>
+  
+  <string name="spoken_accented_letter_0109">"C, kappie"</string>
+  
+  <string name="spoken_accented_letter_010B">"C, kol bo"</string>
+  
+  <string name="spoken_accented_letter_010D">"C, onderstebo kappie"</string>
+  
+  <string name="spoken_accented_letter_010F">"D, onderstebo kappie"</string>
+  
+  <string name="spoken_accented_letter_0111">"D, deurhaal"</string>
+  
+  <string name="spoken_accented_letter_0113">"E, makron"</string>
+  
+  <string name="spoken_accented_letter_0115">"E, brevis"</string>
+  
+  <string name="spoken_accented_letter_0117">"E, kol bo"</string>
+  
+  <string name="spoken_accented_letter_0119">"E, ogonek"</string>
+  
+  <string name="spoken_accented_letter_011B">"E, onderstebo kappie"</string>
+  
+  <string name="spoken_accented_letter_011D">"G, kappie"</string>
+  
+  <string name="spoken_accented_letter_011F">"G, brevis"</string>
+  
+  <string name="spoken_accented_letter_0121">"G, kol bo"</string>
+  
+  <string name="spoken_accented_letter_0123">"G, cédille"</string>
+  
+  <string name="spoken_accented_letter_0125">"H, kappie"</string>
+  
+  <string name="spoken_accented_letter_0127">"H, deurhaal"</string>
+  
+  <string name="spoken_accented_letter_0129">"I, tilde"</string>
+  
+  <string name="spoken_accented_letter_012B">"I, makron"</string>
+  
+  <string name="spoken_accented_letter_012D">"I, brevis"</string>
+  
+  <string name="spoken_accented_letter_012F">"I, ogonek"</string>
+  
+  <string name="spoken_accented_letter_0131">"Kollose I"</string>
+  
+  <string name="spoken_accented_letter_0133">"I, J, koppelletter"</string>
+  
+  <string name="spoken_accented_letter_0135">"J, kappie"</string>
+  
+  <string name="spoken_accented_letter_0137">"K, cédille"</string>
+  
+  <string name="spoken_accented_letter_0138">"Kra"</string>
+  
+  <string name="spoken_accented_letter_013A">"L, akuut"</string>
+  
+  <string name="spoken_accented_letter_013C">"L, cédille"</string>
+  
+  <string name="spoken_accented_letter_013E">"L, onderstebo kappie"</string>
+  
+  <string name="spoken_accented_letter_0140">"L, middelkol"</string>
+  
+  <string name="spoken_accented_letter_0142">"L, deurhaal"</string>
+  
+  <string name="spoken_accented_letter_0144">"N, akuut"</string>
+  
+  <string name="spoken_accented_letter_0146">"N, cédille"</string>
+  
+  <string name="spoken_accented_letter_0148">"N, onderstebo kappie"</string>
+  
+  <string name="spoken_accented_letter_0149">"N, voorafgegaan deur apostroof"</string>
+  
+  <string name="spoken_accented_letter_014B">"Eng"</string>
+  
+  <string name="spoken_accented_letter_014D">"O, makron"</string>
+  
+  <string name="spoken_accented_letter_014F">"O, brevis"</string>
+  
+  <string name="spoken_accented_letter_0151">"O, dubbelakuut"</string>
+  
+  <string name="spoken_accented_letter_0153">"O, E, koppelletter"</string>
+  
+  <string name="spoken_accented_letter_0155">"R, akuut"</string>
+  
+  <string name="spoken_accented_letter_0157">"R, cédille"</string>
+  
+  <string name="spoken_accented_letter_0159">"R, onderstebo kappie"</string>
+  
+  <string name="spoken_accented_letter_015B">"S, akuut"</string>
+  
+  <string name="spoken_accented_letter_015D">"S, kappie"</string>
+  
+  <string name="spoken_accented_letter_015F">"S, cédille"</string>
+  
+  <string name="spoken_accented_letter_0161">"S, onderstebo kappie"</string>
+  
+  <string name="spoken_accented_letter_0163">"T, cédille"</string>
+  
+  <string name="spoken_accented_letter_0165">"T, onderstebo kappie"</string>
+  
+  <string name="spoken_accented_letter_0167">"T, deurhaal"</string>
+  
+  <string name="spoken_accented_letter_0169">"U, tilde"</string>
+  
+  <string name="spoken_accented_letter_016B">"U, makron"</string>
+  
+  <string name="spoken_accented_letter_016D">"U, brevis"</string>
+  
+  <string name="spoken_accented_letter_016F">"U, sirkel bo"</string>
+  
+  <string name="spoken_accented_letter_0171">"U, dubbelakuut"</string>
+  
+  <string name="spoken_accented_letter_0173">"U, ogonek"</string>
+  
+  <string name="spoken_accented_letter_0175">"W, kappie"</string>
+  
+  <string name="spoken_accented_letter_0177">"Y, kappie"</string>
+  
+  <string name="spoken_accented_letter_017A">"Z, akuut"</string>
+  
+  <string name="spoken_accented_letter_017C">"Z, kol bo"</string>
+  
+  <string name="spoken_accented_letter_017E">"Z, onderstebo kappie"</string>
+  
+  <string name="spoken_accented_letter_017F">"Lang S"</string>
+  
+  <string name="spoken_accented_letter_01A1">"O, horing"</string>
+  
+  <string name="spoken_accented_letter_01B0">"U, horing"</string>
+  
+  <string name="spoken_accented_letter_0219">"S, komma onder"</string>
+  
+  <string name="spoken_accented_letter_021B">"T, komma onder"</string>
+  
+  <string name="spoken_accented_letter_0259">"Sjwa"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"A, kol onder"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"A, haak bo"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"A, kappie en akuut"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"A, kappie en gravis"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"A, kappie en haak bo"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"A, kappie en tilde"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"A, kappie en kol onder"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"A, brevis en akuut"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"A, brevis en gravis"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"A, brevis en haak bo"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"A, brevis en tilde"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"A, brevis en kol onder"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"E, kol onder"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"E, haak bo"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"E, tilde"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"E, kappie en akuut"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"E, kappie en gravis"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"E, kappie en haak bo"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"E, kappie en tilde"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"E, kappie en kol onder"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"I, haak bo"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"I, kol onder"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"O, kol onder"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"O, haak bo"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"O, kappie en akuut"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"O, kappie en gravis"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"O, kappie en haak bo"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"O, kappie en tilde"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"O, kappie en kol onder"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"O, horing en akuut"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"O, horing en gravis"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"O, horing en haak bo"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"O, horing en tilde"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"O, horing en kol onder"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"U, kol onder"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"U, haak bo"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"U, horing en akuut"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"U, horing en gravis"</string>
+  
+  <string name="spoken_accented_letter_1EED">"U, horing en haak bo"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"U, horing en tilde"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"U, horing en kol onder"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"Y, gravis"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"Y, kol onder"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"Y, haak bo"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"Y, tilde"</string>
+  
+  <string name="spoken_symbol_00A1">"Onderstebo uitroepteken"</string>
+  
+  <string name="spoken_symbol_00AB">"Dubbele hoekaanhalingsteken na links"</string>
+  
+  <string name="spoken_symbol_00B7">"Middelkol"</string>
+  
+  <string name="spoken_symbol_00B9">"Boskrif-een"</string>
+  
+  <string name="spoken_symbol_00BB">"Dubbele hoekaanhalingsteken na regs"</string>
+  
+  <string name="spoken_symbol_00BF">"Onderstebo vraagteken"</string>
+  
+  <string name="spoken_symbol_2018">"Enkele linkeraanhalingsteken"</string>
+  
+  <string name="spoken_symbol_2019">"Enkele regteraanhalingsteken"</string>
+  
+  <string name="spoken_symbol_201A">"Enkele lae-9-aanhalingsteken"</string>
+  
+  <string name="spoken_symbol_201C">"Dubbele linkeraanhalingsteken"</string>
+  
+  <string name="spoken_symbol_201D">"Dubbele regteraanhalingsteken"</string>
+  
+  <string name="spoken_symbol_2020">"Kruisie"</string>
+  
+  <string name="spoken_symbol_2021">"Dubbelkruisie"</string>
+  
+  <string name="spoken_symbol_2030">"Per-duisend-teken"</string>
+  
+  <string name="spoken_symbol_2032">"Aksent"</string>
+  
+  <string name="spoken_symbol_2033">"Dubbelaksent"</string>
+  
+  <string name="spoken_symbol_2039">"Enkele hoekaanhalingsteken na links"</string>
+  
+  <string name="spoken_symbol_203A">"Enkele hoekaanhalingsteken na regs"</string>
+  
+  <string name="spoken_symbol_2074">"Boskrif-vier"</string>
+  
+  <string name="spoken_symbol_207F">"Klein Latynse boskrif-letter-n"</string>
+  
+  <string name="spoken_symbol_20B1">"Peso-teken"</string>
+  
+  <string name="spoken_symbol_2105">"Per adres"</string>
+  
+  <string name="spoken_symbol_2192">"Pyl na regs"</string>
+  
+  <string name="spoken_symbol_2193">"Pyl na onder"</string>
+  
+  <string name="spoken_symbol_2205">"Leë versameling"</string>
+  
+  <string name="spoken_symbol_2206">"Vermeerdering"</string>
+  
+  <string name="spoken_symbol_2264">"Minder as of gelyk aan"</string>
+  
+  <string name="spoken_symbol_2265">"Meer as of gelyk aan"</string>
+  
+  <string name="spoken_symbol_2605">"Swart ster"</string>
+</resources>

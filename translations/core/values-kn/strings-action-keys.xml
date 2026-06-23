@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">"ಹೋಗು"</string>
+  
+  <string name="label_next_key">"ಮುಂದೆ"</string>
+  
+  <string name="label_previous_key">"ಹಿಂದೆ"</string>
+  
+  <string name="label_done_key">"ಮುಗಿದಿದೆ"</string>
+  
+  <string name="label_send_key">"ಕಳುಹಿಸು"</string>
+  
+  <string name="label_search_key">"ಹುಡುಕಾಟ"</string>
+  
+  <string name="label_pause_key">"ವಿರಾಮಗೊಳಿಸು"</string>
+  
+  <string name="label_wait_key">"ನಿರೀಕ್ಷಿಸು"</string>
+</resources>

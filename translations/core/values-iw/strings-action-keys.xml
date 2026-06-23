@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">"התחל"</string>
+  
+  <string name="label_next_key">"הבא"</string>
+  
+  <string name="label_previous_key">"הקודם"</string>
+  
+  <string name="label_done_key">"בוצע"</string>
+  
+  <string name="label_send_key">"שלח"</string>
+  
+  <string name="label_search_key">"חיפוש"</string>
+  
+  <string name="label_pause_key">"השהה"</string>
+  
+  <string name="label_wait_key">"המתן"</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    
+    <string name="english_ime_debug_settings">Android Keyboard Debug settings</string>
+    <string name="prefs_debug_mode">Debug Mode</string>
+    <string name="prefs_force_non_distinct_multitouch">Force non-distinct multitouch</string>
+    <string name="prefs_should_show_lxx_suggestion_ui">Show LXX suggestion UI</string>
+    
+    <string name="sliding_key_input_preview">Show slide indicator</string>
+    
+    <string name="sliding_key_input_preview_summary">Display visual cue while sliding from Shift or Symbol keys</string>
+    
+    <string name="prefs_customize_key_preview_animation">Customize key preview animation</string>
+    
+    <string name="prefs_key_popup_show_up_duration_settings">Key popup show up duration</string>
+    
+    <string name="prefs_key_popup_dismiss_duration_settings">Key popup dismiss duration</string>
+    
+    <string name="prefs_key_popup_show_up_start_x_scale_settings">Key popup show up start X scale</string>
+    
+    <string name="prefs_key_popup_show_up_start_y_scale_settings">Key popup show up start Y scale</string>
+    
+    <string name="prefs_key_popup_dismiss_end_x_scale_settings">Key popup dismiss end X scale</string>
+    
+    <string name="prefs_key_popup_dismiss_end_y_scale_settings">Key popup dismiss end Y scale</string>
+    
+    <string name="prefs_resize_keyboard">Enable keyboard resizing</string>
+    
+    <string name="prefs_keyboard_height_scale">Keyboard height scale</string>
+    
+    <string name="prefs_dump_dynamic_dicts">Dump dictionary</string>
+</resources>

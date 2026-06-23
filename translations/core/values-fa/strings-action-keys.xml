@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">"رفتن"</string>
+  
+  <string name="label_next_key">"بعدی"</string>
+  
+  <string name="label_previous_key">"قبلی"</string>
+  
+  <string name="label_done_key">"اتمام"</string>
+  
+  <string name="label_send_key">"ارسال"</string>
+  
+  <string name="label_search_key">"جستجو"</string>
+  
+  <string name="label_pause_key">"مکث"</string>
+  
+  <string name="label_wait_key">"انتظار"</string>
+</resources>

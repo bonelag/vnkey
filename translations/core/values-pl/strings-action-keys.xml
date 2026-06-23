@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">"OK"</string>
+  
+  <string name="label_next_key">"Dalej"</string>
+  
+  <string name="label_previous_key">"Wróć"</string>
+  
+  <string name="label_done_key">"Gotowe"</string>
+  
+  <string name="label_send_key">"Wyślij"</string>
+  
+  <string name="label_search_key">"Szukaj"</string>
+  
+  <string name="label_pause_key">"Pauza"</string>
+  
+  <string name="label_wait_key">"Czekaj"</string>
+</resources>

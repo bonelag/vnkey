@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">"Sākt"</string>
+  
+  <string name="label_next_key">"Tālāk"</string>
+  
+  <string name="label_previous_key">"Iepr."</string>
+  
+  <string name="label_done_key">"Gatavs"</string>
+  
+  <string name="label_send_key">"Sūtīt"</string>
+  
+  <string name="label_search_key">"Meklēt"</string>
+  
+  <string name="label_pause_key">"Pauze"</string>
+  
+  <string name="label_wait_key">"Gaidīt"</string>
+</resources>

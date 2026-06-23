@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">"이동"</string>
+  
+  <string name="label_next_key">"다음"</string>
+  
+  <string name="label_previous_key">"이전"</string>
+  
+  <string name="label_done_key">"완료"</string>
+  
+  <string name="label_send_key">"전송"</string>
+  
+  <string name="label_search_key">"검색"</string>
+  
+  <string name="label_pause_key">"중지"</string>
+  
+  <string name="label_wait_key">"대기"</string>
+</resources>

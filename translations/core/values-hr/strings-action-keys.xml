@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">Kreni</string>
+  
+  <string name="label_next_key">Dalje</string>
+  
+  <string name="label_previous_key">Pret.</string>
+  
+  <string name="label_done_key">Got.</string>
+  
+  <string name="label_send_key">Poš.</string>
+  
+  <string name="label_search_key">Traži</string>
+  
+  <string name="label_pause_key">Pauz.</string>
+  
+  <string name="label_wait_key">Čekaj</string>
+</resources>

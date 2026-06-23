@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"Женский порядковый индикатор."</string>
+  
+  <string name="spoken_accented_letter_00B5">"Знак микро."</string>
+  
+  <string name="spoken_accented_letter_00BA">"Мужской порядковый индикатор."</string>
+  
+  <string name="spoken_accented_letter_00DF">"Эсцет."</string>
+  
+  <string name="spoken_accented_letter_00E0">"Латинская A с грависом."</string>
+  
+  <string name="spoken_accented_letter_00E1">"Латинская A с акутом."</string>
+  
+  <string name="spoken_accented_letter_00E2">"Латинская A с циркумфлексом."</string>
+  
+  <string name="spoken_accented_letter_00E3">"Латинская A с тильдой."</string>
+  
+  <string name="spoken_accented_letter_00E4">"Латинская A с умляутом."</string>
+  
+  <string name="spoken_accented_letter_00E5">"Латинская A с кружком сверху."</string>
+  
+  <string name="spoken_accented_letter_00E6">"Лигатура из латинских A и E."</string>
+  
+  <string name="spoken_accented_letter_00E7">"Латинская C с седилью."</string>
+  
+  <string name="spoken_accented_letter_00E8">"Латинская E с грависом."</string>
+  
+  <string name="spoken_accented_letter_00E9">"Латинская E с акутом."</string>
+  
+  <string name="spoken_accented_letter_00EA">"Латинская E с циркумфлексом."</string>
+  
+  <string name="spoken_accented_letter_00EB">"Латинская E с умляутом."</string>
+  
+  <string name="spoken_accented_letter_00EC">"Латинская I с грависом."</string>
+  
+  <string name="spoken_accented_letter_00ED">"Латинская I с акутом."</string>
+  
+  <string name="spoken_accented_letter_00EE">"Латинская I с циркумфлексом."</string>
+  
+  <string name="spoken_accented_letter_00EF">"Латинская I с умляутом."</string>
+  
+  <string name="spoken_accented_letter_00F0">"Eth."</string>
+  
+  <string name="spoken_accented_letter_00F1">"Латинская N с тильдой."</string>
+  
+  <string name="spoken_accented_letter_00F2">"Латинская O с грависом."</string>
+  
+  <string name="spoken_accented_letter_00F3">"Латинская O с акутом."</string>
+  
+  <string name="spoken_accented_letter_00F4">"Латинская O с циркумфлексом."</string>
+  
+  <string name="spoken_accented_letter_00F5">"Латинская O с тильдой."</string>
+  
+  <string name="spoken_accented_letter_00F6">"Латинская O с умляутом."</string>
+  
+  <string name="spoken_accented_letter_00F8">"Латинская O, диагонально перечеркнутая."</string>
+  
+  <string name="spoken_accented_letter_00F9">"Латинская U с грависом."</string>
+  
+  <string name="spoken_accented_letter_00FA">"Латинская U с акутом."</string>
+  
+  <string name="spoken_accented_letter_00FB">"Латинская U с циркумфлексом."</string>
+  
+  <string name="spoken_accented_letter_00FC">"Латинская U с умляутом."</string>
+  
+  <string name="spoken_accented_letter_00FD">"Латинская Y с акутом."</string>
+  
+  <string name="spoken_accented_letter_00FE">"Торн."</string>
+  
+  <string name="spoken_accented_letter_00FF">"Латинская Y с умляутом."</string>
+  
+  <string name="spoken_accented_letter_0101">"Латинская A с макроном."</string>
+  
+  <string name="spoken_accented_letter_0103">"Латинская A с бревисом."</string>
+  
+  <string name="spoken_accented_letter_0105">"Латинская A с огонэком."</string>
+  
+  <string name="spoken_accented_letter_0107">"Латинская C с акутом."</string>
+  
+  <string name="spoken_accented_letter_0109">"Латинская C с циркумфлексом."</string>
+  
+  <string name="spoken_accented_letter_010B">"Латинская C с точкой сверху."</string>
+  
+  <string name="spoken_accented_letter_010D">"Латинская C с гачеком."</string>
+  
+  <string name="spoken_accented_letter_010F">"Латинская D с гачеком."</string>
+  
+  <string name="spoken_accented_letter_0111">"Латинская D с чертой."</string>
+  
+  <string name="spoken_accented_letter_0113">"Латинская E с макроном."</string>
+  
+  <string name="spoken_accented_letter_0115">"Латинская E с бревисом."</string>
+  
+  <string name="spoken_accented_letter_0117">"Латинская E с точкой сверху."</string>
+  
+  <string name="spoken_accented_letter_0119">"Латинская E с огонэком."</string>
+  
+  <string name="spoken_accented_letter_011B">"Латинская E с гачеком."</string>
+  
+  <string name="spoken_accented_letter_011D">"Латинская G с циркумфлексом."</string>
+  
+  <string name="spoken_accented_letter_011F">"Латинская G с бревисом."</string>
+  
+  <string name="spoken_accented_letter_0121">"Латинская G с точкой сверху."</string>
+  
+  <string name="spoken_accented_letter_0123">"Латинская G с седилью."</string>
+  
+  <string name="spoken_accented_letter_0125">"Латинская H с циркумфлексом."</string>
+  
+  <string name="spoken_accented_letter_0127">"Латинская H с чертой."</string>
+  
+  <string name="spoken_accented_letter_0129">"Латинская I с тильдой."</string>
+  
+  <string name="spoken_accented_letter_012B">"Латинская I с макроном."</string>
+  
+  <string name="spoken_accented_letter_012D">"Латинская I с бревисом."</string>
+  
+  <string name="spoken_accented_letter_012F">"Латинская I с огонэком."</string>
+  
+  <string name="spoken_accented_letter_0131">"Латинская I без точки."</string>
+  
+  <string name="spoken_accented_letter_0133">"Лигатура из латинских I и J."</string>
+  
+  <string name="spoken_accented_letter_0135">"Латинская J с циркумфлексом."</string>
+  
+  <string name="spoken_accented_letter_0137">"Латинская K с седилью."</string>
+  
+  <string name="spoken_accented_letter_0138">"Кра"</string>
+  
+  <string name="spoken_accented_letter_013A">"Латинская L с акутом."</string>
+  
+  <string name="spoken_accented_letter_013C">"Латинская L с седилью."</string>
+  
+  <string name="spoken_accented_letter_013E">"Латинская L с гачеком."</string>
+  
+  <string name="spoken_accented_letter_0140">"Латинская L с точкой сбоку."</string>
+  
+  <string name="spoken_accented_letter_0142">"Латинская L с чертой."</string>
+  
+  <string name="spoken_accented_letter_0144">"Латинская N с акутом."</string>
+  
+  <string name="spoken_accented_letter_0146">"Латинская N с седилью."</string>
+  
+  <string name="spoken_accented_letter_0148">"Латинская N с гачеком."</string>
+  
+  <string name="spoken_accented_letter_0149">"Латинская N с апострофом слева."</string>
+  
+  <string name="spoken_accented_letter_014B">"Энг"</string>
+  
+  <string name="spoken_accented_letter_014D">"Латинская O с макроном."</string>
+  
+  <string name="spoken_accented_letter_014F">"Латинская O с бревисом."</string>
+  
+  <string name="spoken_accented_letter_0151">"Латинская O с двойным акутом."</string>
+  
+  <string name="spoken_accented_letter_0153">"Лигатура из латинских O и E"</string>
+  
+  <string name="spoken_accented_letter_0155">"Латинская R с акутом"</string>
+  
+  <string name="spoken_accented_letter_0157">"Латинская R с седилью."</string>
+  
+  <string name="spoken_accented_letter_0159">"Латинская R с гачеком."</string>
+  
+  <string name="spoken_accented_letter_015B">"Латинская S с акутом."</string>
+  
+  <string name="spoken_accented_letter_015D">"Латинская S с циркумфлексом."</string>
+  
+  <string name="spoken_accented_letter_015F">"Латинская S с седилью."</string>
+  
+  <string name="spoken_accented_letter_0161">"Латинская S с гачеком."</string>
+  
+  <string name="spoken_accented_letter_0163">"Латинская T с седилью."</string>
+  
+  <string name="spoken_accented_letter_0165">"Латинская T с гачеком."</string>
+  
+  <string name="spoken_accented_letter_0167">"Латинская T с чертой."</string>
+  
+  <string name="spoken_accented_letter_0169">"Латинская U с тильдой."</string>
+  
+  <string name="spoken_accented_letter_016B">"Латинская U с макроном."</string>
+  
+  <string name="spoken_accented_letter_016D">"Латинская U с бревисом."</string>
+  
+  <string name="spoken_accented_letter_016F">"Латинская U с кружком сверху."</string>
+  
+  <string name="spoken_accented_letter_0171">"Латинская U с двойным акутом."</string>
+  
+  <string name="spoken_accented_letter_0173">"Латинская U с огонэком."</string>
+  
+  <string name="spoken_accented_letter_0175">"Латинская W с циркумфлексом."</string>
+  
+  <string name="spoken_accented_letter_0177">"Латинская Y с циркумфлексом."</string>
+  
+  <string name="spoken_accented_letter_017A">"Латинская Z с акутом."</string>
+  
+  <string name="spoken_accented_letter_017C">"Латинская Z с точкой сверху."</string>
+  
+  <string name="spoken_accented_letter_017E">"Латинская Z с гачеком."</string>
+  
+  <string name="spoken_accented_letter_017F">"Латинская S длинная."</string>
+  
+  <string name="spoken_accented_letter_01A1">"Латинская O с крючком."</string>
+  
+  <string name="spoken_accented_letter_01B0">"Латинская U с крючком."</string>
+  
+  <string name="spoken_accented_letter_0219">"Латинская S с запятой снизу."</string>
+  
+  <string name="spoken_accented_letter_021B">"Латинская T с запятой снизу."</string>
+  
+  <string name="spoken_accented_letter_0259">"Шва."</string>
+  
+  <string name="spoken_accented_letter_1EA1">"Латинская A с точкой снизу."</string>
+  
+  <string name="spoken_accented_letter_1EA3">"Латинская A с крючком сверху."</string>
+  
+  <string name="spoken_accented_letter_1EA5">"Латинская A с циркумфлексом и акутом."</string>
+  
+  <string name="spoken_accented_letter_1EA7">"Латинская A с циркумфлексом и грависом."</string>
+  
+  <string name="spoken_accented_letter_1EA9">"Латинская A с крючком сверху и циркумфлексом."</string>
+  
+  <string name="spoken_accented_letter_1EAB">"Латинская A с циркумфлексом и тильдой."</string>
+  
+  <string name="spoken_accented_letter_1EAD">"Латинская A с точкой снизу и циркумфлексом."</string>
+  
+  <string name="spoken_accented_letter_1EAF">"Латинская A с бревисом и акутом."</string>
+  
+  <string name="spoken_accented_letter_1EB1">"Латинская A с бревисом и грависом."</string>
+  
+  <string name="spoken_accented_letter_1EB3">"Латинская A с крючком сверху и бревисом."</string>
+  
+  <string name="spoken_accented_letter_1EB5">"Латинская A с бревисом и тильдой."</string>
+  
+  <string name="spoken_accented_letter_1EB7">"Латинская A с точкой снизу и бревисом."</string>
+  
+  <string name="spoken_accented_letter_1EB9">"Латинская E с точкой снизу."</string>
+  
+  <string name="spoken_accented_letter_1EBB">"Латинская E с крючком сверху."</string>
+  
+  <string name="spoken_accented_letter_1EBD">"Латинская E с тильдой."</string>
+  
+  <string name="spoken_accented_letter_1EBF">"Латинская E с циркумфлексом и акутом."</string>
+  
+  <string name="spoken_accented_letter_1EC1">"Латинская E с циркумфлексом и грависом."</string>
+  
+  <string name="spoken_accented_letter_1EC3">"Латинская E с крючком сверху и циркумфлексом."</string>
+  
+  <string name="spoken_accented_letter_1EC5">"Латинская E с циркумфлексом и тильдой."</string>
+  
+  <string name="spoken_accented_letter_1EC7">"Латинская E с точкой снизу и циркумфлексом."</string>
+  
+  <string name="spoken_accented_letter_1EC9">"Латинская I с крючком сверху."</string>
+  
+  <string name="spoken_accented_letter_1ECB">"Латинская I с точкой снизу."</string>
+  
+  <string name="spoken_accented_letter_1ECD">"Латинская O с точкой снизу."</string>
+  
+  <string name="spoken_accented_letter_1ECF">"Латинская O с крючком сверху."</string>
+  
+  <string name="spoken_accented_letter_1ED1">"Латинская O с циркумфлексом и акутом."</string>
+  
+  <string name="spoken_accented_letter_1ED3">"Латинская O с циркумфлексом и грависом."</string>
+  
+  <string name="spoken_accented_letter_1ED5">"Латинская O с крючком сверху и циркумфлексом."</string>
+  
+  <string name="spoken_accented_letter_1ED7">"Латинская O с циркумфлексом и тильдой."</string>
+  
+  <string name="spoken_accented_letter_1ED9">"Латинская O с точкой снизу и циркумфлексом."</string>
+  
+  <string name="spoken_accented_letter_1EDB">"Латинская O с рожком и акутом."</string>
+  
+  <string name="spoken_accented_letter_1EDD">"Латинская O с рожком и грависом."</string>
+  
+  <string name="spoken_accented_letter_1EDF">"Латинская O с крючком сверху и рожком."</string>
+  
+  <string name="spoken_accented_letter_1EE1">"Латинская O с крючком и тильдой."</string>
+  
+  <string name="spoken_accented_letter_1EE3">"Латинская O с точкой снизу и крючком."</string>
+  
+  <string name="spoken_accented_letter_1EE5">"Латинская U с точкой снизу."</string>
+  
+  <string name="spoken_accented_letter_1EE7">"Латинская U с крючком сверху."</string>
+  
+  <string name="spoken_accented_letter_1EE9">"Латинская U с крючком и акутом."</string>
+  
+  <string name="spoken_accented_letter_1EEB">"Латинская U с крючком и грависом."</string>
+  
+  <string name="spoken_accented_letter_1EED">"Латинская U с крючком и крючком сверху."</string>
+  
+  <string name="spoken_accented_letter_1EEF">"Латинская U с крючком и тильдой."</string>
+  
+  <string name="spoken_accented_letter_1EF1">"Латинская U с точкой снизу и крючком."</string>
+  
+  <string name="spoken_accented_letter_1EF3">"Латинская Y с грависом."</string>
+  
+  <string name="spoken_accented_letter_1EF5">"Латинская Y с точкой снизу."</string>
+  
+  <string name="spoken_accented_letter_1EF7">"Латинская Y с крючком сверху."</string>
+  
+  <string name="spoken_accented_letter_1EF9">"Латинская Y с тильдой."</string>
+  
+  <string name="spoken_symbol_00A1">"Перевернутый восклицательный знак."</string>
+  
+  <string name="spoken_symbol_00AB">"Открывающая двойная французская кавычка."</string>
+  
+  <string name="spoken_symbol_00B7">"Интерпункт."</string>
+  
+  <string name="spoken_symbol_00B9">"Единица в надстрочном начертании."</string>
+  
+  <string name="spoken_symbol_00BB">"Закрывающая двойная французская кавычка."</string>
+  
+  <string name="spoken_symbol_00BF">"Перевернутый вопросительный знак."</string>
+  
+  <string name="spoken_symbol_2018">"Открывающая одиночная английская кавычка."</string>
+  
+  <string name="spoken_symbol_2019">"Закрывающая одиночная английская кавычка."</string>
+  
+  <string name="spoken_symbol_201A">"Одиночная нижняя кавычка."</string>
+  
+  <string name="spoken_symbol_201C">"Открывающая двойная английская кавычка."</string>
+  
+  <string name="spoken_symbol_201D">"Закрывающая двойная английская кавычка."</string>
+  
+  <string name="spoken_symbol_2020">"Типографский крестик."</string>
+  
+  <string name="spoken_symbol_2021">"Двойной крестик."</string>
+  
+  <string name="spoken_symbol_2030">"Знак промилле."</string>
+  
+  <string name="spoken_symbol_2032">"Штрих."</string>
+  
+  <string name="spoken_symbol_2033">"Двойной штрих."</string>
+  
+  <string name="spoken_symbol_2039">"Открывающая одиночная угловая кавычка."</string>
+  
+  <string name="spoken_symbol_203A">"Закрывающая одиночная угловая кавычка."</string>
+  
+  <string name="spoken_symbol_2074">"Четверка в надстрочном начертании."</string>
+  
+  <string name="spoken_symbol_207F">"Строчная латинская n в надстрочном начертании."</string>
+  
+  <string name="spoken_symbol_20B1">"Знак песо."</string>
+  
+  <string name="spoken_symbol_2105">"Знак Care of."</string>
+  
+  <string name="spoken_symbol_2192">"Стрелка вправо."</string>
+  
+  <string name="spoken_symbol_2193">"Стрелка вниз."</string>
+  
+  <string name="spoken_symbol_2205">"Знак пустого множества."</string>
+  
+  <string name="spoken_symbol_2206">"Дельта."</string>
+  
+  <string name="spoken_symbol_2264">"Меньше или равно."</string>
+  
+  <string name="spoken_symbol_2265">"Больше или равно."</string>
+  
+  <string name="spoken_symbol_2605">"Черная звезда."</string>
+</resources>

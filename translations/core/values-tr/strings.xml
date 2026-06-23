@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="english_ime_input_options">"Giriş seçenekleri"</string>
+  
+  <string name="vibrate_on_keypress">"Tuşa basıldığında titret"</string>
+  
+  <string name="sound_on_keypress">"Tuşa basıldığında ses çıkar"</string>
+  
+  <string name="popup_on_keypress">"Tuşa basıldığında pop-up aç"</string>
+  
+  <string name="show_language_switch_key">"Dil değiştirme tuşu"</string>
+  
+  <string name="abbreviation_unit_milliseconds">&lt;string name="abbreviation_unit_milliseconds" msgid="3255301845626146979"&gt;&amp;quot;&lt;xliff:g id="MILLISECONDS"&gt;%s&lt;/xliff:g&gt; ms&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="use_personalized_dicts">"Kişisel öneriler"</string>
+  
+  <string name="use_double_space_period">"Çift boşlukla nokta ekle"</string>
+  
+  <string name="use_double_space_period_summary">"Boşluk çubuğuna iki kez dokunmak nokta ve ardından bir boşluk ekler"</string>
+  
+  <string name="auto_cap">"Otomatik büyük harf yap"</string>
+  
+  <string name="auto_cap_summary">"Her cümlenin ilk harfini büyük harf yapar"</string>
+  
+  <string name="edit_personal_dictionary">"Kişisel sözlük"</string>
+  
+  <string name="prefs_show_suggestions">"Düzeltme önerilerini göster"</string>
+  
+  <string name="prefs_show_suggestions_summary">Yazarken önerilen kelimeleri göster</string>
+  
+  <string name="prefs_block_potentially_offensive_title">"Rahatsız edici kelimeleri engelle"</string>
+  
+  <string name="prefs_block_potentially_offensive_summary">"Rahatsız edici olabilecek kelimeleri önermez"</string>
+  
+  <string name="prefs_block_potentially_offensive_tags">kötü sözler, küfürler, küfürlü sözler, kara liste, filtreleme, siktir et, bok</string>
+  
+  <string name="auto_correction">"Otomatik düzelt"</string>
+  
+  <string name="auto_correction_summary">"Boşluk tuşu ve noktalama işaretleri yanlış yazılan kelimeleri otomatikman düzeltir"</string>
+  
+  <string name="bigram_prediction">"Sonraki kelime önerileri"</string>
+  
+  <string name="bigram_prediction_summary">Önceki kelimeyi önerilerde kullan</string>
+  
+  <string name="language_selection_title">"Diller"</string>
+  
+  <string name="select_language">"Diller"</string>
+  
+  <string name="subtype_en_GB">İngilizce (İngiltere)</string>
+  
+  <string name="subtype_en_US">"İngilizce (ABD)"</string>
+  
+  <string name="subtype_es_US">"İspanyolca (ABD)"</string>
+  
+  <string name="subtype_hi_ZZ">"Hingilizce"</string>
+  <string name="subtype_hi__Latn">Hingilizce</string>
+  
+  <string name="subtype_sr_ZZ">"Sırpça (Latin alfabesi)"</string>
+  <string name="subtype_ipa">Uluslararası Fonetik Alfabe</string>
+  
+  <string name="subtype_with_layout_en_GB">&lt;string name="subtype_with_layout_en_GB" msgid="4220344684463778660"&gt;&amp;quot;İngilizce (İngiltere) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_en_US">&lt;string name="subtype_with_layout_en_US" msgid="4599421650961912769"&gt;&amp;quot;İngilizce (ABD) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_es_US">&lt;string name="subtype_with_layout_es_US" msgid="6866331205974243592"&gt;&amp;quot;İspanyolca (ABD) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_hi_ZZ">&lt;string name="subtype_with_layout_hi_ZZ" msgid="5439623653083985558"&gt;&amp;quot;Hingilizce (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_sr_ZZ">&lt;string name="subtype_with_layout_sr_ZZ" msgid="546465971819327060"&gt;&amp;quot;Sırpça (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_traditional">&lt;string name="subtype_generic_traditional" msgid="5321023815277210849"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (Geleneksel)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_compact">&lt;string name="subtype_generic_compact" msgid="2858514299576793292"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (Kompakt)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_no_language">"Dil yok (Alfabe)"</string>
+  
+  <string name="subtype_no_language_qwerty">"Alfabe (QWERTY)"</string>
+  
+  <string name="subtype_no_language_qwertz">"Alfabe (QWERTZ)"</string>
+  
+  <string name="subtype_no_language_azerty">"Alfabe (AZERTY)"</string>
+  
+  <string name="subtype_no_language_dvorak">"Alfabe (Dvorak)"</string>
+  
+  <string name="subtype_no_language_colemak">"Alfabe (Colemak)"</string>
+  
+  <string name="subtype_no_language_pcqwerty">"Alfabe (PC)"</string>
+  
+  <string name="subtype_emoji">"Emoji"</string>
+  
+  <string name="cancel">"İptal"</string>
+  
+  <string name="go_to_settings">"Ayarlar"</string>
+  
+  <string name="install_dict">"Yükle"</string>
+  
+  <string name="cancel_download_dict">"İptal"</string>
+  
+  <string name="user_dict_settings_add_menu_title">"Ekle"</string>
+  
+  <string name="user_dict_settings_add_dialog_title">"Sözlüğe ekle"</string>
+  
+  <string name="user_dict_settings_add_screen_title">İfade</string>
+  
+  <string name="user_dict_settings_add_dialog_more_options">Daha fazla seçenek</string>
+  
+  <string name="user_dict_settings_add_dialog_less_options">"Daha az seçenek"</string>
+  
+  <string name="user_dict_settings_add_dialog_confirm">"Tamam"</string>
+  
+  <string name="user_dict_settings_add_word_option_name">"Kelime:"</string>
+  
+  <string name="user_dict_settings_add_shortcut_option_name">"Kısayol:"</string>
+  
+  <string name="user_dict_settings_add_locale_option_name">"Dil:"</string>
+  
+  <string name="user_dict_settings_add_word_hint">"Bir kelime yazın"</string>
+  
+  <string name="user_dict_settings_add_shortcut_hint">"İsteğe bağlı kısayol"</string>
+  
+  <string name="user_dict_settings_edit_dialog_title">"Kelimeyi düzenle"</string>
+  
+  <string name="user_dict_settings_context_menu_edit_title">"Düzenle"</string>
+  
+  <string name="user_dict_settings_context_menu_delete_title">"Sil"</string>
+  
+  <string name="user_dict_settings_empty_text">"Kullanıcı sözlüğünde kelime yok. Kelime eklemek için Ekle (+) düğmesine dokunun."</string>
+  
+  <string name="user_dict_settings_all_languages">"Tüm diller için"</string>
+  
+  <string name="user_dict_settings_more_languages">Daha fazla dil…</string>
+  
+  <string name="user_dict_settings_delete">"Sil"</string>
+  
+  <string name="user_dict_fast_scroll_alphabet">" ABCÇDEFGĞHIİJKLMNOÖPQRSŞTUÜVWXYZ"</string>
+</resources>

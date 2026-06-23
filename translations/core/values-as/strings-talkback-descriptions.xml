@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="spoken_use_headphones">"পাছৱৰ্ড কীবোৰ উচ্চাৰণ কৰা শুনিবলৈ হেডছেট এটা লগাওক৷"</string>
+  
+  <string name="spoken_current_text_is">"বৰ্তমানৰ পাঠ হৈছে %s"</string>
+  
+  <string name="spoken_no_text_entered">"কোনো পাঠ লিখা হোৱা নাই"</string>
+  
+  <string name="spoken_auto_correct">&lt;string name="spoken_auto_correct" msgid="965889269068888859"&gt;&amp;quot;&lt;xliff:g id="KEY_NAME"&gt;%1$s&lt;/xliff:g&gt;এ &lt;xliff:g id="ORIGINAL_WORD"&gt;%2$s&lt;/xliff:g&gt;ৰ পৰা &lt;xliff:g id="CORRECTED_WORD"&gt;%3$s&lt;/xliff:g&gt;লৈ শুদ্ধ কৰে&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="spoken_auto_correct_obscured">&lt;string name="spoken_auto_correct_obscured" msgid="7511607899335382699"&gt;&amp;quot;&lt;xliff:g id="KEY_NAME"&gt;%1$s&lt;/xliff:g&gt;এ স্বয়ংক্ৰিয়ভাৱে শুদ্ধ কৰে&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="spoken_empty_suggestion">"কোনো পৰামর্শ নাই"</string>
+  
+  <string name="spoken_description_unknown">"অজ্ঞাত বর্ণ"</string>
+  
+  <string name="spoken_description_shift">"শ্বিফ্ট"</string>
+  
+  <string name="spoken_description_symbols_shift">"অধিক চিহ্ন"</string>
+  
+  <string name="spoken_description_shift_shifted">"শ্বিফ্ট"</string>
+  
+  <string name="spoken_description_symbols_shift_shifted">"প্ৰতীকসমূহ"</string>
+  
+  <string name="spoken_description_caps_lock">"শ্বিফ্ট"</string>
+  
+  <string name="spoken_description_delete">"মচক"</string>
+  
+  <string name="spoken_description_to_symbol">"প্ৰতীকসমূ্হ"</string>
+  
+  <string name="spoken_description_to_alpha">"বৰ্ণসমূহ"</string>
+  
+  <string name="spoken_description_to_numeric">"সংখ্যাসমূহ"</string>
+  
+  <string name="spoken_description_settings">"ছেটিংসমূহ"</string>
+  
+  <string name="spoken_description_tab">"টেব"</string>
+  
+  <string name="spoken_description_space">"স্পেচ"</string>
+  
+  <string name="spoken_description_mic">"ধ্বনি ইনপুট"</string>
+  
+  <string name="spoken_description_emoji">"ইম\'জি"</string>
+  
+  <string name="spoken_description_return">"উভতি যাওক"</string>
+  
+  <string name="spoken_description_search">"সন্ধান কৰক"</string>
+  
+  <string name="spoken_description_dot">"বিন্দু"</string>
+  
+  <string name="spoken_description_language_switch">"ভাষা সলনি কৰক"</string>
+  
+  <string name="spoken_description_action_next">"পৰৱৰ্তী"</string>
+  
+  <string name="spoken_description_action_previous">"পূৰ্বৱৰ্তী"</string>
+  
+  <string name="spoken_description_shiftmode_on">"শ্বিফ্ট সক্ষম কৰা হ’ল"</string>
+  
+  <string name="spoken_description_shiftmode_locked">"কেপছ্ লক সক্ষম কৰা হ’ল"</string>
+  
+  <string name="spoken_description_mode_symbol">"চিহ্ন ম\'ড"</string>
+  
+  <string name="spoken_description_mode_symbol_shift">"অধিক প্ৰতীক ম\'ড"</string>
+  
+  <string name="spoken_description_mode_alpha">"বৰ্ণ ম\'ড"</string>
+  
+  <string name="spoken_description_mode_phone">"ফ\'ন ম\'ড"</string>
+  
+  <string name="spoken_description_mode_phone_shift">"ফ\'নৰ চিহ্নৰ ম\'ড"</string>
+  
+  <string name="announce_keyboard_hidden">"কীব\'ৰ্ড লুকুওৱা হ’ল"</string>
+  
+  <string name="announce_keyboard_mode">&lt;string name="announce_keyboard_mode" msgid="5314352981874590170"&gt;&amp;quot;&lt;xliff:g id="KEYBOARD_MODE"&gt;%s&lt;/xliff:g&gt; কীব\'ৰ্ড দেখুওৱা হৈছে&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="keyboard_mode_date">"তাৰিখ"</string>
+  
+  <string name="keyboard_mode_date_time">"তাৰিখ আৰু সময়"</string>
+  
+  <string name="keyboard_mode_email">"ই-মেইল"</string>
+  
+  <string name="keyboard_mode_im">"বাৰ্তা লিখন"</string>
+  
+  <string name="keyboard_mode_number">"সংখ্যা"</string>
+  
+  <string name="keyboard_mode_phone">"ফ’ন"</string>
+  
+  <string name="keyboard_mode_text">"পাঠ"</string>
+  
+  <string name="keyboard_mode_time">"সময়"</string>
+  
+  <string name="keyboard_mode_url">"URL"</string>
+  
+  <string name="spoken_descrption_emoji_category_recents">"শেহতীয়া সমলসমূহ"</string>
+  
+  <string name="spoken_descrption_emoji_category_people">"সম্পৰ্ক ব্যক্তিসকল"</string>
+  
+  <string name="spoken_descrption_emoji_category_objects">"বস্তুসমূহ"</string>
+  
+  <string name="spoken_descrption_emoji_category_nature">"প্ৰকৃতি"</string>
+  
+  <string name="spoken_descrption_emoji_category_places">"ঠাইসমূহ"</string>
+  
+  <string name="spoken_descrption_emoji_category_symbols">"প্ৰতীকসমূহ"</string>
+  
+  <string name="spoken_descrption_emoji_category_emoticons">"ইম\'টিকন"</string>
+  
+  <string name="spoken_description_upper_case">&lt;string name="spoken_description_upper_case" msgid="548189286451849550"&gt;&amp;quot;বৰফলা &lt;xliff:g id="LOWER_LETTER"&gt;%s&lt;/xliff:g&gt;&amp;quot;&lt;/string&gt;</string>
+  <!--
+    Spoken description for Unicode code point U+0049: "I" LATIN CAPITAL LETTER I
+    Note that depending on locale, the lower-case of this letter is U+0069 or U+0131.
+  -->
+  <string name="spoken_letter_0049">"বৰফলা l"</string>
+  <!--
+    Spoken description for Unicode code point U+0130: "İ" LATIN CAPITAL LETTER I WITH DOT ABOVE
+    Note that depending on locale, the lower-case of this letter is U+0069 or U+0131.
+  -->
+  <string name="spoken_letter_0130">"ওপৰত বিন্দুৰ সৈতে লেটিন বৰফলা I"</string>
+  
+  <string name="spoken_symbol_unknown">"অজ্ঞাত চিহ্ন"</string>
+  
+  <string name="spoken_emoji_unknown">"অজ্ঞাত ইম\'জি"</string>
+  
+  <string name="spoken_emoticon_3A_2D_21_20">"আমনি পোৱা ভংগীৰ মুখমণ্ডল"</string>
+  
+  <string name="spoken_emoticon_3A_2D_24_20">"লজ্জিত ভংগীৰ মুখমণ্ডল"</string>
+  
+  <string name="spoken_emoticon_42_2D_29_20">"ছানগ্লাছ পৰিহিত মুখমণ্ডল"</string>
+  
+  <string name="spoken_emoticon_3A_4F_20">"আচৰিত হোৱা ভংগীৰ মুখমণ্ডল"</string>
+  
+  <string name="spoken_emoticon_3A_2D_2A_20">"চুমা খোৱা ভংগীৰ মুখমণ্ডল"</string>
+  
+  <string name="spoken_emoticon_3A_2D_5B_20">"দুখী মুখমণ্ডল"</string>
+  
+  <string name="spoken_open_more_keys_keyboard">"বিকল্প বৰ্ণ আছে"</string>
+  
+  <string name="spoken_close_more_keys_keyboard">"বিকল্প বৰ্ণবোৰ অগ্ৰাহ্য কৰা হৈছে"</string>
+  
+  <string name="spoken_open_more_suggestions">"বিকল্প পৰামর্শ আছে"</string>
+  
+  <string name="spoken_close_more_suggestions">"বিকল্প পৰামর্শবোৰ অগ্ৰাহ্য কৰা হৈছে"</string>
+</resources>

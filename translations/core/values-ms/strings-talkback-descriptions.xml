@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="spoken_use_headphones">"Pasangkan set kepala untuk mendengar kekunci kata laluan disebut dengan kuat."</string>
+  
+  <string name="spoken_current_text_is">"Teks semasa adalah %s"</string>
+  
+  <string name="spoken_no_text_entered">"Tiada teks dimasukkan"</string>
+  
+  <string name="spoken_auto_correct">&lt;string name="spoken_auto_correct" msgid="965889269068888859"&gt;&amp;quot;&lt;xliff:g id="KEY_NAME"&gt;%1$s&lt;/xliff:g&gt; membetulkan &lt;xliff:g id="ORIGINAL_WORD"&gt;%2$s&lt;/xliff:g&gt; menjadi &lt;xliff:g id="CORRECTED_WORD"&gt;%3$s&lt;/xliff:g&gt;&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="spoken_auto_correct_obscured">&lt;string name="spoken_auto_correct_obscured" msgid="7511607899335382699"&gt;&amp;quot;&lt;xliff:g id="KEY_NAME"&gt;%1$s&lt;/xliff:g&gt; melakukan auto pembetulan&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="spoken_empty_suggestion">"Tiada cadangan"</string>
+  
+  <string name="spoken_description_unknown">"Aksara yang tidak diketahui"</string>
+  
+  <string name="spoken_description_shift">"Shift"</string>
+  
+  <string name="spoken_description_symbols_shift">"Lagi simbol"</string>
+  
+  <string name="spoken_description_shift_shifted">"Shift"</string>
+  
+  <string name="spoken_description_symbols_shift_shifted">"Simbol"</string>
+  
+  <string name="spoken_description_caps_lock">"Shift"</string>
+  
+  <string name="spoken_description_delete">"Padam"</string>
+  
+  <string name="spoken_description_to_symbol">"Simbol"</string>
+  
+  <string name="spoken_description_to_alpha">"Huruf"</string>
+  
+  <string name="spoken_description_to_numeric">"Nombor"</string>
+  
+  <string name="spoken_description_settings">"Tetapan"</string>
+  
+  <string name="spoken_description_tab">"Tab"</string>
+  
+  <string name="spoken_description_space">"{0}&lt;td class=\"shortcuts\"&gt;{/0} Space"</string>
+  
+  <string name="spoken_description_mic">"Input suara"</string>
+  
+  <string name="spoken_description_emoji">"Emoji"</string>
+  
+  <string name="spoken_description_return">"Kembali"</string>
+  
+  <string name="spoken_description_search">"Carian"</string>
+  
+  <string name="spoken_description_dot">"Titik"</string>
+  
+  <string name="spoken_description_language_switch">"Tukar bahasa"</string>
+  
+  <string name="spoken_description_action_next">"Slps"</string>
+  
+  <string name="spoken_description_action_previous">"Sebelumnya"</string>
+  
+  <string name="spoken_description_shiftmode_on">"Kunci anjak didayakan"</string>
+  
+  <string name="spoken_description_shiftmode_locked">"Kunci huruf besar didayakan"</string>
+  
+  <string name="spoken_description_mode_symbol">"Mod simbol"</string>
+  
+  <string name="spoken_description_mode_symbol_shift">"Lagi mod simbol"</string>
+  
+  <string name="spoken_description_mode_alpha">"Mod huruf"</string>
+  
+  <string name="spoken_description_mode_phone">"Mod telefon"</string>
+  
+  <string name="spoken_description_mode_phone_shift">"Mod simbol telefon"</string>
+  
+  <string name="announce_keyboard_hidden">"Papan kekunci tersembunyi"</string>
+  
+  <string name="announce_keyboard_mode">&lt;string name="announce_keyboard_mode" msgid="5314352981874590170"&gt;&amp;quot;Menunjukkan papan kekunci &lt;xliff:g id="KEYBOARD_MODE"&gt;%s&lt;/xliff:g&gt;&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="keyboard_mode_date">"tarikh"</string>
+  
+  <string name="keyboard_mode_date_time">"tarikh dan masa"</string>
+  
+  <string name="keyboard_mode_email">"e-mel"</string>
+  
+  <string name="keyboard_mode_im">"pemesejan"</string>
+  
+  <string name="keyboard_mode_number">"nombor"</string>
+  
+  <string name="keyboard_mode_phone">"telefon"</string>
+  
+  <string name="keyboard_mode_text">"teks"</string>
+  
+  <string name="keyboard_mode_time">"masa"</string>
+  
+  <string name="keyboard_mode_url">"URL"</string>
+  
+  <string name="spoken_descrption_emoji_category_recents">"Terkini"</string>
+  
+  <string name="spoken_descrption_emoji_category_people">"Orang"</string>
+  
+  <string name="spoken_descrption_emoji_category_objects">"Objek"</string>
+  
+  <string name="spoken_descrption_emoji_category_nature">"Alam Semula Jadi"</string>
+  
+  <string name="spoken_descrption_emoji_category_places">"Tempat"</string>
+  
+  <string name="spoken_descrption_emoji_category_symbols">"Simbol"</string>
+  
+  <string name="spoken_descrption_emoji_category_flags">"Bendera"</string>
+  
+  <string name="spoken_descrption_emoji_category_eight_smiley_people">"Smiley &amp; Orang"</string>
+  
+  <string name="spoken_descrption_emoji_category_eight_animals_nature">"Haiwan &amp; Alam Semula Jadi"</string>
+  
+  <string name="spoken_descrption_emoji_category_eight_food_drink">"Makanan &amp; Minuman"</string>
+  
+  <string name="spoken_descrption_emoji_category_eight_travel_places">"Perjalanan &amp; Tempat"</string>
+  
+  <string name="spoken_descrption_emoji_category_eight_activity">"Aktiviti"</string>
+  
+  <string name="spoken_descrption_emoji_category_emoticons">"Emotikon"</string>
+  
+  <string name="spoken_description_upper_case">&lt;string name="spoken_description_upper_case" msgid="548189286451849550"&gt;&amp;quot;Huruf besar &lt;xliff:g id="LOWER_LETTER"&gt;%s&lt;/xliff:g&gt;&amp;quot;&lt;/string&gt;</string>
+  <!--
+    Spoken description for Unicode code point U+0049: "I" LATIN CAPITAL LETTER I
+    Note that depending on locale, the lower-case of this letter is U+0069 or U+0131.
+  -->
+  <string name="spoken_letter_0049">"I huruf besar"</string>
+  <!--
+    Spoken description for Unicode code point U+0130: "İ" LATIN CAPITAL LETTER I WITH DOT ABOVE
+    Note that depending on locale, the lower-case of this letter is U+0069 or U+0131.
+  -->
+  <string name="spoken_letter_0130">"I huruf besar, titik di atas"</string>
+  
+  <string name="spoken_symbol_unknown">"Simbol yang tidak diketahui"</string>
+  
+  <string name="spoken_emoji_unknown">"Emoji yang tidak dikethui"</string>
+  
+  <string name="spoken_emoticon_3A_2D_21_20">"Muka bosan"</string>
+  
+  <string name="spoken_emoticon_3A_2D_24_20">"Muka malu"</string>
+  
+  <string name="spoken_emoticon_42_2D_29_20">"Muka memakai cermin mata hitam"</string>
+  
+  <string name="spoken_emoticon_3A_4F_20">"Muka terkejut"</string>
+  
+  <string name="spoken_emoticon_3A_2D_2A_20">"Muka bercium"</string>
+  
+  <string name="spoken_emoticon_3A_2D_5B_20">"Muka masam"</string>
+  
+  <string name="spoken_open_more_keys_keyboard">"Aksara alternatif adalah tersedia"</string>
+  
+  <string name="spoken_close_more_keys_keyboard">"Aksara alternatif diketepikan"</string>
+  
+  <string name="spoken_open_more_suggestions">"Cadangan alternatif tersedia"</string>
+  
+  <string name="spoken_close_more_suggestions">"Cadangan alternatif diketepikan"</string>
+</resources>

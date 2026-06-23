@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"Feminin ordinal"</string>
+  
+  <string name="spoken_accented_letter_00B5">"Mikrotegn"</string>
+  
+  <string name="spoken_accented_letter_00BA">"Maskulin ordinal"</string>
+  
+  <string name="spoken_accented_letter_00DF">"Dobbelt s"</string>
+  
+  <string name="spoken_accented_letter_00E0">"Lille a med accent grave"</string>
+  
+  <string name="spoken_accented_letter_00E1">"Lille a med accent aigu"</string>
+  
+  <string name="spoken_accented_letter_00E2">"Lille a med cirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_00E3">"Lille a med tilde"</string>
+  
+  <string name="spoken_accented_letter_00E4">"Lille a med omlyd"</string>
+  
+  <string name="spoken_accented_letter_00E5">"Lille å"</string>
+  
+  <string name="spoken_accented_letter_00E6">"Lille æ"</string>
+  
+  <string name="spoken_accented_letter_00E7">"Lille c med cedille"</string>
+  
+  <string name="spoken_accented_letter_00E8">"Lille e med accent grave"</string>
+  
+  <string name="spoken_accented_letter_00E9">"Lille e med accent aigu"</string>
+  
+  <string name="spoken_accented_letter_00EA">"Lille e med cirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_00EB">"Lille e med omlyd"</string>
+  
+  <string name="spoken_accented_letter_00EC">"Lille i med accent grave"</string>
+  
+  <string name="spoken_accented_letter_00ED">"Lille i med accent aigu"</string>
+  
+  <string name="spoken_accented_letter_00EE">"Lille i med cirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_00EF">"Lille i med omlyd"</string>
+  
+  <string name="spoken_accented_letter_00F0">"Lille islandsk eth"</string>
+  
+  <string name="spoken_accented_letter_00F1">"Lille n med tilde"</string>
+  
+  <string name="spoken_accented_letter_00F2">"Lille o med accent grave"</string>
+  
+  <string name="spoken_accented_letter_00F3">"Lille o med accent aigu"</string>
+  
+  <string name="spoken_accented_letter_00F4">"Lille o med cirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_00F5">"Lille o med tilde"</string>
+  
+  <string name="spoken_accented_letter_00F6">"Lille o med omlyd"</string>
+  
+  <string name="spoken_accented_letter_00F8">"Lille ø"</string>
+  
+  <string name="spoken_accented_letter_00F9">"Lille u med accent grave"</string>
+  
+  <string name="spoken_accented_letter_00FA">"Lille u med accent aigu"</string>
+  
+  <string name="spoken_accented_letter_00FB">"Lille u med cirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_00FC">"Lille u med omlyd"</string>
+  
+  <string name="spoken_accented_letter_00FD">"Lille y med accent aigu"</string>
+  
+  <string name="spoken_accented_letter_00FE">"Lille islandsk thorn"</string>
+  
+  <string name="spoken_accented_letter_00FF">"Lille y med omlyd"</string>
+  
+  <string name="spoken_accented_letter_0101">"Lille a med makron"</string>
+  
+  <string name="spoken_accented_letter_0103">"Lille a med breve"</string>
+  
+  <string name="spoken_accented_letter_0105">"Lille a med højrekrog"</string>
+  
+  <string name="spoken_accented_letter_0107">"Lille c med accent aigu"</string>
+  
+  <string name="spoken_accented_letter_0109">"Lille c med cirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_010B">"Lille c med prik over"</string>
+  
+  <string name="spoken_accented_letter_010D">"Lille c med hacek"</string>
+  
+  <string name="spoken_accented_letter_010F">"Lille d med hacek"</string>
+  
+  <string name="spoken_accented_letter_0111">"Lille d med gennemstregning"</string>
+  
+  <string name="spoken_accented_letter_0113">"Lille e med makron"</string>
+  
+  <string name="spoken_accented_letter_0115">"Lille e med breve"</string>
+  
+  <string name="spoken_accented_letter_0117">"Lille e med prik over"</string>
+  
+  <string name="spoken_accented_letter_0119">"Lille e med højrekrog"</string>
+  
+  <string name="spoken_accented_letter_011B">"Lille e med hacek"</string>
+  
+  <string name="spoken_accented_letter_011D">"Lille g med cirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_011F">"Lille g med breve"</string>
+  
+  <string name="spoken_accented_letter_0121">"Lille g med prik over"</string>
+  
+  <string name="spoken_accented_letter_0123">"Lille g med cedille"</string>
+  
+  <string name="spoken_accented_letter_0125">"Lille h med cirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_0127">"Lille h med gennemstregning"</string>
+  
+  <string name="spoken_accented_letter_0129">"Lille i med tilde"</string>
+  
+  <string name="spoken_accented_letter_012B">"Lille i med makron"</string>
+  
+  <string name="spoken_accented_letter_012D">"Lille i med breve"</string>
+  
+  <string name="spoken_accented_letter_012F">"Lille i med højrekrog"</string>
+  
+  <string name="spoken_accented_letter_0131">"Lille i uden prik"</string>
+  
+  <string name="spoken_accented_letter_0133">"Sammenskrevet I og J"</string>
+  
+  <string name="spoken_accented_letter_0135">"Lille j med cirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_0137">"Lille k med cedille"</string>
+  
+  <string name="spoken_accented_letter_0138">"Kra"</string>
+  
+  <string name="spoken_accented_letter_013A">"Lille l med accent aigu"</string>
+  
+  <string name="spoken_accented_letter_013C">"Lille l med cedille"</string>
+  
+  <string name="spoken_accented_letter_013E">"Lille l med hacek"</string>
+  
+  <string name="spoken_accented_letter_0140">"Lille l med prik midt på linjen"</string>
+  
+  <string name="spoken_accented_letter_0142">"Lille l med gennemstregning"</string>
+  
+  <string name="spoken_accented_letter_0144">"Lille n med accent aigu"</string>
+  
+  <string name="spoken_accented_letter_0146">"Lille n med cedille"</string>
+  
+  <string name="spoken_accented_letter_0148">"Lille n med hacek"</string>
+  
+  <string name="spoken_accented_letter_0149">"Lille n med apostrof foran"</string>
+  
+  <string name="spoken_accented_letter_014B">"Eng"</string>
+  
+  <string name="spoken_accented_letter_014D">"Lille o med makron"</string>
+  
+  <string name="spoken_accented_letter_014F">"Lille o med breve"</string>
+  
+  <string name="spoken_accented_letter_0151">"Lille o med dobbelt accent aigu"</string>
+  
+  <string name="spoken_accented_letter_0153">"Sammenskrevet O og E"</string>
+  
+  <string name="spoken_accented_letter_0155">"Lille r med accent aigu"</string>
+  
+  <string name="spoken_accented_letter_0157">"Lille r med cedille"</string>
+  
+  <string name="spoken_accented_letter_0159">"Lille r med hacek"</string>
+  
+  <string name="spoken_accented_letter_015B">"Lille s med accent aigu"</string>
+  
+  <string name="spoken_accented_letter_015D">"Lille s med cirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_015F">"Lille s med cedille"</string>
+  
+  <string name="spoken_accented_letter_0161">"Lille s med hacek"</string>
+  
+  <string name="spoken_accented_letter_0163">"Lille t med cedille"</string>
+  
+  <string name="spoken_accented_letter_0165">"Lille t med hacek"</string>
+  
+  <string name="spoken_accented_letter_0167">"Lille t med gennemstregning"</string>
+  
+  <string name="spoken_accented_letter_0169">"Lille u med tilde"</string>
+  
+  <string name="spoken_accented_letter_016B">"Lille u med makron"</string>
+  
+  <string name="spoken_accented_letter_016D">"Lille u med breve"</string>
+  
+  <string name="spoken_accented_letter_016F">"Lille u med bolle over"</string>
+  
+  <string name="spoken_accented_letter_0171">"Lille u med dobbelt accent aigu"</string>
+  
+  <string name="spoken_accented_letter_0173">"Lille u med højrekrog"</string>
+  
+  <string name="spoken_accented_letter_0175">"Lille w med cirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_0177">"Lille y med cirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_017A">"Lille z med accent aigu"</string>
+  
+  <string name="spoken_accented_letter_017C">"Lille z med prik over"</string>
+  
+  <string name="spoken_accented_letter_017E">"Lille z med hacek"</string>
+  
+  <string name="spoken_accented_letter_017F">"Langt s"</string>
+  
+  <string name="spoken_accented_letter_01A1">"Lille o med krog"</string>
+  
+  <string name="spoken_accented_letter_01B0">"Lille u med krog"</string>
+  
+  <string name="spoken_accented_letter_0219">"Lille s med venstrekrog"</string>
+  
+  <string name="spoken_accented_letter_021B">"Lille t med venstrekrog"</string>
+  
+  <string name="spoken_accented_letter_0259">"Schwa"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"Lille a med prik over"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"Lille a med pseudospørgsmålstegn over"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"Lille a med cirkumfleks og accent aigu"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"Lille a med cirkumfleks og accent grave"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"Lille a med cirkumfleks og pseudospørgsmålstegn over"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"Lille a med cirkumfleks og tilde"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"Lille a med cirkumfleks og prik under"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"Lille a med breve og accent aigu"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"Lille a med breve og accent grave"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"Lille a med breve og pseudospørgsmålstegn over"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"Lille a med breve og tilde"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"Lille a med breve og prik under"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"Lille e med prik under"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"Lille e med pseudospørgsmålstegn over"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"Lille e med tilde"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"Lille e med cirkumfleks og accent aigu"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"Lille e med cirkumfleks og accent grave"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"Lille e med cirkumfleks og pseudospørgsmålstegn over"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"Lille e med cirkumfleks og tilde"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"Lille e med cirkumfleks og prik under"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"Lille i med pseudospørgsmålstegn over"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"Lille i med prik under"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"Lille o med prik under"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"Lille o med pseudospørgsmålstegn over"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"Lille o med cirkumfleks og accent aigu"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"Lille o med cirkumfleks og accent grave"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"Lille o med cirkumfleks og pseudospørgsmålstegn over"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"Lille o med cirkumfleks og tilde"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"Lille o med cirkumfleks og prik under"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"Lille o med krog og accent aigu"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"Lille o med krog og accent grave"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"Lille o med krog og pseudospørgsmålstegn over"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"Lille o med krog og tilde"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"Lille o med krog og prik under"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"Lille u med prik under"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"Lille u med pseudospørgsmålstegn over"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"Lille u med krog og accent aigu"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"Lille u med krog og accent grave"</string>
+  
+  <string name="spoken_accented_letter_1EED">"Lille u med krog og pseudospørgsmålstegn over"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"Lille u med krog og tilde"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"Lille u med krog og prik under"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"Lille y med accent grave"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"Lille y med prik under"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"Lille y med pseudospørgsmålstegn over"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"Lille y med tilde"</string>
+  
+  <string name="spoken_symbol_00A1">"Omvendt udråbstegn"</string>
+  
+  <string name="spoken_symbol_00AB">"Dobbelt venstrevendt vinkelcitationstegn"</string>
+  
+  <string name="spoken_symbol_00B7">"Prik midt på linjen"</string>
+  
+  <string name="spoken_symbol_00B9">"Hævet ettal"</string>
+  
+  <string name="spoken_symbol_00BB">"Dobbelt højrevendt vinkelcitationstegn"</string>
+  
+  <string name="spoken_symbol_00BF">"Omvendt spørgsmålstegn"</string>
+  
+  <string name="spoken_symbol_2018">"Venstre enkelt citationstegn"</string>
+  
+  <string name="spoken_symbol_2019">"Højre enkelt citationstegn"</string>
+  
+  <string name="spoken_symbol_201A">"Enkelt citationstegn med 9-komma nederst"</string>
+  
+  <string name="spoken_symbol_201C">"Venstre dobbelt citationstegn"</string>
+  
+  <string name="spoken_symbol_201D">"Højre dobbelt citationstegn"</string>
+  
+  <string name="spoken_symbol_2020">"Kors"</string>
+  
+  <string name="spoken_symbol_2021">"Dobbelt kors"</string>
+  
+  <string name="spoken_symbol_2030">"Promilletegn"</string>
+  
+  <string name="spoken_symbol_2032">"Primtegn"</string>
+  
+  <string name="spoken_symbol_2033">"Dobbelt primtegn"</string>
+  
+  <string name="spoken_symbol_2039">"Enkelt venstrevendt vinkelcitationstegn"</string>
+  
+  <string name="spoken_symbol_203A">"Enkelt højrevendt vinkelcitationstegn"</string>
+  
+  <string name="spoken_symbol_2074">"Hævet firtal"</string>
+  
+  <string name="spoken_symbol_207F">"Hævet lille n"</string>
+  
+  <string name="spoken_symbol_20B1">"Pesotegn"</string>
+  
+  <string name="spoken_symbol_2105">"C/o"</string>
+  
+  <string name="spoken_symbol_2192">"Højrepil"</string>
+  
+  <string name="spoken_symbol_2193">"Pil ned"</string>
+  
+  <string name="spoken_symbol_2205">"Tom mængde"</string>
+  
+  <string name="spoken_symbol_2206">"Inkrement"</string>
+  
+  <string name="spoken_symbol_2264">"Mindre end eller lig med"</string>
+  
+  <string name="spoken_symbol_2265">"Større end eller lig med"</string>
+  
+  <string name="spoken_symbol_2605">"Sort stjerne"</string>
+</resources>

@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"阴性顺序指示符"</string>
+  
+  <string name="spoken_accented_letter_00B5">"微单位标记"</string>
+  
+  <string name="spoken_accented_letter_00BA">"阳性顺序指示符"</string>
+  
+  <string name="spoken_accented_letter_00DF">"清音S"</string>
+  
+  <string name="spoken_accented_letter_00E0">"带抑音符的拉丁文小写字母a"</string>
+  
+  <string name="spoken_accented_letter_00E1">"带锐音符的拉丁文小写字母a"</string>
+  
+  <string name="spoken_accented_letter_00E2">"带扬抑符的拉丁文小写字母a"</string>
+  
+  <string name="spoken_accented_letter_00E3">"带颚化符的拉丁文小写字母a"</string>
+  
+  <string name="spoken_accented_letter_00E4">"带分音符的拉丁文小写字母a"</string>
+  
+  <string name="spoken_accented_letter_00E5">"带上圆圈的拉丁文小写字母a"</string>
+  
+  <string name="spoken_accented_letter_00E6">"拉丁文小写字母连字ae"</string>
+  
+  <string name="spoken_accented_letter_00E7">"带软音符的拉丁文小写字母c"</string>
+  
+  <string name="spoken_accented_letter_00E8">"带抑音符的拉丁文小写字母e"</string>
+  
+  <string name="spoken_accented_letter_00E9">"带锐音符的拉丁文小写字母e"</string>
+  
+  <string name="spoken_accented_letter_00EA">"带扬抑符的拉丁文小写字母e"</string>
+  
+  <string name="spoken_accented_letter_00EB">"带分音符的拉丁文小写字母e"</string>
+  
+  <string name="spoken_accented_letter_00EC">"带抑音符的拉丁文小写字母i"</string>
+  
+  <string name="spoken_accented_letter_00ED">"带锐音符的拉丁文小写字母i"</string>
+  
+  <string name="spoken_accented_letter_00EE">"带扬抑符的拉丁文小写字母i"</string>
+  
+  <string name="spoken_accented_letter_00EF">"带分音符的拉丁文小写字母i"</string>
+  
+  <string name="spoken_accented_letter_00F0">"拉丁文小写字母eth"</string>
+  
+  <string name="spoken_accented_letter_00F1">"带颚化符的拉丁文小写字母n"</string>
+  
+  <string name="spoken_accented_letter_00F2">"带抑音符的拉丁文小写字母o"</string>
+  
+  <string name="spoken_accented_letter_00F3">"带锐音符的拉丁文小写字母o"</string>
+  
+  <string name="spoken_accented_letter_00F4">"带扬抑符的拉丁文小写字母o"</string>
+  
+  <string name="spoken_accented_letter_00F5">"带颚化符的拉丁文小写字母o"</string>
+  
+  <string name="spoken_accented_letter_00F6">"带分音符的拉丁文小写字母o"</string>
+  
+  <string name="spoken_accented_letter_00F8">"带斜线的拉丁文小写字母o"</string>
+  
+  <string name="spoken_accented_letter_00F9">"带抑音符的拉丁文小写字母u"</string>
+  
+  <string name="spoken_accented_letter_00FA">"带锐音符的拉丁文小写字母u"</string>
+  
+  <string name="spoken_accented_letter_00FB">"带扬抑符的拉丁文小写字母u"</string>
+  
+  <string name="spoken_accented_letter_00FC">"带分音符的拉丁文小写字母u"</string>
+  
+  <string name="spoken_accented_letter_00FD">"带锐音符的拉丁文小写字母y"</string>
+  
+  <string name="spoken_accented_letter_00FE">"拉丁文小写字母thorn"</string>
+  
+  <string name="spoken_accented_letter_00FF">"带分音符的拉丁文小写字母y"</string>
+  
+  <string name="spoken_accented_letter_0101">"带长音符的拉丁文小写字母a"</string>
+  
+  <string name="spoken_accented_letter_0103">"带短音符的拉丁文小写字母a"</string>
+  
+  <string name="spoken_accented_letter_0105">"带反尾形符的拉丁文小写字母a"</string>
+  
+  <string name="spoken_accented_letter_0107">"带锐音符的拉丁文小写字母c"</string>
+  
+  <string name="spoken_accented_letter_0109">"带扬抑符的拉丁文小写字母c"</string>
+  
+  <string name="spoken_accented_letter_010B">"带上点的拉丁文小写字母c"</string>
+  
+  <string name="spoken_accented_letter_010D">"带抑扬符的拉丁文小写字母c"</string>
+  
+  <string name="spoken_accented_letter_010F">"带抑扬符的拉丁文小写字母d"</string>
+  
+  <string name="spoken_accented_letter_0111">"带粗线的拉丁文小写字母d"</string>
+  
+  <string name="spoken_accented_letter_0113">"带长音符的拉丁文小写字母e"</string>
+  
+  <string name="spoken_accented_letter_0115">"带短音符的拉丁文小写字母e"</string>
+  
+  <string name="spoken_accented_letter_0117">"带上点的拉丁文小写字母e"</string>
+  
+  <string name="spoken_accented_letter_0119">"带反尾形符的拉丁文小写字母e"</string>
+  
+  <string name="spoken_accented_letter_011B">"带抑扬符的拉丁文小写字母e"</string>
+  
+  <string name="spoken_accented_letter_011D">"带扬抑符的拉丁文小写字母g"</string>
+  
+  <string name="spoken_accented_letter_011F">"带短音符的拉丁文小写字母g"</string>
+  
+  <string name="spoken_accented_letter_0121">"带上点的拉丁文小写字母g"</string>
+  
+  <string name="spoken_accented_letter_0123">"带软音符的拉丁文小写字母g"</string>
+  
+  <string name="spoken_accented_letter_0125">"带扬抑符的拉丁文小写字母h"</string>
+  
+  <string name="spoken_accented_letter_0127">"带粗线的拉丁文小写字母h"</string>
+  
+  <string name="spoken_accented_letter_0129">"带颚化符的拉丁文小写字母i"</string>
+  
+  <string name="spoken_accented_letter_012B">"带长音符的拉丁文小写字母i"</string>
+  
+  <string name="spoken_accented_letter_012D">"带短音符的拉丁文小写字母i"</string>
+  
+  <string name="spoken_accented_letter_012F">"带反尾形符的拉丁文小写字母i"</string>
+  
+  <string name="spoken_accented_letter_0131">"拉丁文小写字母无点i"</string>
+  
+  <string name="spoken_accented_letter_0133">"拉丁文小写字母连字ij"</string>
+  
+  <string name="spoken_accented_letter_0135">"带扬抑符的拉丁文小写字母j"</string>
+  
+  <string name="spoken_accented_letter_0137">"带软音符的拉丁文小写字母k"</string>
+  
+  <string name="spoken_accented_letter_0138">"拉丁文小写字母kra"</string>
+  
+  <string name="spoken_accented_letter_013A">"带锐音符的拉丁文小写字母l"</string>
+  
+  <string name="spoken_accented_letter_013C">"带软音符的拉丁文小写字母l"</string>
+  
+  <string name="spoken_accented_letter_013E">"带抑扬符的拉丁文小写字母l"</string>
+  
+  <string name="spoken_accented_letter_0140">"带中间点的拉丁文小写字母l"</string>
+  
+  <string name="spoken_accented_letter_0142">"带斜线的拉丁文小写字母l"</string>
+  
+  <string name="spoken_accented_letter_0144">"带锐音符的拉丁文小写字母n"</string>
+  
+  <string name="spoken_accented_letter_0146">"带软音符的拉丁文小写字母n"</string>
+  
+  <string name="spoken_accented_letter_0148">"带抑扬符的拉丁文小写字母n"</string>
+  
+  <string name="spoken_accented_letter_0149">"前带撇号的拉丁文小写字母n"</string>
+  
+  <string name="spoken_accented_letter_014B">"拉丁文小写字母eng"</string>
+  
+  <string name="spoken_accented_letter_014D">"带长音符的拉丁文小写字母o"</string>
+  
+  <string name="spoken_accented_letter_014F">"带短音符的拉丁文小写字母o"</string>
+  
+  <string name="spoken_accented_letter_0151">"带双锐音符的拉丁文小写字母o"</string>
+  
+  <string name="spoken_accented_letter_0153">"拉丁文小写字母连字oe"</string>
+  
+  <string name="spoken_accented_letter_0155">"带锐音符的拉丁文小写字母r"</string>
+  
+  <string name="spoken_accented_letter_0157">"带软音符的拉丁文小写字母r"</string>
+  
+  <string name="spoken_accented_letter_0159">"带抑扬符的拉丁文小写字母r"</string>
+  
+  <string name="spoken_accented_letter_015B">"带锐音符的拉丁文小写字母s"</string>
+  
+  <string name="spoken_accented_letter_015D">"带扬抑符的拉丁文小写字母s"</string>
+  
+  <string name="spoken_accented_letter_015F">"带软音符的拉丁文小写字母s"</string>
+  
+  <string name="spoken_accented_letter_0161">"带抑扬符的拉丁文小写字母s"</string>
+  
+  <string name="spoken_accented_letter_0163">"带软音符的拉丁文小写字母t"</string>
+  
+  <string name="spoken_accented_letter_0165">"带抑扬符的拉丁文小写字母t"</string>
+  
+  <string name="spoken_accented_letter_0167">"带粗线的拉丁文小写字母t"</string>
+  
+  <string name="spoken_accented_letter_0169">"带颚化符的拉丁文小写字母u"</string>
+  
+  <string name="spoken_accented_letter_016B">"带长音符的拉丁文小写字母u"</string>
+  
+  <string name="spoken_accented_letter_016D">"带短音符的拉丁文小写字母u"</string>
+  
+  <string name="spoken_accented_letter_016F">"带上圆圈的拉丁文小写字母u"</string>
+  
+  <string name="spoken_accented_letter_0171">"带双锐音符的拉丁文小写字母u"</string>
+  
+  <string name="spoken_accented_letter_0173">"带反尾形符的拉丁文小写字母u"</string>
+  
+  <string name="spoken_accented_letter_0175">"带扬抑符的拉丁文小写字母w"</string>
+  
+  <string name="spoken_accented_letter_0177">"带扬抑符的拉丁文小写字母y"</string>
+  
+  <string name="spoken_accented_letter_017A">"带锐音符的拉丁文小写字母z"</string>
+  
+  <string name="spoken_accented_letter_017C">"带上点的拉丁文小写字母z"</string>
+  
+  <string name="spoken_accented_letter_017E">"带抑扬符的拉丁文小写字母z"</string>
+  
+  <string name="spoken_accented_letter_017F">"拉丁文小写字母长s"</string>
+  
+  <string name="spoken_accented_letter_01A1">"带触角的拉丁文小写字母o"</string>
+  
+  <string name="spoken_accented_letter_01B0">"带触角的拉丁文小写字母u"</string>
+  
+  <string name="spoken_accented_letter_0219">"带下逗号的拉丁文小写字母s"</string>
+  
+  <string name="spoken_accented_letter_021B">"带下逗号的拉丁文小写字母t"</string>
+  
+  <string name="spoken_accented_letter_0259">"拉丁文小写字母schwa"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"带下点的拉丁文小写字母a"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"带上钩的拉丁文小写字母a"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"带扬抑符和锐音符的拉丁文小写字母a"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"带扬抑符和抑音符的拉丁文小写字母a"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"带扬抑符和上钩的拉丁文小写字母a"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"带扬抑符和颚化符的拉丁文小写字母a"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"带扬抑符和下点的拉丁文小写字母a"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"带短音符和锐音符的拉丁文小写字母a"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"带短音符和抑音符的拉丁文小写字母a"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"带短音符和上钩的拉丁文小写字母a"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"带短音符和颚化符的拉丁文小写字母a"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"带短音符和下点的拉丁文小写字母a"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"带下点的拉丁文小写字母e"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"带上钩的拉丁文小写字母e"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"带颚化符的拉丁文小写字母e"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"带扬抑符和锐音符的拉丁文小写字母e"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"带扬抑符和抑音符的拉丁文小写字母e"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"带扬抑符和上钩的拉丁文小写字母e"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"带扬抑符和颚化符的拉丁文小写字母e"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"带扬抑符和下点的拉丁文小写字母e"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"带上钩的拉丁文小写字母i"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"带下点的拉丁文小写字母i"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"带下点的拉丁文小写字母o"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"带上钩的拉丁文小写字母o"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"带扬抑符和锐音符的拉丁文小写字母o"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"带扬抑符和抑音符的拉丁文小写字母o"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"带扬抑符和上钩的拉丁文小写字母o"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"带扬抑符和颚化符的拉丁文小写字母o"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"带扬抑符和下点的拉丁文小写字母o"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"带触角和锐音符的拉丁文小写字母o"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"带触角和抑音符的拉丁文小写字母o"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"带触角和上钩的拉丁文小写字母o"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"带触角和颚化符的拉丁文小写字母o"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"带触角和下点的拉丁文小写字母o"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"带下点的拉丁文小写字母u"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"带上钩的拉丁文小写字母u"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"带触角和锐音符的拉丁文小写字母u"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"带触角和抑音符的拉丁文小写字母u"</string>
+  
+  <string name="spoken_accented_letter_1EED">"带触角和上钩的拉丁文小写字母u"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"带触角和颚化符的拉丁文小写字母u"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"带触角和下点的拉丁文小写字母u"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"带抑音符的拉丁文小写字母y"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"带下点的拉丁文小写字母y"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"带上钩的拉丁文小写字母y"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"带颚化符的拉丁文小写字母y"</string>
+  
+  <string name="spoken_symbol_00A1">"竖翻叹号"</string>
+  
+  <string name="spoken_symbol_00AB">"左指双尖引号"</string>
+  
+  <string name="spoken_symbol_00B7">"中间点"</string>
+  
+  <string name="spoken_symbol_00B9">"上标1"</string>
+  
+  <string name="spoken_symbol_00BB">"右指双尖引号"</string>
+  
+  <string name="spoken_symbol_00BF">"竖翻问号"</string>
+  
+  <string name="spoken_symbol_2018">"左单引号"</string>
+  
+  <string name="spoken_symbol_2019">"右单引号"</string>
+  
+  <string name="spoken_symbol_201A">"单下9形引号"</string>
+  
+  <string name="spoken_symbol_201C">"左双引号"</string>
+  
+  <string name="spoken_symbol_201D">"右双引号"</string>
+  
+  <string name="spoken_symbol_2020">"剑号"</string>
+  
+  <string name="spoken_symbol_2021">"双剑号"</string>
+  
+  <string name="spoken_symbol_2030">"千分号"</string>
+  
+  <string name="spoken_symbol_2032">"角分符号"</string>
+  
+  <string name="spoken_symbol_2033">"角秒符号"</string>
+  
+  <string name="spoken_symbol_2039">"单左指尖引号"</string>
+  
+  <string name="spoken_symbol_203A">"单右指尖引号"</string>
+  
+  <string name="spoken_symbol_2074">"上标4"</string>
+  
+  <string name="spoken_symbol_207F">"上标拉丁文小写字母n"</string>
+  
+  <string name="spoken_symbol_20B1">"比索符号"</string>
+  
+  <string name="spoken_symbol_2105">"由...转交"</string>
+  
+  <string name="spoken_symbol_2192">"向右箭头"</string>
+  
+  <string name="spoken_symbol_2193">"向下箭头"</string>
+  
+  <string name="spoken_symbol_2205">"空集"</string>
+  
+  <string name="spoken_symbol_2206">"增量"</string>
+  
+  <string name="spoken_symbol_2264">"小于或等于"</string>
+  
+  <string name="spoken_symbol_2265">"大于或等于"</string>
+  
+  <string name="spoken_symbol_2605">"实心星"</string>
+</resources>

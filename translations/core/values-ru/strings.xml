@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="english_ime_input_options">"Настройки"</string>
+  
+  <string name="vibrate_on_keypress">"Виброотклик клавиш"</string>
+  
+  <string name="sound_on_keypress">"Звук клавиш"</string>
+  
+  <string name="popup_on_keypress">"Увеличивать при нажатии"</string>
+  
+  <string name="show_language_switch_key">"Клавиша смены языка"</string>
+  
+  <string name="abbreviation_unit_milliseconds">&lt;string name="abbreviation_unit_milliseconds" msgid="3255301845626146979"&gt;&amp;quot;&lt;xliff:g id="MILLISECONDS"&gt;%s&lt;/xliff:g&gt; мс&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="use_personalized_dicts">"Пользовательские словари"</string>
+  
+  <string name="use_double_space_period">"Точки автоматически"</string>
+  
+  <string name="use_double_space_period_summary">"Вводить точку с пробелом двойным нажатием пробела."</string>
+  
+  <string name="auto_cap">"Заглавные автоматически"</string>
+  
+  <string name="auto_cap_summary">"Писать первое слово предложения с прописной буквы"</string>
+  
+  <string name="edit_personal_dictionary">"Личный словарь"</string>
+  
+  <string name="prefs_show_suggestions">"Варианты исправлений"</string>
+  
+  <string name="prefs_show_suggestions_summary">"Предлагать варианты слов во время ввода"</string>
+  
+  <string name="prefs_block_potentially_offensive_title">"Блокировка нецензурных слов"</string>
+  
+  <string name="prefs_block_potentially_offensive_summary">"Не предлагать слова, которые могут быть сочтены оскорбительными"</string>
+  
+  <string name="prefs_block_potentially_offensive_tags">плохие слова, ругательные слова, ругательства, мат, чёрный список, фильтр, сука, блять</string>
+  
+  <string name="auto_correction">"Автоисправление"</string>
+  
+  <string name="auto_correction_summary">"Автоматическое исправление опечаток при вводе знака препинания или пробела"</string>
+  
+  <string name="auto_correction_tags">автоисправление</string>
+  
+  <string name="bigram_prediction">"Подсказывать слова"</string>
+  
+  <string name="bigram_prediction_summary">"Предлагать подсказки на основе предыдущего слова"</string>
+  
+  <string name="language_selection_title">"Выберите язык"</string>
+  
+  <string name="select_language">"Язык"</string>
+  
+  <string name="subtype_en_GB">"английский (Великобритания)"</string>
+  
+  <string name="subtype_en_US">"английский (США)"</string>
+  
+  <string name="subtype_es_US">"Испанский (США)"</string>
+  
+  <string name="subtype_hi_ZZ">"Хинглиш"</string>
+  <string name="subtype_hi__Latn">"Хинглиш"</string>
+  
+  <string name="subtype_sr_ZZ">"Сербский (латиница)"</string>
+  <string name="subtype_ipa">Международный фонетический алфавит</string>
+  
+  <string name="subtype_with_layout_en_GB">&lt;string name="subtype_with_layout_en_GB" msgid="4220344684463778660"&gt;&amp;quot;Английский (Великобритания, &lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_en_US">&lt;string name="subtype_with_layout_en_US" msgid="4599421650961912769"&gt;&amp;quot;Английский (США, &lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_es_US">&lt;string name="subtype_with_layout_es_US" msgid="6866331205974243592"&gt;&amp;quot;Испанский (США, &lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_hi_ZZ">&lt;string name="subtype_with_layout_hi_ZZ" msgid="5439623653083985558"&gt;&amp;quot;Хинглиш (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_sr_ZZ">&lt;string name="subtype_with_layout_sr_ZZ" msgid="546465971819327060"&gt;&amp;quot;Сербский (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_traditional">&lt;string name="subtype_generic_traditional" msgid="5321023815277210849"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (классическая)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_compact">&lt;string name="subtype_generic_compact" msgid="2858514299576793292"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (компактная раскладка)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_no_language">"Язык не определен (латиница)"</string>
+  
+  <string name="subtype_no_language_qwerty">"Латиница (QWERTY)"</string>
+  
+  <string name="subtype_no_language_qwertz">"Латиница (QWERTZ)"</string>
+  
+  <string name="subtype_no_language_azerty">"Латиница (AZERTY)"</string>
+  
+  <string name="subtype_no_language_dvorak">"Латиница (Dvorak)"</string>
+  
+  <string name="subtype_no_language_colemak">"Латиница (Colemak)"</string>
+  
+  <string name="subtype_no_language_pcqwerty">"Латиница (ПК)"</string>
+  
+  <string name="subtype_emoji">"Эмодзи"</string>
+  
+  <string name="cancel">"Отмена"</string>
+  
+  <string name="go_to_settings">"Настройки"</string>
+  
+  <string name="install_dict">"Установить"</string>
+  
+  <string name="cancel_download_dict">"Отмена"</string>
+  
+  <string name="user_dict_settings_add_menu_title">"Добавить"</string>
+  
+  <string name="user_dict_settings_add_dialog_title">"Добавление в словарь"</string>
+  
+  <string name="user_dict_settings_add_screen_title">"Фраза"</string>
+  
+  <string name="user_dict_settings_add_dialog_more_options">"Больше настроек"</string>
+  
+  <string name="user_dict_settings_add_dialog_less_options">"Меньше настроек"</string>
+  
+  <string name="user_dict_settings_add_dialog_confirm">"ОК"</string>
+  
+  <string name="user_dict_settings_add_word_option_name">"Слово:"</string>
+  
+  <string name="user_dict_settings_add_shortcut_option_name">"Быстрые клавиши:"</string>
+  
+  <string name="user_dict_settings_add_locale_option_name">"Язык:"</string>
+  
+  <string name="user_dict_settings_add_word_hint">"Введите слово"</string>
+  
+  <string name="user_dict_settings_add_shortcut_hint">"Ярлык для фразы (необязательно)"</string>
+  
+  <string name="user_dict_settings_edit_dialog_title">"Изменение слова"</string>
+  
+  <string name="user_dict_settings_context_menu_edit_title">"Изменить"</string>
+  
+  <string name="user_dict_settings_context_menu_delete_title">"Удалить"</string>
+  
+  <string name="user_dict_settings_empty_text">"В пользовательском словаре пока ничего нет. Добавлять слова можно с помощью кнопки \"Добавить (+)\"."</string>
+  
+  <string name="user_dict_settings_all_languages">"Для всех языков"</string>
+  
+  <string name="user_dict_settings_more_languages">"Другой язык"</string>
+  
+  <string name="user_dict_settings_delete">"Удалить"</string>
+  
+  <string name="user_dict_fast_scroll_alphabet">" АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ"</string>
+</resources>

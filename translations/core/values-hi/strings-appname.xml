@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    
+    <string name="english_ime_name">FUTO कीबोर्ड</string>
+
+    
+    <string name="spell_checker_service_name">FUTO स्पेल चेकर्सर्विस</string>
+
+    
+    <string name="english_ime_settings">FUTO कीबोर्ड सेटिंग्स</string>
+
+    
+    <string name="android_spell_checker_settings">FUTO स्पेल चेकिंग सेटिंग्स</string>
+
+</resources>

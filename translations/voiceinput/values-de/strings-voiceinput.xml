@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+  <string name="stop_recording">Aufnahme stoppen</string>
+  
+  <string name="try_saying_something">Versuche, etwas zu sagen</string>
+  
+  <string name="no_audio_detected_is_your_microphone_blocked">Kein Audio erkannt, ist dein Mikrofon blockiert?</string>
+  
+  <string name="listening">Höre zu…</string>
+  
+  <string name="grant_microphone_permission_to_use_voice_input">Mikrofonberechtigung gewähren, um Spracheingabe zu verwenden</string>
+  <string name="open_voice_input_settings">Spracheingabeeinstellungen öffnen</string>
+  
+  <string name="extracting_features">Extrahiere Funktionen…</string>
+  
+  <string name="loading_model">Modell wird geladen…</string>
+  
+  <string name="decoding">Dekodierung läuft…</string>
+  
+  <string name="switching_model">Wechsle Sprache…</string>
+  
+  <string name="processing">Verarbeite…</string>
+  
+  <string name="initializing">Initialisiere…</string>
+  
+  <string name="tiny_en_name">Englisch-39 (Standard)</string>
+  
+  <string name="base_en_name">Englisch-74 (langsamer, genauer)</string>
+  
+  <string name="small_en_name">Englisch-244 (langsam)</string>
+  
+  <string name="tiny_name">Mehrsprachig-39 (ungenauer)</string>
+  
+  <string name="base_name">Mehrsprachig-74 (Standard)</string>
+  
+  <string name="small_name">Mehrsprachig-244 (langsam)</string>
+  
+  <string name="using_bluetooth_mic">Benutze Bluetooth-Mikrofon (%1$s)</string>
+  
+  <string name="using_built_in_mic">Benutze integriertes Mikrofon (%1$s)</string>
+  <!--
+    Occurs when the model is corrupted, or loading failed for some other unknown reason,
+    usually the fix is to re-download the model and re-import it. For example this may happen
+    when the model is imported before the file is finished downloading
+  -->
+  <string name="model_load_error">Fehler beim laden des Modells. Es ist möglicherweise beschädigt oder unvollständig. Setze es auf die Standardeinstellungen zurück, oder lade es erneut herunter.</string>
+</resources>

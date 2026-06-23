@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+  <string name="stop_recording">Oprește înregistrarea</string>
+  
+  <string name="try_saying_something">Încearcă să spui ceva</string>
+  
+  <string name="no_audio_detected_is_your_microphone_blocked">Nu s-a detectat sunet, microfonul este blocat?</string>
+  
+  <string name="listening">Ascult…</string>
+  
+  <string name="grant_microphone_permission_to_use_voice_input">Oferă permisiune pentru microfon ca să folosești Introducerea vocală</string>
+  <string name="open_voice_input_settings">Deschide setările pentru Introducerea vocală</string>
+  
+  <string name="extracting_features">Extrag caracteristicile…</string>
+  
+  <string name="loading_model">Se încarcă modelul…</string>
+  
+  <string name="decoding">Începere decodarea…</string>
+  
+  <string name="switching_model">Se schimbă limba…</string>
+  
+  <string name="processing">Se procesează…</string>
+  
+  <string name="initializing">Se inițializează…</string>
+  
+  <string name="tiny_en_name">Engleză-39 (implicit)</string>
+  
+  <string name="base_en_name">Engleză-74 (mai lent, mai precis)</string>
+  
+  <string name="small_en_name">Engleză-244 (lent)</string>
+  
+  <string name="tiny_name">Multilingv-39 (mai puțin precis)</string>
+  
+  <string name="base_name">Multilingv-74 (implicit)</string>
+  
+  <string name="small_name">Multilingv-244 (lent)</string>
+  
+  <string name="using_bluetooth_mic">Folosind microfon Bluetooth (%1$s)</string>
+  
+  <string name="using_built_in_mic">Folosind microfon încorporat (%1$s)</string>
+</resources>

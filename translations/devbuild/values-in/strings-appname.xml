@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+  <string name="english_ime_name">FUTO Keyboard [Versi Pengembang]</string>
+  
+  <string name="spell_checker_service_name">FUTO Pemeriksa Ejaan [Versi Pengembang]</string>
+  
+  <string name="english_ime_settings">Pengaturan Keyboard FUTO [Versi Pengembang]</string>
+  
+  <string name="android_spell_checker_settings">Pengaturan Pemeriksa Ejaan [Versi Pengembang]</string>
+</resources>

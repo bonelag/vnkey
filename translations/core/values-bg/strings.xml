@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="english_ime_input_options">"Опции за въвеждане"</string>
+  
+  <string name="vibrate_on_keypress">"Да вибрира при натискане на клавиш"</string>
+  
+  <string name="sound_on_keypress">"Звук при натиск. на клавиш"</string>
+  
+  <string name="popup_on_keypress">"Изск. прозорец при натискане на клавиш"</string>
+  
+  <string name="show_language_switch_key">"Клавиш за превкл. на езика"</string>
+  
+  <string name="abbreviation_unit_milliseconds">&lt;string name="abbreviation_unit_milliseconds" msgid="3255301845626146979"&gt;&amp;quot;&lt;xliff:g id="MILLISECONDS"&gt;%s&lt;/xliff:g&gt; милисек&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="use_personalized_dicts">"Персонализ. предложения"</string>
+  
+  <string name="use_double_space_period">"Точка чрез двоен интервал"</string>
+  
+  <string name="use_double_space_period_summary">"Двукр. докосване на клав. за интервал вмъква точка, следвана от интервал"</string>
+  
+  <string name="auto_cap">"Авт. поставяне на главни букви"</string>
+  
+  <string name="auto_cap_summary">"Главна буква за първата дума от всяко изречение"</string>
+  
+  <string name="edit_personal_dictionary">"Личен речник"</string>
+  
+  <string name="prefs_show_suggestions">"Показване на предложения"</string>
+  
+  <string name="prefs_show_suggestions_summary">"Показване на предложения, докато пишете"</string>
+  
+  <string name="prefs_block_potentially_offensive_title">"Блокиране на обидни думи"</string>
+  
+  <string name="prefs_block_potentially_offensive_summary">"Без потенциално обидни думи"</string>
+  
+  <string name="auto_correction">"Автоматична поправка"</string>
+  
+  <string name="auto_correction_summary">"Клавишът за интервал и пунктуация авт. поправя сгрешени думи"</string>
+  
+  <string name="bigram_prediction">"Предл. за следваща дума"</string>
+  
+  <string name="bigram_prediction_summary">"Използване на предишната дума при даване на предложения"</string>
+  
+  <string name="language_selection_title">"Езици"</string>
+  
+  <string name="select_language">"Езици"</string>
+  
+  <string name="subtype_en_GB">"английски (Великобритания)"</string>
+  
+  <string name="subtype_en_US">"английски (САЩ)"</string>
+  
+  <string name="subtype_es_US">"испански (САЩ)"</string>
+  
+  <string name="subtype_hi_ZZ">"Хинглиш"</string>
+  
+  <string name="subtype_sr_ZZ">"Сръбска (латиница)"</string>
+  
+  <string name="subtype_with_layout_en_GB">&lt;string name="subtype_with_layout_en_GB" msgid="4220344684463778660"&gt;&amp;quot;английски (Великобр.) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_en_US">&lt;string name="subtype_with_layout_en_US" msgid="4599421650961912769"&gt;&amp;quot;английски (САЩ) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_es_US">&lt;string name="subtype_with_layout_es_US" msgid="6866331205974243592"&gt;&amp;quot;испански (САЩ) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_hi_ZZ">&lt;string name="subtype_with_layout_hi_ZZ" msgid="5439623653083985558"&gt;&amp;quot;Хинглиш (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_sr_ZZ">&lt;string name="subtype_with_layout_sr_ZZ" msgid="546465971819327060"&gt;&amp;quot;Сръбска (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_traditional">&lt;string name="subtype_generic_traditional" msgid="5321023815277210849"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (традиционна клавиатура)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_compact">&lt;string name="subtype_generic_compact" msgid="2858514299576793292"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (компактна)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_no_language">"Без език (латиница)"</string>
+  
+  <string name="subtype_no_language_qwerty">"латиница (QWERTY)"</string>
+  
+  <string name="subtype_no_language_qwertz">"латиница (QWERTZ)"</string>
+  
+  <string name="subtype_no_language_azerty">"латиница (AZERTY)"</string>
+  
+  <string name="subtype_no_language_dvorak">"латиница (Дворак)"</string>
+  
+  <string name="subtype_no_language_colemak">"латиница (Коулмак)"</string>
+  
+  <string name="subtype_no_language_pcqwerty">"латиница (PC)"</string>
+  
+  <string name="subtype_emoji">"Емотикони"</string>
+  
+  <string name="cancel">"Отказ"</string>
+  
+  <string name="go_to_settings">"Настройки"</string>
+  
+  <string name="install_dict">"Инсталиране"</string>
+  
+  <string name="cancel_download_dict">"Отказ"</string>
+  
+  <string name="user_dict_settings_add_menu_title">"Добавяне"</string>
+  
+  <string name="user_dict_settings_add_dialog_title">"Добавяне в речника"</string>
+  
+  <string name="user_dict_settings_add_screen_title">"Фраза"</string>
+  
+  <string name="user_dict_settings_add_dialog_more_options">"Още опции"</string>
+  
+  <string name="user_dict_settings_add_dialog_less_options">"По-малко опции"</string>
+  
+  <string name="user_dict_settings_add_dialog_confirm">"OK"</string>
+  
+  <string name="user_dict_settings_add_word_option_name">"Дума:"</string>
+  
+  <string name="user_dict_settings_add_shortcut_option_name">"Пряк път:"</string>
+  
+  <string name="user_dict_settings_add_locale_option_name">"Език:"</string>
+  
+  <string name="user_dict_settings_add_word_hint">"Напишете дума"</string>
+  
+  <string name="user_dict_settings_add_shortcut_hint">"Незадължителен пряк път"</string>
+  
+  <string name="user_dict_settings_edit_dialog_title">"Редактиране на дума"</string>
+  
+  <string name="user_dict_settings_context_menu_edit_title">"Редактиране"</string>
+  
+  <string name="user_dict_settings_context_menu_delete_title">"Изтриване"</string>
+  
+  <string name="user_dict_settings_empty_text">"Нямате думи в потребителския речник. За да добавите, докоснете бутона за добавяне (+)."</string>
+  
+  <string name="user_dict_settings_all_languages">"За всички езици"</string>
+  
+  <string name="user_dict_settings_more_languages">"Още езици…"</string>
+  
+  <string name="user_dict_settings_delete">"Изтриване"</string>
+  
+  <string name="user_dict_fast_scroll_alphabet">" АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЬЪЮЯ"</string>
+</resources>

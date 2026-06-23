@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+  <string name="stop_recording">Detener grabación</string>
+  
+  <string name="try_saying_something">Prueba a decir algo</string>
+  
+  <string name="no_audio_detected_is_your_microphone_blocked">No se detecta audio, ¿está tu micrófono bloqueado?</string>
+  
+  <string name="listening">Escuchando…</string>
+  
+  <string name="grant_microphone_permission_to_use_voice_input">Permite el acceso al micrófono para usar la Entrada de Voz</string>
+  <string name="open_voice_input_settings">Abrir ajustes de entrada de voz</string>
+  
+  <string name="extracting_features">Analizando audio…</string>
+  
+  <string name="loading_model">Cargando modelo…</string>
+  
+  <string name="decoding">Decodificación iniciada…</string>
+  
+  <string name="switching_model">Alternando idioma…</string>
+  
+  <string name="processing">Procesando…</string>
+  
+  <string name="initializing">Inicializando…</string>
+  
+  <string name="tiny_en_name">Inglés-39 (por defecto)</string>
+  
+  <string name="base_en_name">Inglés-74 (más lento, más preciso)</string>
+  
+  <string name="small_en_name">Inglés-244 (lento)</string>
+  
+  <string name="tiny_name">Multilingüe-39 (menos preciso)</string>
+  
+  <string name="base_name">Multilingüe-74 (por defecto)</string>
+  
+  <string name="small_name">Multilingüe-244 (lento)</string>
+</resources>

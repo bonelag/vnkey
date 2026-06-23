@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">"Mehet"</string>
+  
+  <string name="label_next_key">"Köv."</string>
+  
+  <string name="label_previous_key">"Előző"</string>
+  
+  <string name="label_done_key">"Kész"</string>
+  
+  <string name="label_send_key">"Küld"</string>
+  
+  <string name="label_search_key">"Keresés"</string>
+  
+  <string name="label_pause_key">"Állj"</string>
+  
+  <string name="label_wait_key">"Vár"</string>
+</resources>

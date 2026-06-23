@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+  <string name="stop_recording">Stoppa Inspelning</string>
+  
+  <string name="try_saying_something">Testa att säga något</string>
+  
+  <string name="no_audio_detected_is_your_microphone_blocked">Inget ljud upptäcktes. Är din mikrofon blockerad?</string>
+  
+  <string name="listening">Lyssnar…</string>
+  
+  <string name="grant_microphone_permission_to_use_voice_input">Ge behörighet till mikrofon för att använda Röstinmatning</string>
+  <string name="open_voice_input_settings">Öppna Röstinmatningsinställningar</string>
+  
+  <string name="extracting_features">Extraherar detaljer…</string>
+  
+  <string name="loading_model">Laddar modell…</string>
+  
+  <string name="decoding">Avkodning påbörjad…</string>
+  
+  <string name="switching_model">Byter språk…</string>
+  
+  <string name="processing">Bearbetar…</string>
+  
+  <string name="initializing">Initierar…</string>
+  
+  <string name="tiny_en_name">Engelska-39 (standard)</string>
+  
+  <string name="base_en_name">Engelska-74 (långsammare, högre noggrannhet)</string>
+  
+  <string name="small_en_name">Engelska-244 (långsam)</string>
+  
+  <string name="tiny_name">Flerspråkig-39 (mindre noggrann)</string>
+  
+  <string name="base_name">Flerspråkig-74 (standard)</string>
+  
+  <string name="small_name">Flerspråkig-244 (långsam)</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+  <string name="english_ime_name">Клавиатура FUTO [экспериментальная версия]</string>
+  
+  <string name="spell_checker_service_name">Проверка орфографии FUTO [экспериментальная версия]</string>
+  
+  <string name="english_ime_settings">Настройки клавиатуры FUTO [экспериментальная версия]</string>
+  
+  <string name="android_spell_checker_settings">Настройки проверки орфографии FUTO [экспериментальная версия]</string>
+</resources>

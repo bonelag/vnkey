@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">Εμπρός</string>
+  
+  <string name="label_next_key">Επόμενο</string>
+  
+  <string name="label_previous_key">Προηγούμενο</string>
+  
+  <string name="label_done_key">Έγινε</string>
+  
+  <string name="label_send_key">Αποστολή</string>
+  
+  <string name="label_search_key">Αναζήτηση</string>
+  
+  <string name="label_pause_key">Παύση</string>
+  
+  <string name="label_wait_key">Αναμονή</string>
+</resources>

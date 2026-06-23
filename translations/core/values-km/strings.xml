@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="english_ime_input_options">"ជម្រើស​​បញ្ចូល"</string>
+  
+  <string name="vibrate_on_keypress">"ញ័រ​នៅ​ពេល​ចុច​គ្រាប់ចុច"</string>
+  
+  <string name="sound_on_keypress">"សំឡេង​នៅ​ពេល​ចុច​គ្រាប់ចុច"</string>
+  
+  <string name="popup_on_keypress">"លេច​ឡើង​នៅ​​ពេល​ចុច​គ្រាប់​ចុច"</string>
+  
+  <string name="show_language_switch_key">"គ្រាប់​ចុច​ប្ដូរ​​ភាសា"</string>
+  
+  <string name="abbreviation_unit_milliseconds">&lt;string name="abbreviation_unit_milliseconds" msgid="3255301845626146979"&gt;&amp;quot;&lt;xliff:g id="MILLISECONDS"&gt;%s&lt;/xliff:g&gt; មិល្លី​វិនាទី&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="use_personalized_dicts">"ការ​ស្នើ​ផ្ទាល់​ខ្លួន"</string>
+  
+  <string name="use_double_space_period">"រយៈ​ពេល​ចុច​ដកឃ្លា​ពីរដង"</string>
+  
+  <string name="use_double_space_period_summary">"ប៉ះ​ដកឃ្លា​ពីរ​​ដង​បញ្ចូល​​​រយៈ​ពេល​ដែល​អនុវត្ត​តាម​ដកឃ្លា"</string>
+  
+  <string name="auto_cap">"ការ​សរសេរ​ជា​អក្សរ​ធំ​​ស្វ័យប្រវត្តិ​"</string>
+  
+  <string name="auto_cap_summary">"សរសេរ​ពាក្យ​ដំបូង​​​ជា​អក្សរ​ធំ​​នៃ​ប្រយោគ​នីមួយ​ៗ"</string>
+  
+  <string name="edit_personal_dictionary">"វចនានុក្រម​ផ្ទាល់ខ្លួន"</string>
+  
+  <string name="prefs_show_suggestions">"បង្ហាញ​ការ​ស្នើ​​កែ"</string>
+  
+  <string name="prefs_show_suggestions_summary">"បង្ហាញ​ពាក្យ​​បាន​​ផ្ដល់​​ស្នើ​​ខណៈ​ពេល​​​វាយ​បញ្ចូល"</string>
+  
+  <string name="prefs_block_potentially_offensive_title">"ទប់ស្កាត់​​ពាក្យ​​បំពាន"</string>
+  
+  <string name="prefs_block_potentially_offensive_summary">"កុំ​ស្នើ​ឲ្យ​ពាក្យ​បំពាន​មាន​សក្ដានុពល​"</string>
+  
+  <string name="auto_correction">"ការ​កែ​​​ស្វ័យប្រវត្តិ"</string>
+  
+  <string name="auto_correction_summary">"ចន្លោះ​មិន​ឃើញ ​និង​សញ្ញា​​វណ្ណយុត្ត​កែ​ពាក្យ​ដែល​បាន​វាយ​ខុស​ស្វ័យប្រវត្តិ"</string>
+  
+  <string name="bigram_prediction">"ការ​ស្នើ​ពាក្យ​បន្ទាប់"</string>
+  
+  <string name="bigram_prediction_summary">"ប្រើ​ពាក្យ​មុន​​នៅ​ពេល​ធ្វើ​ការ​​​ស្នើ"</string>
+  
+  <string name="language_selection_title">"ភាសា"</string>
+  
+  <string name="select_language">"ភាសា"</string>
+  
+  <string name="subtype_en_GB">"អង់គ្លេស (​អង់គ្លេស)"</string>
+  
+  <string name="subtype_en_US">"អង់គ្លេស (សហរដ្ឋ​អាមេរិក)"</string>
+  
+  <string name="subtype_es_US">"អេស្ប៉ាញ (សហរដ្ឋ​អាមេរិក​)"</string>
+  
+  <string name="subtype_hi_ZZ">"Hinglish"</string>
+  
+  <string name="subtype_sr_ZZ">"សើប (ឡាតាំង​)"</string>
+  
+  <string name="subtype_with_layout_en_GB">&lt;string name="subtype_with_layout_en_GB" msgid="4220344684463778660"&gt;&amp;quot;អង់គ្លេស (ចក្រភព​អង់គ្លេស) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_en_US">&lt;string name="subtype_with_layout_en_US" msgid="4599421650961912769"&gt;&amp;quot;អង់គ្លេស (អាមេរិក) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_es_US">&lt;string name="subtype_with_layout_es_US" msgid="6866331205974243592"&gt;&amp;quot;អេស្ប៉ាញ (អាមេរិក) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_hi_ZZ">&lt;string name="subtype_with_layout_hi_ZZ" msgid="5439623653083985558"&gt;&amp;quot;Hinglish (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_sr_ZZ">&lt;string name="subtype_with_layout_sr_ZZ" msgid="546465971819327060"&gt;&amp;quot;សើប (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_traditional">&lt;string name="subtype_generic_traditional" msgid="5321023815277210849"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (អក្សរ​ពេញ)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_compact">&lt;string name="subtype_generic_compact" msgid="2858514299576793292"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (បង្រួម)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_no_language">"គ្មាន​ភាសា (អក្សរ​ក្រម)"</string>
+  
+  <string name="subtype_no_language_qwerty">"តាម​លំដាប់​អក្សរក្រម (QWERTY)"</string>
+  
+  <string name="subtype_no_language_qwertz">"តាម​លំដាប់​អក្សរក្រម (QWERTZ)"</string>
+  
+  <string name="subtype_no_language_azerty">"តាម​លំដាប់​អក្សរក្រម (AZERTY)"</string>
+  
+  <string name="subtype_no_language_dvorak">"តាម​លំដាប់​អក្សរក្រម (Dvorak)"</string>
+  
+  <string name="subtype_no_language_colemak">"តាម​លំដាប់​អក្សរក្រម (Colemak)"</string>
+  
+  <string name="subtype_no_language_pcqwerty">"តាម​លំដាប់​អក្សរក្រម (កុំព្យូទ័រ)"</string>
+  
+  <string name="subtype_emoji">"សញ្ញា​អារម្មណ៍"</string>
+  
+  <string name="cancel">"បោះ​បង់​"</string>
+  
+  <string name="go_to_settings">"ការ​កំណត់"</string>
+  
+  <string name="install_dict">"ដំឡើង"</string>
+  
+  <string name="cancel_download_dict">"បោះ​បង់​"</string>
+  
+  <string name="user_dict_settings_add_menu_title">"បន្ថែម"</string>
+  
+  <string name="user_dict_settings_add_dialog_title">"បន្ថែម​ទៅ​វចនានុក្រម"</string>
+  
+  <string name="user_dict_settings_add_screen_title">"ឃ្លា"</string>
+  
+  <string name="user_dict_settings_add_dialog_more_options">"ជម្រើស​ច្រើន"</string>
+  
+  <string name="user_dict_settings_add_dialog_less_options">"ជម្រើស​តិច"</string>
+  
+  <string name="user_dict_settings_add_dialog_confirm">"យល់ព្រម"</string>
+  
+  <string name="user_dict_settings_add_word_option_name">"ពាក្យ៖"</string>
+  
+  <string name="user_dict_settings_add_shortcut_option_name">"ផ្លូវកាត់​៖"</string>
+  
+  <string name="user_dict_settings_add_locale_option_name">"ភាសា៖"</string>
+  
+  <string name="user_dict_settings_add_word_hint">"វាយ​បញ្ចូល​ពាក្យ​"</string>
+  
+  <string name="user_dict_settings_add_shortcut_hint">"ផ្លូវកាត់​ជា​ជម្រើស"</string>
+  
+  <string name="user_dict_settings_edit_dialog_title">"កែ​ពាក្យ"</string>
+  
+  <string name="user_dict_settings_context_menu_edit_title">"កែ"</string>
+  
+  <string name="user_dict_settings_context_menu_delete_title">"លុប"</string>
+  
+  <string name="user_dict_settings_empty_text">"អ្នកមិនមានពាក្យនៅក្នុងវចនានុក្រមអ្នកប្រើទេ។ ដើម្បីបន្ថែមពាក្យ សូមប៉ះប៊ូតុងបន្ថែម (+)។"</string>
+  
+  <string name="user_dict_settings_all_languages">"សម្រាប់​ភាសា​ទាំងអស់"</string>
+  
+  <string name="user_dict_settings_more_languages">"ភាសា​ច្រើន​ទៀត…"</string>
+  
+  <string name="user_dict_settings_delete">"លុប"</string>
+  
+  <string name="user_dict_fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+  <string name="stop_recording">Zaustavi Snimanje</string>
+  
+  <string name="try_saying_something">Pokušaj reći nešto</string>
+  
+  <string name="no_audio_detected_is_your_microphone_blocked">Nije detektiran zvuk, je li vaš mikrofon blokiran?</string>
+  
+  <string name="listening">Slušam...</string>
+  
+  <string name="grant_microphone_permission_to_use_voice_input">Dopustite pristup mikrofonu za korištenje Glasovnog Unosa</string>
+  <string name="open_voice_input_settings">Otvori postavke Glasovnog Unosa</string>
+  
+  <string name="extracting_features">Izvlačenje značajki…</string>
+  
+  <string name="loading_model">Učitavanje modela…</string>
+  
+  <string name="decoding">Dekodiranje započeto...</string>
+  
+  <string name="switching_model">Mijenjam jezik..</string>
+  
+  <string name="processing">Procesuiram...</string>
+  
+  <string name="initializing">Inicijaliziram...</string>
+  
+  <string name="tiny_en_name">Engleski-39 (zadano)</string>
+  
+  <string name="base_en_name">Engleski-74 (sporije, točnije)</string>
+  
+  <string name="small_en_name">Engleski-244 (sporo)</string>
+  
+  <string name="tiny_name">Višejezični-39 (manje točno)</string>
+  
+  <string name="base_name">Višejezični-74 (zadano)</string>
+  
+  <string name="small_name">Višejezični-244 (sporo)</string>
+  
+  <string name="using_bluetooth_mic">Koristi se Bluetooth mikrofon (%1$s)</string>
+  
+  <string name="using_built_in_mic">Koristi se ugrađeni mikrofon (%1$s)</string>
+</resources>

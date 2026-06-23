@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">"Hamba"</string>
+  
+  <string name="label_next_key">"Okulandelayo"</string>
+  
+  <string name="label_previous_key">"Okwedlule"</string>
+  
+  <string name="label_done_key">"Kwenziwe"</string>
+  
+  <string name="label_send_key">"Thumela"</string>
+  
+  <string name="label_search_key">"Sesha"</string>
+  
+  <string name="label_pause_key">"Misa isikhashana"</string>
+  
+  <string name="label_wait_key">"Linda"</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">"Git"</string>
+  
+  <string name="label_next_key">Sonraki</string>
+  
+  <string name="label_previous_key">"Önceki"</string>
+  
+  <string name="label_done_key">"Bitti"</string>
+  
+  <string name="label_send_key">"Gönder"</string>
+  
+  <string name="label_search_key">Ara</string>
+  
+  <string name="label_pause_key">"Duraklat"</string>
+  
+  <string name="label_wait_key">"Bekle"</string>
+</resources>

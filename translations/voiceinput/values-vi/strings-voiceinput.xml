@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+  <string name="stop_recording">Ngừng ghi âm</string>
+  
+  <string name="try_saying_something">Thử nói điều gì đó</string>
+  
+  <string name="no_audio_detected_is_your_microphone_blocked">Không nghe thấy âm thanh, bạn có đang chặn micrô không?</string>
+  
+  <string name="listening">Đang nghe…</string>
+  
+  <string name="grant_microphone_permission_to_use_voice_input">Cấp quyền micrô để sử dụng nhập bằng giọng nói</string>
+  <string name="open_voice_input_settings">Mở cài đặt nhập liệu bằng giọng nói</string>
+  
+  <string name="extracting_features">Trích xuất các tính năng…</string>
+  
+  <string name="loading_model">Đang tải mô hình…</string>
+  
+  <string name="decoding">Quá trình giải mã đã bắt đầu…</string>
+  
+  <string name="switching_model">Đang chuyển đổi ngôn ngữ…</string>
+  
+  <string name="processing">Đang xử lý…</string>
+  
+  <string name="initializing">Đang khởi tạo…</string>
+  
+  <string name="tiny_en_name">Tiếng Anh-39 (mặc định)</string>
+  
+  <string name="base_en_name">Tiếng Anh-74 (chậm hơn, chính xác hơn)</string>
+  
+  <string name="small_en_name">Tiếng Anh-244 (chậm)</string>
+  
+  <string name="tiny_name">Đa ngôn ngữ-39 (độ chính xác thấp hơn)</string>
+  
+  <string name="base_name">Đa ngôn ngữ-74 (mặc định)</string>
+  
+  <string name="small_name">Đa ngôn ngữ-244 (chậm)</string>
+  
+  <string name="using_bluetooth_mic">Sử dụng micrô Bluetooth (%1$s)</string>
+  
+  <string name="using_built_in_mic">Sử dụng mic tích hợp (%1$s)</string>
+  <!--
+    Occurs when the model is corrupted, or loading failed for some other unknown reason,
+    usually the fix is to re-download the model and re-import it. For example this may happen
+    when the model is imported before the file is finished downloading
+  -->
+  <string name="model_load_error">Lỗi khi tải mô hình. Mô hình có thể bị hỏng hoặc không đầy đủ. Hãy thử khôi phục về mặc định hoặc tải xuống lại.</string>
+</resources>

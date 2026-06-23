@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">"Nenda"</string>
+  
+  <string name="label_next_key">"Inayofuata"</string>
+  
+  <string name="label_previous_key">"Nyuma"</string>
+  
+  <string name="label_done_key">"Nimemaliza"</string>
+  
+  <string name="label_send_key">"Tuma"</string>
+  
+  <string name="label_search_key">"Tafuta"</string>
+  
+  <string name="label_pause_key">"Sitisha"</string>
+  
+  <string name="label_wait_key">"Subiri"</string>
+</resources>

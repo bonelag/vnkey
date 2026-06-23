@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"Dişil sıra göstergesi"</string>
+  
+  <string name="spoken_accented_letter_00B5">"Mikro işareti"</string>
+  
+  <string name="spoken_accented_letter_00BA">"Eril sıra göstergesi"</string>
+  
+  <string name="spoken_accented_letter_00DF">"Sert S"</string>
+  
+  <string name="spoken_accented_letter_00E0">"A, aksanlı"</string>
+  
+  <string name="spoken_accented_letter_00E1">"A, vurgulu"</string>
+  
+  <string name="spoken_accented_letter_00E2">"A, inceltme işaretli"</string>
+  
+  <string name="spoken_accented_letter_00E3">"A, dalga işaretli"</string>
+  
+  <string name="spoken_accented_letter_00E4">"A, iki noktalı"</string>
+  
+  <string name="spoken_accented_letter_00E5">"A, üstte halkalı"</string>
+  
+  <string name="spoken_accented_letter_00E6">"A, E, bağ işaretli"</string>
+  
+  <string name="spoken_accented_letter_00E7">"C, çengelli"</string>
+  
+  <string name="spoken_accented_letter_00E8">"E, aksanlı"</string>
+  
+  <string name="spoken_accented_letter_00E9">"E, vurgulu"</string>
+  
+  <string name="spoken_accented_letter_00EA">"E, inceltme işaretli"</string>
+  
+  <string name="spoken_accented_letter_00EB">"E, iki noktalı"</string>
+  
+  <string name="spoken_accented_letter_00EC">"I, aksanlı"</string>
+  
+  <string name="spoken_accented_letter_00ED">"I, vurgulu"</string>
+  
+  <string name="spoken_accented_letter_00EE">"I, inceltme işaretli"</string>
+  
+  <string name="spoken_accented_letter_00EF">"I, iki noktalı"</string>
+  
+  <string name="spoken_accented_letter_00F0">"Eth"</string>
+  
+  <string name="spoken_accented_letter_00F1">"N, dalga işaretli"</string>
+  
+  <string name="spoken_accented_letter_00F2">"O, aksanlı"</string>
+  
+  <string name="spoken_accented_letter_00F3">"O, vurgulu"</string>
+  
+  <string name="spoken_accented_letter_00F4">"O, inceltme işaretli"</string>
+  
+  <string name="spoken_accented_letter_00F5">"O, dalga işaretli"</string>
+  
+  <string name="spoken_accented_letter_00F6">"O, iki noktalı"</string>
+  
+  <string name="spoken_accented_letter_00F8">"O, orta çizgili"</string>
+  
+  <string name="spoken_accented_letter_00F9">"U, aksanlı"</string>
+  
+  <string name="spoken_accented_letter_00FA">"U, vurgulu"</string>
+  
+  <string name="spoken_accented_letter_00FB">"U, inceltme işaretli"</string>
+  
+  <string name="spoken_accented_letter_00FC">"U, iki noktalı"</string>
+  
+  <string name="spoken_accented_letter_00FD">"Y, vurgulu"</string>
+  
+  <string name="spoken_accented_letter_00FE">"Thorn"</string>
+  
+  <string name="spoken_accented_letter_00FF">"Y, iki noktalı"</string>
+  
+  <string name="spoken_accented_letter_0101">"A, uzatma işaretli"</string>
+  
+  <string name="spoken_accented_letter_0103">"A, kısaltma işaretli"</string>
+  
+  <string name="spoken_accented_letter_0105">"A, kancalı"</string>
+  
+  <string name="spoken_accented_letter_0107">"C, vurgulu"</string>
+  
+  <string name="spoken_accented_letter_0109">"C, inceltme işaretli"</string>
+  
+  <string name="spoken_accented_letter_010B">"C, üstte noktalı"</string>
+  
+  <string name="spoken_accented_letter_010D">"C, yumuşatma işaretli"</string>
+  
+  <string name="spoken_accented_letter_010F">"D, yumuşatma işaretli"</string>
+  
+  <string name="spoken_accented_letter_0111">"D, orta çizgili"</string>
+  
+  <string name="spoken_accented_letter_0113">"E, uzatma işaretli"</string>
+  
+  <string name="spoken_accented_letter_0115">"E, kısaltma işaretli"</string>
+  
+  <string name="spoken_accented_letter_0117">"E, üstte noktalı"</string>
+  
+  <string name="spoken_accented_letter_0119">"E, kancalı"</string>
+  
+  <string name="spoken_accented_letter_011B">"E, yumuşatma işaretli"</string>
+  
+  <string name="spoken_accented_letter_011D">"G, inceltme işaretli"</string>
+  
+  <string name="spoken_accented_letter_011F">"G, kısaltma işaretli"</string>
+  
+  <string name="spoken_accented_letter_0121">"G, üstte noktalı"</string>
+  
+  <string name="spoken_accented_letter_0123">"G, çengelli"</string>
+  
+  <string name="spoken_accented_letter_0125">"H, inceltme işaretli"</string>
+  
+  <string name="spoken_accented_letter_0127">"H, orta çizgili"</string>
+  
+  <string name="spoken_accented_letter_0129">"I, dalga işaretli"</string>
+  
+  <string name="spoken_accented_letter_012B">"I, uzatma işaretli"</string>
+  
+  <string name="spoken_accented_letter_012D">"I, kısaltma işaretli"</string>
+  
+  <string name="spoken_accented_letter_012F">"I, kancalı"</string>
+  
+  <string name="spoken_accented_letter_0131">"Noktasız I"</string>
+  
+  <string name="spoken_accented_letter_0133">"I, J, bağ işaretli"</string>
+  
+  <string name="spoken_accented_letter_0135">"J, inceltme işaretli"</string>
+  
+  <string name="spoken_accented_letter_0137">"K, çengelli"</string>
+  
+  <string name="spoken_accented_letter_0138">"Kra"</string>
+  
+  <string name="spoken_accented_letter_013A">"L, vurgulu"</string>
+  
+  <string name="spoken_accented_letter_013C">"L, çengelli"</string>
+  
+  <string name="spoken_accented_letter_013E">"L, yumuşatma işaretli"</string>
+  
+  <string name="spoken_accented_letter_0140">"L, orta noktalı"</string>
+  
+  <string name="spoken_accented_letter_0142">"L, orta çizgili"</string>
+  
+  <string name="spoken_accented_letter_0144">"N, vurgulu"</string>
+  
+  <string name="spoken_accented_letter_0146">"N, çengelli"</string>
+  
+  <string name="spoken_accented_letter_0148">"N, yumuşatma işaretli"</string>
+  
+  <string name="spoken_accented_letter_0149">"N, öncesinde üstten virgül"</string>
+  
+  <string name="spoken_accented_letter_014B">"Eng"</string>
+  
+  <string name="spoken_accented_letter_014D">"O, uzatma işaretli"</string>
+  
+  <string name="spoken_accented_letter_014F">"O, kısaltma işaretli"</string>
+  
+  <string name="spoken_accented_letter_0151">"O, çift vurgulu"</string>
+  
+  <string name="spoken_accented_letter_0153">"O, E, bağ işaretli"</string>
+  
+  <string name="spoken_accented_letter_0155">"R, vurgulu"</string>
+  
+  <string name="spoken_accented_letter_0157">"R, çengelli"</string>
+  
+  <string name="spoken_accented_letter_0159">"R, yumuşatma işaretli"</string>
+  
+  <string name="spoken_accented_letter_015B">"S, vurgulu"</string>
+  
+  <string name="spoken_accented_letter_015D">"S, inceltme işaretli"</string>
+  
+  <string name="spoken_accented_letter_015F">"S, çengelli"</string>
+  
+  <string name="spoken_accented_letter_0161">"S, yumuşatma işaretli"</string>
+  
+  <string name="spoken_accented_letter_0163">"T, çengelli"</string>
+  
+  <string name="spoken_accented_letter_0165">"T, yumuşatma işaretli"</string>
+  
+  <string name="spoken_accented_letter_0167">"T, orta çizgili"</string>
+  
+  <string name="spoken_accented_letter_0169">"U, dalga işaretli"</string>
+  
+  <string name="spoken_accented_letter_016B">"U, uzatma işaretli"</string>
+  
+  <string name="spoken_accented_letter_016D">"U, kısaltma işaretli"</string>
+  
+  <string name="spoken_accented_letter_016F">"U, üstte halkalı"</string>
+  
+  <string name="spoken_accented_letter_0171">"U, çift vurgulu"</string>
+  
+  <string name="spoken_accented_letter_0173">"U, kancalı"</string>
+  
+  <string name="spoken_accented_letter_0175">"W, inceltme işaretli"</string>
+  
+  <string name="spoken_accented_letter_0177">"Y, inceltme işaretli"</string>
+  
+  <string name="spoken_accented_letter_017A">"Z, vurgulu"</string>
+  
+  <string name="spoken_accented_letter_017C">"Z, üstte nokta"</string>
+  
+  <string name="spoken_accented_letter_017E">"Z, yumuşatma işaretli"</string>
+  
+  <string name="spoken_accented_letter_017F">"Uzun S"</string>
+  
+  <string name="spoken_accented_letter_01A1">"O, duyarga işaretli"</string>
+  
+  <string name="spoken_accented_letter_01B0">"U, duyarga işaretli"</string>
+  
+  <string name="spoken_accented_letter_0219">"S, alt virgüllü"</string>
+  
+  <string name="spoken_accented_letter_021B">"T, alt virgüllü"</string>
+  
+  <string name="spoken_accented_letter_0259">"Schwa"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"A, alt noktalı"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"A, üst çengelli"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"A, inceltme işaretli ve vurgulu"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"A, inceltme işaretli ve aksanlı"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"A, inceltme işaretli ve üst çengelli"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"A, inceltme işaretli ve uzatma işareti"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"A, inceltme işaretli ve alt noktalı"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"A, kısaltma işaretli ve vurgulu"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"A, kısaltma işaretli ve aksanlı"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"A, kısaltma işaretli ve üst çengelli"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"A, kısaltma işaretli ve dalga işaretli"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"A, kısaltma işaretli ve alt noktalı"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"E, alt noktalı"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"E, üst çengelli"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"E, dalga işaretli"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"E, inceltme işaretli ve vurgulu"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"E, inceltme işaretli ve aksanlı"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"E, inceltme işaretli ve üst çengelli"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"E, inceltme işaretli ve dalga işaretli"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"E, inceltme işaretli ve alt noktalı"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"I, üst çengelli"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"I, alt noktalı"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"O, alt noktalı"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"O, üst çengelli"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"O, inceltme işaretli ve vurgulu"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"O, inceltme işaretli ve aksanlı"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"O, inceltme işaretli ve üst çengelli"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"O, inceltme işaretli ve dalga işaretli"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"O, inceltme işaretli ve alt noktalı"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"O, duyarga işaretli ve vurgulu"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"O, duyarga işaretli ve aksanlı"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"O, duyarga işaretli ve üst çengelli"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"O, duyarga işaretli ve dalga işaretli"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"O, duyarga işaretli ve alt noktalı"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"U, alt noktalı"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"U, üst çengelli"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"U, duyarga işaretli ve vurgulu"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"U, duyarga işaretli ve aksanlı"</string>
+  
+  <string name="spoken_accented_letter_1EED">"U, duyarga işaretli ve üst çengelli"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"U, duyarga işaretli ve dalga işaretli"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"U, duyarga işaretli ve alt noktalı"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"Y, aksanlı"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"Y, alt noktalı"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"Y, üst çengelli"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"Y, dalga işaretli"</string>
+  
+  <string name="spoken_symbol_00A1">"Ters soru işareti"</string>
+  
+  <string name="spoken_symbol_00AB">"Sola bakan açılı çift tırnak işareti"</string>
+  
+  <string name="spoken_symbol_00B7">"Orta noktalı"</string>
+  
+  <string name="spoken_symbol_00B9">"Üst simge bir"</string>
+  
+  <string name="spoken_symbol_00BB">"Sağa bakan açılı çift tırnak işareti"</string>
+  
+  <string name="spoken_symbol_00BF">"Ters soru işareti"</string>
+  
+  <string name="spoken_symbol_2018">"Sol tekli tırnak işareti"</string>
+  
+  <string name="spoken_symbol_2019">"Sağ tekli tırnak işareti"</string>
+  
+  <string name="spoken_symbol_201A">"Tekli alt 9 tırnak işareti"</string>
+  
+  <string name="spoken_symbol_201C">"Sol çift tırnak işareti"</string>
+  
+  <string name="spoken_symbol_201D">"Sağ çift tırnak işareti"</string>
+  
+  <string name="spoken_symbol_2020">"Kama"</string>
+  
+  <string name="spoken_symbol_2021">"Çift kama"</string>
+  
+  <string name="spoken_symbol_2030">"Per mille işareti"</string>
+  
+  <string name="spoken_symbol_2032">"Üs"</string>
+  
+  <string name="spoken_symbol_2033">"Çift üs"</string>
+  
+  <string name="spoken_symbol_2039">"Sola bakan açılı tek tırnak işareti"</string>
+  
+  <string name="spoken_symbol_203A">"Sağa bakan açılı tek tırnak işareti"</string>
+  
+  <string name="spoken_symbol_2074">"Üst simge dört"</string>
+  
+  <string name="spoken_symbol_207F">"Üst simge latin küçük harf n"</string>
+  
+  <string name="spoken_symbol_20B1">"Pezo işareti"</string>
+  
+  <string name="spoken_symbol_2105">"Yüzde işareti"</string>
+  
+  <string name="spoken_symbol_2192">"Sağa bakan ok"</string>
+  
+  <string name="spoken_symbol_2193">"Aşağı bakan ok"</string>
+  
+  <string name="spoken_symbol_2205">"Boş küme"</string>
+  
+  <string name="spoken_symbol_2206">"Artış işareti"</string>
+  
+  <string name="spoken_symbol_2264">"Küçüktür veya eşittir"</string>
+  
+  <string name="spoken_symbol_2265">"Büyüktür veya eşittir"</string>
+  
+  <string name="spoken_symbol_2605">"Siyah yıldız"</string>
+</resources>

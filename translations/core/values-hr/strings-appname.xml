@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+  <string name="english_ime_name">FUTO Tipkovnica</string>
+  
+  <string name="spell_checker_service_name">FUTO Provjera Pravopisa</string>
+  
+  <string name="english_ime_settings">Postavke FUTO Tipkovnice</string>
+  
+  <string name="android_spell_checker_settings">Postavke FUTO Provjere Pravopisa</string>
+</resources>

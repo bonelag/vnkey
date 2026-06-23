@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="english_ime_input_options">"Sisestusvalikud"</string>
+  
+  <string name="vibrate_on_keypress">"Vibreeri klahvivajutusel"</string>
+  
+  <string name="sound_on_keypress">"Heli klahvivajutusel"</string>
+  
+  <string name="popup_on_keypress">"Klahvivajutusel kuva hüpik"</string>
+  
+  <string name="show_language_switch_key">"Keelevahetuse nupp"</string>
+  
+  <string name="abbreviation_unit_milliseconds">&lt;string name="abbreviation_unit_milliseconds" msgid="3255301845626146979"&gt;&amp;quot;&lt;xliff:g id="MILLISECONDS"&gt;%s&lt;/xliff:g&gt; ms&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="use_personalized_dicts">"Isikupärast. soovitused"</string>
+  
+  <string name="use_double_space_period">"Punkt tühikuklahviga"</string>
+  
+  <string name="use_double_space_period_summary">"Tühikuklahvi kaks korda puudutades sisestatakse punkt ja tühik"</string>
+  
+  <string name="auto_cap">"Automaatne suurtähtede kasutamine"</string>
+  
+  <string name="auto_cap_summary">"Iga lause esimese sõna kirjutamine suure algustähega"</string>
+  
+  <string name="edit_personal_dictionary">"Isiklik sõnastik"</string>
+  
+  <string name="prefs_show_suggestions">"Kuva korrigeerimise soovitused"</string>
+  
+  <string name="prefs_show_suggestions_summary">"Kuva sisestamise ajal sõnasoovitusi"</string>
+  
+  <string name="prefs_block_potentially_offensive_title">"Blokeeri solvavad sõnad"</string>
+  
+  <string name="prefs_block_potentially_offensive_summary">"Ära soovita potentsiaalselt solvavaid sõnu"</string>
+  
+  <string name="auto_correction">"Automaatne korrigeerimine"</string>
+  
+  <string name="auto_correction_summary">"Tühik ja kirjavahemärgid parand. autom. kirjavigadega sõnad"</string>
+  
+  <string name="bigram_prediction">"Järgmise sõna soovitused"</string>
+  
+  <string name="bigram_prediction_summary">"Soovituste tegemisel eelmise sõna kasutamine"</string>
+  
+  <string name="language_selection_title">"Keeled"</string>
+  
+  <string name="select_language">"Keeled"</string>
+  
+  <string name="subtype_en_GB">"Inglise (UK)"</string>
+  
+  <string name="subtype_en_US">"Inglise (USA)"</string>
+  
+  <string name="subtype_es_US">"hispaania (USA)"</string>
+  
+  <string name="subtype_hi_ZZ">"Hindi-inglise"</string>
+  
+  <string name="subtype_sr_ZZ">"Serbia (ladina)"</string>
+  
+  <string name="subtype_with_layout_en_GB">&lt;string name="subtype_with_layout_en_GB" msgid="4220344684463778660"&gt;&amp;quot;Inglise (Ühendk.) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_en_US">&lt;string name="subtype_with_layout_en_US" msgid="4599421650961912769"&gt;&amp;quot;Inglise (USA) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_es_US">&lt;string name="subtype_with_layout_es_US" msgid="6866331205974243592"&gt;&amp;quot;Hispaania (USA) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_hi_ZZ">&lt;string name="subtype_with_layout_hi_ZZ" msgid="5439623653083985558"&gt;&amp;quot;Hindi-inglise (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_sr_ZZ">&lt;string name="subtype_with_layout_sr_ZZ" msgid="546465971819327060"&gt;&amp;quot;Serbia (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_traditional">&lt;string name="subtype_generic_traditional" msgid="5321023815277210849"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (traditsiooniline)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_compact">&lt;string name="subtype_generic_compact" msgid="2858514299576793292"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (kompaktne)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_no_language">"Keel puudub (tähestik)"</string>
+  
+  <string name="subtype_no_language_qwerty">"Tähestik (QWERTY)"</string>
+  
+  <string name="subtype_no_language_qwertz">"Tähestik (QWERTZ)"</string>
+  
+  <string name="subtype_no_language_azerty">"Tähestik (AZERTY)"</string>
+  
+  <string name="subtype_no_language_dvorak">"Tähestik (Dvorak)"</string>
+  
+  <string name="subtype_no_language_colemak">"Tähestik (Colemak)"</string>
+  
+  <string name="subtype_no_language_pcqwerty">"Tähestik (PC)"</string>
+  
+  <string name="subtype_emoji">"Emotikon"</string>
+  
+  <string name="cancel">"Tühista"</string>
+  
+  <string name="go_to_settings">"Seaded"</string>
+  
+  <string name="install_dict">"Installi"</string>
+  
+  <string name="cancel_download_dict">"Tühista"</string>
+  
+  <string name="user_dict_settings_add_menu_title">"Lisa"</string>
+  
+  <string name="user_dict_settings_add_dialog_title">"Sõnaraamatusse lisamine"</string>
+  
+  <string name="user_dict_settings_add_screen_title">"Fraas"</string>
+  
+  <string name="user_dict_settings_add_dialog_more_options">"Rohkem valikuid"</string>
+  
+  <string name="user_dict_settings_add_dialog_less_options">"Vähem valikuid"</string>
+  
+  <string name="user_dict_settings_add_dialog_confirm">"OK"</string>
+  
+  <string name="user_dict_settings_add_word_option_name">"Sõna:"</string>
+  
+  <string name="user_dict_settings_add_shortcut_option_name">"Otsetee:"</string>
+  
+  <string name="user_dict_settings_add_locale_option_name">"Keel:"</string>
+  
+  <string name="user_dict_settings_add_word_hint">"Sisestage sõna"</string>
+  
+  <string name="user_dict_settings_add_shortcut_hint">"Valikuline otsetee"</string>
+  
+  <string name="user_dict_settings_edit_dialog_title">"Sõna muutmine"</string>
+  
+  <string name="user_dict_settings_context_menu_edit_title">"Muuda"</string>
+  
+  <string name="user_dict_settings_context_menu_delete_title">"Kustuta"</string>
+  
+  <string name="user_dict_settings_empty_text">"Kasutaja sõnaraamatus ei ole ühtki sõna. Sõna lisamiseks puudutage nuppu Lisa (+)."</string>
+  
+  <string name="user_dict_settings_all_languages">"Kõikides keeltes"</string>
+  
+  <string name="user_dict_settings_more_languages">"Rohkem keeli ..."</string>
+  
+  <string name="user_dict_settings_delete">"Kustuta"</string>
+  
+  <string name="user_dict_fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSŠZŽTUVWÕÄÖÜXY"</string>
+</resources>

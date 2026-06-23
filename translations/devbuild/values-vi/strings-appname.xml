@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+  <string name="english_ime_name">VNKey [Phiên bản phát triển]</string>
+  
+  <string name="spell_checker_service_name">Công cụ kiểm tra chính tả FUTO [Phiên bản phát triển]</string>
+  
+  <string name="english_ime_settings">Cài đặt VNKey [Phiên bản phát triển]</string>
+  
+  <string name="android_spell_checker_settings">Cài đặt Trình kiểm tra chính tả FUTO [Phiên bản phát triển]</string>
+</resources>

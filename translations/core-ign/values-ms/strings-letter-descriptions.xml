@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"Penunjuk ordinal feminin"</string>
+  
+  <string name="spoken_accented_letter_00B5">"Tanda mikro"</string>
+  
+  <string name="spoken_accented_letter_00BA">"Penunjuk ordinal maskulin"</string>
+  
+  <string name="spoken_accented_letter_00DF">"S tajam"</string>
+  
+  <string name="spoken_accented_letter_00E0">"A, grava"</string>
+  
+  <string name="spoken_accented_letter_00E1">"A, akut"</string>
+  
+  <string name="spoken_accented_letter_00E2">"A, sirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_00E3">"A, tilde"</string>
+  
+  <string name="spoken_accented_letter_00E4">"A, diaresis"</string>
+  
+  <string name="spoken_accented_letter_00E5">"A, gelung di atas"</string>
+  
+  <string name="spoken_accented_letter_00E6">"A, E, huruf kembar"</string>
+  
+  <string name="spoken_accented_letter_00E7">"C, sedila"</string>
+  
+  <string name="spoken_accented_letter_00E8">"E, grava"</string>
+  
+  <string name="spoken_accented_letter_00E9">"E, akut"</string>
+  
+  <string name="spoken_accented_letter_00EA">"E, sirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_00EB">"E, diaresis"</string>
+  
+  <string name="spoken_accented_letter_00EC">"I, grava"</string>
+  
+  <string name="spoken_accented_letter_00ED">"I, akut"</string>
+  
+  <string name="spoken_accented_letter_00EE">"I, sirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_00EF">"I, diaresis"</string>
+  
+  <string name="spoken_accented_letter_00F0">"Eth"</string>
+  
+  <string name="spoken_accented_letter_00F1">"N, tilde"</string>
+  
+  <string name="spoken_accented_letter_00F2">"O, grava"</string>
+  
+  <string name="spoken_accented_letter_00F3">"O, akut"</string>
+  
+  <string name="spoken_accented_letter_00F4">"O, sirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_00F5">"O, tilde"</string>
+  
+  <string name="spoken_accented_letter_00F6">"O, diaresis"</string>
+  
+  <string name="spoken_accented_letter_00F8">"O, strok"</string>
+  
+  <string name="spoken_accented_letter_00F9">"U, grava"</string>
+  
+  <string name="spoken_accented_letter_00FA">"U, akut"</string>
+  
+  <string name="spoken_accented_letter_00FB">"U, sirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_00FC">"U, diaresis"</string>
+  
+  <string name="spoken_accented_letter_00FD">"Y, akut"</string>
+  
+  <string name="spoken_accented_letter_00FE">"Thorn"</string>
+  
+  <string name="spoken_accented_letter_00FF">"Y, diaresis"</string>
+  
+  <string name="spoken_accented_letter_0101">"A, makron"</string>
+  
+  <string name="spoken_accented_letter_0103">"A, brif"</string>
+  
+  <string name="spoken_accented_letter_0105">"A, ogonek"</string>
+  
+  <string name="spoken_accented_letter_0107">"C, akut"</string>
+  
+  <string name="spoken_accented_letter_0109">"C, sirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_010B">"C, titik di atas"</string>
+  
+  <string name="spoken_accented_letter_010D">"C, caron"</string>
+  
+  <string name="spoken_accented_letter_010F">"D, caron"</string>
+  
+  <string name="spoken_accented_letter_0111">"D, strok"</string>
+  
+  <string name="spoken_accented_letter_0113">"E, makron"</string>
+  
+  <string name="spoken_accented_letter_0115">"E, brif"</string>
+  
+  <string name="spoken_accented_letter_0117">"E, titik di atas"</string>
+  
+  <string name="spoken_accented_letter_0119">"E, ogonek"</string>
+  
+  <string name="spoken_accented_letter_011B">"E, caron"</string>
+  
+  <string name="spoken_accented_letter_011D">"G, sirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_011F">"G, brif"</string>
+  
+  <string name="spoken_accented_letter_0121">"G, titik di atas"</string>
+  
+  <string name="spoken_accented_letter_0123">"G, sedila"</string>
+  
+  <string name="spoken_accented_letter_0125">"H, sirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_0127">"H, strok"</string>
+  
+  <string name="spoken_accented_letter_0129">"I, tilde"</string>
+  
+  <string name="spoken_accented_letter_012B">"I, makron"</string>
+  
+  <string name="spoken_accented_letter_012D">"I, brif"</string>
+  
+  <string name="spoken_accented_letter_012F">"I, ogonek"</string>
+  
+  <string name="spoken_accented_letter_0131">"I tanpa titik"</string>
+  
+  <string name="spoken_accented_letter_0133">"I, J, huruf kembar"</string>
+  
+  <string name="spoken_accented_letter_0135">"J, sirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_0137">"K, sedila"</string>
+  
+  <string name="spoken_accented_letter_0138">"Kra"</string>
+  
+  <string name="spoken_accented_letter_013A">"L, akut"</string>
+  
+  <string name="spoken_accented_letter_013C">"L, sedila"</string>
+  
+  <string name="spoken_accented_letter_013E">"L, caron"</string>
+  
+  <string name="spoken_accented_letter_0140">"L, titik tengah"</string>
+  
+  <string name="spoken_accented_letter_0142">"L, strok"</string>
+  
+  <string name="spoken_accented_letter_0144">"N, akut"</string>
+  
+  <string name="spoken_accented_letter_0146">"N, sedila"</string>
+  
+  <string name="spoken_accented_letter_0148">"N, caron"</string>
+  
+  <string name="spoken_accented_letter_0149">"N, didahului oleh koma terbalik"</string>
+  
+  <string name="spoken_accented_letter_014B">"Eng"</string>
+  
+  <string name="spoken_accented_letter_014D">"O, makron"</string>
+  
+  <string name="spoken_accented_letter_014F">"O, brif"</string>
+  
+  <string name="spoken_accented_letter_0151">"O, akut berganda"</string>
+  
+  <string name="spoken_accented_letter_0153">"O, E, huruf kembar"</string>
+  
+  <string name="spoken_accented_letter_0155">"R, akut"</string>
+  
+  <string name="spoken_accented_letter_0157">"R, sedila"</string>
+  
+  <string name="spoken_accented_letter_0159">"R, caron"</string>
+  
+  <string name="spoken_accented_letter_015B">"S, akut"</string>
+  
+  <string name="spoken_accented_letter_015D">"S, sirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_015F">"S, sedila"</string>
+  
+  <string name="spoken_accented_letter_0161">"S, caron"</string>
+  
+  <string name="spoken_accented_letter_0163">"T, sedila"</string>
+  
+  <string name="spoken_accented_letter_0165">"T, caron"</string>
+  
+  <string name="spoken_accented_letter_0167">"T, strok"</string>
+  
+  <string name="spoken_accented_letter_0169">"U, tilde"</string>
+  
+  <string name="spoken_accented_letter_016B">"U, makron"</string>
+  
+  <string name="spoken_accented_letter_016D">"U, brif"</string>
+  
+  <string name="spoken_accented_letter_016F">"U, gelung di atas"</string>
+  
+  <string name="spoken_accented_letter_0171">"U, akut berkembar"</string>
+  
+  <string name="spoken_accented_letter_0173">"U, ogonek"</string>
+  
+  <string name="spoken_accented_letter_0175">"W, sirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_0177">"Y, sirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_017A">"Z, akut"</string>
+  
+  <string name="spoken_accented_letter_017C">"Z, titik di atas"</string>
+  
+  <string name="spoken_accented_letter_017E">"Z, caron"</string>
+  
+  <string name="spoken_accented_letter_017F">"S Panjang"</string>
+  
+  <string name="spoken_accented_letter_01A1">"O, tanduk"</string>
+  
+  <string name="spoken_accented_letter_01B0">"U, tanduk"</string>
+  
+  <string name="spoken_accented_letter_0219">"S, koma di bawah"</string>
+  
+  <string name="spoken_accented_letter_021B">"T, koma di bawah"</string>
+  
+  <string name="spoken_accented_letter_0259">"Schwa"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"A, titik di bawah"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"A, cangkuk di atas"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"A, sirkumfleks dan akut"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"A, sirkumfleks dan grava"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"A, sirkumfleks dan cangkuk di atas"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"A, sirkumfleks dan tilde"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"A, sirkumfleks dan titik di bawah"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"A, brif dan akut"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"A, brif dan grava"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"A, brif dan cangkuk di atas"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"A, brif dan tilde"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"A, brif dan titik di bawah"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"E, titik di bawah"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"E, cangkuk di atas"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"E, tilde"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"E, sirkumfleks dan akut"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"E, sirkumfleks dan grava"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"E, sirkumfleks dan cangkuk di atas"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"E, sirkumfleks dan tilde"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"E, sirkumfleks dan titik di bawah"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"I, cangkuk di atas"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"I, titik di bawah"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"O, titik di bawah"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"O, cangkuk di atas"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"O, sirkumfleks dan akut"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"O, sirkumfleks dan grava"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"O, sirkumfleks dan cangkuk di atas"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"O, sirkumfleks dan tilde"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"O, sirkumfleks dan titik di bawah"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"O, tanduk dan akut"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"O, tanduk dan grava"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"O, tanduk dan cangkuk di atas"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"O, tanduk dan tilde"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"O, tanduk dan titik di bawah"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"U, titik di bawah"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"U, cangkuk di atas"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"U, cangkuk dan akut"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"U, tanduk dan grafa"</string>
+  
+  <string name="spoken_accented_letter_1EED">"U, tanduk dan cangkuk di atas"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"U, tanduk dan tilde"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"U, tanduk dan titik di bawah"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"Y, grave"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"Y, titik di bawah"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"Y, titik di atas"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"Y, tilde"</string>
+  
+  <string name="spoken_symbol_00A1">"Tanda seru terbalik"</string>
+  
+  <string name="spoken_symbol_00AB">"Tanda petikan sudut berkembar menunjuk ke kiri"</string>
+  
+  <string name="spoken_symbol_00B7">"Titik tengah"</string>
+  
+  <string name="spoken_symbol_00B9">"Superskrip satu"</string>
+  
+  <string name="spoken_symbol_00BB">"Tanda petikan sudut berkembar menunjuk ke kanan"</string>
+  
+  <string name="spoken_symbol_00BF">"Tanda soal terbalik"</string>
+  
+  <string name="spoken_symbol_2018">"Tanda petikan tunggal kiri"</string>
+  
+  <string name="spoken_symbol_2019">"Tanda petikan tunggal kanan"</string>
+  
+  <string name="spoken_symbol_201A">"Tanda petikan 9 rendah tunggal"</string>
+  
+  <string name="spoken_symbol_201C">"Tanda petikan berkembar kiri"</string>
+  
+  <string name="spoken_symbol_201D">"Tanda petikan berkembar kanan"</string>
+  
+  <string name="spoken_symbol_2020">"Badik"</string>
+  
+  <string name="spoken_symbol_2021">"Badik berkembar"</string>
+  
+  <string name="spoken_symbol_2030">"Tanda per mille"</string>
+  
+  <string name="spoken_symbol_2032">"Prima"</string>
+  
+  <string name="spoken_symbol_2033">"Prima berkembar"</string>
+  
+  <string name="spoken_symbol_2039">"Tanda petikan sudut menunjuk ke kiri tunggal"</string>
+  
+  <string name="spoken_symbol_203A">"Tanda petikan sudut menunjuk ke kanan tunggal"</string>
+  
+  <string name="spoken_symbol_2074">"Superskrip empat"</string>
+  
+  <string name="spoken_symbol_207F">"Huruf kecil n superskrip latin"</string>
+  
+  <string name="spoken_symbol_20B1">"Tanda Peso"</string>
+  
+  <string name="spoken_symbol_2105">"Dengan alamat"</string>
+  
+  <string name="spoken_symbol_2192">"Anak panah hala kanan"</string>
+  
+  <string name="spoken_symbol_2193">"Anak panah hala bawah"</string>
+  
+  <string name="spoken_symbol_2205">"Set kosong"</string>
+  
+  <string name="spoken_symbol_2206">"Kenaikan"</string>
+  
+  <string name="spoken_symbol_2264">"Kurang daripada atau sama dengan"</string>
+  
+  <string name="spoken_symbol_2265">"Lebih besar daripada atau sama dengan"</string>
+  
+  <string name="spoken_symbol_2605">"Bintang hitam"</string>
+</resources>

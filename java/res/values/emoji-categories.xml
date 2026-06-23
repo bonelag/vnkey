@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<!-- Note: This emoji code point list is valid prior to JB-MR2 (API < 18).
+     There is another emoji code point list for JB-MR2 and KLP and later under
+     res/xml/values-v1[89].-->
+<resources>
+    <!-- Placeholder codeArrays for recents emoji keyboard.
+         Do not remove these keys, because they are used as a template. -->
+    <array
+        name="emoji_recents"
+        format="string"
+    >
+        
+        <item>30</item>
+        <item>31</item>
+    </array>
+    <array
+        name="emoji_nature"
+        format="string"
+    >
+        <item>2744</item> 
+    </array>
+    <array
+        name="emoji_symbols"
+        format="string"
+    >
+        <item>2460</item> 
+        <item>2461</item> 
+        <item>2462</item> 
+        <item>2463</item> 
+        <item>2464</item> 
+        <item>2465</item> 
+        <item>2466</item> 
+        <item>2467</item> 
+        <item>2468</item> 
+        <item>2469</item> 
+        <item>00ae</item> 
+        <item>00a9</item> 
+        <item>2122</item> 
+        <item>2734</item> 
+        <item>2733</item> 
+        <item>2716</item> 
+        <item>2195</item> 
+        <item>2197</item> 
+        <item>27a1</item> 
+        <item>2198</item> 
+        <item>2199</item> 
+        <item>2196</item> 
+        <item>2194</item> 
+        <item>25c0</item> 
+        <item>25b6</item> 
+        <item>2747</item> 
+        <item>25aa</item> 
+        <item>203c</item> 
+        <item>2660</item> 
+        <item>2665</item> 
+        <item>2663</item> 
+        <item>2666</item> 
+        <item>21a9</item> 
+        <item>21aa</item> 
+    </array>
+    <array
+        name="emoji_faces"
+        format="string"
+    >
+        <item>270C</item> 
+        <item>2764</item> 
+    </array>
+    <array
+        name="emoji_objects"
+        format="string"
+    >
+        <item>260e</item> 
+        <item>2709</item> 
+        <item>2712</item> 
+        <item>270f</item> 
+        <item>2702</item> 
+        <item>2669</item> 
+        <item>266a</item> 
+        <item>266c</item> 
+    </array>
+    <array
+        name="emoji_places"
+        format="string"
+    >
+        <item>2708</item> 
+        <item>2668</item> 
+    </array>
+    <array
+        name="emoji_emoticons"
+        format="string"
+    >
+        <item>=-O</item>
+        <item>:-P</item>
+        <item>;-)</item>
+        <item>:-(</item>
+        <item>:-)</item>
+        <item>:-!</item>
+        <item>:-$</item>
+        <item>B-)</item>
+        <item>:O</item>
+        <item>:-*</item>
+        <item>:-D</item>
+        <item>:\'(</item>
+        <item>:-\\</item>
+        <item>O:-)</item>
+        <item>:-[</item>
+    </array>
+</resources>

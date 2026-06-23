@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="english_ime_input_options">"Pilihan input"</string>
+  
+  <string name="vibrate_on_keypress">"Getar pada tekanan kekunci"</string>
+  
+  <string name="sound_on_keypress">"Bunyi pada tekanan kekunci"</string>
+  
+  <string name="popup_on_keypress">"Pop timbul pada tekanan kunci"</string>
+  
+  <string name="show_language_switch_key">"Kekunci tukar bahasa"</string>
+  
+  <string name="abbreviation_unit_milliseconds">&lt;string name="abbreviation_unit_milliseconds" msgid="3255301845626146979"&gt;&amp;quot;&lt;xliff:g id="MILLISECONDS"&gt;%s&lt;/xliff:g&gt;ms&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="use_personalized_dicts">"Cadangan diperibadikan"</string>
+  
+  <string name="use_double_space_period">"Titik ruang berganda"</string>
+  
+  <string name="use_double_space_period_summary">"Mengetik 2X pada bar ruang memasukkan titik diikuti dengan ruang"</string>
+  
+  <string name="auto_cap">"Autopenghurufbesaran"</string>
+  
+  <string name="auto_cap_summary">"Besarkan perkataan pertama setiap ayat"</string>
+  
+  <string name="edit_personal_dictionary">"Kamus peribadi"</string>
+  
+  <string name="prefs_show_suggestions">"Tunjukkan cadangan pembetulan"</string>
+  
+  <string name="prefs_show_suggestions_summary">"Paparkan cadangan perkataan semasa menaip"</string>
+  
+  <string name="prefs_block_potentially_offensive_title">"Sekat perkataan yg menyinggung"</string>
+  
+  <string name="prefs_block_potentially_offensive_summary">"Jangan cadangkan perkataan yang boleh menyinggung"</string>
+  
+  <string name="auto_correction">"Auto pembetulan"</string>
+  
+  <string name="auto_correction_summary">"Bar ruang dan tanda baca secara automatik membetulkan perkataan yang ditaip salah"</string>
+  
+  <string name="bigram_prediction">"Cadangan perkataan seterusnya"</string>
+  
+  <string name="bigram_prediction_summary">"Gunakan perkataan sebelumnya dalam membuat cadangan"</string>
+  
+  <string name="language_selection_title">"Bahasa"</string>
+  
+  <string name="select_language">"Bahasa"</string>
+  
+  <string name="subtype_en_GB">"Bahasa Inggeris (UK)"</string>
+  
+  <string name="subtype_en_US">"Bahasa Inggeris (Australia)"</string>
+  
+  <string name="subtype_es_US">"Bahasa Sepanyol (AS)"</string>
+  
+  <string name="subtype_hi_ZZ">"Hinglish"</string>
+  
+  <string name="subtype_sr_ZZ">"Bahasa Serbia (Latin)"</string>
+  
+  <string name="subtype_with_layout_en_GB">&lt;string name="subtype_with_layout_en_GB" msgid="4220344684463778660"&gt;&amp;quot;Bahasa Inggeris (UK) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_en_US">&lt;string name="subtype_with_layout_en_US" msgid="4599421650961912769"&gt;&amp;quot;Bahasa Inggeris (AS) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_es_US">&lt;string name="subtype_with_layout_es_US" msgid="6866331205974243592"&gt;&amp;quot;Bahasa Sepanyol (AS) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_hi_ZZ">&lt;string name="subtype_with_layout_hi_ZZ" msgid="5439623653083985558"&gt;&amp;quot;Hinglish (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_sr_ZZ">&lt;string name="subtype_with_layout_sr_ZZ" msgid="546465971819327060"&gt;&amp;quot;Bahasa Serbia (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_traditional">&lt;string name="subtype_generic_traditional" msgid="5321023815277210849"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (Tradisional)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_compact">&lt;string name="subtype_generic_compact" msgid="2858514299576793292"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (Sarat)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_no_language">"Tiada bahasa (Abjad)"</string>
+  
+  <string name="subtype_no_language_qwerty">"Abjad (QWERTY)"</string>
+  
+  <string name="subtype_no_language_qwertz">"Abjad (QWERTZ)"</string>
+  
+  <string name="subtype_no_language_azerty">"Abjad (AZERTY)"</string>
+  
+  <string name="subtype_no_language_dvorak">"Abjad (Dvorak)"</string>
+  
+  <string name="subtype_no_language_colemak">"Abjad (Colemak)"</string>
+  
+  <string name="subtype_no_language_pcqwerty">"Abjad (PC)"</string>
+  
+  <string name="subtype_emoji">"Emoji"</string>
+  
+  <string name="cancel">"Batal"</string>
+  
+  <string name="go_to_settings">"Tetapan"</string>
+  
+  <string name="install_dict">"Pasang"</string>
+  
+  <string name="cancel_download_dict">"Batal"</string>
+  
+  <string name="user_dict_settings_add_menu_title">"tambah"</string>
+  
+  <string name="user_dict_settings_add_dialog_title">"Tambah ke kamus"</string>
+  
+  <string name="user_dict_settings_add_screen_title">"Frasa"</string>
+  
+  <string name="user_dict_settings_add_dialog_more_options">"Lagi pilihan"</string>
+  
+  <string name="user_dict_settings_add_dialog_less_options">"Kurang pilihan"</string>
+  
+  <string name="user_dict_settings_add_dialog_confirm">"OK"</string>
+  
+  <string name="user_dict_settings_add_word_option_name">"Perkataan:"</string>
+  
+  <string name="user_dict_settings_add_shortcut_option_name">"Pintasan:"</string>
+  
+  <string name="user_dict_settings_add_locale_option_name">"Bahasa:"</string>
+  
+  <string name="user_dict_settings_add_word_hint">"Taip perkataan"</string>
+  
+  <string name="user_dict_settings_add_shortcut_hint">"Pintasan pilihan"</string>
+  
+  <string name="user_dict_settings_edit_dialog_title">"Edit perkataan"</string>
+  
+  <string name="user_dict_settings_context_menu_edit_title">"Edit"</string>
+  
+  <string name="user_dict_settings_context_menu_delete_title">"Padam"</string>
+  
+  <string name="user_dict_settings_empty_text">"Anda tiada sebarang perkataan dalam kamus pengguna. Untuk menambahkan perkataan, ketik butang Tambah (+)."</string>
+  
+  <string name="user_dict_settings_all_languages">"Untuk semua bahasa"</string>
+  
+  <string name="user_dict_settings_more_languages">"Lebih banyak bahasa..."</string>
+  
+  <string name="user_dict_settings_delete">"Padam"</string>
+  
+  <string name="user_dict_fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+</resources>

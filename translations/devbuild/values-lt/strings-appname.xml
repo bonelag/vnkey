@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+  <string name="english_ime_name">FUTO klaviatūra [eksperimentinė versija]</string>
+  
+  <string name="spell_checker_service_name">FUTO rašybos tikrintuvas [eksperimentinė versija]</string>
+  
+  <string name="english_ime_settings">FUTO klaviatūros nustatymai [eksperimentinė versija]</string>
+  
+  <string name="android_spell_checker_settings">FUTO rašybos tikrintuvo nustatymai [eksperimentinė versija]</string>
+</resources>

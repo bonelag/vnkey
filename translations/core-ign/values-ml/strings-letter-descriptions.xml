@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"ഫെമിനൈൻ ഓർഡിനൽ ഇൻഡിക്കേറ്റർ"</string>
+  
+  <string name="spoken_accented_letter_00B5">"മൈക്രോ ചിഹ്നം"</string>
+  
+  <string name="spoken_accented_letter_00BA">"മാസ്‌കുലിൻ ഓർഡിനൽ ഇൻഡിക്കേറ്റർ"</string>
+  
+  <string name="spoken_accented_letter_00DF">"ഷാർപ്പ് S"</string>
+  
+  <string name="spoken_accented_letter_00E0">"A, ഗ്രേവ്"</string>
+  
+  <string name="spoken_accented_letter_00E1">"A, അക്യൂട്ട്"</string>
+  
+  <string name="spoken_accented_letter_00E2">"A, സർക്കംഫ്‌ലെക്‌സ്"</string>
+  
+  <string name="spoken_accented_letter_00E3">"A, ടിൽഡ്"</string>
+  
+  <string name="spoken_accented_letter_00E4">"A, ഡയേറിസിസ്"</string>
+  
+  <string name="spoken_accented_letter_00E5">"A, മുകളിൽ റിംഗ്"</string>
+  
+  <string name="spoken_accented_letter_00E6">"A, E, ലിഗാച്ചർ"</string>
+  
+  <string name="spoken_accented_letter_00E7">"C, സെഡില്ലാ"</string>
+  
+  <string name="spoken_accented_letter_00E8">"E, ഗ്രേവ്"</string>
+  
+  <string name="spoken_accented_letter_00E9">"E, അക്യൂട്ട്"</string>
+  
+  <string name="spoken_accented_letter_00EA">"E, സർക്കംഫ്ലെക്‌സ്"</string>
+  
+  <string name="spoken_accented_letter_00EB">"E, ഡയേറിസിസ്"</string>
+  
+  <string name="spoken_accented_letter_00EC">"I, ഗ്രേവ്"</string>
+  
+  <string name="spoken_accented_letter_00ED">"I, അക്യൂട്ട്"</string>
+  
+  <string name="spoken_accented_letter_00EE">"I, സർക്കംഫ്ലെക്‌സ്"</string>
+  
+  <string name="spoken_accented_letter_00EF">"I, ഡയേറിസിസ്"</string>
+  
+  <string name="spoken_accented_letter_00F0">"എത്ത്"</string>
+  
+  <string name="spoken_accented_letter_00F1">"N, ടിൽഡ്"</string>
+  
+  <string name="spoken_accented_letter_00F2">"O, ഗ്രേവ്"</string>
+  
+  <string name="spoken_accented_letter_00F3">"O, അക്യൂട്ട്"</string>
+  
+  <string name="spoken_accented_letter_00F4">"O, സർക്കംഫ്ലെക്‌സ്"</string>
+  
+  <string name="spoken_accented_letter_00F5">"O, ടിൽഡ്"</string>
+  
+  <string name="spoken_accented_letter_00F6">"O, ഡയേറിസിസ്"</string>
+  
+  <string name="spoken_accented_letter_00F8">"O, സ്ട്രോക്ക്"</string>
+  
+  <string name="spoken_accented_letter_00F9">"U, ഗ്രേവ്"</string>
+  
+  <string name="spoken_accented_letter_00FA">"U, അക്യൂട്ട്"</string>
+  
+  <string name="spoken_accented_letter_00FB">"U, സർക്കംഫ്ലെക്‌സ്"</string>
+  
+  <string name="spoken_accented_letter_00FC">"U, ഡയേറിസിസ്"</string>
+  
+  <string name="spoken_accented_letter_00FD">"Y, അക്യൂട്ട്"</string>
+  
+  <string name="spoken_accented_letter_00FE">"തോൺ"</string>
+  
+  <string name="spoken_accented_letter_00FF">"Y, ഡയേറിസിസ്"</string>
+  
+  <string name="spoken_accented_letter_0101">"A, മാക്രോൺ"</string>
+  
+  <string name="spoken_accented_letter_0103">"A, ബ്രീവ്"</string>
+  
+  <string name="spoken_accented_letter_0105">"A, ഒഗോനെക്"</string>
+  
+  <string name="spoken_accented_letter_0107">"C, അക്യൂട്ട്"</string>
+  
+  <string name="spoken_accented_letter_0109">"C, സർക്കംഫ്ലെക്‌സ്"</string>
+  
+  <string name="spoken_accented_letter_010B">"C, മുകളിൽ ഡോട്ട്"</string>
+  
+  <string name="spoken_accented_letter_010D">"C, കറോൺ"</string>
+  
+  <string name="spoken_accented_letter_010F">"D, കറോൺ"</string>
+  
+  <string name="spoken_accented_letter_0111">"D, സ്ട്രോക്ക്"</string>
+  
+  <string name="spoken_accented_letter_0113">"E, മാക്രോൺ"</string>
+  
+  <string name="spoken_accented_letter_0115">"E, ബ്രീവ്"</string>
+  
+  <string name="spoken_accented_letter_0117">"E, മുകളിൽ ഡോട്ട്"</string>
+  
+  <string name="spoken_accented_letter_0119">"E, ഒഗോനെക്"</string>
+  
+  <string name="spoken_accented_letter_011B">"E, കറോൺ"</string>
+  
+  <string name="spoken_accented_letter_011D">"G, സർക്കംഫ്ലെക്‌സ്"</string>
+  
+  <string name="spoken_accented_letter_011F">"G, ബ്രീവ്"</string>
+  
+  <string name="spoken_accented_letter_0121">"G, മുകളിൽ ഡോട്ട്"</string>
+  
+  <string name="spoken_accented_letter_0123">"G, സെഡില്ല"</string>
+  
+  <string name="spoken_accented_letter_0125">"H, സർക്കംഫ്ലെക്‌സ്"</string>
+  
+  <string name="spoken_accented_letter_0127">"H, സ്ട്രോക്ക്"</string>
+  
+  <string name="spoken_accented_letter_0129">"I, ടിൽഡ്"</string>
+  
+  <string name="spoken_accented_letter_012B">"I, മാക്രോൺ"</string>
+  
+  <string name="spoken_accented_letter_012D">"I, ബ്രീവ്"</string>
+  
+  <string name="spoken_accented_letter_012F">"I, ഒഗോനെക്"</string>
+  
+  <string name="spoken_accented_letter_0131">"ഡോട്ട് ഇല്ലാത്ത I"</string>
+  
+  <string name="spoken_accented_letter_0133">"I, J, ലിഗാച്ചർ"</string>
+  
+  <string name="spoken_accented_letter_0135">"J, സർക്കംഫ്ലെക്‌സ്"</string>
+  
+  <string name="spoken_accented_letter_0137">"K, സെഡില്ല"</string>
+  
+  <string name="spoken_accented_letter_0138">"ക്ര"</string>
+  
+  <string name="spoken_accented_letter_013A">"L, അക്യൂട്ട്"</string>
+  
+  <string name="spoken_accented_letter_013C">"L, സെഡില്ല"</string>
+  
+  <string name="spoken_accented_letter_013E">"L, കറോൺ"</string>
+  
+  <string name="spoken_accented_letter_0140">"L, മധ്യഭാഗത്തെ ഡോട്ട്"</string>
+  
+  <string name="spoken_accented_letter_0142">"L, സ്ട്രോക്ക്"</string>
+  
+  <string name="spoken_accented_letter_0144">"N, അക്യൂട്ട്"</string>
+  
+  <string name="spoken_accented_letter_0146">"N, സെഡില്ല"</string>
+  
+  <string name="spoken_accented_letter_0148">"N, കറോൺ"</string>
+  
+  <string name="spoken_accented_letter_0149">"N, വിശ്ലേഷത്തിന് മുമ്പ്"</string>
+  
+  <string name="spoken_accented_letter_014B">"ഇംഗ്"</string>
+  
+  <string name="spoken_accented_letter_014D">"O, മാക്രോൺ"</string>
+  
+  <string name="spoken_accented_letter_014F">"O, ബ്രീവ്"</string>
+  
+  <string name="spoken_accented_letter_0151">"O, ഇരട്ട അക്യൂട്ട്"</string>
+  
+  <string name="spoken_accented_letter_0153">"O, E, ലിഗാച്ചർ"</string>
+  
+  <string name="spoken_accented_letter_0155">"R, അക്യൂട്ട്"</string>
+  
+  <string name="spoken_accented_letter_0157">"R, സെഡില്ല"</string>
+  
+  <string name="spoken_accented_letter_0159">"R, കറോൺ"</string>
+  
+  <string name="spoken_accented_letter_015B">"S, അക്യൂട്ട്"</string>
+  
+  <string name="spoken_accented_letter_015D">"S, സർക്കംഫ്ലെക്‌സ്"</string>
+  
+  <string name="spoken_accented_letter_015F">"S, സെഡില്ല"</string>
+  
+  <string name="spoken_accented_letter_0161">"S, കറോൺ"</string>
+  
+  <string name="spoken_accented_letter_0163">"T, സെഡില്ല"</string>
+  
+  <string name="spoken_accented_letter_0165">"T, കറോൺ"</string>
+  
+  <string name="spoken_accented_letter_0167">"T, സ്ട്രോക്ക്"</string>
+  
+  <string name="spoken_accented_letter_0169">"U, ടിൽഡ്"</string>
+  
+  <string name="spoken_accented_letter_016B">"U, മാക്രോൺ"</string>
+  
+  <string name="spoken_accented_letter_016D">"U, ബ്രീവ്"</string>
+  
+  <string name="spoken_accented_letter_016F">"U, മുകളിൽ റിംഗ്"</string>
+  
+  <string name="spoken_accented_letter_0171">"U, ഇരട്ട അക്യൂട്ട്"</string>
+  
+  <string name="spoken_accented_letter_0173">"U, ഒഗോനെക്"</string>
+  
+  <string name="spoken_accented_letter_0175">"W, സർക്കംഫ്ലെക്‌സ്"</string>
+  
+  <string name="spoken_accented_letter_0177">"Y, സർക്കംഫ്ലെക്‌സ്"</string>
+  
+  <string name="spoken_accented_letter_017A">"Z, അക്യൂട്ട്"</string>
+  
+  <string name="spoken_accented_letter_017C">"Z, മുകളിൽ ഡോട്ട്"</string>
+  
+  <string name="spoken_accented_letter_017E">"Z, കറോൺ"</string>
+  
+  <string name="spoken_accented_letter_017F">"നീളമുള്ള S"</string>
+  
+  <string name="spoken_accented_letter_01A1">"O, ഹോൺ"</string>
+  
+  <string name="spoken_accented_letter_01B0">"U, ഹോൺ"</string>
+  
+  <string name="spoken_accented_letter_0219">"S, താഴെ കോമ"</string>
+  
+  <string name="spoken_accented_letter_021B">"T, താഴെ കോമ"</string>
+  
+  <string name="spoken_accented_letter_0259">"ഷ്വ"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"A, താഴെ ഡോട്ട്"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"A, മുകളിൽ ഹുക്ക്"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"A, സർക്കംഫ്ലെക്‌സും അക്യൂട്ടും"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"A, സർക്കംഫ്ലെക്‌സും ഗ്രേവും"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"A, സർക്കംഫ്ലെക്‌സും മുകളിൽ ഹുക്കും"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"A, സർക്കംഫ്ലെക്‌സും ടിൽഡും"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"A, സർക്കംഫ്ലെക്‌സും താഴെ ഡോട്ടും"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"A, ബ്രീവും അക്യൂട്ടും"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"A, ബ്രീവും ഗ്രേവും"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"A, ബ്രീവും മുകളിൽ ഹുക്കും"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"A, ബ്രീവും ടിൽഡും"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"A, ബ്രീവും താഴെ ഡോട്ടും"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"E, താഴെ ഡോട്ട്"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"E, മുകളിൽ ഹുക്ക്"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"E, ടിൽഡ്"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"E, സർക്കംഫ്ലെക്‌സും അക്യൂട്ടും"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"E, സർക്കംഫ്ലെക്‌സും ഗ്രേവും"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"E, സർക്കംഫ്ലെക്‌സും മുകളിൽ ഹുക്കും"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"E, സർക്കംഫ്ലെക്‌സും ടിൽഡും"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"E, സർക്കംഫ്ലെക്‌സും താഴെ ഡോട്ടും"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"I, മുകളിൽ ഹുക്ക്"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"I, താഴെ ഡോട്ട്"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"O, താഴെ ഡോട്ട്"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"O, മുകളിൽ ഹുക്ക്"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"O, സർക്കംഫ്ലെക്‌സും അക്യൂട്ടും"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"O, സർക്കംഫ്ലെക്‌സും ഗ്രേവും"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"O, സർക്കംഫ്ലെക്‌സും മുകളിൽ ഹുക്കും"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"O, സർക്കംഫ്ലെക്‌സും ടിൽഡും"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"O, സർക്കംഫ്ലെക്‌സും താഴെ ഡോട്ടും"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"O, ഹോണും അക്യൂട്ടും"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"O, ഹോണും ഗ്രേവും"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"O, ഹോണും മുകളിൽ ഹുക്കും"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"O, ഹോണും ടിൽഡും"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"O, ഹോണും താഴെ ഡോട്ടും"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"U, താഴെ ഡോട്ട്"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"U, മുകളിൽ ഹുക്ക്"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"U, ഹോണും അക്യൂട്ടും"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"U, ഹോണും ഗ്രേവും"</string>
+  
+  <string name="spoken_accented_letter_1EED">"U, ഹോണും മുകളിൽ ഹുക്കും"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"U, ഹോണും ടിൽഡും"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"U, ഹോണും താഴെ ഡോട്ടും"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"Y, ഗ്രേവ്"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"Y, താഴെ ഡോട്ട്"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"Y, മുകളിൽ ഹുക്ക്"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"Y, ടിൽഡ്"</string>
+  
+  <string name="spoken_symbol_00A1">"വിപരീത ആശ്‌ചര്യ ചിഹ്നം"</string>
+  
+  <string name="spoken_symbol_00AB">"ഇടതുഭാഗം സൂചിപ്പിക്കുന്ന ഇരട്ട കോൺ ഉദ്ദരണി ചിഹ്നം"</string>
+  
+  <string name="spoken_symbol_00B7">"മദ്ധ്യ ബിന്ദു"</string>
+  
+  <string name="spoken_symbol_00B9">"സൂപ്പർസ്‌ക്രിപ്‌റ്റ് വൺ"</string>
+  
+  <string name="spoken_symbol_00BB">"വലതുഭാഗം സൂചിപ്പിക്കുന്ന ഇരട്ട കോൺ ഉദ്ദരണി ചിഹ്നം"</string>
+  
+  <string name="spoken_symbol_00BF">"വിപരീത ഉദ്ദരണി ചിഹ്നം"</string>
+  
+  <string name="spoken_symbol_2018">"ഇടത് ഏക ഉദ്ദരണി ചിഹ്നം"</string>
+  
+  <string name="spoken_symbol_2019">"വലത് ഏക ഉദ്ദരണി ചിഹ്നം"</string>
+  
+  <string name="spoken_symbol_201A">"ഏക ലോ-9 ഉദ്ദരണി ചിഹ്നം"</string>
+  
+  <string name="spoken_symbol_201C">"ഇടത് ഇരട്ട ഉദ്ദരണി ചിഹ്നം"</string>
+  
+  <string name="spoken_symbol_201D">"വലത് ഇരട്ട ഉദ്ദരണി ചിഹ്നം"</string>
+  
+  <string name="spoken_symbol_2020">"ഡാഗർ"</string>
+  
+  <string name="spoken_symbol_2021">"ഇരട്ട ഡാഗർ"</string>
+  
+  <string name="spoken_symbol_2030">"പെർ മില്ലി ചിഹ്നം"</string>
+  
+  <string name="spoken_symbol_2032">"പ്രൈം"</string>
+  
+  <string name="spoken_symbol_2033">"ഇരട്ട പ്രൈം"</string>
+  
+  <string name="spoken_symbol_2039">"ഇടതുഭാഗം സൂചിപ്പിക്കുന്ന ഏക കോൺ ഉദ്ദരണി ചിഹ്നം"</string>
+  
+  <string name="spoken_symbol_203A">"വലതുഭാഗം സൂചിപ്പിക്കുന്ന ഏക കോൺ ഉദ്ദരണി ചിഹ്നം"</string>
+  
+  <string name="spoken_symbol_2074">"സൂപ്പർസ്‌ക്രിപ്‌റ്റ് നാല്"</string>
+  
+  <string name="spoken_symbol_207F">"സൂപ്പർസ്‌ക്രിപ്റ്റ് ലാറ്റിൻ ചെറിയക്ഷരം n"</string>
+  
+  <string name="spoken_symbol_20B1">"പെസോ ചിഹ്നം"</string>
+  
+  <string name="spoken_symbol_2105">"കെയർ ഓഫ്"</string>
+  
+  <string name="spoken_symbol_2192">"വലത്തേയ്ക്കുള്ള അമ്പടയാളം"</string>
+  
+  <string name="spoken_symbol_2193">"താഴേയ്ക്കുള്ള അമ്പടയാളം"</string>
+  
+  <string name="spoken_symbol_2205">"എംറ്റി സെറ്റ്"</string>
+  
+  <string name="spoken_symbol_2206">"വർദ്ധന"</string>
+  
+  <string name="spoken_symbol_2264">"ഇതിലും ചെറുത് അല്ലെങ്കിൽ ഇതിന് സമം"</string>
+  
+  <string name="spoken_symbol_2265">"ഇതിലും വലുത് അല്ലെങ്കിൽ ഇതിന് സമം"</string>
+  
+  <string name="spoken_symbol_2605">"ബ്ലാക്ക് സ്‌റ്റാർ"</string>
+</resources>

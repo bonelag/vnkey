@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">"Өту"</string>
+  
+  <string name="label_next_key">"Келесі"</string>
+  
+  <string name="label_previous_key">"Алдыңғы"</string>
+  
+  <string name="label_done_key">"Дайын"</string>
+  
+  <string name="label_send_key">"Жіберу"</string>
+  
+  <string name="label_search_key">"Іздеу"</string>
+  
+  <string name="label_pause_key">"Кідірту"</string>
+  
+  <string name="label_wait_key">"Күту"</string>
+</resources>

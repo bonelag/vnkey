@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">Đi</string>
+  
+  <string name="label_next_key">Tiếp</string>
+  
+  <string name="label_previous_key">Trước</string>
+  
+  <string name="label_done_key">Xong</string>
+  
+  <string name="label_send_key">Gửi</string>
+  
+  <string name="label_search_key">Tìm</string>
+  
+  <string name="label_pause_key">Dừng</string>
+  
+  <string name="label_wait_key">Chờ</string>
+</resources>

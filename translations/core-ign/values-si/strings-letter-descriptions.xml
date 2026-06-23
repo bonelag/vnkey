@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"ස්ත්‍රී ක්‍රමාංකය දර්ශකය"</string>
+  
+  <string name="spoken_accented_letter_00B5">"මයික්‍රො ලකුණ"</string>
+  
+  <string name="spoken_accented_letter_00BA">"පුරුෂ ක්‍රමාංකය දර්ශකය"</string>
+  
+  <string name="spoken_accented_letter_00DF">"සියුම් S"</string>
+  
+  <string name="spoken_accented_letter_00E0">"A, ගම්භීර"</string>
+  
+  <string name="spoken_accented_letter_00E1">"A, තියුණු"</string>
+  
+  <string name="spoken_accented_letter_00E2">"A, වකුටු"</string>
+  
+  <string name="spoken_accented_letter_00E3">"A, නාසික්‍ය"</string>
+  
+  <string name="spoken_accented_letter_00E4">"A, ස්වර"</string>
+  
+  <string name="spoken_accented_letter_00E5">"A, වළල්ලට ඉහළ"</string>
+  
+  <string name="spoken_accented_letter_00E6">"A, E, බැම්ම"</string>
+  
+  <string name="spoken_accented_letter_00E7">"C, සකාර ලකුණ"</string>
+  
+  <string name="spoken_accented_letter_00E8">"E, ගම්භීර"</string>
+  
+  <string name="spoken_accented_letter_00E9">"E, තියුණු"</string>
+  
+  <string name="spoken_accented_letter_00EA">"E, වකුටු"</string>
+  
+  <string name="spoken_accented_letter_00EB">"E, ස්වර"</string>
+  
+  <string name="spoken_accented_letter_00EC">"I, ගම්භීර"</string>
+  
+  <string name="spoken_accented_letter_00ED">"I, තියුණු"</string>
+  
+  <string name="spoken_accented_letter_00EE">"I, වකුටු"</string>
+  
+  <string name="spoken_accented_letter_00EF">"I, ස්වර"</string>
+  
+  <string name="spoken_accented_letter_00F0">"එත්"</string>
+  
+  <string name="spoken_accented_letter_00F1">"N, නාසික්‍ය"</string>
+  
+  <string name="spoken_accented_letter_00F2">"O, ගම්භීර"</string>
+  
+  <string name="spoken_accented_letter_00F3">"O, තියුණු"</string>
+  
+  <string name="spoken_accented_letter_00F4">"O, වකුටු"</string>
+  
+  <string name="spoken_accented_letter_00F5">"O, නාසික්‍ය"</string>
+  
+  <string name="spoken_accented_letter_00F6">"O, ස්වර"</string>
+  
+  <string name="spoken_accented_letter_00F8">"O, වාරය"</string>
+  
+  <string name="spoken_accented_letter_00F9">"U, ගම්භීර"</string>
+  
+  <string name="spoken_accented_letter_00FA">"U, තියුණු"</string>
+  
+  <string name="spoken_accented_letter_00FB">"U, වකුටු"</string>
+  
+  <string name="spoken_accented_letter_00FC">"U, ස්වර"</string>
+  
+  <string name="spoken_accented_letter_00FD">"Y, තියුණු"</string>
+  
+  <string name="spoken_accented_letter_00FE">"කටුව"</string>
+  
+  <string name="spoken_accented_letter_00FF">"Y, ස්වර"</string>
+  
+  <string name="spoken_accented_letter_0101">"A, මුද්‍රිත"</string>
+  
+  <string name="spoken_accented_letter_0103">"A, බ්‍රේව්"</string>
+  
+  <string name="spoken_accented_letter_0105">"A, ඔගොනෙක්"</string>
+  
+  <string name="spoken_accented_letter_0107">"C, තියුණු"</string>
+  
+  <string name="spoken_accented_letter_0109">"C, වකුටු"</string>
+  
+  <string name="spoken_accented_letter_010B">"C, ඉහළින් තිත"</string>
+  
+  <string name="spoken_accented_letter_010D">"C, කරෝන්"</string>
+  
+  <string name="spoken_accented_letter_010F">"D, කරෝන්"</string>
+  
+  <string name="spoken_accented_letter_0111">"D, වාරය"</string>
+  
+  <string name="spoken_accented_letter_0113">"E, මුද්‍රිත"</string>
+  
+  <string name="spoken_accented_letter_0115">"E, බ්‍රේව්"</string>
+  
+  <string name="spoken_accented_letter_0117">"E, ඉහළින් තිත"</string>
+  
+  <string name="spoken_accented_letter_0119">"E, ඔගොනෙක්"</string>
+  
+  <string name="spoken_accented_letter_011B">"E, කරෝන්"</string>
+  
+  <string name="spoken_accented_letter_011D">"G, වකුටු"</string>
+  
+  <string name="spoken_accented_letter_011F">"G, බ්‍රේව්"</string>
+  
+  <string name="spoken_accented_letter_0121">"G, ඉහළින් තිත"</string>
+  
+  <string name="spoken_accented_letter_0123">"G, සකාර ලකුණ"</string>
+  
+  <string name="spoken_accented_letter_0125">"H, වකුටු"</string>
+  
+  <string name="spoken_accented_letter_0127">"H, වාරය"</string>
+  
+  <string name="spoken_accented_letter_0129">"I, නාසික්‍ය"</string>
+  
+  <string name="spoken_accented_letter_012B">"I, මුද්‍රිත"</string>
+  
+  <string name="spoken_accented_letter_012D">"I, බ්‍රේව්"</string>
+  
+  <string name="spoken_accented_letter_012F">"I, ඔගොනෙක්"</string>
+  
+  <string name="spoken_accented_letter_0131">"තිත නැති I"</string>
+  
+  <string name="spoken_accented_letter_0133">"I, J, බැම්ම"</string>
+  
+  <string name="spoken_accented_letter_0135">"J, වකුටු"</string>
+  
+  <string name="spoken_accented_letter_0137">"K, සකාර ලකුණ"</string>
+  
+  <string name="spoken_accented_letter_0138">"ක්‍ර"</string>
+  
+  <string name="spoken_accented_letter_013A">"L, තියුණු"</string>
+  
+  <string name="spoken_accented_letter_013C">"L, සකාර ලකුණ"</string>
+  
+  <string name="spoken_accented_letter_013E">"L, කරෝන්"</string>
+  
+  <string name="spoken_accented_letter_0140">"L, මැද තිත"</string>
+  
+  <string name="spoken_accented_letter_0142">"L, වාරය"</string>
+  
+  <string name="spoken_accented_letter_0144">"N, තියුණු"</string>
+  
+  <string name="spoken_accented_letter_0146">"N, සකාර ලකුණ"</string>
+  
+  <string name="spoken_accented_letter_0148">"N, කරෝන්"</string>
+  
+  <string name="spoken_accented_letter_0149">"N, පෙර මඟින් ආමන්ත්‍රණයක්"</string>
+  
+  <string name="spoken_accented_letter_014B">"එන්ග්"</string>
+  
+  <string name="spoken_accented_letter_014D">"O, මුද්‍රිත"</string>
+  
+  <string name="spoken_accented_letter_014F">"O, බ්‍රේව්"</string>
+  
+  <string name="spoken_accented_letter_0151">"O, ද්විත්ව තියුණු"</string>
+  
+  <string name="spoken_accented_letter_0153">"O, E, බැම්ම"</string>
+  
+  <string name="spoken_accented_letter_0155">"R, තියුණු"</string>
+  
+  <string name="spoken_accented_letter_0157">"R, සකාර ලකුණ"</string>
+  
+  <string name="spoken_accented_letter_0159">"R, කරෝන්"</string>
+  
+  <string name="spoken_accented_letter_015B">"S, තියුණු"</string>
+  
+  <string name="spoken_accented_letter_015D">"S, වකුටු"</string>
+  
+  <string name="spoken_accented_letter_015F">"S, සකාර ලකුණ"</string>
+  
+  <string name="spoken_accented_letter_0161">"S, කරෝන්"</string>
+  
+  <string name="spoken_accented_letter_0163">"T, සකාර ලකුණ"</string>
+  
+  <string name="spoken_accented_letter_0165">"T, කරෝන්"</string>
+  
+  <string name="spoken_accented_letter_0167">"T, වාරය"</string>
+  
+  <string name="spoken_accented_letter_0169">"U, නාසික්‍ය"</string>
+  
+  <string name="spoken_accented_letter_016B">"U, මුද්‍රිත"</string>
+  
+  <string name="spoken_accented_letter_016D">"U, බ්‍රේව්"</string>
+  
+  <string name="spoken_accented_letter_016F">"U, වළල්ලට ඉහළ"</string>
+  
+  <string name="spoken_accented_letter_0171">"U, ද්විත්ව තියුණු"</string>
+  
+  <string name="spoken_accented_letter_0173">"U, ඔගොනෙක්"</string>
+  
+  <string name="spoken_accented_letter_0175">"W, වකුටු"</string>
+  
+  <string name="spoken_accented_letter_0177">"Y, වකුටු"</string>
+  
+  <string name="spoken_accented_letter_017A">"Z, තියුණු"</string>
+  
+  <string name="spoken_accented_letter_017C">"Z, ඉහළින් තිත"</string>
+  
+  <string name="spoken_accented_letter_017E">"Z, කරෝන්"</string>
+  
+  <string name="spoken_accented_letter_017F">"දිග S"</string>
+  
+  <string name="spoken_accented_letter_01A1">"O, අං"</string>
+  
+  <string name="spoken_accented_letter_01B0">"U, අං"</string>
+  
+  <string name="spoken_accented_letter_0219">"S, පහළ කොමාව"</string>
+  
+  <string name="spoken_accented_letter_021B">"T, පහළ කොමාව"</string>
+  
+  <string name="spoken_accented_letter_0259">"ස්චාව"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"A, පහළ තිත"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"A, ඉහළ කොක්ක"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"A, වකුටු සහ තියුණු"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"A, වකුටු සහ ගම්භීර"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"A, වකුටු සහ ඉහළ කොක්ක"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"A, වකුටු සහ නාසික්‍ය"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"A, වකුටු සහ පහළ තිත"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"A, බ්‍රේව් සහ තියුණු"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"A, බ්‍රේව් සහ ගම්භීර"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"A, බ්‍රේව් සහ පහළ කොක්ක"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"A, බ්‍රේව් සහ නාසික්‍ය"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"A, බ්‍රේව් සහ පහළ තිත"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"E, පහළ තිත"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"E, ඉහළ කොක්ක"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"E, නාසික්‍ය"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"E, වකුටු සහ තියුණු"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"E, වකුටු සහ ගම්භීර"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"E, වකුටු සහ ඉහළ කොක්ක"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"E, වකුටු සහ නාසික්‍ය"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"E, වකුටු සහ පහළ තිත"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"I, ඉහළ කොක්ක"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"I, පහළ තිත"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"O, පහළ තිත"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"O, ඉහළ කොක්ක"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"O, වකුටු සහ තියුණු"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"O, වකුටු සහ ගම්භීර"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"O, වකුටු සහ ඉහළ කොක්ක"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"O, වකුටු සහ නාසික්‍ය"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"O, වකුටු සහ පහළ තිත"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"O, අං සහ තියුණු"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"O, අං සහ ගම්භීර"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"O, අං සහ ඉහළ කොක්ක"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"O, අං සහ නාසික්‍ය"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"O, අං සහ පහළ තිත"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"U, පහළ තිත"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"U, ඉහළ කොක්ක"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"U, අං සහ තියුණු"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"U, අං සහ ගම්භීර"</string>
+  
+  <string name="spoken_accented_letter_1EED">"U, අං සහ ඉහළ කොක්ක"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"U, අං සහ නාසික්‍ය"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"U, අං සහ පහළ තිත"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"Y, ගම්භීර"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"Y, පහළ තිත"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"Y, ඉහළ කොක්ක"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"Y, නාසික්‍ය"</string>
+  
+  <string name="spoken_symbol_00A1">"යටිකුරු කළ හර්ෂදී ලකුණ"</string>
+  
+  <string name="spoken_symbol_00AB">"වමට-ලක්ෂ ගත ද්විත්ව අනාත කළ උද්ධෘත ලකුණ"</string>
+  
+  <string name="spoken_symbol_00B7">"මැද තිත"</string>
+  
+  <string name="spoken_symbol_00B9">"උඩු ලකුණු එක"</string>
+  
+  <string name="spoken_symbol_00BB">"දකුණට-ලක්ෂ ගත ද්විත්ව අනාත කළ උද්ධෘත ලකුණ"</string>
+  
+  <string name="spoken_symbol_00BF">"යටිකුරු කළ ප්‍රශ්ණාර්ථ ලකුණ"</string>
+  
+  <string name="spoken_symbol_2018">"වම් ද්විත්ව උද්ධෘත ලකුණ"</string>
+  
+  <string name="spoken_symbol_2019">"දකුණු තනි උද්ධෘත ලකුණ"</string>
+  
+  <string name="spoken_symbol_201A">"තනි 9-අඩු උද්ධෘත ලකුණ"</string>
+  
+  <string name="spoken_symbol_201C">"වම් ද්විත්ව උද්ධෘත ලකුණ"</string>
+  
+  <string name="spoken_symbol_201D">"දකුණු ද්විත්ව උද්ධෘත ලකුණ"</string>
+  
+  <string name="spoken_symbol_2020">"සිරිය"</string>
+  
+  <string name="spoken_symbol_2021">"ද්විත්ව සිරිය"</string>
+  
+  <string name="spoken_symbol_2030">"මිල්ලේ ලකුණ"</string>
+  
+  <string name="spoken_symbol_2032">"මූලික"</string>
+  
+  <string name="spoken_symbol_2033">"ද්විත්ව මූලික"</string>
+  
+  <string name="spoken_symbol_2039">"තනි වමට-ලක්ෂ ගත අනාත කළ උද්ධෘත ලකුණ"</string>
+  
+  <string name="spoken_symbol_203A">"තනිව දකුණට-ලක්ෂ ගත අනාත කළ උද්ධෘත ලකුණ"</string>
+  
+  <string name="spoken_symbol_2074">"උඩු ලකුණු හතර"</string>
+  
+  <string name="spoken_symbol_207F">"උඩු ලකුණු ලතින් කුඩා n අකුර"</string>
+  
+  <string name="spoken_symbol_20B1">"පෙසෝ ලකුණ"</string>
+  
+  <string name="spoken_symbol_2105">"බාරේ"</string>
+  
+  <string name="spoken_symbol_2192">"දකුණට ඇති ඊතලය"</string>
+  
+  <string name="spoken_symbol_2193">"කළු ඊතලය"</string>
+  
+  <string name="spoken_symbol_2205">"හිස් කුලකය"</string>
+  
+  <string name="spoken_symbol_2206">"වැඩිවීම"</string>
+  
+  <string name="spoken_symbol_2264">"කුඩා හෝ සමානයි"</string>
+  
+  <string name="spoken_symbol_2265">"විශාලයි  හෝ සමානයි"</string>
+  
+  <string name="spoken_symbol_2605">"කළු තුරු"</string>
+</resources>

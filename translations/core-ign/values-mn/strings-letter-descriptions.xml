@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"Эм хүйсийн дугаар заагч"</string>
+  
+  <string name="spoken_accented_letter_00B5">"Микро тэмдэг"</string>
+  
+  <string name="spoken_accented_letter_00BA">"Эр хүйсийн дугаар заагч"</string>
+  
+  <string name="spoken_accented_letter_00DF">"Хурц S"</string>
+  
+  <string name="spoken_accented_letter_00E0">"А, зүүн малгайтай"</string>
+  
+  <string name="spoken_accented_letter_00E1">"А, баруун малгайтай"</string>
+  
+  <string name="spoken_accented_letter_00E2">"А, дээвэр малгайтай"</string>
+  
+  <string name="spoken_accented_letter_00E3">"А, долгионтой"</string>
+  
+  <string name="spoken_accented_letter_00E4">"А, хоёр цэгтэй"</string>
+  
+  <string name="spoken_accented_letter_00E5">"A, дээрээ цагирагтай"</string>
+  
+  <string name="spoken_accented_letter_00E6">"A, E, залгагдсан"</string>
+  
+  <string name="spoken_accented_letter_00E7">"C, дэвсгэртэй"</string>
+  
+  <string name="spoken_accented_letter_00E8">"E, зүүн малгайтай"</string>
+  
+  <string name="spoken_accented_letter_00E9">"E, баруун малгайтай"</string>
+  
+  <string name="spoken_accented_letter_00EA">"E, дээвэр малгайтай"</string>
+  
+  <string name="spoken_accented_letter_00EB">"E, хоёр цэгтэй"</string>
+  
+  <string name="spoken_accented_letter_00EC">"I, зүүн малгайтай"</string>
+  
+  <string name="spoken_accented_letter_00ED">"I, баруун малгайтай"</string>
+  
+  <string name="spoken_accented_letter_00EE">"I, дээвэр малгайтай"</string>
+  
+  <string name="spoken_accented_letter_00EF">"I, хоёр цэгтэй"</string>
+  
+  <string name="spoken_accented_letter_00F0">"Зураастай ди"</string>
+  
+  <string name="spoken_accented_letter_00F1">"N, долгионтой"</string>
+  
+  <string name="spoken_accented_letter_00F2">"O, зүүн малгайтай"</string>
+  
+  <string name="spoken_accented_letter_00F3">"O, баруун малгайтай"</string>
+  
+  <string name="spoken_accented_letter_00F4">"O, дээвэр малгайтай"</string>
+  
+  <string name="spoken_accented_letter_00F5">"O, долгионтой"</string>
+  
+  <string name="spoken_accented_letter_00F6">"O, хоёр цэгтэй"</string>
+  
+  <string name="spoken_accented_letter_00F8">"O, хөндлөн зураастай"</string>
+  
+  <string name="spoken_accented_letter_00F9">"U, зүүн малгайтай"</string>
+  
+  <string name="spoken_accented_letter_00FA">"U, баруун малгайтай"</string>
+  
+  <string name="spoken_accented_letter_00FB">"U, дээвэр малгайтай"</string>
+  
+  <string name="spoken_accented_letter_00FC">"U, хоёр цэгтэй"</string>
+  
+  <string name="spoken_accented_letter_00FD">"Y, баруун малгайтай"</string>
+  
+  <string name="spoken_accented_letter_00FE">"Гэдэстэй багана"</string>
+  
+  <string name="spoken_accented_letter_00FF">"Y, хоёр цэгтэй"</string>
+  
+  <string name="spoken_accented_letter_0101">"A, хөндлөн малгайтай"</string>
+  
+  <string name="spoken_accented_letter_0103">"А, тавган малгайтай"</string>
+  
+  <string name="spoken_accented_letter_0105">"А, сүүлтэй"</string>
+  
+  <string name="spoken_accented_letter_0107">"C, баруун малгайтай"</string>
+  
+  <string name="spoken_accented_letter_0109">"C, дээвэр малгайтай"</string>
+  
+  <string name="spoken_accented_letter_010B">"С, дээрээ цэгтэй"</string>
+  
+  <string name="spoken_accented_letter_010D">"C, аяган малгайтай"</string>
+  
+  <string name="spoken_accented_letter_010F">"D, аяган малгайтай"</string>
+  
+  <string name="spoken_accented_letter_0111">"D, хөндлөн зураастай"</string>
+  
+  <string name="spoken_accented_letter_0113">"E, хөндлөн малгайтай"</string>
+  
+  <string name="spoken_accented_letter_0115">"E, тавган малгайтай"</string>
+  
+  <string name="spoken_accented_letter_0117">"E, дээрээ цэгтэй"</string>
+  
+  <string name="spoken_accented_letter_0119">"E, сүүлтэй"</string>
+  
+  <string name="spoken_accented_letter_011B">"E, аяган малгайтай"</string>
+  
+  <string name="spoken_accented_letter_011D">"G, дээвэр малгайтай"</string>
+  
+  <string name="spoken_accented_letter_011F">"G, тавган малгайтай"</string>
+  
+  <string name="spoken_accented_letter_0121">"G, дээрээ цэгтэй"</string>
+  
+  <string name="spoken_accented_letter_0123">"G, дэвсгэртэй"</string>
+  
+  <string name="spoken_accented_letter_0125">"H, дээвэр малгайтай"</string>
+  
+  <string name="spoken_accented_letter_0127">"H, хөндлөн зураастай"</string>
+  
+  <string name="spoken_accented_letter_0129">"I, долгионтой"</string>
+  
+  <string name="spoken_accented_letter_012B">"I, хөндлөн малгайтай"</string>
+  
+  <string name="spoken_accented_letter_012D">"I, тавган малгайтай"</string>
+  
+  <string name="spoken_accented_letter_012F">"I, сүүлтэй"</string>
+  
+  <string name="spoken_accented_letter_0131">"Цэггүй I"</string>
+  
+  <string name="spoken_accented_letter_0133">"I, J, залгагдсан"</string>
+  
+  <string name="spoken_accented_letter_0135">"J, дээвэр малгайтай"</string>
+  
+  <string name="spoken_accented_letter_0137">"K, дэвсгэртэй"</string>
+  
+  <string name="spoken_accented_letter_0138">"Кра"</string>
+  
+  <string name="spoken_accented_letter_013A">"L, баруун малгайтай"</string>
+  
+  <string name="spoken_accented_letter_013C">"L, дэвсгэртэй"</string>
+  
+  <string name="spoken_accented_letter_013E">"L, аяган малгайтай"</string>
+  
+  <string name="spoken_accented_letter_0140">"L, дунд цэгтэй"</string>
+  
+  <string name="spoken_accented_letter_0142">"L, хөндлөн зураастай"</string>
+  
+  <string name="spoken_accented_letter_0144">"N, баруун малгайтай"</string>
+  
+  <string name="spoken_accented_letter_0146">"N, дэвсгэртэй"</string>
+  
+  <string name="spoken_accented_letter_0148">"N, аяган малгайтай"</string>
+  
+  <string name="spoken_accented_letter_0149">"N,"</string>
+  
+  <string name="spoken_accented_letter_014B">"Инг"</string>
+  
+  <string name="spoken_accented_letter_014D">"O, хөндлөн малгайтай"</string>
+  
+  <string name="spoken_accented_letter_014F">"O, тавган малгайтай"</string>
+  
+  <string name="spoken_accented_letter_0151">"O, давхар баруун малгайтай"</string>
+  
+  <string name="spoken_accented_letter_0153">"O, E, залгагдсан"</string>
+  
+  <string name="spoken_accented_letter_0155">"R, баруун малгайтай"</string>
+  
+  <string name="spoken_accented_letter_0157">"R, дэвсгэртэй"</string>
+  
+  <string name="spoken_accented_letter_0159">"R, аяган малгайтай"</string>
+  
+  <string name="spoken_accented_letter_015B">"S, баруун малгайтай"</string>
+  
+  <string name="spoken_accented_letter_015D">"S, дээвэр малгайтай"</string>
+  
+  <string name="spoken_accented_letter_015F">"S, дэвсгэртэй"</string>
+  
+  <string name="spoken_accented_letter_0161">"S, аяган малгайтай"</string>
+  
+  <string name="spoken_accented_letter_0163">"T, дэвсгэртэй"</string>
+  
+  <string name="spoken_accented_letter_0165">"T, аяган малгайтай"</string>
+  
+  <string name="spoken_accented_letter_0167">"T, хөндлөн зураастай"</string>
+  
+  <string name="spoken_accented_letter_0169">"U, долгионтой"</string>
+  
+  <string name="spoken_accented_letter_016B">"U, хөндлөн малгайтай"</string>
+  
+  <string name="spoken_accented_letter_016D">"U, тавган малгайтай"</string>
+  
+  <string name="spoken_accented_letter_016F">"U, дээрээ цагирагтай"</string>
+  
+  <string name="spoken_accented_letter_0171">"U, давхар баруун малгайтай"</string>
+  
+  <string name="spoken_accented_letter_0173">"U, сүүлтэй"</string>
+  
+  <string name="spoken_accented_letter_0175">"W, дээвэр малгайтай"</string>
+  
+  <string name="spoken_accented_letter_0177">"Y, дээвэр малгайтай"</string>
+  
+  <string name="spoken_accented_letter_017A">"Z, баруун малгайтай"</string>
+  
+  <string name="spoken_accented_letter_017C">"Z, дээрээ цэгтэй"</string>
+  
+  <string name="spoken_accented_letter_017E">"Z, аяган малгайтай"</string>
+  
+  <string name="spoken_accented_letter_017F">"Урт S"</string>
+  
+  <string name="spoken_accented_letter_01A1">"O, эвэртэй"</string>
+  
+  <string name="spoken_accented_letter_01B0">"U, эвэртэй"</string>
+  
+  <string name="spoken_accented_letter_0219">"S, доор таслалтай"</string>
+  
+  <string name="spoken_accented_letter_021B">"T, доор таслалтай"</string>
+  
+  <string name="spoken_accented_letter_0259">"Шва"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"А, доор цэгтэй"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"А, дээр дэгээтэй"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"A, дээвэр болон баруун малгайтай"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"А, дээвэр болон зүүн малгайтай"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"А, дээвэр болон дээр дэгээтэй"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"А, дээвэр болон долгионтой"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"А, дээвэр болон доор цэгтэй"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"А, тавган болон баруун малгайтай"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"А, тавган болон зүүн малгайтай"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"А, тавган болон дээр дэгээтэй"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"А, тавган болон долгионтой"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"А, тавган болон доор цэгтэй"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"E, доор цэгтэй"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"E, дээр дэгээтэй"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"E, долгионтой"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"E, дээвэр болон баруун малгайтай"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"E, дээвэр болон зүүн малгайтай"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"E, дээвэр болон дээр дэгээтэй"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"E, дээвэр болон долгионтой"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"E, дээвэр болон доор цэгтэй"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"I, дээр дэгээтэй"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"I, доор цэгтэй"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"O, доор цэгтэй"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"O, дээр дэгээтэй"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"O, дээвэр болон баруун малгайтай"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"O, дээвэр болон зүүн малгайтай"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"O, дээвэр болон дээр дэгээтэй"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"O, дээвэр болон долгионтой"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"O, дээвэр болон доор цэгтэй"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"O, эвэр болон баруун малгайтай"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"O, эвэр болон зүүн малгайтай"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"O, эвэр болон дээр дэгээтэй"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"O, эвэр болон долгионтой"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"O, эвэр болон доор цэгтэй"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"U, доор цэгтэй"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"U, дээр дэгээтэй"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"U, эвэр болон баруун малгайтай"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"U, эвэр болон зүүн малгайтай"</string>
+  
+  <string name="spoken_accented_letter_1EED">"U, эвэр болон дээр дэгээтэй"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"U, эвэр болон долгионтой"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"U, эвэр болон доор цэгтэй"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"Y, зүүн малгайтай"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"Y, доор цэгтэй"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"Y, дээр дэгээтэй"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"Y, долгионтой"</string>
+  
+  <string name="spoken_symbol_00A1">"Урвуу анхаарлын тэмдэг"</string>
+  
+  <string name="spoken_symbol_00AB">"Зүүн заасан давхар хашилт"</string>
+  
+  <string name="spoken_symbol_00B7">"Дунд цэг"</string>
+  
+  <string name="spoken_symbol_00B9">"Мөрний дээрх нэг"</string>
+  
+  <string name="spoken_symbol_00BB">"Баруун заасан давхар хашилт"</string>
+  
+  <string name="spoken_symbol_00BF">"Урвуу асуултын тэмдэг"</string>
+  
+  <string name="spoken_symbol_2018">"Зүүн дан хашилт"</string>
+  
+  <string name="spoken_symbol_2019">"Баруун дан хашилт"</string>
+  
+  <string name="spoken_symbol_201A">"Дан доогуур-9 хашилт"</string>
+  
+  <string name="spoken_symbol_201C">"Зүүн давхар хашилт"</string>
+  
+  <string name="spoken_symbol_201D">"Баруун давхар хашилт"</string>
+  
+  <string name="spoken_symbol_2020">"Чинжаал"</string>
+  
+  <string name="spoken_symbol_2021">"Давхар чинжаал"</string>
+  
+  <string name="spoken_symbol_2030">"Нэг мильд тэмдэг"</string>
+  
+  <string name="spoken_symbol_2032">"Штрих"</string>
+  
+  <string name="spoken_symbol_2033">"Давхар штрих"</string>
+  
+  <string name="spoken_symbol_2039">"Зүүн заасан дан хашилт"</string>
+  
+  <string name="spoken_symbol_203A">"Баруун заасан дан хашилт"</string>
+  
+  <string name="spoken_symbol_2074">"Мөрний дээрх дөрөв"</string>
+  
+  <string name="spoken_symbol_207F">"Мөрний дээрх жижиг латин n"</string>
+  
+  <string name="spoken_symbol_20B1">"Песо тэмдэг"</string>
+  
+  <string name="spoken_symbol_2105">"Анхааралд"</string>
+  
+  <string name="spoken_symbol_2192">"Баруун сум"</string>
+  
+  <string name="spoken_symbol_2193">"Доош сум"</string>
+  
+  <string name="spoken_symbol_2205">"Хоосон олонлог"</string>
+  
+  <string name="spoken_symbol_2206">"Өсөлт"</string>
+  
+  <string name="spoken_symbol_2264">"Бага буюу тэнцүү"</string>
+  
+  <string name="spoken_symbol_2265">"Их буюу тэнцүү"</string>
+  
+  <string name="spoken_symbol_2605">"Хар од"</string>
+</resources>

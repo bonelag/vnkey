@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="english_ime_input_options">Opções de entrada</string>
+  
+  <string name="vibrate_on_keypress">Vibrar ao toque</string>
+  
+  <string name="sound_on_keypress">Som ao toque</string>
+  
+  <string name="popup_on_keypress">Pop-up ao toque</string>
+  
+  <string name="show_language_switch_key">Tecla de alteração de idioma</string>
+  
+  <string name="abbreviation_unit_milliseconds">&lt;xliff:g id="MILLISECONDS"&gt;%s&lt;/xliff:g&gt;ms</string>
+  
+  <string name="use_personalized_dicts">Sugestões personalizadas</string>
+  
+  <string name="use_double_space_period">Ponto em espaço duplo</string>
+  
+  <string name="use_double_space_period_summary">Um toque duplo na barra de espaço insere um ponto seguido por um espaço</string>
+  
+  <string name="auto_cap">Maiúsculos automáticos</string>
+  
+  <string name="auto_cap_summary">Sempre deixar a primeira palavra de cada frase em maiúsculo</string>
+  
+  <string name="edit_personal_dictionary">Dicionário pessoal</string>
+  
+  <string name="prefs_show_suggestions">Mostrar sugestões de correção</string>
+  
+  <string name="prefs_show_suggestions_summary">Exibir palavras sugeridas ao digitar</string>
+  
+  <string name="prefs_block_potentially_offensive_title">Bloquear palavras ofensivas</string>
+  
+  <string name="prefs_block_potentially_offensive_summary">Não sugerir palavras potencialmente ofensivas</string>
+  
+  <string name="prefs_block_potentially_offensive_tags">palavrões, xingamentos, racismo, lista de bloqueio, preconceito, filtro, porra, caralho</string>
+  
+  <string name="auto_correction">Correção automática</string>
+  
+  <string name="auto_correction_summary">A barra de espaço e a pontuação corrigem palavras escritas incorretamente</string>
+  
+  <string name="auto_correction_tags">correção automática</string>
+  
+  <string name="bigram_prediction">Sugestões da próxima palavra</string>
+  
+  <string name="bigram_prediction_summary">Usar a palavra anterior ao criar sugestões</string>
+  
+  <string name="language_selection_title">Idiomas</string>
+  
+  <string name="select_language">Idiomas</string>
+  
+  <string name="subtype_en_GB">Inglês (Reino Unido)</string>
+  
+  <string name="subtype_en_US">Inglês (Estados Unidos)</string>
+  
+  <string name="subtype_es_US">Espanhol (Estados Unidos)</string>
+  
+  <string name="subtype_hi_ZZ">Hinglês</string>
+  <string name="subtype_hi__Latn">Hinglês</string>
+  
+  <string name="subtype_sr_ZZ">Sérvio (Latim)</string>
+  <string name="subtype_ipa">Alfabeto fonético internacional</string>
+  
+  <string name="subtype_with_layout_en_GB">Inglês (Reino Unido) (&lt;xliff:g id="KEYBOARD_LAYOUT" example="QWERTY"&gt;%s&lt;/xliff:g&gt;)</string>
+  
+  <string name="subtype_with_layout_en_US">Inglês (Estados Unidos) (&lt;xliff:g id="KEYBOARD_LAYOUT" example="QWERTY"&gt;%s&lt;/xliff:g&gt;)</string>
+  
+  <string name="subtype_with_layout_es_US">Espanhol (Estados Unidos) (&lt;xliff:g id="KEYBOARD_LAYOUT" example="QWERTY"&gt;%s&lt;/xliff:g&gt;)</string>
+  
+  <string name="subtype_with_layout_hi_ZZ">Hinglês (&lt;xliff:g id="KEYBOARD_LAYOUT" example="QWERTY"&gt;%s&lt;/xliff:g&gt;)</string>
+  
+  <string name="subtype_with_layout_sr_ZZ">Sérvio (&lt;xliff:g id="KEYBOARD_LAYOUT" example="QWERTY"&gt;%s&lt;/xliff:g&gt;)</string>
+  
+  <string name="subtype_generic_traditional">&lt;xliff:g id="LANGUAGE_NAME" example="Nepali"&gt;%s&lt;/xliff:g&gt; (Tradicional)</string>
+  
+  <string name="subtype_generic_compact">&lt;xliff:g id="LANGUAGE_NAME" example="Hindi"&gt;%s&lt;/xliff:g&gt; (Compacto)</string>
+  
+  <string name="subtype_no_language">Nenhum idioma (alfabeto)</string>
+  
+  <string name="subtype_no_language_qwerty">Alfabeto (QWERTY)</string>
+  
+  <string name="subtype_no_language_qwertz">Alfabeto (QWERTZ)</string>
+  
+  <string name="subtype_no_language_azerty">Alfabeto (AZERTY)</string>
+  
+  <string name="subtype_no_language_dvorak">Alfabeto (Dvorak)</string>
+  
+  <string name="subtype_no_language_colemak">Alfabeto (Colemak)</string>
+  
+  <string name="subtype_no_language_pcqwerty">Alfabeto (PC)</string>
+  
+  <string name="subtype_emoji">Emoji</string>
+  
+  <string name="cancel">Cancelar</string>
+  
+  <string name="go_to_settings">Configurações</string>
+  
+  <string name="install_dict">Instalar</string>
+  
+  <string name="cancel_download_dict">Cancelar</string>
+  
+  <string name="user_dict_settings_add_menu_title">Adicionar</string>
+  
+  <string name="user_dict_settings_add_dialog_title">Adicionar ao dicionário</string>
+  
+  <string name="user_dict_settings_add_screen_title">Frase</string>
+  
+  <string name="user_dict_settings_add_dialog_more_options">Mais opções</string>
+  
+  <string name="user_dict_settings_add_dialog_less_options">Menos opções</string>
+  
+  <string name="user_dict_settings_add_dialog_confirm">OK</string>
+  
+  <string name="user_dict_settings_add_word_option_name">Palavra:</string>
+  
+  <string name="user_dict_settings_add_shortcut_option_name">Atalho:</string>
+  
+  <string name="user_dict_settings_add_locale_option_name">Idioma:</string>
+  
+  <string name="user_dict_settings_add_word_hint">Digite uma palavra</string>
+  
+  <string name="user_dict_settings_add_shortcut_hint">Atalho opcional</string>
+  
+  <string name="user_dict_settings_edit_dialog_title">Editar palavra</string>
+  
+  <string name="user_dict_settings_context_menu_edit_title">Editar</string>
+  
+  <string name="user_dict_settings_context_menu_delete_title">Apagar</string>
+  
+  <string name="user_dict_settings_empty_text">Você não tem palavras no dicionário do usuário. Para adicionar uma palavra, toque no botão de Adicionar (+).</string>
+  
+  <string name="user_dict_settings_all_languages">Para todos os idiomas</string>
+  
+  <string name="user_dict_settings_more_languages">Mais idiomas…</string>
+  
+  <string name="user_dict_settings_delete">Apagar</string>
+  
+  <string name="user_dict_fast_scroll_alphabet">\u0020ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+</resources>

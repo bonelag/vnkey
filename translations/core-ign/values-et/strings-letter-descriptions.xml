@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"Järgarvu naissoost tähis"</string>
+  
+  <string name="spoken_accented_letter_00B5">"Mikro tähis"</string>
+  
+  <string name="spoken_accented_letter_00BA">"Järgarvu meessoost tähis"</string>
+  
+  <string name="spoken_accented_letter_00DF">"Terav S"</string>
+  
+  <string name="spoken_accented_letter_00E0">"A, graavis"</string>
+  
+  <string name="spoken_accented_letter_00E1">"A, akuut"</string>
+  
+  <string name="spoken_accented_letter_00E2">"A, tsirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_00E3">"A, tilde"</string>
+  
+  <string name="spoken_accented_letter_00E4">"A, treema"</string>
+  
+  <string name="spoken_accented_letter_00E5">"A, ülasõõr"</string>
+  
+  <string name="spoken_accented_letter_00E6">"A, E, ligatuur"</string>
+  
+  <string name="spoken_accented_letter_00E7">"C, sedii"</string>
+  
+  <string name="spoken_accented_letter_00E8">"E, graavis"</string>
+  
+  <string name="spoken_accented_letter_00E9">"E, akuut"</string>
+  
+  <string name="spoken_accented_letter_00EA">"E, tsirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_00EB">"E, treema"</string>
+  
+  <string name="spoken_accented_letter_00EC">"I, graavis"</string>
+  
+  <string name="spoken_accented_letter_00ED">"I, akuut"</string>
+  
+  <string name="spoken_accented_letter_00EE">"I, tsirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_00EF">"I, treema"</string>
+  
+  <string name="spoken_accented_letter_00F0">"Eth"</string>
+  
+  <string name="spoken_accented_letter_00F1">"N, tilde"</string>
+  
+  <string name="spoken_accented_letter_00F2">"O, graavis"</string>
+  
+  <string name="spoken_accented_letter_00F3">"O, akuut"</string>
+  
+  <string name="spoken_accented_letter_00F4">"O, tsirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_00F5">"O, tilde"</string>
+  
+  <string name="spoken_accented_letter_00F6">"O, treema"</string>
+  
+  <string name="spoken_accented_letter_00F8">"O, kriips"</string>
+  
+  <string name="spoken_accented_letter_00F9">"U, graavis"</string>
+  
+  <string name="spoken_accented_letter_00FA">"U, akuut"</string>
+  
+  <string name="spoken_accented_letter_00FB">"U, tsirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_00FC">"U, treema"</string>
+  
+  <string name="spoken_accented_letter_00FD">"Y, akuut"</string>
+  
+  <string name="spoken_accented_letter_00FE">"Thorn"</string>
+  
+  <string name="spoken_accented_letter_00FF">"Y, treema"</string>
+  
+  <string name="spoken_accented_letter_0101">"A, makron"</string>
+  
+  <string name="spoken_accented_letter_0103">"A, breevis"</string>
+  
+  <string name="spoken_accented_letter_0105">"A, pöördsedii"</string>
+  
+  <string name="spoken_accented_letter_0107">"C, akuut"</string>
+  
+  <string name="spoken_accented_letter_0109">"C, tsirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_010B">"C, ülapunkt"</string>
+  
+  <string name="spoken_accented_letter_010D">"C, haak"</string>
+  
+  <string name="spoken_accented_letter_010F">"D, haak"</string>
+  
+  <string name="spoken_accented_letter_0111">"D, kriips"</string>
+  
+  <string name="spoken_accented_letter_0113">"E, makron"</string>
+  
+  <string name="spoken_accented_letter_0115">"E, breevis"</string>
+  
+  <string name="spoken_accented_letter_0117">"E, ülapunkt"</string>
+  
+  <string name="spoken_accented_letter_0119">"E, pöördsedii"</string>
+  
+  <string name="spoken_accented_letter_011B">"E, haak"</string>
+  
+  <string name="spoken_accented_letter_011D">"G, tsirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_011F">"G, breevis"</string>
+  
+  <string name="spoken_accented_letter_0121">"G, ülapunkt"</string>
+  
+  <string name="spoken_accented_letter_0123">"G, sedii"</string>
+  
+  <string name="spoken_accented_letter_0125">"H, tsirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_0127">"H, kriips"</string>
+  
+  <string name="spoken_accented_letter_0129">"I, tilde"</string>
+  
+  <string name="spoken_accented_letter_012B">"I, makron"</string>
+  
+  <string name="spoken_accented_letter_012D">"I, breevis"</string>
+  
+  <string name="spoken_accented_letter_012F">"I, pöördsedii"</string>
+  
+  <string name="spoken_accented_letter_0131">"Punktita I"</string>
+  
+  <string name="spoken_accented_letter_0133">"I, J, ligatuur"</string>
+  
+  <string name="spoken_accented_letter_0135">"J, tsirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_0137">"K, sedii"</string>
+  
+  <string name="spoken_accented_letter_0138">"Kra"</string>
+  
+  <string name="spoken_accented_letter_013A">"L, akuut"</string>
+  
+  <string name="spoken_accented_letter_013C">"L, sedii"</string>
+  
+  <string name="spoken_accented_letter_013E">"L, haak"</string>
+  
+  <string name="spoken_accented_letter_0140">"L, punkt keskel"</string>
+  
+  <string name="spoken_accented_letter_0142">"L, kriips"</string>
+  
+  <string name="spoken_accented_letter_0144">"N, akuut"</string>
+  
+  <string name="spoken_accented_letter_0146">"N, sedii"</string>
+  
+  <string name="spoken_accented_letter_0148">"N, haak"</string>
+  
+  <string name="spoken_accented_letter_0149">"N, millele eelneb ülakoma"</string>
+  
+  <string name="spoken_accented_letter_014B">"Eng"</string>
+  
+  <string name="spoken_accented_letter_014D">"O, makron"</string>
+  
+  <string name="spoken_accented_letter_014F">"O, breevis"</string>
+  
+  <string name="spoken_accented_letter_0151">"O, topeltakuut"</string>
+  
+  <string name="spoken_accented_letter_0153">"O, E, ligatuur"</string>
+  
+  <string name="spoken_accented_letter_0155">"R, akuut"</string>
+  
+  <string name="spoken_accented_letter_0157">"R, sedii"</string>
+  
+  <string name="spoken_accented_letter_0159">"R, haak"</string>
+  
+  <string name="spoken_accented_letter_015B">"S, akuut"</string>
+  
+  <string name="spoken_accented_letter_015D">"S, tsirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_015F">"S, sedii"</string>
+  
+  <string name="spoken_accented_letter_0161">"S, haak"</string>
+  
+  <string name="spoken_accented_letter_0163">"T, sedii"</string>
+  
+  <string name="spoken_accented_letter_0165">"T, haak"</string>
+  
+  <string name="spoken_accented_letter_0167">"T, kriips"</string>
+  
+  <string name="spoken_accented_letter_0169">"U, tilde"</string>
+  
+  <string name="spoken_accented_letter_016B">"U, makron"</string>
+  
+  <string name="spoken_accented_letter_016D">"U, breevis"</string>
+  
+  <string name="spoken_accented_letter_016F">"U, ülasõõr"</string>
+  
+  <string name="spoken_accented_letter_0171">"U, topeltakuut"</string>
+  
+  <string name="spoken_accented_letter_0173">"U, pöördsedii"</string>
+  
+  <string name="spoken_accented_letter_0175">"W, tsirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_0177">"Y, tsirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_017A">"Z, akuut"</string>
+  
+  <string name="spoken_accented_letter_017C">"Z, ülapunkt"</string>
+  
+  <string name="spoken_accented_letter_017E">"Z, haak"</string>
+  
+  <string name="spoken_accented_letter_017F">"Pikk S"</string>
+  
+  <string name="spoken_accented_letter_01A1">"O, sarv"</string>
+  
+  <string name="spoken_accented_letter_01B0">"U, sarv"</string>
+  
+  <string name="spoken_accented_letter_0219">"S, alakoma"</string>
+  
+  <string name="spoken_accented_letter_021B">"T, alakoma"</string>
+  
+  <string name="spoken_accented_letter_0259">"Švaa"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"A, alapunkt"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"A, ülakonks"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"A, tsirkumfleks ja akuut"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"A, tsirkumfleks ja graavis"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"A, tsirkumfleks ja ülakonks"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"A, tsirkumfleks ja tilde"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"A, tsirkumfleks ja alapunkt"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"A, breevis ja akuut"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"A, breevis ja graavis"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"A, breevis ja ülakonks"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"A, breevis ja tilde"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"A, breevis ja alapunkt"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"E, alapunkt"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"E, ülakonks"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"E, tilde"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"E, tsirkumfleks ja akuut"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"E, tsirkumfleks ja graavis"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"E, tsirkumfleks ja ülakonks"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"E, tsirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"E, tsirkumfleks ja alapunkt"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"I, ülakonks"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"I, alapunkt"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"O, alapunkt"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"O, ülakonks"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"O, tsirkumfleks ja akuut"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"O, tsirkumfleks ja graavis"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"O, tsirkumfleks ja ülakonks"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"O, tsirkumfleks ja tilde"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"O, tsirkumfleks ja alapunkt"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"O, sarv ja akuut"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"O, sarv ja graavis"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"O, sarv ja ülakonks"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"O, sarv ja tilde"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"O, sarv ja alapunkt"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"U, alapunkt"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"U, ülakonks"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"U, sarv ja akuut"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"U, sarv ja graavis"</string>
+  
+  <string name="spoken_accented_letter_1EED">"U, sarv ja ülakonks"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"U, sarv ja tilde"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"U, sarv ja alapunkt"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"Y, graavis"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"Y, alapunkt"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"Y, ülakonks"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"Y, tilde"</string>
+  
+  <string name="spoken_symbol_00A1">"Pöördhüüumärk"</string>
+  
+  <string name="spoken_symbol_00AB">"Vasakule suunatud kahekordne nurkjutumärk"</string>
+  
+  <string name="spoken_symbol_00B7">"Keskmine punkt"</string>
+  
+  <string name="spoken_symbol_00B9">"Ülaindeks"</string>
+  
+  <string name="spoken_symbol_00BB">"Paremale suunatud kahekordne nurkjutumärk"</string>
+  
+  <string name="spoken_symbol_00BF">"Pöördküsimärk"</string>
+  
+  <string name="spoken_symbol_2018">"Vasak ühekordne jutumärk"</string>
+  
+  <string name="spoken_symbol_2019">"Parem ühekordne jutumärk"</string>
+  
+  <string name="spoken_symbol_201A">"Ühekordne alumine üheksakujuline jutumärk"</string>
+  
+  <string name="spoken_symbol_201C">"Vasak kahekordne jutumärk"</string>
+  
+  <string name="spoken_symbol_201D">"Parem kahekordne jutumärk"</string>
+  
+  <string name="spoken_symbol_2020">"Rist"</string>
+  
+  <string name="spoken_symbol_2021">"Topeltrist"</string>
+  
+  <string name="spoken_symbol_2030">"Promillimärk"</string>
+  
+  <string name="spoken_symbol_2032">"Priim"</string>
+  
+  <string name="spoken_symbol_2033">"Topeltpriim"</string>
+  
+  <string name="spoken_symbol_2039">"Ühekordne vasakule suunatud nurkjutumärk"</string>
+  
+  <string name="spoken_symbol_203A">"Ühekordne paremale suunatud nurkjutumärk"</string>
+  
+  <string name="spoken_symbol_2074">"Ülaindeks neli"</string>
+  
+  <string name="spoken_symbol_207F">"Ülaindeks ladina väiketäht n"</string>
+  
+  <string name="spoken_symbol_20B1">"Peesomärk"</string>
+  
+  <string name="spoken_symbol_2105">"Vahendusel"</string>
+  
+  <string name="spoken_symbol_2192">"Nool paremale"</string>
+  
+  <string name="spoken_symbol_2193">"Nool alla"</string>
+  
+  <string name="spoken_symbol_2205">"Tühi hulk"</string>
+  
+  <string name="spoken_symbol_2206">"Samm"</string>
+  
+  <string name="spoken_symbol_2264">"Väiksem kui või võrdne"</string>
+  
+  <string name="spoken_symbol_2265">"Suurem kui või võrdne"</string>
+  
+  <string name="spoken_symbol_2605">"Must tärn"</string>
+</resources>

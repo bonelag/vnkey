@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"Kvenkyns raðtölutákn"</string>
+  
+  <string name="spoken_accented_letter_00B5">"Míkrómerki"</string>
+  
+  <string name="spoken_accented_letter_00BA">"Karlkyns raðtölutákn"</string>
+  
+  <string name="spoken_accented_letter_00DF">"Þýskt S"</string>
+  
+  <string name="spoken_accented_letter_00E0">"A með öfugum broddi"</string>
+  
+  <string name="spoken_accented_letter_00E1">"A með broddi"</string>
+  
+  <string name="spoken_accented_letter_00E2">"A með hatti"</string>
+  
+  <string name="spoken_accented_letter_00E3">"A með tildu"</string>
+  
+  <string name="spoken_accented_letter_00E4">"A með tvídepli"</string>
+  
+  <string name="spoken_accented_letter_00E5">"A með hring"</string>
+  
+  <string name="spoken_accented_letter_00E6">"A, E, límingur"</string>
+  
+  <string name="spoken_accented_letter_00E7">"C með krók"</string>
+  
+  <string name="spoken_accented_letter_00E8">"E með öfugum broddi"</string>
+  
+  <string name="spoken_accented_letter_00E9">"E með broddi"</string>
+  
+  <string name="spoken_accented_letter_00EA">"E með hatti"</string>
+  
+  <string name="spoken_accented_letter_00EB">"E með tvídepli"</string>
+  
+  <string name="spoken_accented_letter_00EC">"I með öfugum broddi"</string>
+  
+  <string name="spoken_accented_letter_00ED">"I með broddi"</string>
+  
+  <string name="spoken_accented_letter_00EE">"I með hatti"</string>
+  
+  <string name="spoken_accented_letter_00EF">"I með tvídepli"</string>
+  
+  <string name="spoken_accented_letter_00F0">"Eð"</string>
+  
+  <string name="spoken_accented_letter_00F1">"N með tildu"</string>
+  
+  <string name="spoken_accented_letter_00F2">"O með öfugum broddi"</string>
+  
+  <string name="spoken_accented_letter_00F3">"O með broddi"</string>
+  
+  <string name="spoken_accented_letter_00F4">"O með hatti"</string>
+  
+  <string name="spoken_accented_letter_00F5">"O með tildu"</string>
+  
+  <string name="spoken_accented_letter_00F6">"O með tvídepli"</string>
+  
+  <string name="spoken_accented_letter_00F8">"Danskt ö"</string>
+  
+  <string name="spoken_accented_letter_00F9">"U með öfugum broddi"</string>
+  
+  <string name="spoken_accented_letter_00FA">"U með broddi"</string>
+  
+  <string name="spoken_accented_letter_00FB">"U með hatti"</string>
+  
+  <string name="spoken_accented_letter_00FC">"U með tvídepli"</string>
+  
+  <string name="spoken_accented_letter_00FD">"Y með broddi"</string>
+  
+  <string name="spoken_accented_letter_00FE">"Þorn"</string>
+  
+  <string name="spoken_accented_letter_00FF">"Y með tvídepli"</string>
+  
+  <string name="spoken_accented_letter_0101">"A með rá"</string>
+  
+  <string name="spoken_accented_letter_0103">"A með skál"</string>
+  
+  <string name="spoken_accented_letter_0105">"A með lykkju"</string>
+  
+  <string name="spoken_accented_letter_0107">"C með broddi"</string>
+  
+  <string name="spoken_accented_letter_0109">"C með hatti"</string>
+  
+  <string name="spoken_accented_letter_010B">"C með depli"</string>
+  
+  <string name="spoken_accented_letter_010D">"C með kríu"</string>
+  
+  <string name="spoken_accented_letter_010F">"D með kríu"</string>
+  
+  <string name="spoken_accented_letter_0111">"D með striki"</string>
+  
+  <string name="spoken_accented_letter_0113">"E með rá"</string>
+  
+  <string name="spoken_accented_letter_0115">"E með skál"</string>
+  
+  <string name="spoken_accented_letter_0117">"E með depli"</string>
+  
+  <string name="spoken_accented_letter_0119">"E með lykkju"</string>
+  
+  <string name="spoken_accented_letter_011B">"E með kríu"</string>
+  
+  <string name="spoken_accented_letter_011D">"G með hatti"</string>
+  
+  <string name="spoken_accented_letter_011F">"G með skál"</string>
+  
+  <string name="spoken_accented_letter_0121">"G með depli"</string>
+  
+  <string name="spoken_accented_letter_0123">"G með krók"</string>
+  
+  <string name="spoken_accented_letter_0125">"H með hatti"</string>
+  
+  <string name="spoken_accented_letter_0127">"H með striki"</string>
+  
+  <string name="spoken_accented_letter_0129">"I með tildu"</string>
+  
+  <string name="spoken_accented_letter_012B">"I með rá"</string>
+  
+  <string name="spoken_accented_letter_012D">"I með skál"</string>
+  
+  <string name="spoken_accented_letter_012F">"I með lykkju"</string>
+  
+  <string name="spoken_accented_letter_0131">"Depillaust I"</string>
+  
+  <string name="spoken_accented_letter_0133">"I, J, límingur"</string>
+  
+  <string name="spoken_accented_letter_0135">"J með hatti"</string>
+  
+  <string name="spoken_accented_letter_0137">"K með krók"</string>
+  
+  <string name="spoken_accented_letter_0138">"K, hásteflingur"</string>
+  
+  <string name="spoken_accented_letter_013A">"L með broddi"</string>
+  
+  <string name="spoken_accented_letter_013C">"L með krók"</string>
+  
+  <string name="spoken_accented_letter_013E">"L með kríu"</string>
+  
+  <string name="spoken_accented_letter_0140">"L með miðdepli"</string>
+  
+  <string name="spoken_accented_letter_0142">"L með striki"</string>
+  
+  <string name="spoken_accented_letter_0144">"N með broddi"</string>
+  
+  <string name="spoken_accented_letter_0146">"N með krók"</string>
+  
+  <string name="spoken_accented_letter_0148">"N með kríu"</string>
+  
+  <string name="spoken_accented_letter_0149">"N með forsett úrfellingarmerki"</string>
+  
+  <string name="spoken_accented_letter_014B">"Eng"</string>
+  
+  <string name="spoken_accented_letter_014D">"O með rá"</string>
+  
+  <string name="spoken_accented_letter_014F">"O með skál"</string>
+  
+  <string name="spoken_accented_letter_0151">"O með tvíbroddi"</string>
+  
+  <string name="spoken_accented_letter_0153">"O, E, límingur"</string>
+  
+  <string name="spoken_accented_letter_0155">"R með broddi"</string>
+  
+  <string name="spoken_accented_letter_0157">"R með krók"</string>
+  
+  <string name="spoken_accented_letter_0159">"R með kríu"</string>
+  
+  <string name="spoken_accented_letter_015B">"S með broddi"</string>
+  
+  <string name="spoken_accented_letter_015D">"S með hatti"</string>
+  
+  <string name="spoken_accented_letter_015F">"S með krók"</string>
+  
+  <string name="spoken_accented_letter_0161">"S með kríu"</string>
+  
+  <string name="spoken_accented_letter_0163">"T með krók"</string>
+  
+  <string name="spoken_accented_letter_0165">"T með kríu"</string>
+  
+  <string name="spoken_accented_letter_0167">"T með striki"</string>
+  
+  <string name="spoken_accented_letter_0169">"U með tildu"</string>
+  
+  <string name="spoken_accented_letter_016B">"U með rá"</string>
+  
+  <string name="spoken_accented_letter_016D">"U með skál"</string>
+  
+  <string name="spoken_accented_letter_016F">"U með hring"</string>
+  
+  <string name="spoken_accented_letter_0171">"U með tvíbroddi"</string>
+  
+  <string name="spoken_accented_letter_0173">"U með lykkju"</string>
+  
+  <string name="spoken_accented_letter_0175">"W með hatti"</string>
+  
+  <string name="spoken_accented_letter_0177">"Y með hatti"</string>
+  
+  <string name="spoken_accented_letter_017A">"Z með broddi"</string>
+  
+  <string name="spoken_accented_letter_017C">"Z með depli"</string>
+  
+  <string name="spoken_accented_letter_017E">"Z með kríu"</string>
+  
+  <string name="spoken_accented_letter_017F">"Langt S"</string>
+  
+  <string name="spoken_accented_letter_01A1">"O með snaga"</string>
+  
+  <string name="spoken_accented_letter_01B0">"U með snaga"</string>
+  
+  <string name="spoken_accented_letter_0219">"S með undirkommu"</string>
+  
+  <string name="spoken_accented_letter_021B">"T með undirkommu"</string>
+  
+  <string name="spoken_accented_letter_0259">"Hljóðritunartáknið E á hvolfi"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"A með undirdepli"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"A með krækju"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"A með hatti og broddi"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"A með hatti og öfugum broddi"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"A með hatti og krækju"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"A með hatti og tildu"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"A með hatti og undirdepli"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"A með skál og broddi"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"A með skál og öfugum broddi"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"A með skál og krækju"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"A með skál og tildu"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"A með skál og undirdepli"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"E með undirdepli"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"E með krækju"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"E með tildu"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"E með hatti og broddi"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"E með hatti og öfugum broddi"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"E með hatti og krækju"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"E með hatti og tildu"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"E með hatti og undirdepli"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"I með krækju"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"I með undirdepli"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"O með undirdepli"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"O með krækju"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"O með hatti og broddi"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"O með hatti og öfugum broddi"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"O með hatti og krækju"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"O með hatti og tildu"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"O með hatti og undirdepli"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"O með snaga og broddi"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"O með snaga og öfugum broddi"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"O með snaga og krækju"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"O með snaga og tildu"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"O með snaga og undirdepli"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"U með undirdepli"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"U með krækju"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"U með snaga og broddi"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"U með snaga og öfugum broddi"</string>
+  
+  <string name="spoken_accented_letter_1EED">"U með snaga og krækju"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"U með snaga og tildu"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"U með snaga og undirdepli"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"Y með öfugum broddi"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"Y með undirdepli"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"Y með krækju"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"Y með tildu"</string>
+  
+  <string name="spoken_symbol_00A1">"Öfugt upphrópunarmerki"</string>
+  
+  <string name="spoken_symbol_00AB">"Vinstri tvíoddur"</string>
+  
+  <string name="spoken_symbol_00B7">"Miðdepill"</string>
+  
+  <string name="spoken_symbol_00B9">"Einn með brjóstletri"</string>
+  
+  <string name="spoken_symbol_00BB">"Hægri tvíoddur"</string>
+  
+  <string name="spoken_symbol_00BF">"Öfugt spurningarmerki"</string>
+  
+  <string name="spoken_symbol_2018">"Rísandi kló"</string>
+  
+  <string name="spoken_symbol_2019">"Hangandi kló"</string>
+  
+  <string name="spoken_symbol_201A">"Lágstæð kló"</string>
+  
+  <string name="spoken_symbol_201C">"Rísandi tvíkló"</string>
+  
+  <string name="spoken_symbol_201D">"Hangandi tvíkló"</string>
+  
+  <string name="spoken_symbol_2020">"Rýtingur"</string>
+  
+  <string name="spoken_symbol_2021">"Tvírýtingur"</string>
+  
+  <string name="spoken_symbol_2030">"Prómillumerki"</string>
+  
+  <string name="spoken_symbol_2032">"Högg"</string>
+  
+  <string name="spoken_symbol_2033">"Tvíhögg"</string>
+  
+  <string name="spoken_symbol_2039">"Vinstri oddur"</string>
+  
+  <string name="spoken_symbol_203A">"Hægri oddur"</string>
+  
+  <string name="spoken_symbol_2074">"Fjórir með brjóstletri"</string>
+  
+  <string name="spoken_symbol_207F">"Lágstafurinn n með latnesku brjóstletri"</string>
+  
+  <string name="spoken_symbol_20B1">"Pesamerki"</string>
+  
+  <string name="spoken_symbol_2105">"Umsendingarmerki"</string>
+  
+  <string name="spoken_symbol_2192">"Hægri ör"</string>
+  
+  <string name="spoken_symbol_2193">"Niðurör"</string>
+  
+  <string name="spoken_symbol_2205">"Tómamengi"</string>
+  
+  <string name="spoken_symbol_2206">"Vöxtur"</string>
+  
+  <string name="spoken_symbol_2264">"Undirstrikaður vinstri fleygur"</string>
+  
+  <string name="spoken_symbol_2265">"Undirstrikaður hægri fleygur"</string>
+  
+  <string name="spoken_symbol_2605">"Fyllt stjarna"</string>
+</resources>

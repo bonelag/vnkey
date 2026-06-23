@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">"Buka"</string>
+  
+  <string name="label_next_key">"Lanjut"</string>
+  
+  <string name="label_previous_key">"Balik"</string>
+  
+  <string name="label_done_key">"Beres"</string>
+  
+  <string name="label_send_key">"Kirim"</string>
+  
+  <string name="label_search_key">"Telusur"</string>
+  
+  <string name="label_pause_key">"Jeda"</string>
+  
+  <string name="label_wait_key">"Tunggu"</string>
+</resources>

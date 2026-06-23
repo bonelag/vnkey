@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">"ទៅ"</string>
+  
+  <string name="label_next_key">"បន្ទាប់"</string>
+  
+  <string name="label_previous_key">"មុន"</string>
+  
+  <string name="label_done_key">"រួចរាល់"</string>
+  
+  <string name="label_send_key">"ផ្ញើ"</string>
+  
+  <string name="label_search_key">"ស្វែងរក"</string>
+  
+  <string name="label_pause_key">"ផ្អាក"</string>
+  
+  <string name="label_wait_key">"រង់ចាំ"</string>
+</resources>

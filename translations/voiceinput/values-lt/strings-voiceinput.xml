@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+  <string name="stop_recording">Sustabdyti įrašymą</string>
+  
+  <string name="try_saying_something">Pabandykite pasakyti ką nors</string>
+  
+  <string name="no_audio_detected_is_your_microphone_blocked">Nerasta garso, gal išjungėte mikrofoną nustatymuose?</string>
+  
+  <string name="listening">Klausau…</string>
+  
+  <string name="grant_microphone_permission_to_use_voice_input">Leisti mikrofono prieigą naudoti balso įvedimą</string>
+  <string name="open_voice_input_settings">Atidaryti balso įvedimo nustatymus</string>
+  
+  <string name="extracting_features">Išskiriamos funkcijos…</string>
+  
+  <string name="loading_model">Kraunamas modelis…</string>
+  
+  <string name="decoding">Dekoduojama…</string>
+  
+  <string name="switching_model">Keičiamas kalbos modelis…</string>
+  
+  <string name="processing">Apdorojama…</string>
+  
+  <string name="initializing">Inicijuojama…</string>
+  
+  <string name="tiny_en_name">Anglų-39 (numatytasis)</string>
+  
+  <string name="base_en_name">Anglų-74 (lėtesnis, tikslesnis)</string>
+  
+  <string name="small_en_name">Anglų-244 (lėtas)</string>
+  
+  <string name="tiny_name">Daugiakalbis-39 (mažiau tikslus)</string>
+  
+  <string name="base_name">Daugiakalbis-74 (numatytasis)</string>
+  
+  <string name="small_name">Daugiakalbis-244 (lėtas)</string>
+  
+  <string name="using_bluetooth_mic">Naudojama „Bluetooth“ (%1$s)</string>
+  
+  <string name="using_built_in_mic">Naudojamas įrenginio mikrofonas (%1$s)</string>
+  <!--
+    Occurs when the model is corrupted, or loading failed for some other unknown reason,
+    usually the fix is to re-download the model and re-import it. For example this may happen
+    when the model is imported before the file is finished downloading
+  -->
+  <string name="model_load_error">Klaida kraunant modelį, jis gali būti sugadintas. Pabandykite atsisiųsti modelį iš naujo.</string>
+</resources>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="english_ime_input_options">"Eingabeoptionen"</string>
+  
+  <string name="vibrate_on_keypress">"Bei Tastendruck vibrieren"</string>
+  
+  <string name="sound_on_keypress">"Ton bei Tastendruck"</string>
+  
+  <string name="popup_on_keypress">"Bei Tastendruck Pop-up"</string>
+  
+  <string name="show_language_switch_key">"Sprachwechsel"</string>
+  
+  <string name="abbreviation_unit_milliseconds">&lt;string name="abbreviation_unit_milliseconds" msgid="3255301845626146979"&gt;&amp;quot;&lt;xliff:g id="MILLISECONDS"&gt;%s&lt;/xliff:g&gt; ms&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="use_personalized_dicts">"Personalisierte Vorschläge"</string>
+  
+  <string name="use_double_space_period">"Punkt plus Leerzeichen"</string>
+  
+  <string name="use_double_space_period_summary">"Doppeltippen auf Leertaste fügt Punkt und Leerzeichen ein"</string>
+  
+  <string name="auto_cap">Autom. Groß-/Kleinschreibung</string>
+  
+  <string name="auto_cap_summary">Das erste Wort jedes Satzes großschreiben</string>
+  
+  <string name="edit_personal_dictionary">Mein Wörterbuch</string>
+  
+  <string name="prefs_show_suggestions">Zeige Änderungsvorschläge</string>
+  
+  <string name="prefs_show_suggestions_summary">Zeige vorgeschlagene Wörter beim Tippen</string>
+  
+  <string name="prefs_block_potentially_offensive_title">Anstößige Wörter blockieren</string>
+  
+  <string name="prefs_block_potentially_offensive_summary">Blockiere Vorschläge für potenziell anstößige Wörter</string>
+  
+  <string name="prefs_block_potentially_offensive_tags">anstößige Wörter, Schimpfwörter, Flüche, Kraftausdrücke, Beleidigungen, blacklist, Filter, ficken, Scheiße, Mist</string>
+  
+  <string name="auto_correction">"Autokorrektur"</string>
+  
+  <string name="auto_correction_summary">"Korrektur fehlerhafter Wörter durch Leertaste und Satzzeichen"</string>
+  
+  <string name="auto_correction_tags">Autokorrektur</string>
+  
+  <string name="bigram_prediction">"Vorschläge für nächstes Wort"</string>
+  
+  <string name="bigram_prediction_summary">"Anhand des vorherigen Wortes Vorschläge machen"</string>
+  
+  <string name="language_selection_title">"Sprachen"</string>
+  
+  <string name="select_language">"Sprachen"</string>
+  
+  <string name="subtype_en_GB">"Englisch (UK)"</string>
+  
+  <string name="subtype_en_US">"Englisch (USA)"</string>
+  
+  <string name="subtype_es_US">"Spanisch (USA)"</string>
+  
+  <string name="subtype_hi_ZZ">"Hinglish"</string>
+  
+  <string name="subtype_sr_ZZ">"Serbisch (Lateinisch)"</string>
+  <string name="subtype_ipa">Internationales Phonetisches Alphabet</string>
+  
+  <string name="subtype_with_layout_en_GB">&lt;string name="subtype_with_layout_en_GB" msgid="4220344684463778660"&gt;&amp;quot;Englisch (GB) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_en_US">&lt;string name="subtype_with_layout_en_US" msgid="4599421650961912769"&gt;&amp;quot;Englisch (USA) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_es_US">&lt;string name="subtype_with_layout_es_US" msgid="6866331205974243592"&gt;&amp;quot;Spanisch (USA) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_hi_ZZ">&lt;string name="subtype_with_layout_hi_ZZ" msgid="5439623653083985558"&gt;&amp;quot;Hinglish (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_sr_ZZ">&lt;string name="subtype_with_layout_sr_ZZ" msgid="546465971819327060"&gt;&amp;quot;Serbisch (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_traditional">&lt;string name="subtype_generic_traditional" msgid="5321023815277210849"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (traditionell)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_compact">&lt;string name="subtype_generic_compact" msgid="2858514299576793292"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (kompakt)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_no_language">"Keine Sprache (lat. Alphabet)"</string>
+  
+  <string name="subtype_no_language_qwerty">Alphabet (QWERTY)</string>
+  
+  <string name="subtype_no_language_qwertz">Alphabet (QWERTZ)</string>
+  
+  <string name="subtype_no_language_azerty">Alphabet (AZERTY)</string>
+  
+  <string name="subtype_no_language_dvorak">Alphabet (Dvorak)</string>
+  
+  <string name="subtype_no_language_colemak">Alphabet (Colemak)</string>
+  
+  <string name="subtype_no_language_pcqwerty">Alphabet (PC)</string>
+  
+  <string name="subtype_emoji">"Emoji"</string>
+  
+  <string name="cancel">"Abbrechen"</string>
+  
+  <string name="go_to_settings">"Einstellungen"</string>
+  
+  <string name="install_dict">"Installieren"</string>
+  
+  <string name="cancel_download_dict">"Abbrechen"</string>
+  
+  <string name="user_dict_settings_add_menu_title">"Hinzufügen"</string>
+  
+  <string name="user_dict_settings_add_dialog_title">"Zum Wörterbuch hinzufügen"</string>
+  
+  <string name="user_dict_settings_add_screen_title">"Wortgruppe"</string>
+  
+  <string name="user_dict_settings_add_dialog_more_options">"Weitere Optionen"</string>
+  
+  <string name="user_dict_settings_add_dialog_less_options">"Weniger Optionen"</string>
+  
+  <string name="user_dict_settings_add_dialog_confirm">"Ok"</string>
+  
+  <string name="user_dict_settings_add_word_option_name">"Wort:"</string>
+  
+  <string name="user_dict_settings_add_shortcut_option_name">"Tastaturkürzel:"</string>
+  
+  <string name="user_dict_settings_add_locale_option_name">"Sprache:"</string>
+  
+  <string name="user_dict_settings_add_word_hint">"Wort eingeben"</string>
+  
+  <string name="user_dict_settings_add_shortcut_hint">"Optionales Tastaturkürzel"</string>
+  
+  <string name="user_dict_settings_edit_dialog_title">"Wort bearbeiten"</string>
+  
+  <string name="user_dict_settings_context_menu_edit_title">"Bearbeiten"</string>
+  
+  <string name="user_dict_settings_context_menu_delete_title">"Löschen"</string>
+  
+  <string name="user_dict_settings_empty_text">"Es sind noch keine Wörter in deinem Wörterbuch vorhanden. Du kannst Wörter hinzufügen, indem du auf das \"+\"-Symbol tippst."</string>
+  
+  <string name="user_dict_settings_all_languages">"Für alle Sprachen"</string>
+  
+  <string name="user_dict_settings_more_languages">"Weitere Sprachen..."</string>
+  
+  <string name="user_dict_settings_delete">"Löschen"</string>
+  
+  <string name="user_dict_fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+</resources>

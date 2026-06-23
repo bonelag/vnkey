@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="english_ime_input_options">"Invoeropsies"</string>
+  
+  <string name="vibrate_on_keypress">"Vibreer met sleuteldruk"</string>
+  
+  <string name="sound_on_keypress">"Klank met sleuteldruk"</string>
+  
+  <string name="popup_on_keypress">"Opspring met sleuteldruk"</string>
+  
+  <string name="show_language_switch_key">"Taal-wisselsleutel"</string>
+  
+  <string name="abbreviation_unit_milliseconds">&lt;string name="abbreviation_unit_milliseconds" msgid="3255301845626146979"&gt;&amp;quot;&lt;xliff:g id="MILLISECONDS"&gt;%s&lt;/xliff:g&gt;ms.&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="use_personalized_dicts">"Gepersonaliseerde voorstelle"</string>
+  
+  <string name="use_double_space_period">"Dubbelspasie-punt"</string>
+  
+  <string name="use_double_space_period_summary">"Dubbeltik op spasiebalk voeg \'n punt in, gevolg deur \'n spasie"</string>
+  
+  <string name="auto_cap">"Outohoofletters"</string>
+  
+  <string name="auto_cap_summary">"Die eerste woord van elke sin moet met \'n hoofletter begin"</string>
+  
+  <string name="edit_personal_dictionary">"Persoonlike woordeboek"</string>
+  
+  <string name="prefs_show_suggestions">"Wys voorstelle vir korrigering"</string>
+  
+  <string name="prefs_show_suggestions_summary">"Wys voorgestelde woorde terwyl jy tik"</string>
+  
+  <string name="prefs_block_potentially_offensive_title">"Blokkeer aanstootlike woorde"</string>
+  
+  <string name="prefs_block_potentially_offensive_summary">"Moenie potensieel aanstootlike woorde voorstel nie"</string>
+  
+  <string name="auto_correction">"Outokorrigering"</string>
+  
+  <string name="auto_correction_summary">"Spasiebalk en leestekens korrigeer outomaties woorde wat verkeerd gespel is"</string>
+  
+  <string name="bigram_prediction">"Stel volgende woord voor"</string>
+  
+  <string name="bigram_prediction_summary">"Gebruik die vorige woord om voorstelle te maak"</string>
+  
+  <string name="language_selection_title">"Tale"</string>
+  
+  <string name="select_language">"Tale"</string>
+  
+  <string name="subtype_en_GB">"Engels (VK)"</string>
+  
+  <string name="subtype_en_US">"Engels (VS)"</string>
+  
+  <string name="subtype_es_US">"Spaans (VS)"</string>
+  
+  <string name="subtype_hi_ZZ">"Hinglish"</string>
+  
+  <string name="subtype_sr_ZZ">"Serwies (Latyns)"</string>
+  
+  <string name="subtype_with_layout_en_GB">&lt;string name="subtype_with_layout_en_GB" msgid="4220344684463778660"&gt;&amp;quot;Engels (VK) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_en_US">&lt;string name="subtype_with_layout_en_US" msgid="4599421650961912769"&gt;&amp;quot;Engels (VS) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_es_US">&lt;string name="subtype_with_layout_es_US" msgid="6866331205974243592"&gt;&amp;quot;Spaans (VS) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_hi_ZZ">&lt;string name="subtype_with_layout_hi_ZZ" msgid="5439623653083985558"&gt;&amp;quot;Hinglish (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_sr_ZZ">&lt;string name="subtype_with_layout_sr_ZZ" msgid="546465971819327060"&gt;&amp;quot;Serwies (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_traditional">&lt;string name="subtype_generic_traditional" msgid="5321023815277210849"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (Tradisioneel)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_compact">&lt;string name="subtype_generic_compact" msgid="2858514299576793292"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (Kompak)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_no_language">"Geen taal nie (alfabet)"</string>
+  
+  <string name="subtype_no_language_qwerty">"Alfabet (QWERTY)"</string>
+  
+  <string name="subtype_no_language_qwertz">"Alfabet (QWERTZ)"</string>
+  
+  <string name="subtype_no_language_azerty">"Alfabet (AZERTY)"</string>
+  
+  <string name="subtype_no_language_dvorak">"Alfabet (Dvorak)"</string>
+  
+  <string name="subtype_no_language_colemak">"Alfabet (Colemak)"</string>
+  
+  <string name="subtype_no_language_pcqwerty">"Alfabet (PC)"</string>
+  
+  <string name="subtype_emoji">"Emosiekone"</string>
+  
+  <string name="cancel">"Kanselleer"</string>
+  
+  <string name="go_to_settings">"Instellings"</string>
+  
+  <string name="install_dict">"Installeer"</string>
+  
+  <string name="cancel_download_dict">"Kanselleer"</string>
+  
+  <string name="user_dict_settings_add_menu_title">"Voeg by"</string>
+  
+  <string name="user_dict_settings_add_dialog_title">"Voeg by woordeboek"</string>
+  
+  <string name="user_dict_settings_add_screen_title">"Frase"</string>
+  
+  <string name="user_dict_settings_add_dialog_more_options">"Nog opsies"</string>
+  
+  <string name="user_dict_settings_add_dialog_less_options">"Minder opsies"</string>
+  
+  <string name="user_dict_settings_add_dialog_confirm">"OK"</string>
+  
+  <string name="user_dict_settings_add_word_option_name">"Woord:"</string>
+  
+  <string name="user_dict_settings_add_shortcut_option_name">"Kortpad:"</string>
+  
+  <string name="user_dict_settings_add_locale_option_name">"Taal:"</string>
+  
+  <string name="user_dict_settings_add_word_hint">"Tik \'n woord in"</string>
+  
+  <string name="user_dict_settings_add_shortcut_hint">"Opsionele kortpad"</string>
+  
+  <string name="user_dict_settings_edit_dialog_title">"Redigeer woord"</string>
+  
+  <string name="user_dict_settings_context_menu_edit_title">"Redigeer"</string>
+  
+  <string name="user_dict_settings_context_menu_delete_title">"Vee uit"</string>
+  
+  <string name="user_dict_settings_empty_text">"Jy het geen woorde in die gebruikerwoordeboek nie. Tik op die Voeg By-knoppie (+) om \'n woord by te voeg."</string>
+  
+  <string name="user_dict_settings_all_languages">"Vir alle tale"</string>
+  
+  <string name="user_dict_settings_more_languages">"Nog tale…"</string>
+  
+  <string name="user_dict_settings_delete">"Vee uit"</string>
+  
+  <string name="user_dict_fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+</resources>

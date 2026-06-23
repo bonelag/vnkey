@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+  <string name="english_ime_name">لوحة مفاتيح فوتو</string>
+  
+  <string name="spell_checker_service_name">مصحح إملائي فوتو</string>
+  
+  <string name="english_ime_settings">إعدادات لوحة مفاتيح فوتو</string>
+  
+  <string name="android_spell_checker_settings">إعدادات مصحح فوتو</string>
+</resources>

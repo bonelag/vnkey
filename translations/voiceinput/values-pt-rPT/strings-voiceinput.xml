@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+  <string name="stop_recording">Parar gravação</string>
+  
+  <string name="try_saying_something">Tente dizer algo</string>
+  
+  <string name="no_audio_detected_is_your_microphone_blocked">Áudio não detectado, o microfone está bloqueado?</string>
+  
+  <string name="listening">A escutar…</string>
+  
+  <string name="grant_microphone_permission_to_use_voice_input">Permita o microfone usar a entrada de voz</string>
+  <string name="open_voice_input_settings">Abrir definições de entrada por voz</string>
+  
+  <string name="extracting_features">A extrair recursos…</string>
+  
+  <string name="loading_model">A carregar modelo…</string>
+  
+  <string name="decoding">Descodificação iniciada…</string>
+  
+  <string name="switching_model">A alterar o idioma…</string>
+  
+  <string name="processing">A processar…</string>
+  
+  <string name="initializing">A inicializar...</string>
+  
+  <string name="tiny_en_name">Inglês-39 (padrão)</string>
+  
+  <string name="base_en_name">Inglês-74 (lento, mais preciso)</string>
+  
+  <string name="small_en_name">Inglês-244 (lento)</string>
+  
+  <string name="tiny_name">Multi-idioma-39 (menos preciso)</string>
+  
+  <string name="base_name">Multi-idioma-74 (padrão)</string>
+  
+  <string name="small_name">Multi-idioma-244 (lento)</string>
+  
+  <string name="using_bluetooth_mic">A usar o microfone Bluetooth (%1$s)</string>
+  
+  <string name="using_built_in_mic">A usar o microfone integrado (%1$s)</string>
+</resources>

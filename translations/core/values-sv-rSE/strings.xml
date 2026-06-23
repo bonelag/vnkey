@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="english_ime_input_options">Inmatningsalternativ</string>
+  
+  <string name="vibrate_on_keypress">Vibrera vid tangenttryck</string>
+  
+  <string name="sound_on_keypress">Ljud vid tangenttryck</string>
+  
+  <string name="popup_on_keypress">Popup vid tangenttryck</string>
+  
+  <string name="show_language_switch_key">Språkbytesknapp</string>
+  
+  <string name="abbreviation_unit_milliseconds">&lt;string name="abbreviation_unit_milliseconds"&gt;&lt;xliff:g id="MILLISECONDS"&gt;%s&lt;/xliff:g&gt;ms&lt;/string&gt;</string>
+  
+  <string name="use_personalized_dicts">Anpassade förslag</string>
+  
+  <string name="use_double_space_period">Dubbelt blanksteg = punkt</string>
+  
+  <string name="use_double_space_period_summary">Dubbelt mellanslag ger en punkt följt av mellanslag</string>
+  
+  <string name="auto_cap">Automatisk användning av stora bokstäver</string>
+  
+  <string name="auto_cap_summary">Inled varje mening med stor bokstav</string>
+  
+  <string name="edit_personal_dictionary">Personlig ordlista</string>
+  
+  <string name="prefs_show_suggestions">Visa korrigeringsförslag</string>
+  
+  <string name="prefs_show_suggestions_summary">Visa ordförslag när du skriver</string>
+  
+  <string name="prefs_block_potentially_offensive_title">Föreslå inte stötande ord</string>
+  
+  <string name="prefs_block_potentially_offensive_summary">Föreslå inte potentiellt stötande ord</string>
+  
+  <string name="auto_correction">Autokorrigering</string>
+  
+  <string name="auto_correction_summary">Mellanslag och punkt korrigerar automatiskt felstavade ord</string>
+  
+  <string name="bigram_prediction">Förslag på nästa ord</string>
+  
+  <string name="bigram_prediction_summary">Ge förslag baserat på föregående ord</string>
+  
+  <string name="language_selection_title">Språk</string>
+  
+  <string name="select_language">Språk</string>
+  
+  <string name="subtype_en_GB">Engelska (UK)</string>
+  
+  <string name="subtype_en_US">Engelska (US)</string>
+  
+  <string name="subtype_es_US">Spanska (US)</string>
+  
+  <string name="subtype_hi_ZZ">Hinglish</string>
+  <string name="subtype_hi__Latn">Hinglish</string>
+  
+  <string name="subtype_sr_ZZ">Serbiska (Latin)</string>
+  <string name="subtype_ipa">Internationella Fonetiska Alfabetet</string>
+  
+  <string name="subtype_with_layout_en_GB">&lt;string name="subtype_with_layout_en_GB"&gt;Engelska (UK) (&lt;xliff:g id="KEYBOARD_LAYOUT" example="QWERTY"&gt;%s&lt;/xliff:g&gt;)&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_en_US">&lt;string name="subtype_with_layout_en_US"&gt;Engelska (US) (&lt;xliff:g id="KEYBOARD_LAYOUT" example="QWERTY"&gt;%s&lt;/xliff:g&gt;)&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_es_US">&lt;string name="subtype_with_layout_es_US"&gt;Spanska (US) (&lt;xliff:g id="KEYBOARD_LAYOUT" example="QWERTY"&gt;%s&lt;/xliff:g&gt;)&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_hi_ZZ">&lt;string name="subtype_with_layout_hi_ZZ"&gt;Hinglish (&lt;xliff:g id="KEYBOARD_LAYOUT" example="QWERTY"&gt;%s&lt;/xliff:g&gt;)&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_sr_ZZ">&lt;string name="subtype_with_layout_sr_ZZ"&gt;Serbiska (&lt;xliff:g id="KEYBOARD_LAYOUT" example="QWERTY"&gt;%s&lt;/xliff:g&gt;)&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_traditional">&lt;string name="subtype_generic_traditional"&gt;&lt;xliff:g id="LANGUAGE_NAME" example="Nepali"&gt;%s&lt;/xliff:g&gt; (Traditionell)&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_compact">&lt;string name="subtype_generic_compact"&gt;&lt;xliff:g id="LANGUAGE_NAME" example="Hindi"&gt;%s&lt;/xliff:g&gt; (Kompakt)&lt;/string&gt;</string>
+  
+  <string name="subtype_no_language">Inget språk (Latinskt alfabet)</string>
+  
+  <string name="subtype_no_language_qwerty">Alfabet (QWERTY)</string>
+  
+  <string name="subtype_no_language_qwertz">Alfabet (QWERTZ)</string>
+  
+  <string name="subtype_no_language_azerty">Alfabet (AZERTY)</string>
+  
+  <string name="subtype_no_language_dvorak">Alfabet (Dvorak)</string>
+  
+  <string name="subtype_no_language_colemak">Alfabet (Colemak)</string>
+  
+  <string name="subtype_no_language_pcqwerty">Alfabet (PC)</string>
+  
+  <string name="subtype_emoji">Emoji</string>
+  
+  <string name="cancel">Avbryt</string>
+  
+  <string name="go_to_settings">Inställningar</string>
+  
+  <string name="install_dict">Installera</string>
+  
+  <string name="cancel_download_dict">Avbryt</string>
+  
+  <string name="user_dict_settings_add_menu_title">Lägg till</string>
+  
+  <string name="user_dict_settings_add_dialog_title">Lägg till i ordlistan</string>
+  
+  <string name="user_dict_settings_add_screen_title">Fras</string>
+  
+  <string name="user_dict_settings_add_dialog_more_options">Fler alternativ</string>
+  
+  <string name="user_dict_settings_add_dialog_less_options">Färre alternativ</string>
+  
+  <string name="user_dict_settings_add_dialog_confirm">Okej</string>
+  
+  <string name="user_dict_settings_add_word_option_name">Ord:</string>
+  
+  <string name="user_dict_settings_add_shortcut_option_name">Genväg:</string>
+  
+  <string name="user_dict_settings_add_locale_option_name">Språk:</string>
+  
+  <string name="user_dict_settings_add_word_hint">Skriv ett ord</string>
+  
+  <string name="user_dict_settings_add_shortcut_hint">Valfri genväg</string>
+  
+  <string name="user_dict_settings_edit_dialog_title">Redigera ord</string>
+  
+  <string name="user_dict_settings_context_menu_edit_title">Redigera</string>
+  
+  <string name="user_dict_settings_context_menu_delete_title">Ta bort</string>
+  
+  <string name="user_dict_settings_empty_text">Du har inga ord i din ordlista. Lägg till ord genom att klicka på knappen Lägg till (+).</string>
+  
+  <string name="user_dict_settings_all_languages">För alla språk</string>
+  
+  <string name="user_dict_settings_more_languages">Fler språk…</string>
+  
+  <string name="user_dict_settings_delete">Ta bort</string>
+  
+  <string name="user_dict_fast_scroll_alphabet">\u0020ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+</resources>

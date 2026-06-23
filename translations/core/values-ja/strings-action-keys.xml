@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">実行</string>
+  
+  <string name="label_next_key">次へ</string>
+  
+  <string name="label_previous_key">前へ</string>
+  
+  <string name="label_done_key">完了</string>
+  
+  <string name="label_send_key">送信</string>
+  
+  <string name="label_search_key">検索</string>
+  
+  <string name="label_pause_key">停止</string>
+  
+  <string name="label_wait_key">待機</string>
+</resources>

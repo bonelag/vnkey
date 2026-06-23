@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="english_ime_input_options">"ఇన్‌పుట్ ఎంపికలు"</string>
+  
+  <string name="vibrate_on_keypress">"కీని నొక్కినప్పుడు వైబ్రేట్"</string>
+  
+  <string name="sound_on_keypress">"కీని నొక్కినప్పుడు ధ్వని"</string>
+  
+  <string name="popup_on_keypress">"కీని నొక్కినప్పుడు పాప్‌అప్ చూపు"</string>
+  
+  <string name="show_language_switch_key">"భాష మార్పు కీ"</string>
+  
+  <string name="abbreviation_unit_milliseconds">&lt;string name="abbreviation_unit_milliseconds" msgid="3255301845626146979"&gt;&amp;quot;&lt;xliff:g id="MILLISECONDS"&gt;%s&lt;/xliff:g&gt;మిసె&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="use_personalized_dicts">"వ్యక్తిగతీకరించబడిన సూచనలు"</string>
+  
+  <string name="use_double_space_period">"రెండు-అంతరాల చుక్క గుర్తు"</string>
+  
+  <string name="use_double_space_period_summary">"స్పేస్ బార్‌పై రెండుసార్లు నొక్కడం వలన చుక్క, దాని ప్రక్కన అంతరం చొప్పించబడుతుంది"</string>
+  
+  <string name="auto_cap">"స్వీయ-పెద్ద అక్షరాలు"</string>
+  
+  <string name="auto_cap_summary">"ప్రతి వాక్యంలో మొదటి అక్షరాన్ని పెద్ద అక్షరం చేయి"</string>
+  
+  <string name="edit_personal_dictionary">"వ్యక్తిగత నిఘంటువు"</string>
+  
+  <string name="prefs_show_suggestions">"సవరణ సూచనలను చూపు"</string>
+  
+  <string name="prefs_show_suggestions_summary">"టైప్ చేసేటప్పుడు సూచిత పదాలను ప్రదర్శించు"</string>
+  
+  <string name="prefs_block_potentially_offensive_title">"కించపరిచే పదాలను బ్లాక్ చేయి"</string>
+  
+  <string name="prefs_block_potentially_offensive_summary">"కించ‌ప‌ర‌చ‌డానికి అవకాశం ఇచ్చే పదాలను సూచించవద్దు"</string>
+  
+  <string name="auto_correction">"స్వీయ-సవరణ"</string>
+  
+  <string name="auto_correction_summary">"స్పేస్ బార్ మరియు విరామ చిహ్నాలు తప్పుగా టైప్ చేసిన పదాలను ఆటోమేటిక్‌గా సరి చేస్తాయి"</string>
+  
+  <string name="bigram_prediction">"తర్వాతి-పదం సూచనలు"</string>
+  
+  <string name="bigram_prediction_summary">"సూచనలను రూపొందించడంలో మునుపటి పదాన్ని ఉపయోగించు"</string>
+  
+  <string name="language_selection_title">"భాషలు"</string>
+  
+  <string name="select_language">"భాషలు"</string>
+  
+  <string name="subtype_en_GB">"ఆంగ్లం (యుకె)"</string>
+  
+  <string name="subtype_en_US">"ఆంగ్లం (యుఎస్)"</string>
+  
+  <string name="subtype_es_US">"స్పానిష్ (యుఎస్)"</string>
+  
+  <string name="subtype_hi_ZZ">"హింగ్లీష్"</string>
+  
+  <string name="subtype_sr_ZZ">"సెర్బియన్ (లాటిన్)"</string>
+  
+  <string name="subtype_with_layout_en_GB">&lt;string name="subtype_with_layout_en_GB" msgid="4220344684463778660"&gt;&amp;quot;ఆంగ్లం (యుకె) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_en_US">&lt;string name="subtype_with_layout_en_US" msgid="4599421650961912769"&gt;&amp;quot;ఆంగ్లం (యుఎస్) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_es_US">&lt;string name="subtype_with_layout_es_US" msgid="6866331205974243592"&gt;&amp;quot;స్పానిష్ (యుఎస్) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_hi_ZZ">&lt;string name="subtype_with_layout_hi_ZZ" msgid="5439623653083985558"&gt;&amp;quot;హింగ్లీష్ (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_sr_ZZ">&lt;string name="subtype_with_layout_sr_ZZ" msgid="546465971819327060"&gt;&amp;quot;సెర్బియన్ (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_traditional">&lt;string name="subtype_generic_traditional" msgid="5321023815277210849"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (సాంప్రదాయకం)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_compact">&lt;string name="subtype_generic_compact" msgid="2858514299576793292"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (కాంపాక్ట్)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_no_language">"భాష లేదు (ఆల్ఫాబెట్)"</string>
+  
+  <string name="subtype_no_language_qwerty">"ఆల్ఫాబెట్ (QWERTY)"</string>
+  
+  <string name="subtype_no_language_qwertz">"ఆల్ఫాబెట్ (QWERTZ)"</string>
+  
+  <string name="subtype_no_language_azerty">"ఆల్ఫాబెట్ (AZERTY)"</string>
+  
+  <string name="subtype_no_language_dvorak">"ఆల్ఫాబెట్ (డ్వోరక్)"</string>
+  
+  <string name="subtype_no_language_colemak">"ఆల్ఫాబెట్ (కోల్‌మాక్)"</string>
+  
+  <string name="subtype_no_language_pcqwerty">"ఆల్ఫాబెట్ (PC)"</string>
+  
+  <string name="subtype_emoji">"ఎమోజి"</string>
+  
+  <string name="cancel">"రద్దు చేయి"</string>
+  
+  <string name="go_to_settings">"సెట్టింగ్‌లు"</string>
+  
+  <string name="install_dict">"ఇన్‌స్టాల్ చేయి"</string>
+  
+  <string name="cancel_download_dict">"రద్దు చేయి"</string>
+  
+  <string name="user_dict_settings_add_menu_title">"జోడించు"</string>
+  
+  <string name="user_dict_settings_add_dialog_title">"నిఘంటువుకి జోడించు"</string>
+  
+  <string name="user_dict_settings_add_screen_title">"పదబంధం"</string>
+  
+  <string name="user_dict_settings_add_dialog_more_options">"మరిన్ని ఎంపికలు"</string>
+  
+  <string name="user_dict_settings_add_dialog_less_options">"తక్కువ ఎంపికలు"</string>
+  
+  <string name="user_dict_settings_add_dialog_confirm">"సరే"</string>
+  
+  <string name="user_dict_settings_add_word_option_name">"పదం:"</string>
+  
+  <string name="user_dict_settings_add_shortcut_option_name">"షార్ట్‌కట్:"</string>
+  
+  <string name="user_dict_settings_add_locale_option_name">"భాష:"</string>
+  
+  <string name="user_dict_settings_add_word_hint">"పదాన్ని టైప్ చేయండి"</string>
+  
+  <string name="user_dict_settings_add_shortcut_hint">"ఐచ్ఛిక షార్ట్‌కట్"</string>
+  
+  <string name="user_dict_settings_edit_dialog_title">"పదాన్ని సవరించు"</string>
+  
+  <string name="user_dict_settings_context_menu_edit_title">"సవరించు"</string>
+  
+  <string name="user_dict_settings_context_menu_delete_title">"తొలగించు"</string>
+  
+  <string name="user_dict_settings_empty_text">"మీరు వినియోగదారు నిఘంటువులో పదాలు ఏవీ కలిగి లేరు. పదాన్ని జోడించడానికి, జోడించు (+) బటన్‌ను నొక్కండి."</string>
+  
+  <string name="user_dict_settings_all_languages">"అన్ని భాషల కోసం"</string>
+  
+  <string name="user_dict_settings_more_languages">"మరిన్ని భాషలు…"</string>
+  
+  <string name="user_dict_settings_delete">"తొలగించు"</string>
+  
+  <string name="user_dict_fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+</resources>

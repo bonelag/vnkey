@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+  <string name="english_ime_name">FUTO Toetsenbord</string>
+  
+  <string name="spell_checker_service_name">FUTO Spellingscontrole</string>
+  
+  <string name="english_ime_settings">FUTO Toetsenbordinstellingen</string>
+  
+  <string name="android_spell_checker_settings">FUTO Spellingscontrole-instellingen</string>
+</resources>

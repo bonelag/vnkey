@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="english_ime_input_options">"Mga pagpipilian sa input"</string>
+  
+  <string name="vibrate_on_keypress">"Mag-vibrate sa keypress"</string>
+  
+  <string name="sound_on_keypress">"Tumunog sa keypress"</string>
+  
+  <string name="popup_on_keypress">"Mag-popup sa keypress"</string>
+  
+  <string name="show_language_switch_key">"Key ng panlipat ng wika"</string>
+  
+  <string name="abbreviation_unit_milliseconds">&lt;string name="abbreviation_unit_milliseconds" msgid="3255301845626146979"&gt;&amp;quot;&lt;xliff:g id="MILLISECONDS"&gt;%s&lt;/xliff:g&gt;ms&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="use_personalized_dicts">"Personalized na mungkahi"</string>
+  
+  <string name="use_double_space_period">"Double-space period"</string>
+  
+  <string name="use_double_space_period_summary">"Naglalagay ng tuldok na may puwang ang pag-double tap sa spacebar"</string>
+  
+  <string name="auto_cap">"Auto-capitalization"</string>
+  
+  <string name="auto_cap_summary">"I-capitalize ang unang salita ng bawat pangungusap"</string>
+  
+  <string name="edit_personal_dictionary">"Personal na diksyunaryo"</string>
+  
+  <string name="prefs_show_suggestions">"Ipakita ang mga suhestiyon sa pagwawasto"</string>
+  
+  <string name="prefs_show_suggestions_summary">"Ipakita ang mga iminumungkahing salita habang nagta-type"</string>
+  
+  <string name="prefs_block_potentially_offensive_title">"I-block ang masakit na salita"</string>
+  
+  <string name="prefs_block_potentially_offensive_summary">"Huwag magmungkahi ng mga maaaring nakakapanakit na salita"</string>
+  
+  <string name="auto_correction">"Auto na pagwawasto"</string>
+  
+  <string name="auto_correction_summary">"Awtomatikong tinatama ng spacebar at bantas ang maling na-type"</string>
+  
+  <string name="bigram_prediction">"Mga suhestiyon sa susunod na salita"</string>
+  
+  <string name="bigram_prediction_summary">"Gamitin ang naunang salita sa paggawa ng mga suhestyon"</string>
+  
+  <string name="language_selection_title">"Mga Wika"</string>
+  
+  <string name="select_language">"Mga Wika"</string>
+  
+  <string name="subtype_en_GB">"English (UK)"</string>
+  
+  <string name="subtype_en_US">"English (United States)"</string>
+  
+  <string name="subtype_es_US">"Spanish (US)"</string>
+  
+  <string name="subtype_hi_ZZ">"Hinglish"</string>
+  
+  <string name="subtype_sr_ZZ">"Serbian (Latin)"</string>
+  
+  <string name="subtype_with_layout_en_GB">&lt;string name="subtype_with_layout_en_GB" msgid="4220344684463778660"&gt;&amp;quot;English (UK) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_en_US">&lt;string name="subtype_with_layout_en_US" msgid="4599421650961912769"&gt;&amp;quot;English (US) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_es_US">&lt;string name="subtype_with_layout_es_US" msgid="6866331205974243592"&gt;&amp;quot;Spanish (US) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_hi_ZZ">&lt;string name="subtype_with_layout_hi_ZZ" msgid="5439623653083985558"&gt;&amp;quot;Hinglish (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_sr_ZZ">&lt;string name="subtype_with_layout_sr_ZZ" msgid="546465971819327060"&gt;&amp;quot;Serbian (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_traditional">&lt;string name="subtype_generic_traditional" msgid="5321023815277210849"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (Traditional)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_compact">&lt;string name="subtype_generic_compact" msgid="2858514299576793292"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (Compact)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_no_language">"Walang wika (Alpabeto)"</string>
+  
+  <string name="subtype_no_language_qwerty">"Alpabeto (QWERTY)"</string>
+  
+  <string name="subtype_no_language_qwertz">"Alpabeto (QWERTZ)"</string>
+  
+  <string name="subtype_no_language_azerty">"Alpabeto (AZERTY)"</string>
+  
+  <string name="subtype_no_language_dvorak">"Alpabeto (Dvorak)"</string>
+  
+  <string name="subtype_no_language_colemak">"Alpabeto (Colemak)"</string>
+  
+  <string name="subtype_no_language_pcqwerty">"Alpabeto (PC)"</string>
+  
+  <string name="subtype_emoji">"Emoji"</string>
+  
+  <string name="cancel">"Kanselahin"</string>
+  
+  <string name="go_to_settings">"Mga Setting"</string>
+  
+  <string name="install_dict">"I-install"</string>
+  
+  <string name="cancel_download_dict">"Kanselahin"</string>
+  
+  <string name="user_dict_settings_add_menu_title">"Idagdag"</string>
+  
+  <string name="user_dict_settings_add_dialog_title">"Idagdag sa diksyunaryo"</string>
+  
+  <string name="user_dict_settings_add_screen_title">"Parirala"</string>
+  
+  <string name="user_dict_settings_add_dialog_more_options">"Higit pa"</string>
+  
+  <string name="user_dict_settings_add_dialog_less_options">"Mas kaunti"</string>
+  
+  <string name="user_dict_settings_add_dialog_confirm">"OK"</string>
+  
+  <string name="user_dict_settings_add_word_option_name">"Salita:"</string>
+  
+  <string name="user_dict_settings_add_shortcut_option_name">"Shortcut:"</string>
+  
+  <string name="user_dict_settings_add_locale_option_name">"Wika:"</string>
+  
+  <string name="user_dict_settings_add_word_hint">"Mag-type ng salita"</string>
+  
+  <string name="user_dict_settings_add_shortcut_hint">"Opsyonal na shortcut"</string>
+  
+  <string name="user_dict_settings_edit_dialog_title">"I-edit ang salita"</string>
+  
+  <string name="user_dict_settings_context_menu_edit_title">"I-edit"</string>
+  
+  <string name="user_dict_settings_context_menu_delete_title">"I-delete"</string>
+  
+  <string name="user_dict_settings_empty_text">"Wala kang anumang salita sa diksyunaryo ng user. Para magdagdag ng salita, i-tap ang button na Magdagdag (+)."</string>
+  
+  <string name="user_dict_settings_all_languages">"Para sa lahat ng wika"</string>
+  
+  <string name="user_dict_settings_more_languages">"Higit pang mga wika..."</string>
+  
+  <string name="user_dict_settings_delete">"I-delete"</string>
+  
+  <string name="user_dict_fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+</resources>

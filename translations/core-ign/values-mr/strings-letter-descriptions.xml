@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"स्त्रीलिंगी क्रमवाचक इंडिकेटर"</string>
+  
+  <string name="spoken_accented_letter_00B5">"सूक्ष्म आयकन"</string>
+  
+  <string name="spoken_accented_letter_00BA">"पुल्लिंगी क्रमवाचक इंडिकेटर"</string>
+  
+  <string name="spoken_accented_letter_00DF">"अणकुचीदार एस"</string>
+  
+  <string name="spoken_accented_letter_00E0">"ए, अनुदात्त"</string>
+  
+  <string name="spoken_accented_letter_00E1">"ए, तीक्ष्ण"</string>
+  
+  <string name="spoken_accented_letter_00E2">"ए, स्वरितचिन्ह"</string>
+  
+  <string name="spoken_accented_letter_00E3">"ए, टिल्डे आयकन"</string>
+  
+  <string name="spoken_accented_letter_00E4">"ए, स्वरवियोग आयकन"</string>
+  
+  <string name="spoken_accented_letter_00E5">"ए, वर रिंग"</string>
+  
+  <string name="spoken_accented_letter_00E6">"ए, ई, जोडाक्षर"</string>
+  
+  <string name="spoken_accented_letter_00E7">"सी, सेडिला"</string>
+  
+  <string name="spoken_accented_letter_00E8">"ई, अनुदात्त"</string>
+  
+  <string name="spoken_accented_letter_00E9">"ई, तीक्ष्ण"</string>
+  
+  <string name="spoken_accented_letter_00EA">"ई, स्वरितचिन्ह"</string>
+  
+  <string name="spoken_accented_letter_00EB">"ई, स्वरवियोग आयकन"</string>
+  
+  <string name="spoken_accented_letter_00EC">"आय, अनुदात्त"</string>
+  
+  <string name="spoken_accented_letter_00ED">"आय, तीक्ष्ण"</string>
+  
+  <string name="spoken_accented_letter_00EE">"आय, स्वरितचिन्ह"</string>
+  
+  <string name="spoken_accented_letter_00EF">"आय, स्वरवियोग आयकन"</string>
+  
+  <string name="spoken_accented_letter_00F0">"Eth"</string>
+  
+  <string name="spoken_accented_letter_00F1">"एन, टिल्डे आयकन"</string>
+  
+  <string name="spoken_accented_letter_00F2">"ओ, अनुदात्त"</string>
+  
+  <string name="spoken_accented_letter_00F3">"ओ, तीक्ष्ण"</string>
+  
+  <string name="spoken_accented_letter_00F4">"ओ, स्वरितचिन्ह"</string>
+  
+  <string name="spoken_accented_letter_00F5">"ओ, नासिक्यत्व खूण"</string>
+  
+  <string name="spoken_accented_letter_00F6">"ओ, स्वरवियोग आयकन"</string>
+  
+  <string name="spoken_accented_letter_00F8">"ओ, स्ट्रोक"</string>
+  
+  <string name="spoken_accented_letter_00F9">"यू, अनुदात्त"</string>
+  
+  <string name="spoken_accented_letter_00FA">"यू, तीक्ष्ण"</string>
+  
+  <string name="spoken_accented_letter_00FB">"यू, स्वरितचिन्ह"</string>
+  
+  <string name="spoken_accented_letter_00FC">"यू, स्वरवियोग आयकन"</string>
+  
+  <string name="spoken_accented_letter_00FD">"वाय, तीक्ष्ण"</string>
+  
+  <string name="spoken_accented_letter_00FE">"थॉर्न"</string>
+  
+  <string name="spoken_accented_letter_00FF">"वाय, स्वरवियोग आयकन"</string>
+  
+  <string name="spoken_accented_letter_0101">"ए, गुरुत्व आयकन"</string>
+  
+  <string name="spoken_accented_letter_0103">"ए, लघुत्व आयकन"</string>
+  
+  <string name="spoken_accented_letter_0105">"ए, ओगोनेक"</string>
+  
+  <string name="spoken_accented_letter_0107">"सी, तीक्ष्ण"</string>
+  
+  <string name="spoken_accented_letter_0109">"सी, स्वरितचिन्ह"</string>
+  
+  <string name="spoken_accented_letter_010B">"सी, वर बिंदू"</string>
+  
+  <string name="spoken_accented_letter_010D">"सी, कॅरोन"</string>
+  
+  <string name="spoken_accented_letter_010F">"डी, कॅरोन"</string>
+  
+  <string name="spoken_accented_letter_0111">"डी, स्ट्रोक"</string>
+  
+  <string name="spoken_accented_letter_0113">"ई, गुरुत्व आयकन"</string>
+  
+  <string name="spoken_accented_letter_0115">"ई, लघुत्व आयकन"</string>
+  
+  <string name="spoken_accented_letter_0117">"ई, वर बिंदू"</string>
+  
+  <string name="spoken_accented_letter_0119">"ई, ओगोनेक"</string>
+  
+  <string name="spoken_accented_letter_011B">"ई, कॅरोन"</string>
+  
+  <string name="spoken_accented_letter_011D">"जी, स्वरितचिन्ह"</string>
+  
+  <string name="spoken_accented_letter_011F">"जी, लघुत्व आयकन"</string>
+  
+  <string name="spoken_accented_letter_0121">"जी, वर बिंदू"</string>
+  
+  <string name="spoken_accented_letter_0123">"जी, सेडिला"</string>
+  
+  <string name="spoken_accented_letter_0125">"एच, स्वरितचिन्ह"</string>
+  
+  <string name="spoken_accented_letter_0127">"एच, स्ट्रोक"</string>
+  
+  <string name="spoken_accented_letter_0129">"आय, नासिकत्व आयकन"</string>
+  
+  <string name="spoken_accented_letter_012B">"आय, गुरुत्व आयकन"</string>
+  
+  <string name="spoken_accented_letter_012D">"आय, लघुत्व आयकन"</string>
+  
+  <string name="spoken_accented_letter_012F">"आय, ओगोनेक"</string>
+  
+  <string name="spoken_accented_letter_0131">"बिंदू नसलेला आय"</string>
+  
+  <string name="spoken_accented_letter_0133">"आय, जे जोडाक्षर"</string>
+  
+  <string name="spoken_accented_letter_0135">"जे, स्वरितचिन्ह"</string>
+  
+  <string name="spoken_accented_letter_0137">"के, सेडिला"</string>
+  
+  <string name="spoken_accented_letter_0138">"Kra"</string>
+  
+  <string name="spoken_accented_letter_013A">"एल, तीक्ष्ण"</string>
+  
+  <string name="spoken_accented_letter_013C">"एल, सेडिला"</string>
+  
+  <string name="spoken_accented_letter_013E">"एल, कॅरोन"</string>
+  
+  <string name="spoken_accented_letter_0140">"एल, मध्य बिंदू"</string>
+  
+  <string name="spoken_accented_letter_0142">"एल, स्ट्रोक"</string>
+  
+  <string name="spoken_accented_letter_0144">"एन, तीक्ष्ण"</string>
+  
+  <string name="spoken_accented_letter_0146">"एन, सेडिला"</string>
+  
+  <string name="spoken_accented_letter_0148">"एन, कॅरोन"</string>
+  
+  <string name="spoken_accented_letter_0149">"एन, ॲपॉस्ट्रॉफी च्या अगोदर"</string>
+  
+  <string name="spoken_accented_letter_014B">"Eng"</string>
+  
+  <string name="spoken_accented_letter_014D">"ओ, गुरुत्व आयकन"</string>
+  
+  <string name="spoken_accented_letter_014F">"ओ, लघुत्व आयकन"</string>
+  
+  <string name="spoken_accented_letter_0151">"ओ, दुहेरी तीक्ष्ण"</string>
+  
+  <string name="spoken_accented_letter_0153">"ओ, ई, जोडाक्षर"</string>
+  
+  <string name="spoken_accented_letter_0155">"आर, तीक्ष्ण"</string>
+  
+  <string name="spoken_accented_letter_0157">"आर, सेडिला"</string>
+  
+  <string name="spoken_accented_letter_0159">"आर, कॅरोन"</string>
+  
+  <string name="spoken_accented_letter_015B">"एस, तीक्ष्ण"</string>
+  
+  <string name="spoken_accented_letter_015D">"एस, स्वरितचिन्ह"</string>
+  
+  <string name="spoken_accented_letter_015F">"एस, सेडिला"</string>
+  
+  <string name="spoken_accented_letter_0161">"एस, कॅरोन"</string>
+  
+  <string name="spoken_accented_letter_0163">"टी, सेडिला"</string>
+  
+  <string name="spoken_accented_letter_0165">"टी, कॅरोन"</string>
+  
+  <string name="spoken_accented_letter_0167">"टी, स्ट्रोक"</string>
+  
+  <string name="spoken_accented_letter_0169">"यू, टिल्डे आयकन"</string>
+  
+  <string name="spoken_accented_letter_016B">"यू, गुरुत्व आयकन"</string>
+  
+  <string name="spoken_accented_letter_016D">"यू, लघुत्व आयकन"</string>
+  
+  <string name="spoken_accented_letter_016F">"यू, वर रिंग"</string>
+  
+  <string name="spoken_accented_letter_0171">"यू, दुहेरी तीक्ष्ण"</string>
+  
+  <string name="spoken_accented_letter_0173">"यू, ओगोनेक"</string>
+  
+  <string name="spoken_accented_letter_0175">"डब्ल्यू, स्वरितचिन्ह"</string>
+  
+  <string name="spoken_accented_letter_0177">"वाय, स्वरितचिन्ह"</string>
+  
+  <string name="spoken_accented_letter_017A">"झेड, तीक्ष्ण"</string>
+  
+  <string name="spoken_accented_letter_017C">"झेड, वर बिंदू"</string>
+  
+  <string name="spoken_accented_letter_017E">"झेड, कॅरॉन"</string>
+  
+  <string name="spoken_accented_letter_017F">"मोठा एस"</string>
+  
+  <string name="spoken_accented_letter_01A1">"ओ, हॉर्न"</string>
+  
+  <string name="spoken_accented_letter_01B0">"यू, हॉर्न"</string>
+  
+  <string name="spoken_accented_letter_0219">"एस, खाली स्वल्पविराम"</string>
+  
+  <string name="spoken_accented_letter_021B">"टी, खाली स्वल्पविराम"</string>
+  
+  <string name="spoken_accented_letter_0259">"शॉ"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"ए, खाली बिंदू"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"ए, वर हुक"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"ए, स्वरितचिन्ह आणि तीक्ष्ण"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"ए, स्वरितचिन्ह आणि अनुदात्त"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"ए, स्वरितचिन्ह आणि वर हुक"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"ए, स्वरितआयकन आणि टिल्डे आयकन"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"ए, स्वरितचिन्ह आणि खाली बिंदू"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"ए, लघुत्व आयकन आणि अनुदात्त"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"ए, लघुत्व आयकन आणि अनुदात्त"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"ए, लघुत्व आयकन आणि वर हुक"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"ए, लघुत्व आयकन आणि टिल्डे आयकन"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"ए, लघुत्व आयकन आणि खाली बिंदू"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"ई, खाली बिंदू"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"ई, वर हुक"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"ई, टिल्डे आयकन"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"ई, स्वरितचिन्ह आणि तीक्ष्ण"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"ई, स्वरितचिन्ह आणि अनुदात्त"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"ई, स्वरितचिन्ह आणि वर हुक"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"ई, स्वरितआयकन आणि टिल्डे आयकन"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"ई, स्वरितचिन्ह आणि खाली बिंदू"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"आय, वर हुक"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"आय, खाली बिंदू"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"ओ, खाली बिंदू"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"ओ, वर हुक"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"ओ, स्वरितचिन्ह आणि तीक्ष्ण"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"ओ, स्वरितचिन्ह आणि अनुदात्त"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"ओ, स्वरितचिन्ह आणि वर हुक"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"ओ, स्वरितआयकन आणि टिल्डे आयकन"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"ओ, स्वरितचिन्ह आणि खाली बिंदू"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"ओ, हॉर्न आणि तीक्ष्ण"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"ओ, हॉर्न आणि अनुदात्त"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"ओ, हॉर्न आणि वर हुक"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"ओ, हॉर्न आणि टिल्डे आयकन"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"ओ, हॉर्न आणि खाली बिंदू"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"यू, खाली बिंदू"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"यू, वर हुक"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"यू, हॉर्न आणि तीक्ष्ण"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"यू, हॉर्न आणि अनुदात्त"</string>
+  
+  <string name="spoken_accented_letter_1EED">"यू, हॉर्न आणि वर हुक"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"यू, हॉर्न आणि टिल्डे आयकन"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"यू, हॉर्न आणि खाली बिंदू"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"वाय, अनुदात्त"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"वाय, खाली बिंदू"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"वाय, वर हुक"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"वाय, टिल्डे आयकन"</string>
+  
+  <string name="spoken_symbol_00A1">"उलटे उद्गारचिन्ह आयकन"</string>
+  
+  <string name="spoken_symbol_00AB">"डाव्या-दिशेला दुहेरी कोन अवतरणचिन्ह आयकन"</string>
+  
+  <string name="spoken_symbol_00B7">"मध्य बिंदू"</string>
+  
+  <string name="spoken_symbol_00B9">"शिरोरेखित एक"</string>
+  
+  <string name="spoken_symbol_00BB">"उजव्या-दिशेला दुहेरी कोन अवतरणचिन्ह आयकन"</string>
+  
+  <string name="spoken_symbol_00BF">"उलटे प्रश्न आयकन"</string>
+  
+  <string name="spoken_symbol_2018">"डावे एकल अवतरणचिन्ह आयकन"</string>
+  
+  <string name="spoken_symbol_2019">"उजवे एकल अवतरणचिन्ह आयकन"</string>
+  
+  <string name="spoken_symbol_201A">"एकल निम्न-9 अवतरणचिन्ह आयकन"</string>
+  
+  <string name="spoken_symbol_201C">"डावे दुहेरी अवतरणचिन्ह आयकन"</string>
+  
+  <string name="spoken_symbol_201D">"उजवे दुहेरी अवतरणचिन्ह आयकन"</string>
+  
+  <string name="spoken_symbol_2020">"डॅगर"</string>
+  
+  <string name="spoken_symbol_2021">"दुहेरी डॅगर"</string>
+  
+  <string name="spoken_symbol_2030">"प्रति हजारी आयकन"</string>
+  
+  <string name="spoken_symbol_2032">"अविभाज्य"</string>
+  
+  <string name="spoken_symbol_2033">"दुहेरी अविभाज्य"</string>
+  
+  <string name="spoken_symbol_2039">"एकल डाव्या-दिशेला कोन अवतरणचिन्ह आयकन"</string>
+  
+  <string name="spoken_symbol_203A">"एकल उजव्या-दिशेला कोन अवतरणचिन्ह आयकन"</string>
+  
+  <string name="spoken_symbol_2074">"शिरोरेखित चार"</string>
+  
+  <string name="spoken_symbol_207F">"शिरोरेखित लॅटिन लहान अक्षर एन"</string>
+  
+  <string name="spoken_symbol_20B1">"पेसो आयकन"</string>
+  
+  <string name="spoken_symbol_2105">"द्वारा"</string>
+  
+  <string name="spoken_symbol_2192">"उजवीकडे बाण"</string>
+  
+  <string name="spoken_symbol_2193">"खालच्या दिशेने बाण"</string>
+  
+  <string name="spoken_symbol_2205">"रिक्त संच"</string>
+  
+  <string name="spoken_symbol_2206">"वाढ"</string>
+  
+  <string name="spoken_symbol_2264">"पेक्षा-कमी किंवा समान"</string>
+  
+  <string name="spoken_symbol_2265">"पेक्षा-मोठे किंवा समान"</string>
+  
+  <string name="spoken_symbol_2605">"काळा तारा"</string>
+</resources>

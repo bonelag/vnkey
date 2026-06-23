@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"Ayol jinsiga oid tartib ko‘rsatkichi"</string>
+  
+  <string name="spoken_accented_letter_00B5">"Mikro belgisi"</string>
+  
+  <string name="spoken_accented_letter_00BA">"Erkak jinsiga oid tartib ko‘rsatkichi"</string>
+  
+  <string name="spoken_accented_letter_00DF">"Esset"</string>
+  
+  <string name="spoken_accented_letter_00E0">"Gravisli A"</string>
+  
+  <string name="spoken_accented_letter_00E1">"Akutli A"</string>
+  
+  <string name="spoken_accented_letter_00E2">"Sirkumfleksli A"</string>
+  
+  <string name="spoken_accented_letter_00E3">"Tildali A"</string>
+  
+  <string name="spoken_accented_letter_00E4">"Diyerezisli A"</string>
+  
+  <string name="spoken_accented_letter_00E5">"Tepasida halqasi bor A"</string>
+  
+  <string name="spoken_accented_letter_00E6">"A va E ligaturasi"</string>
+  
+  <string name="spoken_accented_letter_00E7">"Sedilli C"</string>
+  
+  <string name="spoken_accented_letter_00E8">"Gravisli E"</string>
+  
+  <string name="spoken_accented_letter_00E9">"Akutli E"</string>
+  
+  <string name="spoken_accented_letter_00EA">"Sirkumfleksli E"</string>
+  
+  <string name="spoken_accented_letter_00EB">"Diyerezisli E"</string>
+  
+  <string name="spoken_accented_letter_00EC">"Gravisli I"</string>
+  
+  <string name="spoken_accented_letter_00ED">"Akutli I"</string>
+  
+  <string name="spoken_accented_letter_00EE">"Sirkumfleksli I"</string>
+  
+  <string name="spoken_accented_letter_00EF">"Diyerezisli I"</string>
+  
+  <string name="spoken_accented_letter_00F0">"Et"</string>
+  
+  <string name="spoken_accented_letter_00F1">"Tildali N"</string>
+  
+  <string name="spoken_accented_letter_00F2">"Gravisli O"</string>
+  
+  <string name="spoken_accented_letter_00F3">"Akutli O"</string>
+  
+  <string name="spoken_accented_letter_00F4">"Sirkumfleksli O"</string>
+  
+  <string name="spoken_accented_letter_00F5">"Tildali O"</string>
+  
+  <string name="spoken_accented_letter_00F6">"Diyerezisli O"</string>
+  
+  <string name="spoken_accented_letter_00F8">"Diagonaliga chizilgan O"</string>
+  
+  <string name="spoken_accented_letter_00F9">"Gravisli U"</string>
+  
+  <string name="spoken_accented_letter_00FA">"Akutli U"</string>
+  
+  <string name="spoken_accented_letter_00FB">"Sirkumfleksli U"</string>
+  
+  <string name="spoken_accented_letter_00FC">"Diyerezisli U"</string>
+  
+  <string name="spoken_accented_letter_00FD">"Akutli Y"</string>
+  
+  <string name="spoken_accented_letter_00FE">"Torn"</string>
+  
+  <string name="spoken_accented_letter_00FF">"Diyerezisli Y"</string>
+  
+  <string name="spoken_accented_letter_0101">"Makronli A"</string>
+  
+  <string name="spoken_accented_letter_0103">"Brevisli A"</string>
+  
+  <string name="spoken_accented_letter_0105">"Dumli A"</string>
+  
+  <string name="spoken_accented_letter_0107">"Akutli C"</string>
+  
+  <string name="spoken_accented_letter_0109">"Sirkumfleksli C"</string>
+  
+  <string name="spoken_accented_letter_010B">"Tepasida nuqtasi bor C"</string>
+  
+  <string name="spoken_accented_letter_010D">"Gajakli C"</string>
+  
+  <string name="spoken_accented_letter_010F">"Gajakli D"</string>
+  
+  <string name="spoken_accented_letter_0111">"O‘rtasi chizilgan D"</string>
+  
+  <string name="spoken_accented_letter_0113">"Makronli E"</string>
+  
+  <string name="spoken_accented_letter_0115">"Brevisli E"</string>
+  
+  <string name="spoken_accented_letter_0117">"Tepasida nuqtasi bor E"</string>
+  
+  <string name="spoken_accented_letter_0119">"Dumli E"</string>
+  
+  <string name="spoken_accented_letter_011B">"Gajakli E"</string>
+  
+  <string name="spoken_accented_letter_011D">"Sirkumfleksli G"</string>
+  
+  <string name="spoken_accented_letter_011F">"Brevisli G"</string>
+  
+  <string name="spoken_accented_letter_0121">"Tepasida nuqtasi bor G"</string>
+  
+  <string name="spoken_accented_letter_0123">"Sedilli G"</string>
+  
+  <string name="spoken_accented_letter_0125">"Sirkumfleksli H"</string>
+  
+  <string name="spoken_accented_letter_0127">"O‘rtasi chizilgan H"</string>
+  
+  <string name="spoken_accented_letter_0129">"Tildali I"</string>
+  
+  <string name="spoken_accented_letter_012B">"Makronli I"</string>
+  
+  <string name="spoken_accented_letter_012D">"Brevisli I"</string>
+  
+  <string name="spoken_accented_letter_012F">"Dumli I"</string>
+  
+  <string name="spoken_accented_letter_0131">"Nuqtasiz I"</string>
+  
+  <string name="spoken_accented_letter_0133">"I va J ligaturasi"</string>
+  
+  <string name="spoken_accented_letter_0135">"Sirkumfleksli J"</string>
+  
+  <string name="spoken_accented_letter_0137">"Sedilli K"</string>
+  
+  <string name="spoken_accented_letter_0138">"Kra"</string>
+  
+  <string name="spoken_accented_letter_013A">"Akutli L"</string>
+  
+  <string name="spoken_accented_letter_013C">"Sedilli L"</string>
+  
+  <string name="spoken_accented_letter_013E">"Gajakli L"</string>
+  
+  <string name="spoken_accented_letter_0140">"O‘rtasida nuqtasi bor L"</string>
+  
+  <string name="spoken_accented_letter_0142">"O‘rtasi chizilgan L"</string>
+  
+  <string name="spoken_accented_letter_0144">"Akutli N"</string>
+  
+  <string name="spoken_accented_letter_0146">"Sedilli N"</string>
+  
+  <string name="spoken_accented_letter_0148">"Gajakli N"</string>
+  
+  <string name="spoken_accented_letter_0149">"Chap tomonida apostrof bor N"</string>
+  
+  <string name="spoken_accented_letter_014B">"Ng"</string>
+  
+  <string name="spoken_accented_letter_014D">"Makronli O"</string>
+  
+  <string name="spoken_accented_letter_014F">"Brevisli O"</string>
+  
+  <string name="spoken_accented_letter_0151">"Qo‘sh akutli O"</string>
+  
+  <string name="spoken_accented_letter_0153">"O va E ligaturasi"</string>
+  
+  <string name="spoken_accented_letter_0155">"Akutli R"</string>
+  
+  <string name="spoken_accented_letter_0157">"Sedilli R"</string>
+  
+  <string name="spoken_accented_letter_0159">"Gajakli R"</string>
+  
+  <string name="spoken_accented_letter_015B">"Akutli S"</string>
+  
+  <string name="spoken_accented_letter_015D">"Sirkumfleksli S"</string>
+  
+  <string name="spoken_accented_letter_015F">"Sedilli S"</string>
+  
+  <string name="spoken_accented_letter_0161">"Gajakli S"</string>
+  
+  <string name="spoken_accented_letter_0163">"Sedilli T"</string>
+  
+  <string name="spoken_accented_letter_0165">"Gajakli T"</string>
+  
+  <string name="spoken_accented_letter_0167">"O‘rtasi chizilgan T"</string>
+  
+  <string name="spoken_accented_letter_0169">"Tildali U"</string>
+  
+  <string name="spoken_accented_letter_016B">"Makronli U"</string>
+  
+  <string name="spoken_accented_letter_016D">"Brevisli U"</string>
+  
+  <string name="spoken_accented_letter_016F">"Tepasida halqasi bor U"</string>
+  
+  <string name="spoken_accented_letter_0171">"Qo‘sh akutli U"</string>
+  
+  <string name="spoken_accented_letter_0173">"Dumli U"</string>
+  
+  <string name="spoken_accented_letter_0175">"Sirkumfleksli W"</string>
+  
+  <string name="spoken_accented_letter_0177">"Sirkumfleksli Y"</string>
+  
+  <string name="spoken_accented_letter_017A">"Akutli Z"</string>
+  
+  <string name="spoken_accented_letter_017C">"Tepasida nuqtasi bor Z"</string>
+  
+  <string name="spoken_accented_letter_017E">"Gajakli Z"</string>
+  
+  <string name="spoken_accented_letter_017F">"Uzun S"</string>
+  
+  <string name="spoken_accented_letter_01A1">"Shohli O"</string>
+  
+  <string name="spoken_accented_letter_01B0">"Shohli U"</string>
+  
+  <string name="spoken_accented_letter_0219">"Ostida verguli bor S"</string>
+  
+  <string name="spoken_accented_letter_021B">"Ostida verguli bor T"</string>
+  
+  <string name="spoken_accented_letter_0259">"Shva"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"Ostida nuqtasi bor A"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"Tepasida ilmog‘i bor A"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"Sirkumfleks va akutli A"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"Sirkumfleks va gravisli A"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"Sirkumfleks va tepasida ilmog‘i bor A"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"Sirkumfleks va tildali A"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"Sirkumfleks va ostida nuqtasi bor A"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"Brevis va akutli A"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"Brevis va gravisli A"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"Brevis va tepasida ilmog‘i bor A"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"Brevis va tildali A"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"Brevis va ostida nuqtasi bor A"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"Ostida nuqtasi bor E"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"Tepasida ilmog‘i bor E"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"Tildali E"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"Sirkumfleks va akutli E"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"Sirkumfleks va gravisli E"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"Sirkumfleks va tepasida ilmog‘i bor E"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"Sirkumfleks va tildali E"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"Sirkumfleks va ostida nuqtasi bor E"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"Tepasida ilmog‘i bor I"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"Ostida nuqtasi bor I"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"Ostida nuqtasi bor O"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"Tepasida ilmog‘i bor O"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"Sirkumfleks va akutli O"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"Sirkumfleks va gravisli O"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"Sirkumfleks va tepasida ilmog‘i bor O"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"Sirkumfleks va tildali O"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"Sirkumfleks va ostida nuqtasi bor O"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"Shoh va akutli O"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"Shoh va akutli O"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"Shoh va tepasida ilmog‘i bor O"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"Shoh va tildali O"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"Shoh va ostida nuqtasi bor O"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"Ostida nuqtasi bor U"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"Tepasida nuqtasi bor U"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"Shoh va akutli U"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"Shoh va gravisli U"</string>
+  
+  <string name="spoken_accented_letter_1EED">"Shoh va tepasida ilmog‘i bor U"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"Shoh va tildali U"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"Shoh va ostida nuqtasi bor U"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"Gravisli Y"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"Ostida nuqtasi bor Y"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"Tepasida ilmog‘i bor Y"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"Tildali Y"</string>
+  
+  <string name="spoken_symbol_00A1">"Teskari undov belgisi"</string>
+  
+  <string name="spoken_symbol_00AB">"Chapga qaragan burchakli qo‘shtirnoq belgisi"</string>
+  
+  <string name="spoken_symbol_00B7">"Markazlashgan nuqta"</string>
+  
+  <string name="spoken_symbol_00B9">"Darajada joylashgan bir"</string>
+  
+  <string name="spoken_symbol_00BB">"O‘ngga qaragan burchakli qo‘shtirnoq belgisi"</string>
+  
+  <string name="spoken_symbol_00BF">"Teskari so‘roq belgisi"</string>
+  
+  <string name="spoken_symbol_2018">"Chap bir tirnoq belgisi"</string>
+  
+  <string name="spoken_symbol_2019">"O‘ng bir tirnoq belgisi"</string>
+  
+  <string name="spoken_symbol_201A">"Indeksda joylashgan 9 ko‘rinishidagi bir tirnoq belgisi"</string>
+  
+  <string name="spoken_symbol_201C">"Chap qo‘shtirnoq belgisi"</string>
+  
+  <string name="spoken_symbol_201D">"O‘ng qo‘shtirnoq belgisi"</string>
+  
+  <string name="spoken_symbol_2020">"Xoch belgisi"</string>
+  
+  <string name="spoken_symbol_2021">"Qo‘sh xoch belgisi"</string>
+  
+  <string name="spoken_symbol_2030">"Promille belgisi"</string>
+  
+  <string name="spoken_symbol_2032">"Kertma belgisi"</string>
+  
+  <string name="spoken_symbol_2033">"Qo‘sh kertma belgisi"</string>
+  
+  <string name="spoken_symbol_2039">"Chapga qaragan burchakli bir tirnoq belgisi"</string>
+  
+  <string name="spoken_symbol_203A">"O‘ngga qaragan burchakli bir tirnoq belgisi"</string>
+  
+  <string name="spoken_symbol_2074">"Darajada joylashgan to‘rt"</string>
+  
+  <string name="spoken_symbol_207F">"Darajada joylashgan lotincha kichik n harfi"</string>
+  
+  <string name="spoken_symbol_20B1">"Peso belgisi"</string>
+  
+  <string name="spoken_symbol_2105">"c/o belgisi"</string>
+  
+  <string name="spoken_symbol_2192">"O‘ngga qaragan ko‘rsatkichli chiziqcha"</string>
+  
+  <string name="spoken_symbol_2193">"Pastga qaragan ko‘rsatkichli chiziqcha"</string>
+  
+  <string name="spoken_symbol_2205">"Bo‘sh to‘plam"</string>
+  
+  <string name="spoken_symbol_2206">"Delta belgisi"</string>
+  
+  <string name="spoken_symbol_2264">"Kichik yoki teng"</string>
+  
+  <string name="spoken_symbol_2265">"Katta yoki teng"</string>
+  
+  <string name="spoken_symbol_2605">"Qora yulduzcha"</string>
+</resources>

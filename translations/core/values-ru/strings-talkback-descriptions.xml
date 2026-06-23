@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="spoken_use_headphones">"Подключите гарнитуру, чтобы услышать пароль."</string>
+  
+  <string name="spoken_current_text_is">"Введенный текст: %s."</string>
+  
+  <string name="spoken_no_text_entered">"Текст не введен."</string>
+  
+  <string name="spoken_auto_correct">&lt;string name="spoken_auto_correct" msgid="965889269068888859"&gt;&amp;quot;При нажатии клавиши &lt;xliff:g id="KEY_NAME"&gt;%1$s&lt;/xliff:g&gt; слово &lt;xliff:g id="ORIGINAL_WORD"&gt;%2$s&lt;/xliff:g&gt; будет исправлено на &lt;xliff:g id="CORRECTED_WORD"&gt;%3$s&lt;/xliff:g&gt;.&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="spoken_auto_correct_obscured">&lt;string name="spoken_auto_correct_obscured" msgid="7511607899335382699"&gt;&amp;quot;Клавиша &lt;xliff:g id="KEY_NAME"&gt;%1$s&lt;/xliff:g&gt; выполняет автоисправление.&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="spoken_empty_suggestion">"Подсказки не найдены"</string>
+  
+  <string name="spoken_description_unknown">"Неизвестный символ."</string>
+  
+  <string name="spoken_description_shift">"Клавиша верхнего регистра."</string>
+  
+  <string name="spoken_description_symbols_shift">"Дополнительные символы."</string>
+  
+  <string name="spoken_description_shift_shifted">"Клавиша верхнего регистра."</string>
+  
+  <string name="spoken_description_symbols_shift_shifted">"Символы."</string>
+  
+  <string name="spoken_description_caps_lock">"Клавиша верхнего регистра."</string>
+  
+  <string name="spoken_description_delete">"Удалить."</string>
+  
+  <string name="spoken_description_to_symbol">"Символы."</string>
+  
+  <string name="spoken_description_to_alpha">"Буквы."</string>
+  
+  <string name="spoken_description_to_numeric">"Цифры."</string>
+  
+  <string name="spoken_description_settings">"Настройки."</string>
+  
+  <string name="spoken_description_tab">"Клавиша Tab."</string>
+  
+  <string name="spoken_description_space">"Пробел."</string>
+  
+  <string name="spoken_description_mic">"Голосовой ввод."</string>
+  
+  <string name="spoken_description_emoji">"Смайлики."</string>
+  
+  <string name="spoken_description_return">"Ввод."</string>
+  
+  <string name="spoken_description_search">"Поиск."</string>
+  
+  <string name="spoken_description_dot">"Маркер списка."</string>
+  
+  <string name="spoken_description_language_switch">"Сменить язык."</string>
+  
+  <string name="spoken_description_action_next">"Далее."</string>
+  
+  <string name="spoken_description_action_previous">"Назад."</string>
+  
+  <string name="spoken_description_to_alt_0">Первая страница</string>
+  <string name="spoken_description_to_alt_1">Вторая страница</string>
+  <string name="spoken_description_to_alt_2">Третья страница</string>
+  
+  <string name="spoken_description_shiftmode_on">"Верхний регистр включен."</string>
+  
+  <string name="spoken_description_shiftmode_locked">"Caps Lock включен."</string>
+  
+  <string name="spoken_description_mode_symbol">"Режим добавления символов."</string>
+  
+  <string name="spoken_description_mode_symbol_shift">"Режим дополнительных символов."</string>
+  
+  <string name="spoken_description_mode_alpha">"Режим ввода текста."</string>
+  
+  <string name="spoken_description_mode_phone">"Режим набора номера."</string>
+  
+  <string name="spoken_description_mode_phone_shift">"Режим телефонных символов."</string>
+  
+  <string name="spoken_description_mode_digits">Режим цифр</string>
+  
+  <string name="announce_keyboard_hidden">"Клавиатура скрыта."</string>
+  
+  <string name="announce_keyboard_mode">&lt;string name="announce_keyboard_mode" msgid="5314352981874590170"&gt;&amp;quot;Включен режим &lt;xliff:g id="KEYBOARD_MODE"&gt;%s&lt;/xliff:g&gt;.&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="keyboard_mode_date">"ввода даты"</string>
+  
+  <string name="keyboard_mode_date_time">"ввода даты и времени"</string>
+  
+  <string name="keyboard_mode_email">"ввода адреса электронной почты"</string>
+  
+  <string name="keyboard_mode_im">"ввода сообщения"</string>
+  
+  <string name="keyboard_mode_number">"ввода цифр"</string>
+  
+  <string name="keyboard_mode_phone">"набора номера"</string>
+  
+  <string name="keyboard_mode_text">"ввода текста"</string>
+  
+  <string name="keyboard_mode_time">"ввода времени"</string>
+  
+  <string name="keyboard_mode_url">"ввода URL"</string>
+  
+  <string name="spoken_descrption_emoji_category_recents">"Недавно использованные."</string>
+  
+  <string name="spoken_descrption_emoji_category_people">"Люди."</string>
+  
+  <string name="spoken_descrption_emoji_category_objects">"Объекты."</string>
+  
+  <string name="spoken_descrption_emoji_category_nature">"Природа."</string>
+  
+  <string name="spoken_descrption_emoji_category_places">"Места."</string>
+  
+  <string name="spoken_descrption_emoji_category_symbols">"Символы."</string>
+  
+  <string name="spoken_descrption_emoji_category_flags">"Флаги."</string>
+  
+  <string name="spoken_descrption_emoji_category_eight_smiley_people">"Смайлики и люди."</string>
+  
+  <string name="spoken_descrption_emoji_category_eight_animals_nature">"Природа и животные."</string>
+  
+  <string name="spoken_descrption_emoji_category_eight_food_drink">"Еда и напитки."</string>
+  
+  <string name="spoken_descrption_emoji_category_eight_travel_places">"Путешествия и достопримечательности."</string>
+  
+  <string name="spoken_descrption_emoji_category_eight_activity">"Действия."</string>
+  
+  <string name="spoken_descrption_emoji_category_emoticons">"Смайлики."</string>
+  
+  <string name="spoken_description_upper_case">&lt;string name="spoken_description_upper_case" msgid="548189286451849550"&gt;&amp;quot;Заглавная &lt;xliff:g id="LOWER_LETTER"&gt;%s&lt;/xliff:g&gt;.&amp;quot;&lt;/string&gt;</string>
+  <!--
+    Spoken description for Unicode code point U+0049: "I" LATIN CAPITAL LETTER I
+    Note that depending on locale, the lower-case of this letter is U+0069 or U+0131.
+  -->
+  <string name="spoken_letter_0049">"Заглавная латинская I."</string>
+  <!--
+    Spoken description for Unicode code point U+0130: "İ" LATIN CAPITAL LETTER I WITH DOT ABOVE
+    Note that depending on locale, the lower-case of this letter is U+0069 or U+0131.
+  -->
+  <string name="spoken_letter_0130">"Заглавная латинская I с точкой сверху."</string>
+  
+  <string name="spoken_symbol_unknown">"Неизвестный символ."</string>
+  
+  <string name="spoken_emoji_unknown">"Неизвестный смайлик."</string>
+  
+  <string name="spoken_emoticon_3A_2D_21_20">"Скука."</string>
+  
+  <string name="spoken_emoticon_3A_2D_24_20">"Смущение."</string>
+  
+  <string name="spoken_emoticon_42_2D_29_20">"Солнцезащитные очки."</string>
+  
+  <string name="spoken_emoticon_3A_4F_20">"Удивление."</string>
+  
+  <string name="spoken_emoticon_3A_2D_2A_20">"Поцелуй."</string>
+  
+  <string name="spoken_emoticon_3A_2D_5B_20">"Хмурый взгляд."</string>
+  
+  <string name="spoken_open_more_keys_keyboard">"Доступны дополнительные символы."</string>
+  
+  <string name="spoken_close_more_keys_keyboard">"Дополнительные символы скрыты."</string>
+  
+  <string name="spoken_open_more_suggestions">"Доступны дополнительные подсказки."</string>
+  
+  <string name="spoken_close_more_suggestions">"Дополнительные подсказки скрыты."</string>
+  
+  <string name="action_menu_opened">Меню открыто: %1$s</string>
+  
+  <string name="action_menu_closed">Меню закрыто: %1$s</string>
+  
+  <string name="quick_clip_full_string">Скопированный элемент буфера обмена: “%s”. Нажмите дважды, чтобы вставить. Введите что нибудь для отмены.</string>
+  <string name="quick_clip_numeric_code">Скопированное число: “%s”. Нажмите дважды, чтобы вставить. Введите что нибудь для отмены.</string>
+  <string name="quick_clip_email_address">Скопированный почтовый адрес: “%s”. Нажмите дважды чтобы вставить. Введите что нибудь для отмены.</string>
+  <string name="quick_clip_url">Скопированный URL адрес: “%s”. Нажмите дважды чтобы вставить. Введите что нибудь для отмены.</string>
+  <string name="quick_clip_image">Вы скопировали изображение. Нажмите дважды чтобы вставить изображение. Введите что нибудь для отмены.</string>
+  <string name="quick_clip_content_obscured">Подключите наушники, чтобы услышать содержимое.</string>
+  
+  <string name="one_handed_mode_switch_hand">Сменить ведущую руку</string>
+  
+  <string name="one_handed_mode_exit">Выйти из режима управления одной рукой</string>
+</resources>

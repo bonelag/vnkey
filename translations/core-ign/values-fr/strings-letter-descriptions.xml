@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"Indicateur ordinal féminin"</string>
+  
+  <string name="spoken_accented_letter_00B5">"Symbole micro"</string>
+  
+  <string name="spoken_accented_letter_00BA">"Indicateur ordinal masculin"</string>
+  
+  <string name="spoken_accented_letter_00DF">"Eszett"</string>
+  
+  <string name="spoken_accented_letter_00E0">"A, accent grave"</string>
+  
+  <string name="spoken_accented_letter_00E1">"A, accent aigu"</string>
+  
+  <string name="spoken_accented_letter_00E2">"A, accent circonflexe"</string>
+  
+  <string name="spoken_accented_letter_00E3">"A, tilde"</string>
+  
+  <string name="spoken_accented_letter_00E4">"A, tréma"</string>
+  
+  <string name="spoken_accented_letter_00E5">"A, rond en chef"</string>
+  
+  <string name="spoken_accented_letter_00E6">"E dans l\'A"</string>
+  
+  <string name="spoken_accented_letter_00E7">"C, cédille"</string>
+  
+  <string name="spoken_accented_letter_00E8">"E, accent grave"</string>
+  
+  <string name="spoken_accented_letter_00E9">"E, accent aigu"</string>
+  
+  <string name="spoken_accented_letter_00EA">"E, accent circonflexe"</string>
+  
+  <string name="spoken_accented_letter_00EB">"E, tréma"</string>
+  
+  <string name="spoken_accented_letter_00EC">"I, accent grave"</string>
+  
+  <string name="spoken_accented_letter_00ED">"I, accent aigu"</string>
+  
+  <string name="spoken_accented_letter_00EE">"I, accent circonflexe"</string>
+  
+  <string name="spoken_accented_letter_00EF">"I, tréma"</string>
+  
+  <string name="spoken_accented_letter_00F0">"Eth"</string>
+  
+  <string name="spoken_accented_letter_00F1">"N, tilde"</string>
+  
+  <string name="spoken_accented_letter_00F2">"O, accent grave"</string>
+  
+  <string name="spoken_accented_letter_00F3">"O, accent aigu"</string>
+  
+  <string name="spoken_accented_letter_00F4">"O, accent circonflexe"</string>
+  
+  <string name="spoken_accented_letter_00F5">"O, tilde"</string>
+  
+  <string name="spoken_accented_letter_00F6">"O, tréma"</string>
+  
+  <string name="spoken_accented_letter_00F8">"O, barré"</string>
+  
+  <string name="spoken_accented_letter_00F9">"U, accent grave"</string>
+  
+  <string name="spoken_accented_letter_00FA">"U, accent aigu"</string>
+  
+  <string name="spoken_accented_letter_00FB">"U, accent circonflexe"</string>
+  
+  <string name="spoken_accented_letter_00FC">"U, tréma"</string>
+  
+  <string name="spoken_accented_letter_00FD">"Y, accent aigu"</string>
+  
+  <string name="spoken_accented_letter_00FE">"Thorn"</string>
+  
+  <string name="spoken_accented_letter_00FF">"Y, tréma"</string>
+  
+  <string name="spoken_accented_letter_0101">"A, macron"</string>
+  
+  <string name="spoken_accented_letter_0103">"A, brève"</string>
+  
+  <string name="spoken_accented_letter_0105">"A, ogonek"</string>
+  
+  <string name="spoken_accented_letter_0107">"C, accent aigu"</string>
+  
+  <string name="spoken_accented_letter_0109">"C, accent circonflexe"</string>
+  
+  <string name="spoken_accented_letter_010B">"C, point en chef"</string>
+  
+  <string name="spoken_accented_letter_010D">"C, caron"</string>
+  
+  <string name="spoken_accented_letter_010F">"D, caron"</string>
+  
+  <string name="spoken_accented_letter_0111">"D, barré"</string>
+  
+  <string name="spoken_accented_letter_0113">"E, macron"</string>
+  
+  <string name="spoken_accented_letter_0115">"E, brève"</string>
+  
+  <string name="spoken_accented_letter_0117">"E, point en chef"</string>
+  
+  <string name="spoken_accented_letter_0119">"E, ogonek"</string>
+  
+  <string name="spoken_accented_letter_011B">"E, caron"</string>
+  
+  <string name="spoken_accented_letter_011D">"G, accent circonflexe"</string>
+  
+  <string name="spoken_accented_letter_011F">"G, brève"</string>
+  
+  <string name="spoken_accented_letter_0121">"G, point en chef"</string>
+  
+  <string name="spoken_accented_letter_0123">"G, cédille"</string>
+  
+  <string name="spoken_accented_letter_0125">"H, accent circonflexe"</string>
+  
+  <string name="spoken_accented_letter_0127">"H, barré"</string>
+  
+  <string name="spoken_accented_letter_0129">"I, tilde"</string>
+  
+  <string name="spoken_accented_letter_012B">"I, macron"</string>
+  
+  <string name="spoken_accented_letter_012D">"I, bref"</string>
+  
+  <string name="spoken_accented_letter_012F">"I, ogonek"</string>
+  
+  <string name="spoken_accented_letter_0131">"I, sans point"</string>
+  
+  <string name="spoken_accented_letter_0133">"I, J, ligature"</string>
+  
+  <string name="spoken_accented_letter_0135">"J, accent circonflexe"</string>
+  
+  <string name="spoken_accented_letter_0137">"K, cédille"</string>
+  
+  <string name="spoken_accented_letter_0138">"Kra"</string>
+  
+  <string name="spoken_accented_letter_013A">"L, accent aigu"</string>
+  
+  <string name="spoken_accented_letter_013C">"L, cédille"</string>
+  
+  <string name="spoken_accented_letter_013E">"L, caron"</string>
+  
+  <string name="spoken_accented_letter_0140">"L, point médian"</string>
+  
+  <string name="spoken_accented_letter_0142">"L, barré"</string>
+  
+  <string name="spoken_accented_letter_0144">"N, accent aigu"</string>
+  
+  <string name="spoken_accented_letter_0146">"N, cédille"</string>
+  
+  <string name="spoken_accented_letter_0148">"N, caron"</string>
+  
+  <string name="spoken_accented_letter_0149">"N, précédé par une apostrophe"</string>
+  
+  <string name="spoken_accented_letter_014B">"Eng"</string>
+  
+  <string name="spoken_accented_letter_014D">"O, macron"</string>
+  
+  <string name="spoken_accented_letter_014F">"O, brève"</string>
+  
+  <string name="spoken_accented_letter_0151">"O, double accent aigu"</string>
+  
+  <string name="spoken_accented_letter_0153">"E dans l\'O"</string>
+  
+  <string name="spoken_accented_letter_0155">"R, accent aigu"</string>
+  
+  <string name="spoken_accented_letter_0157">"R, cédille"</string>
+  
+  <string name="spoken_accented_letter_0159">"R, caron"</string>
+  
+  <string name="spoken_accented_letter_015B">"S, accent aigu"</string>
+  
+  <string name="spoken_accented_letter_015D">"S, accent circonflexe"</string>
+  
+  <string name="spoken_accented_letter_015F">"S, cédille"</string>
+  
+  <string name="spoken_accented_letter_0161">"S, caron"</string>
+  
+  <string name="spoken_accented_letter_0163">"T, cédille"</string>
+  
+  <string name="spoken_accented_letter_0165">"T, caron"</string>
+  
+  <string name="spoken_accented_letter_0167">"T, barré"</string>
+  
+  <string name="spoken_accented_letter_0169">"U, tilde"</string>
+  
+  <string name="spoken_accented_letter_016B">"U, macron"</string>
+  
+  <string name="spoken_accented_letter_016D">"U, brève"</string>
+  
+  <string name="spoken_accented_letter_016F">"U, rond en chef"</string>
+  
+  <string name="spoken_accented_letter_0171">"U, double accent aigu"</string>
+  
+  <string name="spoken_accented_letter_0173">"U, ogonek"</string>
+  
+  <string name="spoken_accented_letter_0175">"W, accent circonflexe"</string>
+  
+  <string name="spoken_accented_letter_0177">"Y, accent circonflexe"</string>
+  
+  <string name="spoken_accented_letter_017A">"Z, accent aigu"</string>
+  
+  <string name="spoken_accented_letter_017C">"Z, point en chef"</string>
+  
+  <string name="spoken_accented_letter_017E">"Z, caron"</string>
+  
+  <string name="spoken_accented_letter_017F">"S long"</string>
+  
+  <string name="spoken_accented_letter_01A1">"O, cornu"</string>
+  
+  <string name="spoken_accented_letter_01B0">"U, cornu"</string>
+  
+  <string name="spoken_accented_letter_0219">"S, virgule souscrite"</string>
+  
+  <string name="spoken_accented_letter_021B">"T, virgule souscrite"</string>
+  
+  <string name="spoken_accented_letter_0259">"Schwa"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"A, point souscrit"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"A, crochet en chef"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"A, accent circonflexe et accent aigu"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"A, accent circonflexe et accent grave"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"A, accent circonflexe et crochet en chef"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"A, accent circonflexe et tilde"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"A, accent circonflexe et point souscrit"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"A, brève et accent aigu"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"A, brève et accent grave"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"A, brève et crochet en chef"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"A, brève et tilde"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"A, brève et point souscrit"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"E, point souscrit"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"E, crochet en chef"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"E, tilde"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"E, accent circonflexe et accent aigu"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"E, accent circonflexe et accent grave"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"E, accent circonflexe et crochet en chef"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"E, accent circonflexe et tilde"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"E, accent circonflexe et point souscrit"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"I, crochet en chef"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"I, point souscrit"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"O, point souscrit"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"O, crochet en chef"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"O, accent circonflexe et accent aigu"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"O, accent circonflexe et accent grave"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"O, accent circonflexe et crochet en chef"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"O, accent circonflexe et tilde"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"O, accent circonflexe et point souscrit"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"O, cornu et accent aigu"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"O, cornu et accent grave"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"O, cornu et crochet en chef"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"O, cornu et tilde"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"O, cornu et point souscrit"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"U, point souscrit"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"U, crochet en chef"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"U, cornu et accent aigu"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"U, cornu et accent grave"</string>
+  
+  <string name="spoken_accented_letter_1EED">"U, cornu et crochet en chef"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"U, cornu et tilde"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"U, cornu et point souscrit"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"Y, accent grave"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"Y, point souscrit"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"Y, crochet en chef"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"Y, tilde"</string>
+  
+  <string name="spoken_symbol_00A1">"Point d\'exclamation inversé"</string>
+  
+  <string name="spoken_symbol_00AB">"Chevron double ouvrant"</string>
+  
+  <string name="spoken_symbol_00B7">"Point médian"</string>
+  
+  <string name="spoken_symbol_00B9">"Exposant un"</string>
+  
+  <string name="spoken_symbol_00BB">"Chevron double fermant"</string>
+  
+  <string name="spoken_symbol_00BF">"Point d\'interrogation inversé"</string>
+  
+  <string name="spoken_symbol_2018">"Guillemet simple ouvrant"</string>
+  
+  <string name="spoken_symbol_2019">"Guillemet simple fermant"</string>
+  
+  <string name="spoken_symbol_201A">"Guillemet simple fermant bas"</string>
+  
+  <string name="spoken_symbol_201C">"Guillemet double ouvrant"</string>
+  
+  <string name="spoken_symbol_201D">"Guillemet double fermant"</string>
+  
+  <string name="spoken_symbol_2020">"Obèle"</string>
+  
+  <string name="spoken_symbol_2021">"Double obèle"</string>
+  
+  <string name="spoken_symbol_2030">"Symbole pour mille"</string>
+  
+  <string name="spoken_symbol_2032">"Prime"</string>
+  
+  <string name="spoken_symbol_2033">"Double prime"</string>
+  
+  <string name="spoken_symbol_2039">"Chevron simple ouvrant"</string>
+  
+  <string name="spoken_symbol_203A">"Chevron simple fermant"</string>
+  
+  <string name="spoken_symbol_2074">"Exposant quatre"</string>
+  
+  <string name="spoken_symbol_207F">"Exposant lettre minuscule latine N"</string>
+  
+  <string name="spoken_symbol_20B1">"Symbole du peso"</string>
+  
+  <string name="spoken_symbol_2105">"À l\'attention de"</string>
+  
+  <string name="spoken_symbol_2192">"Flèche vers la droite"</string>
+  
+  <string name="spoken_symbol_2193">"Flèche vers le bas"</string>
+  
+  <string name="spoken_symbol_2205">"Ensemble vide"</string>
+  
+  <string name="spoken_symbol_2206">"Incrément"</string>
+  
+  <string name="spoken_symbol_2264">"Inférieur ou égal"</string>
+  
+  <string name="spoken_symbol_2265">"Supérieur ou égal"</string>
+  
+  <string name="spoken_symbol_2605">"Étoile noire"</string>
+</resources>

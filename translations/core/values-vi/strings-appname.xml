@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+  <string name="english_ime_name">VNKey</string>
+  
+  <string name="spell_checker_service_name">Kiểm tra chính tả</string>
+  
+  <string name="english_ime_settings">Cài đặt bàn phím</string>
+  
+  <string name="android_spell_checker_settings">Cài đặt kiểm tra chính tả</string>
+</resources>

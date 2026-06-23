@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="english_ime_input_options">Opciones de entrada</string>
+  
+  <string name="vibrate_on_keypress">Vibrar al pulsar</string>
+  
+  <string name="sound_on_keypress">Sonar al pulsar</string>
+  
+  <string name="auto_cap">Mayúsculas automáticas</string>
+  
+  <string name="edit_personal_dictionary">Diccionario personal</string>
+  
+  <string name="prefs_block_potentially_offensive_title">Bloquear palabras ofensivas</string>
+  
+  <string name="prefs_block_potentially_offensive_summary">No sugerir palabras potencialmente ofensivas</string>
+  
+  <string name="language_selection_title">Idiomas</string>
+  
+  <string name="select_language">Idiomas</string>
+  
+  <string name="cancel">Cancelar</string>
+  
+  <string name="go_to_settings">Ajustes</string>
+  
+  <string name="install_dict">Instalar</string>
+  
+  <string name="cancel_download_dict">Cancelar</string>
+  
+  <string name="user_dict_settings_add_menu_title">Agregar</string>
+  
+  <string name="user_dict_settings_add_dialog_title">Agregar al diccionario</string>
+  
+  <string name="user_dict_settings_add_dialog_more_options">Más opciones</string>
+  
+  <string name="user_dict_settings_add_dialog_less_options">Menos opciones</string>
+  
+  <string name="user_dict_settings_add_locale_option_name">Idioma:</string>
+  
+  <string name="user_dict_settings_add_word_hint">Escribe una palabra</string>
+  
+  <string name="user_dict_settings_edit_dialog_title">Editar palabra</string>
+  
+  <string name="user_dict_settings_context_menu_edit_title">Editar</string>
+  
+  <string name="user_dict_settings_context_menu_delete_title">Eliminar</string>
+  
+  <string name="user_dict_settings_all_languages">Para todos los idiomas</string>
+  
+  <string name="user_dict_settings_more_languages">Más idiomas…</string>
+  
+  <string name="user_dict_settings_delete">Eliminar</string>
+</resources>

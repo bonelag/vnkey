@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="spoken_use_headphones">"Дауыстап айтылған құпия сөз пернелерін есту үшін гарнитураны қосыңыз."</string>
+  
+  <string name="spoken_current_text_is">"Ағымдағы мәтін – %s"</string>
+  
+  <string name="spoken_no_text_entered">"Мәтін енгізілмеген"</string>
+  
+  <string name="spoken_auto_correct">&lt;string name="spoken_auto_correct" msgid="965889269068888859"&gt;&amp;quot;&lt;xliff:g id="KEY_NAME"&gt;%1$s&lt;/xliff:g&gt; &lt;xliff:g id="ORIGINAL_WORD"&gt;%2$s&lt;/xliff:g&gt; дегенді &lt;xliff:g id="CORRECTED_WORD"&gt;%3$s&lt;/xliff:g&gt; деп түзетеді&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="spoken_auto_correct_obscured">&lt;string name="spoken_auto_correct_obscured" msgid="7511607899335382699"&gt;&amp;quot;&lt;xliff:g id="KEY_NAME"&gt;%1$s&lt;/xliff:g&gt; автоматты түрде түзетуді орындайды&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="spoken_empty_suggestion">"Ұсыныс жоқ"</string>
+  
+  <string name="spoken_description_unknown">"Белгісіз таңба"</string>
+  
+  <string name="spoken_description_shift">"Shift"</string>
+  
+  <string name="spoken_description_symbols_shift">"Қосымша таңбалар"</string>
+  
+  <string name="spoken_description_shift_shifted">"Shift"</string>
+  
+  <string name="spoken_description_symbols_shift_shifted">"Таңбалар"</string>
+  
+  <string name="spoken_description_caps_lock">"Shift"</string>
+  
+  <string name="spoken_description_delete">"Жою"</string>
+  
+  <string name="spoken_description_to_symbol">"Таңбалар"</string>
+  
+  <string name="spoken_description_to_alpha">"Әріптер"</string>
+  
+  <string name="spoken_description_to_numeric">"Сандар"</string>
+  
+  <string name="spoken_description_settings">"Параметрлер"</string>
+  
+  <string name="spoken_description_tab">"Tab"</string>
+  
+  <string name="spoken_description_space">"Бос орын"</string>
+  
+  <string name="spoken_description_mic">"Дауыспен енгізу"</string>
+  
+  <string name="spoken_description_emoji">"Эмодзи"</string>
+  
+  <string name="spoken_description_return">"Қайтару"</string>
+  
+  <string name="spoken_description_search">"Іздеу"</string>
+  
+  <string name="spoken_description_dot">"Нүкте"</string>
+  
+  <string name="spoken_description_language_switch">"Тілді ауыстыру"</string>
+  
+  <string name="spoken_description_action_next">"Келесі"</string>
+  
+  <string name="spoken_description_action_previous">"Алдыңғы"</string>
+  
+  <string name="spoken_description_shiftmode_on">"Shift қосылған"</string>
+  
+  <string name="spoken_description_shiftmode_locked">"Caps lock қосылған"</string>
+  
+  <string name="spoken_description_mode_symbol">"Таңбалар режимі"</string>
+  
+  <string name="spoken_description_mode_symbol_shift">"Қосымша таңбалар режимі"</string>
+  
+  <string name="spoken_description_mode_alpha">"Әріптер режимі"</string>
+  
+  <string name="spoken_description_mode_phone">"Телефон режимі"</string>
+  
+  <string name="spoken_description_mode_phone_shift">"Телефон таңбалары режимі"</string>
+  
+  <string name="announce_keyboard_hidden">"Пернетақта жасырылды"</string>
+  
+  <string name="announce_keyboard_mode">&lt;string name="announce_keyboard_mode" msgid="5314352981874590170"&gt;&amp;quot;&lt;xliff:g id="KEYBOARD_MODE"&gt;%s&lt;/xliff:g&gt; пернетақтасы көрсетілген&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="keyboard_mode_date">"күн"</string>
+  
+  <string name="keyboard_mode_date_time">"күн мен уақыт"</string>
+  
+  <string name="keyboard_mode_email">"электрондық пошта"</string>
+  
+  <string name="keyboard_mode_im">"хабар алмасу"</string>
+  
+  <string name="keyboard_mode_number">"сан"</string>
+  
+  <string name="keyboard_mode_phone">"телефон"</string>
+  
+  <string name="keyboard_mode_text">"мәтін"</string>
+  
+  <string name="keyboard_mode_time">"уақыт"</string>
+  
+  <string name="keyboard_mode_url">"URL"</string>
+  
+  <string name="spoken_descrption_emoji_category_recents">"Жақындағылар"</string>
+  
+  <string name="spoken_descrption_emoji_category_people">"Адамдар"</string>
+  
+  <string name="spoken_descrption_emoji_category_objects">"Заттар"</string>
+  
+  <string name="spoken_descrption_emoji_category_nature">"Табиғат"</string>
+  
+  <string name="spoken_descrption_emoji_category_places">"Орындар"</string>
+  
+  <string name="spoken_descrption_emoji_category_symbols">"Таңбалар"</string>
+  
+  <string name="spoken_descrption_emoji_category_flags">"Жалаушалар"</string>
+  
+  <string name="spoken_descrption_emoji_category_eight_smiley_people">"Жымимақтар және адамдар"</string>
+  
+  <string name="spoken_descrption_emoji_category_eight_animals_nature">"Жануарлар және табиғат"</string>
+  
+  <string name="spoken_descrption_emoji_category_eight_food_drink">"Азық-түлік және сусындар"</string>
+  
+  <string name="spoken_descrption_emoji_category_eight_travel_places">"Саяхат және орындар"</string>
+  
+  <string name="spoken_descrption_emoji_category_eight_activity">"Әрекет"</string>
+  
+  <string name="spoken_descrption_emoji_category_emoticons">"Эмотикондар"</string>
+  
+  <string name="spoken_description_upper_case">&lt;string name="spoken_description_upper_case" msgid="548189286451849550"&gt;&amp;quot;Бас &lt;xliff:g id="LOWER_LETTER"&gt;%s&lt;/xliff:g&gt;&amp;quot;&lt;/string&gt;</string>
+  <!--
+    Spoken description for Unicode code point U+0049: "I" LATIN CAPITAL LETTER I
+    Note that depending on locale, the lower-case of this letter is U+0069 or U+0131.
+  -->
+  <string name="spoken_letter_0049">"Бас I"</string>
+  <!--
+    Spoken description for Unicode code point U+0130: "İ" LATIN CAPITAL LETTER I WITH DOT ABOVE
+    Note that depending on locale, the lower-case of this letter is U+0069 or U+0131.
+  -->
+  <string name="spoken_letter_0130">"Үстінде нүктесі бар бас I"</string>
+  
+  <string name="spoken_symbol_unknown">"Белгісіз таңба"</string>
+  
+  <string name="spoken_emoji_unknown">"Белгісіз эмодзи"</string>
+  
+  <string name="spoken_emoticon_3A_2D_21_20">"Зеріккен бет"</string>
+  
+  <string name="spoken_emoticon_3A_2D_24_20">"Қысылған бет"</string>
+  
+  <string name="spoken_emoticon_42_2D_29_20">"Көзілдірік киген бет"</string>
+  
+  <string name="spoken_emoticon_3A_4F_20">"Таңданған бет"</string>
+  
+  <string name="spoken_emoticon_3A_2D_2A_20">"Сүю беті"</string>
+  
+  <string name="spoken_emoticon_3A_2D_5B_20">"Қабағын түйген бет"</string>
+  
+  <string name="spoken_open_more_keys_keyboard">"Баламалы таңбалар қол жетімді"</string>
+  
+  <string name="spoken_close_more_keys_keyboard">"Баламалы таңбалар еленбейді"</string>
+  
+  <string name="spoken_open_more_suggestions">"Баламалы ұсыныстар қол жетімді"</string>
+  
+  <string name="spoken_close_more_suggestions">"Баламалы ұсыныстар еленбейді"</string>
+</resources>

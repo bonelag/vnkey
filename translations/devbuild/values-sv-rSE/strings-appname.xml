@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+  <string name="english_ime_name">FUTO Tangentbord [Utvecklingsversion]</string>
+  
+  <string name="spell_checker_service_name">FUTO Stavningskontroll [Utvecklingsversion]</string>
+  
+  <string name="english_ime_settings">FUTO Tangentbordsinställningar [Utvecklingsversion]</string>
+  
+  <string name="android_spell_checker_settings">FUTO Stavningskontrollsinställningar [Utvecklingsversion]</string>
+</resources>

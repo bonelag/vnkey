@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+  <string name="english_ime_name">Tastatura FUTO</string>
+  
+  <string name="spell_checker_service_name">Corector ortografic FUTO</string>
+  
+  <string name="english_ime_settings">Setări tastatură FUTO</string>
+  
+  <string name="android_spell_checker_settings">Setări verificare ortografică FUTO</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">"執行"</string>
+  
+  <string name="label_next_key">"繼續"</string>
+  
+  <string name="label_previous_key">"返回"</string>
+  
+  <string name="label_done_key">"完成"</string>
+  
+  <string name="label_send_key">"傳送"</string>
+  
+  <string name="label_search_key">"搜尋"</string>
+  
+  <string name="label_pause_key">"暫停"</string>
+  
+  <string name="label_wait_key">"等待"</string>
+</resources>

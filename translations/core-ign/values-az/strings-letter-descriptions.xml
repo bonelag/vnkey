@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"Qadın sıra göstəricisi"</string>
+  
+  <string name="spoken_accented_letter_00B5">"Mikro işarə"</string>
+  
+  <string name="spoken_accented_letter_00BA">"Kişi sıra göstəricisi"</string>
+  
+  <string name="spoken_accented_letter_00DF">"Esset"</string>
+  
+  <string name="spoken_accented_letter_00E0">"A, qrav"</string>
+  
+  <string name="spoken_accented_letter_00E1">"A, akut"</string>
+  
+  <string name="spoken_accented_letter_00E2">"A, sirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_00E3">"A, tilda"</string>
+  
+  <string name="spoken_accented_letter_00E4">"A, umlaut"</string>
+  
+  <string name="spoken_accented_letter_00E5">"A, üstündə çevrə"</string>
+  
+  <string name="spoken_accented_letter_00E6">"A, E, liqatur"</string>
+  
+  <string name="spoken_accented_letter_00E7">"C, sedil"</string>
+  
+  <string name="spoken_accented_letter_00E8">"E, qrav"</string>
+  
+  <string name="spoken_accented_letter_00E9">"E, akut"</string>
+  
+  <string name="spoken_accented_letter_00EA">"E, sirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_00EB">"E, umlaut"</string>
+  
+  <string name="spoken_accented_letter_00EC">"I, qrav"</string>
+  
+  <string name="spoken_accented_letter_00ED">"I, akut"</string>
+  
+  <string name="spoken_accented_letter_00EE">"I, sirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_00EF">"I, umlaut"</string>
+  
+  <string name="spoken_accented_letter_00F0">"Eth"</string>
+  
+  <string name="spoken_accented_letter_00F1">"N, tilda"</string>
+  
+  <string name="spoken_accented_letter_00F2">"O, qrav"</string>
+  
+  <string name="spoken_accented_letter_00F3">"O, akut"</string>
+  
+  <string name="spoken_accented_letter_00F4">"O, sirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_00F5">"O, tilda"</string>
+  
+  <string name="spoken_accented_letter_00F6">"O, umlaut"</string>
+  
+  <string name="spoken_accented_letter_00F8">"O, diaqonal xətli"</string>
+  
+  <string name="spoken_accented_letter_00F9">"U, qrav"</string>
+  
+  <string name="spoken_accented_letter_00FA">"U, akut"</string>
+  
+  <string name="spoken_accented_letter_00FB">"U, sirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_00FC">"U, umlaut"</string>
+  
+  <string name="spoken_accented_letter_00FD">"Y, akut"</string>
+  
+  <string name="spoken_accented_letter_00FE">"Torn"</string>
+  
+  <string name="spoken_accented_letter_00FF">"Y, umlaut"</string>
+  
+  <string name="spoken_accented_letter_0101">"A, makron"</string>
+  
+  <string name="spoken_accented_letter_0103">"A, brev"</string>
+  
+  <string name="spoken_accented_letter_0105">"A, oqonek"</string>
+  
+  <string name="spoken_accented_letter_0107">"C, akut"</string>
+  
+  <string name="spoken_accented_letter_0109">"C, sirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_010B">"C, üstü nöqtəli"</string>
+  
+  <string name="spoken_accented_letter_010D">"C, karon"</string>
+  
+  <string name="spoken_accented_letter_010F">"D, karon"</string>
+  
+  <string name="spoken_accented_letter_0111">"D, diaqonal xətli"</string>
+  
+  <string name="spoken_accented_letter_0113">"E, makron"</string>
+  
+  <string name="spoken_accented_letter_0115">"E, brev"</string>
+  
+  <string name="spoken_accented_letter_0117">"E, üstü nöqtəli"</string>
+  
+  <string name="spoken_accented_letter_0119">"E, oqonek"</string>
+  
+  <string name="spoken_accented_letter_011B">"E, karon"</string>
+  
+  <string name="spoken_accented_letter_011D">"G, sirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_011F">"G, brev"</string>
+  
+  <string name="spoken_accented_letter_0121">"G, üstü nöqtəli"</string>
+  
+  <string name="spoken_accented_letter_0123">"G, sedil"</string>
+  
+  <string name="spoken_accented_letter_0125">"H, sirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_0127">"H, diaqonal xətli"</string>
+  
+  <string name="spoken_accented_letter_0129">"I, tilda"</string>
+  
+  <string name="spoken_accented_letter_012B">"I, makron"</string>
+  
+  <string name="spoken_accented_letter_012D">"I, brev"</string>
+  
+  <string name="spoken_accented_letter_012F">"I, oqonek"</string>
+  
+  <string name="spoken_accented_letter_0131">"Nöqtəsiz I"</string>
+  
+  <string name="spoken_accented_letter_0133">"I, J, liqatur"</string>
+  
+  <string name="spoken_accented_letter_0135">"J, sirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_0137">"K, sedil"</string>
+  
+  <string name="spoken_accented_letter_0138">"Kra"</string>
+  
+  <string name="spoken_accented_letter_013A">"L, akut"</string>
+  
+  <string name="spoken_accented_letter_013C">"L, sedil"</string>
+  
+  <string name="spoken_accented_letter_013E">"L, karon"</string>
+  
+  <string name="spoken_accented_letter_0140">"L, ortası nöqtəli"</string>
+  
+  <string name="spoken_accented_letter_0142">"L, diaqonal xətli"</string>
+  
+  <string name="spoken_accented_letter_0144">"N, akut"</string>
+  
+  <string name="spoken_accented_letter_0146">"N, sedil"</string>
+  
+  <string name="spoken_accented_letter_0148">"N, karon"</string>
+  
+  <string name="spoken_accented_letter_0149">"N, apostrofdan sonra"</string>
+  
+  <string name="spoken_accented_letter_014B">"Eng"</string>
+  
+  <string name="spoken_accented_letter_014D">"O, makron"</string>
+  
+  <string name="spoken_accented_letter_014F">"O, brev"</string>
+  
+  <string name="spoken_accented_letter_0151">"O, cüt akut"</string>
+  
+  <string name="spoken_accented_letter_0153">"O, E, liqatur"</string>
+  
+  <string name="spoken_accented_letter_0155">"R, akut"</string>
+  
+  <string name="spoken_accented_letter_0157">"R, sedil"</string>
+  
+  <string name="spoken_accented_letter_0159">"R, karon"</string>
+  
+  <string name="spoken_accented_letter_015B">"S, akut"</string>
+  
+  <string name="spoken_accented_letter_015D">"S, sirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_015F">"S, sedil"</string>
+  
+  <string name="spoken_accented_letter_0161">"S, karon"</string>
+  
+  <string name="spoken_accented_letter_0163">"T, sedil"</string>
+  
+  <string name="spoken_accented_letter_0165">"T, karon"</string>
+  
+  <string name="spoken_accented_letter_0167">"T, diaqonal xətli"</string>
+  
+  <string name="spoken_accented_letter_0169">"U, tilda"</string>
+  
+  <string name="spoken_accented_letter_016B">"U, makron"</string>
+  
+  <string name="spoken_accented_letter_016D">"U, brev"</string>
+  
+  <string name="spoken_accented_letter_016F">"U, üstü çevrəli"</string>
+  
+  <string name="spoken_accented_letter_0171">"U, cüt akut"</string>
+  
+  <string name="spoken_accented_letter_0173">"U, oqonek"</string>
+  
+  <string name="spoken_accented_letter_0175">"W, sirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_0177">"Y, sirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_017A">"Z, akut"</string>
+  
+  <string name="spoken_accented_letter_017C">"Z, üstü nöqtəli"</string>
+  
+  <string name="spoken_accented_letter_017E">"Z, karon"</string>
+  
+  <string name="spoken_accented_letter_017F">"Uzun S"</string>
+  
+  <string name="spoken_accented_letter_01A1">"O, buynuz"</string>
+  
+  <string name="spoken_accented_letter_01B0">"U, buynuz"</string>
+  
+  <string name="spoken_accented_letter_0219">"S, altı vergüllü"</string>
+  
+  <string name="spoken_accented_letter_021B">"T, altı vergüllü"</string>
+  
+  <string name="spoken_accented_letter_0259">"Şva"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"A, altı nöqtəli"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"A, üstü qarmaqlı"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"A, sirkumfleks və akut"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"A, sirkumfleks və qrav"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"A, sirkumfleks və üstü qarmaqlı"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"A, sirkumfleks və tilda"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"A, sirkumfleks və altı nöqtəli"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"A, brev və akut"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"A, brev və qrav"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"A, brev və üstü qarmaqlı"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"A, brev və tilda"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"A, brev və altı nöqtəli"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"E, altı nöqtəli"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"E, üstü qarmaqlı"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"E, tilda"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"E, sirkumfleks və akut"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"E, sirkumfleks və qrav"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"E, sirkumfleks və üstü qarmaqlı"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"E, sirkumfleks və tilda"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"E, sirkumfleks və altı nöqtəli"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"I, üstü qarmaqlı"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"I, altı nöqtəli"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"O, altı nöqtəli"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"O, üstü qarmaqlı"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"O, sirkumfleks və akut"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"O, sirkumfleks və qrav"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"O, sirkumfleks və üstü qarmaqlı"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"O, sirkumfleks və tilda"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"O, sirkumfleks və altı nöqtəli"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"O, buynuz və akut"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"O, buynuz və qrav"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"O, buynuz və üstü qarmaqlı"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"O, buynuz və tilda"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"O, buynuz və altı nöqtəli"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"U, altı nöqtəli"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"U, üstü qarmaqlı"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"U, buynuz və akut"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"U, buynuz və qrav"</string>
+  
+  <string name="spoken_accented_letter_1EED">"U, buynuz və üstü qarmaqlı"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"U, buynuz və tilda"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"U, buynuz və altı nöqtəli"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"Y, qrav"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"Y, altı nöqtəli"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"Y, üstü qarmaqlı"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"Y, tilda"</string>
+  
+  <string name="spoken_symbol_00A1">"Tərs nida işarəsi"</string>
+  
+  <string name="spoken_symbol_00AB">"Sol gilemet"</string>
+  
+  <string name="spoken_symbol_00B7">"ortası nöqtəli"</string>
+  
+  <string name="spoken_symbol_00B9">"Üst indeks bir"</string>
+  
+  <string name="spoken_symbol_00BB">"Sağ gilemet"</string>
+  
+  <string name="spoken_symbol_00BF">"Tərs sual işarəsi"</string>
+  
+  <string name="spoken_symbol_2018">"Sol tək sitat işarəsi"</string>
+  
+  <string name="spoken_symbol_2019">"Sağ tək sitat işarəsi"</string>
+  
+  <string name="spoken_symbol_201A">"Tək alt-9 sitat işarəsi"</string>
+  
+  <string name="spoken_symbol_201C">"Sol cüt sitat işarəsi"</string>
+  
+  <string name="spoken_symbol_201D">"Sağ cüt sitat işarəsi"</string>
+  
+  <string name="spoken_symbol_2020">"Xəncər"</string>
+  
+  <string name="spoken_symbol_2021">"İkiqulplu xəncər"</string>
+  
+  <string name="spoken_symbol_2030">"Promil"</string>
+  
+  <string name="spoken_symbol_2032">"Praym"</string>
+  
+  <string name="spoken_symbol_2033">"Cüt praym"</string>
+  
+  <string name="spoken_symbol_2039">"Tək sol gilemet"</string>
+  
+  <string name="spoken_symbol_203A">"Tək sağ gilemet"</string>
+  
+  <string name="spoken_symbol_2074">"Üst indeks dörd"</string>
+  
+  <string name="spoken_symbol_207F">"Üst indeks latın kiçik n hərfi"</string>
+  
+  <string name="spoken_symbol_20B1">"Peso"</string>
+  
+  <string name="spoken_symbol_2105">"Care of"</string>
+  
+  <string name="spoken_symbol_2192">"Sağa ox"</string>
+  
+  <string name="spoken_symbol_2193">"Aşağıya ox"</string>
+  
+  <string name="spoken_symbol_2205">"Boş çoxluq"</string>
+  
+  <string name="spoken_symbol_2206">"Artım"</string>
+  
+  <string name="spoken_symbol_2264">"Kiçik və ya bərabər"</string>
+  
+  <string name="spoken_symbol_2265">"Böyük və ya bərabər"</string>
+  
+  <string name="spoken_symbol_2605">"Qara ulduz"</string>
+</resources>

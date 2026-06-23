@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="spoken_use_headphones">"Каб праслухаць паролi, падключыце гарнiтуру."</string>
+  
+  <string name="spoken_current_text_is">"Бягучы тэкст – %s"</string>
+  
+  <string name="spoken_no_text_entered">"Тэкст не ўведзены"</string>
+  
+  <string name="spoken_auto_correct">&lt;string name="spoken_auto_correct" msgid="965889269068888859"&gt;&amp;quot;Націснуўшы &lt;xliff:g id="KEY_NAME"&gt;%1$s&lt;/xliff:g&gt;, вы паправіце &lt;xliff:g id="ORIGINAL_WORD"&gt;%2$s&lt;/xliff:g&gt; на &lt;xliff:g id="CORRECTED_WORD"&gt;%3$s&lt;/xliff:g&gt;&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="spoken_auto_correct_obscured">&lt;string name="spoken_auto_correct_obscured" msgid="7511607899335382699"&gt;&amp;quot;Націснуўшы &lt;xliff:g id="KEY_NAME"&gt;%1$s&lt;/xliff:g&gt;, вы выканаеце аўтакарэкцыю&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="spoken_empty_suggestion">"Няма прапаноў"</string>
+  
+  <string name="spoken_description_shift">"Shift"</string>
+  
+  <string name="spoken_description_symbols_shift">"Больш сімвалаў"</string>
+  
+  <string name="spoken_description_shift_shifted">"Shift"</string>
+  
+  <string name="spoken_description_symbols_shift_shifted">"Сімвалы"</string>
+  
+  <string name="spoken_description_caps_lock">"Shift"</string>
+  
+  <string name="spoken_description_delete">"Delete"</string>
+  
+  <string name="spoken_description_to_symbol">"Сімвалы"</string>
+  
+  <string name="spoken_description_to_alpha">"Літары"</string>
+  
+  <string name="spoken_description_to_numeric">"Лічбы"</string>
+  
+  <string name="spoken_description_settings">"Налады"</string>
+  
+  <string name="spoken_description_tab">"Tab"</string>
+  
+  <string name="spoken_description_space">"Прабел"</string>
+  
+  <string name="spoken_description_mic">"Галасавы ўвод"</string>
+  
+  <string name="spoken_description_emoji">"Эмодзі"</string>
+  
+  <string name="spoken_description_return">"Вярнуцца"</string>
+  
+  <string name="spoken_description_search">"Пошук"</string>
+  
+  <string name="spoken_description_dot">"Маркер спіса"</string>
+  
+  <string name="spoken_description_language_switch">"Пераключыць мову"</string>
+  
+  <string name="spoken_description_action_next">"Далей"</string>
+  
+  <string name="spoken_description_action_previous">"Назад"</string>
+  
+  <string name="spoken_description_shiftmode_on">"Shift уключаны"</string>
+  
+  <string name="spoken_description_shiftmode_locked">"Caps Lock уключаны"</string>
+  
+  <string name="spoken_description_mode_symbol">"Рэжым сімвалаў"</string>
+  
+  <string name="spoken_description_mode_symbol_shift">"Рэжым з большай колькасцю сімвалаў"</string>
+  
+  <string name="spoken_description_mode_alpha">"Рэжым лiтар"</string>
+  
+  <string name="spoken_description_mode_phone">"Рэжым тэлефона"</string>
+  
+  <string name="spoken_description_mode_phone_shift">"Рэжым тэлефонных сімвалаў"</string>
+  
+  <string name="announce_keyboard_hidden">"Клавіятура схавана"</string>
+  
+  <string name="announce_keyboard_mode">&lt;string name="announce_keyboard_mode" msgid="5314352981874590170"&gt;&amp;quot;Паказваецца клавіятура &lt;xliff:g id="KEYBOARD_MODE"&gt;%s&lt;/xliff:g&gt;&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="keyboard_mode_date">"дата"</string>
+  
+  <string name="keyboard_mode_date_time">"дата i час"</string>
+  
+  <string name="keyboard_mode_email">"электронная пошта"</string>
+  
+  <string name="keyboard_mode_im">"абмен паведамленнямі"</string>
+  
+  <string name="keyboard_mode_number">"лічбы"</string>
+  
+  <string name="keyboard_mode_phone">"нумары тэлефонаў"</string>
+  
+  <string name="keyboard_mode_text">"тэкст"</string>
+  
+  <string name="keyboard_mode_time">"час"</string>
+  
+  <string name="keyboard_mode_url">"URL"</string>
+  
+  <string name="spoken_descrption_emoji_category_recents">"Апошнія"</string>
+  
+  <string name="spoken_descrption_emoji_category_people">"Людзі"</string>
+  
+  <string name="spoken_descrption_emoji_category_objects">"Аб\'екты"</string>
+  
+  <string name="spoken_descrption_emoji_category_nature">"Прырода"</string>
+  
+  <string name="spoken_descrption_emoji_category_places">"Месцы"</string>
+  
+  <string name="spoken_descrption_emoji_category_symbols">"Сімвалы"</string>
+  
+  <string name="spoken_descrption_emoji_category_flags">"Сцягі"</string>
+  
+  <string name="spoken_descrption_emoji_category_eight_smiley_people">"Смайлікі і людзі"</string>
+  
+  <string name="spoken_descrption_emoji_category_eight_animals_nature">"Жывёлы і прырода"</string>
+  
+  <string name="spoken_descrption_emoji_category_eight_food_drink">"Ежа і напоі"</string>
+  
+  <string name="spoken_descrption_emoji_category_eight_travel_places">"Падарожжы і месцы"</string>
+  
+  <string name="spoken_descrption_emoji_category_eight_activity">"Дзейнасць"</string>
+  
+  <string name="spoken_descrption_emoji_category_emoticons">"Эматыконы"</string>
+</resources>

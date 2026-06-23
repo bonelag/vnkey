@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+  <string name="stop_recording">Zatrzymaj nagrywanie</string>
+  
+  <string name="try_saying_something">Spróbuj coś powiedzieć</string>
+  
+  <string name="no_audio_detected_is_your_microphone_blocked">Nie wykryto dźwięku, czy Twój mikrofon jest zablokowany w ustawieniach?</string>
+  
+  <string name="listening">Słucham…</string>
+  
+  <string name="grant_microphone_permission_to_use_voice_input">Zezwól na dostęp do mikrofonu, aby korzystać z funkcji pisania głosowego</string>
+  <string name="open_voice_input_settings">Otwórz ustawienia pisania głosowego</string>
+  
+  <string name="extracting_features">Ekstrakcja cech…</string>
+  
+  <string name="loading_model">Ładowanie modelu…</string>
+  
+  <string name="decoding">Rozpoczęto dekodowanie…</string>
+  
+  <string name="switching_model">Zmiana języka…</string>
+  
+  <string name="processing">Przetwarzanie…</string>
+  
+  <string name="initializing">Inicjalizacja…</string>
+  
+  <string name="tiny_en_name">Angielski-39 (domyślny)</string>
+  
+  <string name="base_en_name">Angielski-74 (wolniejszy, bardziej dokładny)</string>
+  
+  <string name="small_en_name">Angielski-244 (wolny)</string>
+  
+  <string name="tiny_name">Wielojęzyczny-39 (mniej dokładny)</string>
+  
+  <string name="base_name">Wielojęzyczny-74 (domyślny)</string>
+  
+  <string name="small_name">Wielojęzyczny-244 (wolny)</string>
+  
+  <string name="using_bluetooth_mic">Mikrofon Bluetooth (%1$s)</string>
+  
+  <string name="using_built_in_mic">Mikrofon wbudowany (%1$s)</string>
+</resources>

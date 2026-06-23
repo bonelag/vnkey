@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">"ذهاب"</string>
+  
+  <string name="label_next_key">"تالٍ"</string>
+  
+  <string name="label_previous_key">"سابق"</string>
+  
+  <string name="label_done_key">"تم"</string>
+  
+  <string name="label_send_key">"إرسال"</string>
+  
+  <string name="label_search_key">"بحث"</string>
+  
+  <string name="label_pause_key">"توقف"</string>
+  
+  <string name="label_wait_key">"انتظر"</string>
+</resources>

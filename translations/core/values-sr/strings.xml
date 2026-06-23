@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="english_ime_input_options">"Опције уноса"</string>
+  
+  <string name="vibrate_on_keypress">"Вибрирај на притисак тастера"</string>
+  
+  <string name="sound_on_keypress">"Звук на притисак тастера"</string>
+  
+  <string name="popup_on_keypress">"Искачући прозор приликом притиска тастера"</string>
+  
+  <string name="show_language_switch_key">"Тастер за пребацивање језика"</string>
+  
+  <string name="abbreviation_unit_milliseconds">&lt;string name="abbreviation_unit_milliseconds" msgid="3255301845626146979"&gt;&amp;quot;&lt;xliff:g id="MILLISECONDS"&gt;%s&lt;/xliff:g&gt; ms&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="use_personalized_dicts">"Персонализовани предлози"</string>
+  
+  <string name="use_double_space_period">"Тачка и размак"</string>
+  
+  <string name="use_double_space_period_summary">"Двоструким додиром размака умеће се тачка праћена размаком"</string>
+  
+  <string name="auto_cap">"Аутоматски унос великих слова"</string>
+  
+  <string name="auto_cap_summary">"Писање великог слова на почетку сваке реченице"</string>
+  
+  <string name="edit_personal_dictionary">"Лични речник"</string>
+  
+  <string name="prefs_show_suggestions">"Прикажи предлоге за исправку"</string>
+  
+  <string name="prefs_show_suggestions_summary">"Приказивање предложених речи током уноса текста"</string>
+  
+  <string name="prefs_block_potentially_offensive_title">"Блокирај увредљиве речи"</string>
+  
+  <string name="prefs_block_potentially_offensive_summary">"Нема предлагања потенцијално увредљивих речи"</string>
+  
+  <string name="auto_correction">"Аутом. исправљање"</string>
+  
+  <string name="auto_correction_summary">"Размак и интерпункција аутоматски исправљају грешке у куцању"</string>
+  
+  <string name="bigram_prediction">"Предлози за следећу реч"</string>
+  
+  <string name="bigram_prediction_summary">"Користи претходну реч при давању предлога"</string>
+  
+  <string name="language_selection_title">"Језици"</string>
+  
+  <string name="select_language">"Језици"</string>
+  
+  <string name="subtype_en_GB">"енглески (УК)"</string>
+  
+  <string name="subtype_en_US">"енглески (САД)"</string>
+  
+  <string name="subtype_es_US">"шпански (САД)"</string>
+  
+  <string name="subtype_hi_ZZ">"хенглески"</string>
+  
+  <string name="subtype_sr_ZZ">"српски (латиница)"</string>
+  
+  <string name="subtype_with_layout_en_GB">&lt;string name="subtype_with_layout_en_GB" msgid="4220344684463778660"&gt;&amp;quot;енглески (УК) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_en_US">&lt;string name="subtype_with_layout_en_US" msgid="4599421650961912769"&gt;&amp;quot;енглески (САД) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_es_US">&lt;string name="subtype_with_layout_es_US" msgid="6866331205974243592"&gt;&amp;quot;шпански (САД) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_hi_ZZ">&lt;string name="subtype_with_layout_hi_ZZ" msgid="5439623653083985558"&gt;&amp;quot;хенглески (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_sr_ZZ">&lt;string name="subtype_with_layout_sr_ZZ" msgid="546465971819327060"&gt;&amp;quot;српски (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_traditional">&lt;string name="subtype_generic_traditional" msgid="5321023815277210849"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (традиционални)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_compact">&lt;string name="subtype_generic_compact" msgid="2858514299576793292"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (компактна)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_no_language">"Нема језика (абецеда)"</string>
+  
+  <string name="subtype_no_language_qwerty">"абецеда (QWERTY)"</string>
+  
+  <string name="subtype_no_language_qwertz">"абецеда (QWERTZ)"</string>
+  
+  <string name="subtype_no_language_azerty">"абецеда (AZERTY)"</string>
+  
+  <string name="subtype_no_language_dvorak">"абецеда (Dvorak)"</string>
+  
+  <string name="subtype_no_language_colemak">"абецеда (Colemak)"</string>
+  
+  <string name="subtype_no_language_pcqwerty">"абецеда (PC)"</string>
+  
+  <string name="subtype_emoji">"Емотикони"</string>
+  
+  <string name="cancel">"Откажи"</string>
+  
+  <string name="go_to_settings">"Подешавања"</string>
+  
+  <string name="install_dict">"Инсталирај"</string>
+  
+  <string name="cancel_download_dict">"Откажи"</string>
+  
+  <string name="user_dict_settings_add_menu_title">"Додај"</string>
+  
+  <string name="user_dict_settings_add_dialog_title">"Додавање у речник"</string>
+  
+  <string name="user_dict_settings_add_screen_title">"Фраза"</string>
+  
+  <string name="user_dict_settings_add_dialog_more_options">"Више опција"</string>
+  
+  <string name="user_dict_settings_add_dialog_less_options">"Мање опција"</string>
+  
+  <string name="user_dict_settings_add_dialog_confirm">"Потврди"</string>
+  
+  <string name="user_dict_settings_add_word_option_name">"Реч:"</string>
+  
+  <string name="user_dict_settings_add_shortcut_option_name">"Пречица:"</string>
+  
+  <string name="user_dict_settings_add_locale_option_name">"Језик:"</string>
+  
+  <string name="user_dict_settings_add_word_hint">"Унесите реч"</string>
+  
+  <string name="user_dict_settings_add_shortcut_hint">"Опционална пречица"</string>
+  
+  <string name="user_dict_settings_edit_dialog_title">"Измена речи"</string>
+  
+  <string name="user_dict_settings_context_menu_edit_title">"Измени"</string>
+  
+  <string name="user_dict_settings_context_menu_delete_title">"Избриши"</string>
+  
+  <string name="user_dict_settings_empty_text">"Немате ниједну реч у корисничком речнику. Да бисте додали реч, додирните дугме Додај (+)."</string>
+  
+  <string name="user_dict_settings_all_languages">"За све језике"</string>
+  
+  <string name="user_dict_settings_more_languages">"Још језика..."</string>
+  
+  <string name="user_dict_settings_delete">"Избриши"</string>
+  
+  <string name="user_dict_fast_scroll_alphabet">" АБВГДЂЕЖЗИЈКЛЉМНЊОПРСТЋУФХЦЧЏШ"</string>
+</resources>

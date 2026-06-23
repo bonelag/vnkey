@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"نشانگر ترتیبی زنانه"</string>
+  
+  <string name="spoken_accented_letter_00B5">"علامت میکرو"</string>
+  
+  <string name="spoken_accented_letter_00BA">"نشانگر ترتیبی مردانه"</string>
+  
+  <string name="spoken_accented_letter_00DF">"‏شارپ S"</string>
+  
+  <string name="spoken_accented_letter_00E0">"‏A با اکسان گراو"</string>
+  
+  <string name="spoken_accented_letter_00E1">"‏A با اکسان اگو"</string>
+  
+  <string name="spoken_accented_letter_00E2">"‏A با هشتک"</string>
+  
+  <string name="spoken_accented_letter_00E3">"‏A با مدک"</string>
+  
+  <string name="spoken_accented_letter_00E4">"‏A با دو نقطه"</string>
+  
+  <string name="spoken_accented_letter_00E5">"‏A با حلقه"</string>
+  
+  <string name="spoken_accented_letter_00E6">"‏A، ‏E متصل به هم"</string>
+  
+  <string name="spoken_accented_letter_00E7">"‏C با سدیلا"</string>
+  
+  <string name="spoken_accented_letter_00E8">"‏E با اکسان گراو"</string>
+  
+  <string name="spoken_accented_letter_00E9">"‏E با اکسان اگو"</string>
+  
+  <string name="spoken_accented_letter_00EA">"‏E با هشتک"</string>
+  
+  <string name="spoken_accented_letter_00EB">"‏E با دو نقطه"</string>
+  
+  <string name="spoken_accented_letter_00EC">"‏I با اکسان گراو"</string>
+  
+  <string name="spoken_accented_letter_00ED">"‏I با اکسان اگو"</string>
+  
+  <string name="spoken_accented_letter_00EE">"‏I با هشتک"</string>
+  
+  <string name="spoken_accented_letter_00EF">"‏I با دونقطه"</string>
+  
+  <string name="spoken_accented_letter_00F0">"Eth"</string>
+  
+  <string name="spoken_accented_letter_00F1">"‏N با مدک"</string>
+  
+  <string name="spoken_accented_letter_00F2">"‏O با اکسان گراو"</string>
+  
+  <string name="spoken_accented_letter_00F3">"‏O با اکسان اگو"</string>
+  
+  <string name="spoken_accented_letter_00F4">"‏O با هشتک"</string>
+  
+  <string name="spoken_accented_letter_00F5">"‏O با مدک"</string>
+  
+  <string name="spoken_accented_letter_00F6">"‏O با دونقطه"</string>
+  
+  <string name="spoken_accented_letter_00F8">"‏O با خط مورب"</string>
+  
+  <string name="spoken_accented_letter_00F9">"‏U با اکسان گراو"</string>
+  
+  <string name="spoken_accented_letter_00FA">"‏U با اکسان اگو"</string>
+  
+  <string name="spoken_accented_letter_00FB">"‏U با هشتک"</string>
+  
+  <string name="spoken_accented_letter_00FC">"‏U با دو نقطه"</string>
+  
+  <string name="spoken_accented_letter_00FD">"‏Y با اکسان اگو"</string>
+  
+  <string name="spoken_accented_letter_00FE">"Thorn"</string>
+  
+  <string name="spoken_accented_letter_00FF">"‏Y با دو نقطه"</string>
+  
+  <string name="spoken_accented_letter_0101">"‏A با ماکرون"</string>
+  
+  <string name="spoken_accented_letter_0103">"‏A کوتاه"</string>
+  
+  <string name="spoken_accented_letter_0105">"‏A با اگنک"</string>
+  
+  <string name="spoken_accented_letter_0107">"‏C با اکسان اگو"</string>
+  
+  <string name="spoken_accented_letter_0109">"‏C با هشتک"</string>
+  
+  <string name="spoken_accented_letter_010B">"‏C با نقطه"</string>
+  
+  <string name="spoken_accented_letter_010D">"‏C با هفتک"</string>
+  
+  <string name="spoken_accented_letter_010F">"‏D با هفتک"</string>
+  
+  <string name="spoken_accented_letter_0111">"‏D با خط مورب"</string>
+  
+  <string name="spoken_accented_letter_0113">"‏E با ماکرون"</string>
+  
+  <string name="spoken_accented_letter_0115">"‏E کوتاه"</string>
+  
+  <string name="spoken_accented_letter_0117">"‏E با نقطه"</string>
+  
+  <string name="spoken_accented_letter_0119">"‏E با اگنک"</string>
+  
+  <string name="spoken_accented_letter_011B">"‏E با هفتک"</string>
+  
+  <string name="spoken_accented_letter_011D">"‏G با هشتک"</string>
+  
+  <string name="spoken_accented_letter_011F">"‏G کوتاه"</string>
+  
+  <string name="spoken_accented_letter_0121">"‏G با نقطه"</string>
+  
+  <string name="spoken_accented_letter_0123">"‏G با سدیلا"</string>
+  
+  <string name="spoken_accented_letter_0125">"‏H با هشتک"</string>
+  
+  <string name="spoken_accented_letter_0127">"‏H با خط مورب"</string>
+  
+  <string name="spoken_accented_letter_0129">"‏I با مدک"</string>
+  
+  <string name="spoken_accented_letter_012B">"‏I با ماکرون"</string>
+  
+  <string name="spoken_accented_letter_012D">"‏I کوتاه"</string>
+  
+  <string name="spoken_accented_letter_012F">"‏I با اگنک"</string>
+  
+  <string name="spoken_accented_letter_0131">"‏I بی‌نقطه"</string>
+  
+  <string name="spoken_accented_letter_0133">"‏I، ‏J متصل به هم"</string>
+  
+  <string name="spoken_accented_letter_0135">"‏I با هشتک"</string>
+  
+  <string name="spoken_accented_letter_0137">"‏K با سدیلا"</string>
+  
+  <string name="spoken_accented_letter_0138">"Kra"</string>
+  
+  <string name="spoken_accented_letter_013A">"‏L با اکسان اگو"</string>
+  
+  <string name="spoken_accented_letter_013C">"‏L با سدیلا"</string>
+  
+  <string name="spoken_accented_letter_013E">"‏L با هفتک"</string>
+  
+  <string name="spoken_accented_letter_0140">"‏L با نقطه وسط"</string>
+  
+  <string name="spoken_accented_letter_0142">"‏L با خط مورب"</string>
+  
+  <string name="spoken_accented_letter_0144">"‏N با اکسان اگو"</string>
+  
+  <string name="spoken_accented_letter_0146">"‏N با سدیلا"</string>
+  
+  <string name="spoken_accented_letter_0148">"‏N با هفتک"</string>
+  
+  <string name="spoken_accented_letter_0149">"‏N بعد از آپاستراف"</string>
+  
+  <string name="spoken_accented_letter_014B">"Eng"</string>
+  
+  <string name="spoken_accented_letter_014D">"‏O با ماکرون"</string>
+  
+  <string name="spoken_accented_letter_014F">"‏O کوتاه"</string>
+  
+  <string name="spoken_accented_letter_0151">"‏O با اکسان اگوی دوتایی"</string>
+  
+  <string name="spoken_accented_letter_0153">"‏O، ‏E متصل به هم"</string>
+  
+  <string name="spoken_accented_letter_0155">"‏R با اکسان اگو"</string>
+  
+  <string name="spoken_accented_letter_0157">"‏R با سدیلا"</string>
+  
+  <string name="spoken_accented_letter_0159">"‏R با هفتک"</string>
+  
+  <string name="spoken_accented_letter_015B">"‏S با اکسان اگو"</string>
+  
+  <string name="spoken_accented_letter_015D">"‏S با هشتک"</string>
+  
+  <string name="spoken_accented_letter_015F">"‏S با سدیلا"</string>
+  
+  <string name="spoken_accented_letter_0161">"‏S با هفتک"</string>
+  
+  <string name="spoken_accented_letter_0163">"‏T با سدیلا"</string>
+  
+  <string name="spoken_accented_letter_0165">"‏T با کارون"</string>
+  
+  <string name="spoken_accented_letter_0167">"‏T با خط مورب"</string>
+  
+  <string name="spoken_accented_letter_0169">"‏U با مدک"</string>
+  
+  <string name="spoken_accented_letter_016B">"‏U با ماکرون"</string>
+  
+  <string name="spoken_accented_letter_016D">"‏U کوتاه"</string>
+  
+  <string name="spoken_accented_letter_016F">"‏U با حلقه"</string>
+  
+  <string name="spoken_accented_letter_0171">"‏U با اکسان اگو دوتایی"</string>
+  
+  <string name="spoken_accented_letter_0173">"‏U با اگنک"</string>
+  
+  <string name="spoken_accented_letter_0175">"‏W با هشتک"</string>
+  
+  <string name="spoken_accented_letter_0177">"‏Y با هشتک"</string>
+  
+  <string name="spoken_accented_letter_017A">"‏Z با اکسان اگو"</string>
+  
+  <string name="spoken_accented_letter_017C">"‏Z با دو نقطه"</string>
+  
+  <string name="spoken_accented_letter_017E">"‏Z با هفتک"</string>
+  
+  <string name="spoken_accented_letter_017F">"‏S طولانی"</string>
+  
+  <string name="spoken_accented_letter_01A1">"‏O با شاخ"</string>
+  
+  <string name="spoken_accented_letter_01B0">"‏U با شاخ"</string>
+  
+  <string name="spoken_accented_letter_0219">"‏S با کامای زیرین"</string>
+  
+  <string name="spoken_accented_letter_021B">"‏T با کامای زیرین"</string>
+  
+  <string name="spoken_accented_letter_0259">"واکه بی‌رنگ"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"‏A با نقطه زیرین"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"‏A با کروشه بالایی"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"‏A با هشتک و اکسان اگو"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"‏A با هشتک و اکسان گراو"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"‏A با هشتک و کروشه بالایی"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"‏A با هشتک و مدک"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"‏A با هشتک و نقطه زیرین"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"‏A کوتاه با اکسان اگو"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"‏A کوتاه با اکسان گراو"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"‏A کوتاه با کروشه بالایی"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"‏A کوتاه با مدک"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"‏A کوتاه با نقطه زیرین"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"‏E با نقطه زیرین"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"‏E با کروشه بالایی"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"‏E با مدک"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"‏E با هشتک و اکسان اگو"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"‏E با هشتک و اکسان گراو"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"‏E با هشتک و کروشه بالایی"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"‏E با هشتک و مدک"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"‏E با هشتک و نقطه زیرین"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"‏I با کروشه بالایی"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"‏I با نقطه زیرین"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"‏O با نقطه زیرین"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"‏O با کروشه بالایی"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"‏O با هشتک و اکسان اگو"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"‏O با هشتک و اکسان گراو"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"‏O با هشتک و کروشه بالایی"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"‏O با هشتک و مدک"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"‏O با هشتک و نقطه زیرین"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"‏O با شاخ و اکسان اگو"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"‏O با شاخ و اکسان گراو"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"‏O با شاخ و کروشه بالایی"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"‏O با شاخ و مدک"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"‏O با شاخ و نقطه زیرین"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"‏U با نقطه زیرین"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"‏U با کروشه بالایی"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"‏U با شاخ و اکسان اگو"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"‏U با شاخ و اکسان گراو"</string>
+  
+  <string name="spoken_accented_letter_1EED">"‏U با شاخ و کروشه بالایی"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"‏U با شاخ و مدک"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"‏U با شاخ و نقطه زیرین"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"‏Y اکسان گراو"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"‏Y با نقطه زیرین"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"‏Y با کروشه بالایی"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"‏Y با مدک"</string>
+  
+  <string name="spoken_symbol_00A1">"علامت تعجب وارونه"</string>
+  
+  <string name="spoken_symbol_00AB">"گیومه رو به چپ"</string>
+  
+  <string name="spoken_symbol_00B7">"نقطه وسط"</string>
+  
+  <string name="spoken_symbol_00B9">"بالانویس یک"</string>
+  
+  <string name="spoken_symbol_00BB">"گیومه رو به راست"</string>
+  
+  <string name="spoken_symbol_00BF">"علامت سؤال وارونه"</string>
+  
+  <string name="spoken_symbol_2018">"علامت نقل قول تکی سمت چپ"</string>
+  
+  <string name="spoken_symbol_2019">"علامت نقل قول تکی سمت راست"</string>
+  
+  <string name="spoken_symbol_201A">"علامت نقل قول تکی ۹ پایین"</string>
+  
+  <string name="spoken_symbol_201C">"علامت نقل قول دوتایی سمت چپ"</string>
+  
+  <string name="spoken_symbol_201D">"علامت نقل قول دوتایی سمت راست"</string>
+  
+  <string name="spoken_symbol_2020">"نماد خنجر"</string>
+  
+  <string name="spoken_symbol_2021">"نماد خنجر دوتایی"</string>
+  
+  <string name="spoken_symbol_2030">"علامت در هزار"</string>
+  
+  <string name="spoken_symbol_2032">"پریم"</string>
+  
+  <string name="spoken_symbol_2033">"پریم دوتایی"</string>
+  
+  <string name="spoken_symbol_2039">"گیومه تکی رو به چپ"</string>
+  
+  <string name="spoken_symbol_203A">"گیومه تکی رو به راست"</string>
+  
+  <string name="spoken_symbol_2074">"بالانویس چهار"</string>
+  
+  <string name="spoken_symbol_207F">"‏بالانویس حرف n کوچک لاتین"</string>
+  
+  <string name="spoken_symbol_20B1">"علامت پسو"</string>
+  
+  <string name="spoken_symbol_2105">"توسط"</string>
+  
+  <string name="spoken_symbol_2192">"پیکان سمت راست"</string>
+  
+  <string name="spoken_symbol_2193">"پیکان رو به پایین"</string>
+  
+  <string name="spoken_symbol_2205">"مجموعه تهی"</string>
+  
+  <string name="spoken_symbol_2206">"افزایش"</string>
+  
+  <string name="spoken_symbol_2264">"کمتر یا مساوی"</string>
+  
+  <string name="spoken_symbol_2265">"بزرگتر یا مساوی"</string>
+  
+  <string name="spoken_symbol_2605">"ستاره سیاه"</string>
+</resources>

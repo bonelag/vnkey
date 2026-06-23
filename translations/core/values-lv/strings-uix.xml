@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="action_copy_title">Kopēt Starpliktuvē</string>
+  <string name="action_paste_title">Ielīmēt no Starpliktuves</string>
+  
+  <string name="action_emoji_category_most_recently_used">Nesen izmantotie</string>
+  
+  <string name="action_emoji_clear_recent_emojis_question">Notīrīt nesen izmantotās emocijzīmes?</string>
+  
+  <string name="action_emoji_clear_recent_emojis_cancel">Atcelt</string>
+  
+  <string name="action_emoji_clear_recent_emojis_clear">Notīrīt</string>
+  <string name="action_emoji_clear_recent_emojis_content_description">Notīrīt nesen izmantotās emocijzīmes</string>
+  
+  <string name="action_emoji_search_for_emojis">Meklēt</string>
+  
+  <string name="action_clipboard_manager_title">Starpliktuve</string>
+  <string name="action_clipboard_manager_unpin_item">Atspraust</string>
+  <string name="action_clipboard_manager_pin_item">Piespraust</string>
+  <string name="action_clipboard_manager_remove_item">Noņemt</string>
+  
+  <string name="action_clipboard_manager_cancel_action_button">Atcelt</string>
+  <string name="action_clipboard_manager_disable_text">Nav ierakstu, kurus var izdzēst. Vai izslēgt starpliktuves vēsturi?</string>
+  
+  <string name="action_clipboard_manager_disable_button">Izslēgt</string>
+  <string name="action_clipboard_manager_unpin_all_items_text">Nav nepiespraustu ierakstu, kurus var izdzēst. Vai atspraust visus ierakstus?</string>
+  
+  <string name="action_clipboard_manager_unpin_all_items_button">Atspraust</string>
+  <string name="action_clipboard_manager_clear_unpinned_items_text">Vai izdzēst visus nepiespraustos ierakstus?</string>
+  
+  <string name="action_clipboard_manager_clear_unpinned_items_button">Izdzēst</string>
+  <string name="action_clipboard_manager_clear_clipboard">Notīrīt starpliktuvi</string>
+</resources>

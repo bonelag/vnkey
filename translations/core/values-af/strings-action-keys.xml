@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">"Gaan"</string>
+  
+  <string name="label_next_key">"Volg."</string>
+  
+  <string name="label_previous_key">"Vorige"</string>
+  
+  <string name="label_done_key">"Klaar"</string>
+  
+  <string name="label_send_key">"Stuur"</string>
+  
+  <string name="label_search_key">"Soek"</string>
+  
+  <string name="label_pause_key">"Laat wag"</string>
+  
+  <string name="label_wait_key">"Wag"</string>
+</resources>

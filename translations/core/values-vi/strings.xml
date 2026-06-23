@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="english_ime_input_options">Tùy chọn nhập</string>
+  <string name="vibrate_on_keypress">Rung khi nhấn phím</string>
+  <string name="sound_on_keypress">Âm thanh khi nhấn phím</string>
+  <string name="popup_on_keypress">Hiện phím phóng to khi gõ</string>
+  <string name="show_language_switch_key">Chuyển ngôn ngữ</string>
+  <string name="abbreviation_unit_milliseconds"><xliff:g id="MILLISECONDS">%s</xliff:g> ms</string>
+  <string name="use_personalized_dicts">Cá nhân hóa gợi ý</string>
+  <string name="use_double_space_period">Nhấn dấu cách 2 lần để thêm dấu chấm</string>
+  <string name="use_double_space_period_summary">Nhấn nhanh phím cách hai lần sẽ chèn dấu chấm kèm dấu cách tiếp theo</string>
+  <string name="auto_cap">Tự động viết hoa</string>
+  <string name="auto_cap_summary">Tự động viết hoa chữ cái đầu tiên của câu mới</string>
+  <string name="edit_personal_dictionary">Từ điển cá nhân</string>
+  <string name="prefs_show_suggestions">Hiển thị từ gợi ý</string>
+  <string name="prefs_show_suggestions_summary">Hiển thị các từ gợi ý sửa lỗi trong khi gõ phím</string>
+  <string name="prefs_block_potentially_offensive_title">Chặn các từ phản cảm</string>
+  <string name="prefs_block_potentially_offensive_summary">Không đề xuất các từ có xu hướng gây xúc phạm hoặc thô tục</string>
+  <string name="prefs_block_potentially_offensive_tags">từ tục tĩu, chửi thề, từ bậy, danh sách đen, lọc từ bậy, lọc</string>
+  <string name="prefs_block_slurs_title">Chặn từ ngữ miệt thị</string>
+  <string name="prefs_block_slurs_summary">Hiện chỉ hỗ trợ Tiếng Anh</string>
+  <string name="auto_correction">Tự động sửa lỗi</string>
+  <string name="auto_correction_summary">Tự động sửa lỗi chính tả khi gõ phím cách hoặc phím dấu câu</string>
+  <string name="auto_correction_tags">tự động sửa, sửa lỗi chính tả, sửa từ</string>
+  <string name="bigram_prediction">Đề xuất từ tiếp theo</string>
+  <string name="bigram_prediction_summary">Đưa ra gợi ý từ tiếp theo dựa trên từ vừa nhập</string>
+  <string name="language_selection_title">Ngôn ngữ</string>
+  <string name="select_language">Lựa chọn ngôn ngữ</string>
+  <string name="subtype_en_GB">Tiếng Anh (Anh)</string>
+  <string name="subtype_en_US">Tiếng Anh (Mỹ)</string>
+  <string name="subtype_es_US">Tiếng Tây Ban Nha</string>
+  <string name="subtype_hi_ZZ">Hinglish</string>
+  <string name="subtype_hi__Latn">Hinglish</string>
+  <string name="subtype_sr_ZZ">Tiếng Serbia (Latin)</string>
+  <string name="subtype_ipa">Ký tự phiên âm quốc tế (IPA)</string>
+  <string name="subtype_with_layout_en_GB">Tiếng Anh (Anh) (<xliff:g id="KEYBOARD_LAYOUT" example="QWERTY">%s</xliff:g>)</string>
+  <string name="subtype_with_layout_en_US">Tiếng Anh (Mỹ) (<xliff:g id="KEYBOARD_LAYOUT" example="QWERTY">%s</xliff:g>)</string>
+  <string name="subtype_with_layout_es_US">Tiếng Tây Ban Nha (<xliff:g id="KEYBOARD_LAYOUT" example="QWERTY">%s</xliff:g>)</string>
+  <string name="subtype_with_layout_hi_ZZ">Hinglish (<xliff:g id="KEYBOARD_LAYOUT" example="QWERTY">%s</xliff:g>)</string>
+  <string name="subtype_with_layout_sr_ZZ">Tiếng Serbia (<xliff:g id="KEYBOARD_LAYOUT" example="QWERTY">%s</xliff:g>)</string>
+  <string name="subtype_generic_traditional"><xliff:g id="LANGUAGE_NAME" example="Nepali">%s</xliff:g> (Truyền thống)</string>
+  <string name="subtype_generic_compact"><xliff:g id="LANGUAGE_NAME" example="Hindi">%s</xliff:g> (Rút gọn)</string>
+  <string name="subtype_no_language">Ký tự Latin (Không từ điển)</string>
+  <string name="subtype_no_language_qwerty">Ký tự Latin (QWERTY)</string>
+  <string name="subtype_no_language_qwertz">Ký tự Latin (QWERTZ)</string>
+  <string name="subtype_no_language_azerty">Ký tự Latin (AZERTY)</string>
+  <string name="subtype_no_language_dvorak">Ký tự Latin (Dvorak)</string>
+  <string name="subtype_no_language_colemak">Ký tự Latin (Colemak)</string>
+  <string name="subtype_no_language_pcqwerty">Ký tự Latin (PC)</string>
+  <string name="subtype_emoji">Emoji</string>
+  <string name="cancel">Hủy</string>
+  <string name="go_to_settings">Cài đặt</string>
+  <string name="install_dict">Cài đặt</string>
+  <string name="cancel_download_dict">Hủy</string>
+  <string name="user_dict_settings_add_menu_title">Thêm</string>
+  <string name="user_dict_settings_add_dialog_title">Thêm từ mới</string>
+  <string name="user_dict_settings_add_screen_title">Cụm từ</string>
+  <string name="user_dict_settings_add_dialog_more_options">Thêm tùy chọn</string>
+  <string name="user_dict_settings_add_dialog_less_options">Ẩn tùy chọn</string>
+  <string name="user_dict_settings_add_dialog_confirm">Đồng ý</string>
+  <string name="user_dict_settings_add_word_option_name">Từ:</string>
+  <string name="user_dict_settings_add_shortcut_option_name">Viết tắt (tùy chọn):</string>
+  <string name="user_dict_settings_add_locale_option_name">Ngôn ngữ áp dụng:</string>
+  <string name="user_dict_settings_add_word_hint">Nhập từ cần thêm</string>
+  <string name="user_dict_settings_add_shortcut_hint">Gõ viết tắt hiển thị nhanh từ trên</string>
+  <string name="user_dict_settings_edit_dialog_title">Sửa từ vựng</string>
+  <string name="user_dict_settings_context_menu_edit_title">Chỉnh sửa</string>
+  <string name="user_dict_settings_context_menu_delete_title">Xóa</string>
+  <string name="user_dict_settings_empty_text">Từ điển cá nhân của bạn hiện đang trống. Nhấn nút Thêm (+) để lưu thêm các từ gõ nhanh.</string>
+  <string name="user_dict_settings_all_languages">Tất cả ngôn ngữ</string>
+  <string name="user_dict_settings_more_languages">Các ngôn ngữ khác…</string>
+  <string name="user_dict_settings_delete">Xóa bỏ</string>
+  <string name="user_dict_fast_scroll_alphabet"> ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+</resources>

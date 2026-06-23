@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="english_ime_input_options">"خيارات الإرسال"</string>
+  
+  <string name="vibrate_on_keypress">"اهتزاز عند ضغط مفتاح"</string>
+  
+  <string name="sound_on_keypress">"صوت عند الضغط على مفتاح"</string>
+  
+  <string name="popup_on_keypress">"انبثاق عند ضغط مفتاح"</string>
+  
+  <string name="show_language_switch_key">"مفتاح تبديل اللغة"</string>
+  
+  <string name="abbreviation_unit_milliseconds">&lt;string name="abbreviation_unit_milliseconds" msgid="3255301845626146979"&gt;&amp;quot;&lt;xliff:g id="MILLISECONDS"&gt;%s&lt;/xliff:g&gt; مللي ثانية&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="use_personalized_dicts">"اقتراحات مخصصة"</string>
+  
+  <string name="use_double_space_period">"نقطة المسافة المزدوجة"</string>
+  
+  <string name="use_double_space_period_summary">"يؤدي النقر مرّتين على مفتاح المسافة إلى إدخال نقطة متبوعة بمسافة"</string>
+  
+  <string name="auto_cap">"أحرف كبيرة تلقائيًا"</string>
+  
+  <string name="auto_cap_summary">"كتابة الحرف الأول من كل جملة بحرف كبير"</string>
+  
+  <string name="edit_personal_dictionary">"القاموس الشخصي"</string>
+  
+  <string name="prefs_show_suggestions">"عرض اقتراحات التصحيح"</string>
+  
+  <string name="prefs_show_suggestions_summary">"عرض الكلمات المقترحة أثناء الكتابة"</string>
+  
+  <string name="prefs_block_potentially_offensive_title">"حظر الكلمات المسيئة"</string>
+  
+  <string name="prefs_block_potentially_offensive_summary">"عدم اقتراح كلمات محتمل أن تكون مسيئة"</string>
+  
+  <string name="prefs_block_potentially_offensive_tags">كلمات سيئة، ألفاظ نابية، سباب، كلمات بذيئة، قائمة سوداء، تصفية</string>
+  
+  <string name="auto_correction">"التصحيح التلقائي"</string>
+  
+  <string name="auto_correction_summary">"تؤدي المسافة والترقيم إلى تصحيح الكلمات المكتوبة بشكل غير صحيح"</string>
+  
+  <string name="auto_correction_tags">مصحح تلقائي</string>
+  
+  <string name="bigram_prediction">"اقتراحات الكلمات التالية"</string>
+  
+  <string name="bigram_prediction_summary">"استخدام الكلمة السابقة لتقديم الاقتراحات"</string>
+  
+  <string name="language_selection_title">"اللغات"</string>
+  
+  <string name="select_language">"اللغات"</string>
+  
+  <string name="subtype_en_GB">"الإنجليزية (المملكة المتحدة)"</string>
+  
+  <string name="subtype_en_US">"الإنجليزية (الولايات المتحدة)"</string>
+  
+  <string name="subtype_es_US">"الإسبانية (الأميركية)"</string>
+  
+  <string name="subtype_hi_ZZ">"هنجليزية"</string>
+  <string name="subtype_hi__Latn">هنجليزية</string>
+  
+  <string name="subtype_sr_ZZ">"الصربية (اللاتينية)"</string>
+  <string name="subtype_ipa">الألفبائية الصوتية الدولية</string>
+  
+  <string name="subtype_with_layout_en_GB">&lt;string name="subtype_with_layout_en_GB" msgid="4220344684463778660"&gt;&amp;quot;الإنجليزية (المملكة المتحدة) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_en_US">&lt;string name="subtype_with_layout_en_US" msgid="4599421650961912769"&gt;&amp;quot;الإنجليزية (الولايات المتحدة) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_es_US">&lt;string name="subtype_with_layout_es_US" msgid="6866331205974243592"&gt;&amp;quot;الإسبانية (الولايات المتحدة) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_hi_ZZ">&lt;string name="subtype_with_layout_hi_ZZ" msgid="5439623653083985558"&gt;&amp;quot;هنجليزية (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_sr_ZZ">&lt;string name="subtype_with_layout_sr_ZZ" msgid="546465971819327060"&gt;&amp;quot;الصربية (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_traditional">&lt;string name="subtype_generic_traditional" msgid="5321023815277210849"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (التقليدية)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_compact">&lt;string name="subtype_generic_compact" msgid="2858514299576793292"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (مكثفة)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_no_language">"بدون لغة (أبجدية)"</string>
+  
+  <string name="subtype_no_language_qwerty">"‏الأبجدية (QWERTY)"</string>
+  
+  <string name="subtype_no_language_qwertz">"‏الأبجدية (QWERTZ)"</string>
+  
+  <string name="subtype_no_language_azerty">"‏الأبجدية (AZERTY)"</string>
+  
+  <string name="subtype_no_language_dvorak">"‏الأبجدية (Dvorak)"</string>
+  
+  <string name="subtype_no_language_colemak">"‏الأبجدية (Colemak)"</string>
+  
+  <string name="subtype_no_language_pcqwerty">"‏الأبجدية (PC)"</string>
+  
+  <string name="subtype_emoji">"الرموز التعبيرية"</string>
+  
+  <string name="cancel">"إلغاء"</string>
+  
+  <string name="go_to_settings">"إعدادات"</string>
+  
+  <string name="install_dict">"تثبيت"</string>
+  
+  <string name="cancel_download_dict">"إلغاء"</string>
+  
+  <string name="user_dict_settings_add_menu_title">"إضافة"</string>
+  
+  <string name="user_dict_settings_add_dialog_title">"إضافة إلى القاموس"</string>
+  
+  <string name="user_dict_settings_add_screen_title">"عبارة"</string>
+  
+  <string name="user_dict_settings_add_dialog_more_options">"خيارات أكثر"</string>
+  
+  <string name="user_dict_settings_add_dialog_less_options">"خيارات أقل"</string>
+  
+  <string name="user_dict_settings_add_dialog_confirm">"موافق"</string>
+  
+  <string name="user_dict_settings_add_word_option_name">"الكلمة:"</string>
+  
+  <string name="user_dict_settings_add_shortcut_option_name">"الاختصار:"</string>
+  
+  <string name="user_dict_settings_add_locale_option_name">"اللغة:"</string>
+  
+  <string name="user_dict_settings_add_word_hint">"اكتب كلمة"</string>
+  
+  <string name="user_dict_settings_add_shortcut_hint">"اختصار اختياري"</string>
+  
+  <string name="user_dict_settings_edit_dialog_title">"تعديل كلمة"</string>
+  
+  <string name="user_dict_settings_context_menu_edit_title">"تعديل"</string>
+  
+  <string name="user_dict_settings_context_menu_delete_title">"حذف"</string>
+  
+  <string name="user_dict_settings_empty_text">"ليس هناك أي كلمات في قاموس المستخدم. لإضافة كلمة، انقر على زر الإضافة (+)."</string>
+  
+  <string name="user_dict_settings_all_languages">"لجميع اللغات"</string>
+  
+  <string name="user_dict_settings_more_languages">"مزيد من اللغات..."</string>
+  
+  <string name="user_dict_settings_delete">"حذف"</string>
+  
+  <string name="user_dict_fast_scroll_alphabet">" أ ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن ه و ي"</string>
+</resources>

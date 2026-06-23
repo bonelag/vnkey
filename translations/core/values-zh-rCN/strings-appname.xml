@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+  <string name="english_ime_name">FUTO 键盘</string>
+  
+  <string name="spell_checker_service_name">FUTO 拼写检查器</string>
+  
+  <string name="english_ime_settings">FUTO 键盘设置</string>
+  
+  <string name="android_spell_checker_settings">FUTO 拼写检查器设置</string>
+</resources>

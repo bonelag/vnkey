@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    
+    <string-array name="keyboard_heights" translatable="false">
+    
+        
+        <item>HARDWARE=sholes,227.0167</item>
+        
+        <item>HARDWARE=mahimahi,217.5932</item>
+        
+        <item>HARDWARE=herring,200.8554</item>
+        
+        <item>HARDWARE=tuna,202.5869</item>
+    
+        
+        <item>HARDWARE=stingray,283.1337</item>
+    </string-array>
+</resources>

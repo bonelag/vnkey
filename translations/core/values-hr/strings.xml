@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="english_ime_input_options">Opcije ulaza</string>
+  
+  <string name="vibrate_on_keypress">Vibracija pri pritisku na tipku</string>
+  
+  <string name="sound_on_keypress">Zvuk pri pritisku tipke</string>
+  
+  <string name="popup_on_keypress">Prozorčić pri pritisku tipke</string>
+  
+  <string name="show_language_switch_key">Tipka za izmjenjivanje jezika</string>
+  
+  <string name="abbreviation_unit_milliseconds">&lt;string name="abbreviation_unit_milliseconds" msgid="3255301845626146979"&gt;&amp;quot;&lt;xliff:g id="MILLISECONDS"&gt;%s&lt;/xliff:g&gt; ms&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="use_personalized_dicts">Personalizirani prijedlozi</string>
+  
+  <string name="use_double_space_period">Točka s dva razmaka</string>
+  
+  <string name="use_double_space_period_summary">Dvostrukim dodirivanjem razmaka umeću se točka i razmak</string>
+  
+  <string name="auto_cap">Autom. veliko početno slovo</string>
+  
+  <string name="auto_cap_summary">Napiši velikim slovom prvu riječ svake rečenice</string>
+  
+  <string name="edit_personal_dictionary">Personalizirani rječnik</string>
+  
+  <string name="prefs_show_suggestions">Pokaži prijedloge ispravka</string>
+  
+  <string name="prefs_show_suggestions_summary">Prikaži predložene riječi tijekom pisanja</string>
+  
+  <string name="prefs_block_potentially_offensive_title">Blokiraj uvredljive riječi</string>
+  
+  <string name="prefs_block_potentially_offensive_summary">Ne predlaži potencijalno uvredljive riječi</string>
+  
+  <string name="prefs_block_potentially_offensive_tags">loše riječi, psovke, kletve, crna lista, filtriranje, jebem, jebote, sranje</string>
+  
+  <string name="auto_correction">Automatski ispravak</string>
+  
+  <string name="auto_correction_summary">Razmak i interpunkcija automatski ispravljaju krive riječi</string>
+  
+  <string name="auto_correction_tags">automatsko ispravljanje</string>
+  
+  <string name="bigram_prediction">Prijedlozi za sljedeću riječ</string>
+  
+  <string name="bigram_prediction_summary">Koristi se prethodnom riječi u izradi prijedloga</string>
+  
+  <string name="language_selection_title">Jezici</string>
+  
+  <string name="select_language">Jezici</string>
+  
+  <string name="subtype_en_GB">Engleski (UK)</string>
+  
+  <string name="subtype_en_US">Engleski (SAD)</string>
+  
+  <string name="subtype_es_US">Španjolski (SAD)</string>
+  
+  <string name="subtype_hi_ZZ">Hindu-Engleski</string>
+  <string name="subtype_hi__Latn">Hindu-Engleski</string>
+  
+  <string name="subtype_sr_ZZ">Srpski (Latinica)</string>
+  <string name="subtype_ipa">Međunarodna fonetska abeceda</string>
+  
+  <string name="subtype_with_layout_en_GB">&lt;string name="subtype_with_layout_en_GB"&gt;Engleski (UK) (&lt;xliff:g id="KEYBOARD_LAYOUT" example="QWERTY"&gt;%s&lt;/xliff:g&gt;)&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_en_US">&lt;string name="subtype_with_layout_en_US"&gt;Engleski (US) (&lt;xliff:g id="KEYBOARD_LAYOUT" example="QWERTY"&gt;%s&lt;/xliff:g&gt;)&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_es_US">&lt;string name="subtype_with_layout_es_US"&gt;Španjolski (US) (&lt;xliff:g id="KEYBOARD_LAYOUT" example="QWERTY"&gt;%s&lt;/xliff:g&gt;)&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_hi_ZZ">&lt;string name="subtype_with_layout_hi_ZZ"&gt;Hindu-Engleski (&lt;xliff:g id="KEYBOARD_LAYOUT" example="QWERTY"&gt;%s&lt;/xliff:g&gt;)&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_sr_ZZ">&lt;string name="subtype_with_layout_sr_ZZ"&gt;Srpski (&lt;xliff:g id="KEYBOARD_LAYOUT" example="QWERTY"&gt;%s&lt;/xliff:g&gt;)&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_traditional">&lt;string name="subtype_generic_traditional"&gt;&lt;xliff:g id="LANGUAGE_NAME" example="Nepali"&gt;%s&lt;/xliff:g&gt; (Tradicionalni)&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_compact">&lt;string name="subtype_generic_compact"&gt;&lt;xliff:g id="LANGUAGE_NAME" example="Hindi"&gt;%s&lt;/xliff:g&gt; (Kompaktni)&lt;/string&gt;</string>
+  
+  <string name="subtype_no_language">Nema jezika (Abeceda)</string>
+  
+  <string name="subtype_no_language_qwerty">Abeceda (QWERTY)</string>
+  
+  <string name="subtype_no_language_qwertz">Abeceda (QWERTZ)</string>
+  
+  <string name="subtype_no_language_azerty">Abeceda (AZERTY)</string>
+  
+  <string name="subtype_no_language_dvorak">Abeceda (Dvorak)</string>
+  
+  <string name="subtype_no_language_colemak">Abeceda (Colemak)</string>
+  
+  <string name="subtype_no_language_pcqwerty">Abeceda (PC)</string>
+  
+  <string name="subtype_emoji">Emoji</string>
+  
+  <string name="cancel">Odustani</string>
+  
+  <string name="go_to_settings">Postavke</string>
+  
+  <string name="install_dict">Instaliraj</string>
+  
+  <string name="cancel_download_dict">Odustani</string>
+  
+  <string name="user_dict_settings_add_menu_title">Dodaj</string>
+  
+  <string name="user_dict_settings_add_dialog_title">Dodaj u rječnik</string>
+  
+  <string name="user_dict_settings_add_screen_title">Fraza</string>
+  
+  <string name="user_dict_settings_add_dialog_more_options">Više opcija</string>
+  
+  <string name="user_dict_settings_add_dialog_less_options">Manje opcija</string>
+  
+  <string name="user_dict_settings_add_dialog_confirm">U redu</string>
+  
+  <string name="user_dict_settings_add_word_option_name">Riječ:</string>
+  
+  <string name="user_dict_settings_add_shortcut_option_name">Prečac:</string>
+  
+  <string name="user_dict_settings_add_locale_option_name">Jezik:</string>
+  
+  <string name="user_dict_settings_add_word_hint">Upišite riječ</string>
+  
+  <string name="user_dict_settings_add_shortcut_hint">Opcijonalni prečac</string>
+  
+  <string name="user_dict_settings_edit_dialog_title">Uredi riječ</string>
+  
+  <string name="user_dict_settings_context_menu_edit_title">Uredi</string>
+  
+  <string name="user_dict_settings_context_menu_delete_title">Izbriši</string>
+  
+  <string name="user_dict_settings_empty_text">Nemate nijednu riječ u korisničkom rječniku. Da biste dodali riječ, dodirnite gumb Dodaj (+).</string>
+  
+  <string name="user_dict_settings_all_languages">Za sve jezike</string>
+  
+  <string name="user_dict_settings_more_languages">Više jezika…</string>
+  
+  <string name="user_dict_settings_delete">Izbriši</string>
+  
+  <string name="user_dict_fast_scroll_alphabet">\u0020ABCČĆDDŽĐEFGHIJKLLJMNNJOPRSŠTUVZŽ</string>
+</resources>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="spoken_use_headphones">"Plug in a headset to hear password keys spoken aloud."</string>
+  
+  <string name="spoken_current_text_is">"Current text is %s"</string>
+  
+  <string name="spoken_no_text_entered">"No text entered"</string>
+  
+  <string name="spoken_auto_correct">&lt;string name="spoken_auto_correct" msgid="965889269068888859"&gt;&amp;quot;&lt;xliff:g id="KEY_NAME"&gt;%1$s&lt;/xliff:g&gt; corrects &lt;xliff:g id="ORIGINAL_WORD"&gt;%2$s&lt;/xliff:g&gt; to &lt;xliff:g id="CORRECTED_WORD"&gt;%3$s&lt;/xliff:g&gt;&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="spoken_auto_correct_obscured">&lt;string name="spoken_auto_correct_obscured" msgid="7511607899335382699"&gt;&amp;quot;&lt;xliff:g id="KEY_NAME"&gt;%1$s&lt;/xliff:g&gt; performs auto-correction&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="spoken_empty_suggestion">"No suggestion"</string>
+  
+  <string name="spoken_description_unknown">"Nepoznati znak"</string>
+  
+  <string name="spoken_description_shift">"Shift"</string>
+  
+  <string name="spoken_description_symbols_shift">"More symbols"</string>
+  
+  <string name="spoken_description_shift_shifted">"Shift"</string>
+  
+  <string name="spoken_description_symbols_shift_shifted">"Symbols"</string>
+  
+  <string name="spoken_description_caps_lock">"Shift"</string>
+  
+  <string name="spoken_description_delete">"Delete"</string>
+  
+  <string name="spoken_description_to_symbol">"Symbols"</string>
+  
+  <string name="spoken_description_to_alpha">"Letters"</string>
+  
+  <string name="spoken_description_to_numeric">"Numbers"</string>
+  
+  <string name="spoken_description_settings">"Settings"</string>
+  
+  <string name="spoken_description_tab">"Tab"</string>
+  
+  <string name="spoken_description_space">"Space"</string>
+  
+  <string name="spoken_description_mic">"Voice input"</string>
+  
+  <string name="spoken_description_emoji">"Emoji"</string>
+  
+  <string name="spoken_description_return">"Return"</string>
+  
+  <string name="spoken_description_search">"Search"</string>
+  
+  <string name="spoken_description_dot">"Dot"</string>
+  
+  <string name="spoken_description_language_switch">"Switch language"</string>
+  
+  <string name="spoken_description_action_next">"Naprijed"</string>
+  
+  <string name="spoken_description_action_previous">"Previous"</string>
+  
+  <string name="spoken_description_shiftmode_on">"Shift enabled"</string>
+  
+  <string name="spoken_description_shiftmode_locked">"Caps lock enabled"</string>
+  
+  <string name="spoken_description_mode_symbol">"Symbols mode"</string>
+  
+  <string name="spoken_description_mode_symbol_shift">"More symbols mode"</string>
+  
+  <string name="spoken_description_mode_alpha">"Letters mode"</string>
+  
+  <string name="spoken_description_mode_phone">"Phone mode"</string>
+  
+  <string name="spoken_description_mode_phone_shift">"Phone symbols mode"</string>
+  
+  <string name="announce_keyboard_hidden">"Keyboard hidden"</string>
+  
+  <string name="announce_keyboard_mode">&lt;string name="announce_keyboard_mode" msgid="5314352981874590170"&gt;&amp;quot;Showing &lt;xliff:g id="KEYBOARD_MODE"&gt;%s&lt;/xliff:g&gt; keyboard&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="keyboard_mode_date">"Datum"</string>
+  
+  <string name="keyboard_mode_date_time">"datum i vrijeme"</string>
+  
+  <string name="keyboard_mode_email">"e-pošta"</string>
+  
+  <string name="keyboard_mode_im">"poruke"</string>
+  
+  <string name="keyboard_mode_number">"broj"</string>
+  
+  <string name="keyboard_mode_phone">"telefon"</string>
+  
+  <string name="keyboard_mode_text">"Pošalji SMS"</string>
+  
+  <string name="keyboard_mode_time">"vrijeme"</string>
+  
+  <string name="keyboard_mode_url">"URL"</string>
+  
+  <string name="spoken_descrption_emoji_category_recents">"Nedavni"</string>
+  
+  <string name="spoken_descrption_emoji_category_people">"Ljudi"</string>
+  
+  <string name="spoken_descrption_emoji_category_objects">"Predmeti"</string>
+  
+  <string name="spoken_descrption_emoji_category_nature">"Priroda"</string>
+  
+  <string name="spoken_descrption_emoji_category_places">"Mjesta"</string>
+  
+  <string name="spoken_descrption_emoji_category_symbols">"Simboli"</string>
+  
+  <string name="spoken_descrption_emoji_category_flags">"Zastave"</string>
+  
+  <string name="spoken_descrption_emoji_category_eight_smiley_people">"Smješko i ljudi"</string>
+  
+  <string name="spoken_descrption_emoji_category_eight_animals_nature">"Životinje i priroda"</string>
+  
+  <string name="spoken_descrption_emoji_category_eight_food_drink">"Hrana i piće"</string>
+  
+  <string name="spoken_descrption_emoji_category_eight_travel_places">"Putovanje i mjesta"</string>
+  
+  <string name="spoken_descrption_emoji_category_eight_activity">"Aktivnost"</string>
+  
+  <string name="spoken_descrption_emoji_category_emoticons">"Emotikoni"</string>
+  
+  <string name="spoken_description_upper_case">&lt;string name="spoken_description_upper_case" msgid="548189286451849550"&gt;&amp;quot;Veliko slovo &lt;xliff:g id="LOWER_LETTER"&gt;%s&lt;/xliff:g&gt;&amp;quot;&lt;/string&gt;</string>
+  <!--
+    Spoken description for Unicode code point U+0049: "I" LATIN CAPITAL LETTER I
+    Note that depending on locale, the lower-case of this letter is U+0069 or U+0131.
+  -->
+  <string name="spoken_letter_0049">"Veliko slovo I"</string>
+  <!--
+    Spoken description for Unicode code point U+0130: "İ" LATIN CAPITAL LETTER I WITH DOT ABOVE
+    Note that depending on locale, the lower-case of this letter is U+0069 or U+0131.
+  -->
+  <string name="spoken_letter_0130">"Veliko slovo I, s točkicom iznad"</string>
+  
+  <string name="spoken_symbol_unknown">"Nepoznati simbol"</string>
+  
+  <string name="spoken_emoji_unknown">"Nepoznati emoji"</string>
+  
+  <string name="spoken_emoticon_3A_2D_21_20">"Lice s izrazom dosade"</string>
+  
+  <string name="spoken_emoticon_3A_2D_24_20">"Lice s izrazom neugode"</string>
+  
+  <string name="spoken_emoticon_42_2D_29_20">"Lice sa sunčanim naočalama"</string>
+  
+  <string name="spoken_emoticon_3A_4F_20">"Iznenađeno lice"</string>
+  
+  <string name="spoken_emoticon_3A_2D_2A_20">"Lice koje ljubi"</string>
+  
+  <string name="spoken_emoticon_3A_2D_5B_20">"Namršteno lice"</string>
+  
+  <string name="spoken_open_more_keys_keyboard">"Dostupni su zamjenski znakovi"</string>
+  
+  <string name="spoken_close_more_keys_keyboard">"Zamjenski su znakovi isključeni"</string>
+  
+  <string name="spoken_open_more_suggestions">"Dostupni su zamjenski prijedlozi"</string>
+  
+  <string name="spoken_close_more_suggestions">"Zamjenski su prijedlozi isključeni"</string>
+</resources>

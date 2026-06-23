@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"Indikator ordinal feminin"</string>
+  
+  <string name="spoken_accented_letter_00B5">"Simbol mikro"</string>
+  
+  <string name="spoken_accented_letter_00BA">"Indikator ordinal maskulin"</string>
+  
+  <string name="spoken_accented_letter_00DF">"Eszett"</string>
+  
+  <string name="spoken_accented_letter_00E0">"A dengan aksen nontirus (tanda coret miring ke arah kiri di bagian atas)"</string>
+  
+  <string name="spoken_accented_letter_00E1">"A dengan aksen tirus (tanda coret miring ke arah kanan di bagian atas)"</string>
+  
+  <string name="spoken_accented_letter_00E2">"A dengan aksen sirkumfleks (tanda aksen di bagian atas)"</string>
+  
+  <string name="spoken_accented_letter_00E3">"A dengan aksen tilda (tanda gelombang di bagian atas)"</string>
+  
+  <string name="spoken_accented_letter_00E4">"A dengan aksen diaeresis (titik dua di bagian atas)"</string>
+  
+  <string name="spoken_accented_letter_00E5">"A dengan aksen lingkaran di bagian atas"</string>
+  
+  <string name="spoken_accented_letter_00E6">"A E ligatur (Karakter A dan E yang digabungkan menjadi satu kesatuan unit)"</string>
+  
+  <string name="spoken_accented_letter_00E7">"C dengan aksen cedilla (tanda kait di bagian bawah)"</string>
+  
+  <string name="spoken_accented_letter_00E8">"E dengan aksen nontirus"</string>
+  
+  <string name="spoken_accented_letter_00E9">"E dengan aksen tirus"</string>
+  
+  <string name="spoken_accented_letter_00EA">"E dengan aksen sirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_00EB">"E dengan aksen diaeresis"</string>
+  
+  <string name="spoken_accented_letter_00EC">"I dengan aksen nontirus"</string>
+  
+  <string name="spoken_accented_letter_00ED">"I dengan aksen tirus"</string>
+  
+  <string name="spoken_accented_letter_00EE">"I dengan aksen sirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_00EF">"I dengan aksen diaeresis"</string>
+  
+  <string name="spoken_accented_letter_00F0">"Eth"</string>
+  
+  <string name="spoken_accented_letter_00F1">"N dengan aksen tilda"</string>
+  
+  <string name="spoken_accented_letter_00F2">"O dengan aksen nontirus"</string>
+  
+  <string name="spoken_accented_letter_00F3">"O dengan aksen tirus"</string>
+  
+  <string name="spoken_accented_letter_00F4">"O dengan aksen sirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_00F5">"O dengan aksen tilda"</string>
+  
+  <string name="spoken_accented_letter_00F6">"O dengan aksen diaeresis"</string>
+  
+  <string name="spoken_accented_letter_00F8">"O coret"</string>
+  
+  <string name="spoken_accented_letter_00F9">"U dengan aksen nontirus"</string>
+  
+  <string name="spoken_accented_letter_00FA">"U dengan aksen tirus"</string>
+  
+  <string name="spoken_accented_letter_00FB">"U dengan aksen sirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_00FC">"U dengan aksen diaeresis"</string>
+  
+  <string name="spoken_accented_letter_00FD">"Y dengan aksen tirus"</string>
+  
+  <string name="spoken_accented_letter_00FE">"Thorn (sekarang diganti dengan huruf th)"</string>
+  
+  <string name="spoken_accented_letter_00FF">"Y dengan aksen diaeresis"</string>
+  
+  <string name="spoken_accented_letter_0101">"A dengan aksen makron (tanda pengulur/makron di bagian atas)"</string>
+  
+  <string name="spoken_accented_letter_0103">"A dengan aksen breve (tanda breve di bagian atas)"</string>
+  
+  <string name="spoken_accented_letter_0105">"A dengan aksen ogonek (tanda ekor di sebelah kanan bawah untuk menunjukkan bunyi sengau)"</string>
+  
+  <string name="spoken_accented_letter_0107">"C dengan aksen tirus"</string>
+  
+  <string name="spoken_accented_letter_0109">"C dengan aksen sirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_010B">"C dengan titik di bagian atas"</string>
+  
+  <string name="spoken_accented_letter_010D">"C dengan aksen caron (tanda caron di bagian atas)"</string>
+  
+  <string name="spoken_accented_letter_010F">"D dengan aksen caron"</string>
+  
+  <string name="spoken_accented_letter_0111">"D coret"</string>
+  
+  <string name="spoken_accented_letter_0113">"E dengan aksen makron"</string>
+  
+  <string name="spoken_accented_letter_0115">"E dengan aksen breve"</string>
+  
+  <string name="spoken_accented_letter_0117">"E dengan titik di bagian atas"</string>
+  
+  <string name="spoken_accented_letter_0119">"E dengan aksen ogonek"</string>
+  
+  <string name="spoken_accented_letter_011B">"E dengan aksen caron"</string>
+  
+  <string name="spoken_accented_letter_011D">"G dengan aksen sirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_011F">"G dengan aksen breve"</string>
+  
+  <string name="spoken_accented_letter_0121">"G dengan aksen titik di bagian atas"</string>
+  
+  <string name="spoken_accented_letter_0123">"G dengan aksen cedilla"</string>
+  
+  <string name="spoken_accented_letter_0125">"H dengan aksen sirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_0127">"H coret"</string>
+  
+  <string name="spoken_accented_letter_0129">"I dengan aksen tilda"</string>
+  
+  <string name="spoken_accented_letter_012B">"I dengan aksen makron"</string>
+  
+  <string name="spoken_accented_letter_012D">"I dengan aksen breve"</string>
+  
+  <string name="spoken_accented_letter_012F">"I dengan aksen ogonek"</string>
+  
+  <string name="spoken_accented_letter_0131">"I tanpa titik"</string>
+  
+  <string name="spoken_accented_letter_0133">"I dan J ligatur"</string>
+  
+  <string name="spoken_accented_letter_0135">"J dengan aksen sirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_0137">"K dengan aksen cedilla"</string>
+  
+  <string name="spoken_accented_letter_0138">"Kra"</string>
+  
+  <string name="spoken_accented_letter_013A">"L dengan aksen tirus"</string>
+  
+  <string name="spoken_accented_letter_013C">"L dengan aksen cedilla"</string>
+  
+  <string name="spoken_accented_letter_013E">"L dengan aksen caron"</string>
+  
+  <string name="spoken_accented_letter_0140">"L dengan titik di tengah"</string>
+  
+  <string name="spoken_accented_letter_0142">"L coret"</string>
+  
+  <string name="spoken_accented_letter_0144">"N dengan aksen tirus"</string>
+  
+  <string name="spoken_accented_letter_0146">"N dengan aksen cedilla"</string>
+  
+  <string name="spoken_accented_letter_0148">"N dengan aksen caron"</string>
+  
+  <string name="spoken_accented_letter_0149">"N yang didahului tanda apostrof"</string>
+  
+  <string name="spoken_accented_letter_014B">"Eng"</string>
+  
+  <string name="spoken_accented_letter_014D">"O dengan aksen makron"</string>
+  
+  <string name="spoken_accented_letter_014F">"O dengan aksen breve"</string>
+  
+  <string name="spoken_accented_letter_0151">"O dengan aksen tirus ganda"</string>
+  
+  <string name="spoken_accented_letter_0153">"O dan E ligatur"</string>
+  
+  <string name="spoken_accented_letter_0155">"R dengan aksen tirus"</string>
+  
+  <string name="spoken_accented_letter_0157">"R dengan aksen cedilla"</string>
+  
+  <string name="spoken_accented_letter_0159">"R dengan aksen caron"</string>
+  
+  <string name="spoken_accented_letter_015B">"S dengan aksen tirus"</string>
+  
+  <string name="spoken_accented_letter_015D">"S dengan aksen sirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_015F">"S dengan aksen cedilla"</string>
+  
+  <string name="spoken_accented_letter_0161">"S dengan aksen caron"</string>
+  
+  <string name="spoken_accented_letter_0163">"T dengan aksen cedilla"</string>
+  
+  <string name="spoken_accented_letter_0165">"T dengan aksen caron"</string>
+  
+  <string name="spoken_accented_letter_0167">"T coret"</string>
+  
+  <string name="spoken_accented_letter_0169">"U dengan aksen tilda"</string>
+  
+  <string name="spoken_accented_letter_016B">"U dengan aksen makron"</string>
+  
+  <string name="spoken_accented_letter_016D">"U dengan aksen breve"</string>
+  
+  <string name="spoken_accented_letter_016F">"U dengan aksen lingkaran di bagian atas"</string>
+  
+  <string name="spoken_accented_letter_0171">"U dengan aksen tirus ganda"</string>
+  
+  <string name="spoken_accented_letter_0173">"U dengan aksen ogonek"</string>
+  
+  <string name="spoken_accented_letter_0175">"W dengan aksen sirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_0177">"Y dengan aksen sirkumfleks"</string>
+  
+  <string name="spoken_accented_letter_017A">"Z dengan aksen tirus"</string>
+  
+  <string name="spoken_accented_letter_017C">"Z dengan titik di bagian atas"</string>
+  
+  <string name="spoken_accented_letter_017E">"Z dengan aksen caron"</string>
+  
+  <string name="spoken_accented_letter_017F">"S Panjang"</string>
+  
+  <string name="spoken_accented_letter_01A1">"O dengan aksen tanduk"</string>
+  
+  <string name="spoken_accented_letter_01B0">"U dengan aksen tanduk"</string>
+  
+  <string name="spoken_accented_letter_0219">"S dengan aksen koma di bagian bawah"</string>
+  
+  <string name="spoken_accented_letter_021B">"T dengan aksen koma di bagian bawah"</string>
+  
+  <string name="spoken_accented_letter_0259">"Schwa (aksen pepet)"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"A dengan aksen titik di bagian bawah"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"A dengan aksen kait di bagian atas"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"A dengan aksen sirkumfleks dan tirus"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"A dengan aksen sirkumfleks dan nontirus"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"A dengan aksen sirkumfleks dan kait di bagian atas"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"A dengan aksen sirkumfleks dan tilda"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"A dengan aksen sirkumfleks dan titik di bagian bawah"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"A dengan aksen breve dan tirus"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"A dengan aksen breve dan nontirus"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"A dengan aksen breve dan kait di bagian atas"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"A dengan aksen breve dan tilda"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"A dengan aksen breve dan titik di bagian bawah"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"E dengan aksen titik di bagian bawah"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"E dengan aksen kait di bagian atas"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"E dengan aksen tilda"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"E dengan aksen sirkumfleks dan tirus"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"E dengan aksen sirkumfleks dan nontirus"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"E dengan aksen sirkumfleks dan kait di bagian atas"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"E dengan aksen sirkumfleks dan tilda"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"E dengan aksen sirkumfleks dan titik di bagian bawah"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"I dengan aksen kait di bagian atas"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"I dengan aksen titik di bagian bawah"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"O dengan aksen titik di bagian bawah"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"O dengan aksen kait di bagian atas"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"O dengan aksen sirkumfleks dan tirus"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"O dengan aksen sirkumfleks dan nontirus"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"O dengan aksen sirkumfleks dan kait di bagian atas"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"O dengan aksen sirkumfleks dan tilda"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"O dengan aksen sirkumfleks dan titik di bagian bawah"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"O dengan aksen tanduk dan tirus"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"O dengan aksen tanduk dan nontirus"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"O dengan aksen tanduk dan kait di bagian atas"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"O dengan aksen tanduk dan tilda"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"O dengan aksen tanduk dan titik di bagian bawah"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"U dengan aksen titik di bagian bawah"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"U dengan aksen kait di bagian atas"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"U dengan aksen tanduk dan tirus"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"U dengan aksen tanduk dan nontirus"</string>
+  
+  <string name="spoken_accented_letter_1EED">"U dengan aksen tanduk dan kait di bagian atas"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"U dengan aksen tanduk dan tilda"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"U dengan aksen tanduk dan titik di bagian bawah"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"Y dengan aksen nontirus"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"Y dengan aksen titik di bagian bawah"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"Y dengan aksen kait di bagian atas"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"Y dengan aksen tilda"</string>
+  
+  <string name="spoken_symbol_00A1">"Tanda seru terbalik"</string>
+  
+  <string name="spoken_symbol_00AB">"Dua tanda kurung sudut kiri"</string>
+  
+  <string name="spoken_symbol_00B7">"Titik tengah"</string>
+  
+  <string name="spoken_symbol_00B9">"Superscript satu"</string>
+  
+  <string name="spoken_symbol_00BB">"Dua tanda kurung sudut kanan"</string>
+  
+  <string name="spoken_symbol_00BF">"Tanda tanya terbalik"</string>
+  
+  <string name="spoken_symbol_2018">"Tanda petik tunggal kiri"</string>
+  
+  <string name="spoken_symbol_2019">"Tanda petik tunggal kanan"</string>
+  
+  <string name="spoken_symbol_201A">"Tanda petik tunggal di bagian bawah"</string>
+  
+  <string name="spoken_symbol_201C">"Tanda petik ganda kiri"</string>
+  
+  <string name="spoken_symbol_201D">"Tanda petik ganda kanan"</string>
+  
+  <string name="spoken_symbol_2020">"Dagger (Tanda belati)"</string>
+  
+  <string name="spoken_symbol_2021">"Dagger ganda"</string>
+  
+  <string name="spoken_symbol_2030">"Simbol per mil"</string>
+  
+  <string name="spoken_symbol_2032">"Tanda petik"</string>
+  
+  <string name="spoken_symbol_2033">"Tanda petik ganda"</string>
+  
+  <string name="spoken_symbol_2039">"Tanda kurung sudut kiri tunggal"</string>
+  
+  <string name="spoken_symbol_203A">"Tanda kurung sudut kanan tunggal"</string>
+  
+  <string name="spoken_symbol_2074">"Superscript empat"</string>
+  
+  <string name="spoken_symbol_207F">"Superscript huruf latin kecil n"</string>
+  
+  <string name="spoken_symbol_20B1">"Simbol peso"</string>
+  
+  <string name="spoken_symbol_2105">"Dengan alamat"</string>
+  
+  <string name="spoken_symbol_2192">"Panah ke kanan"</string>
+  
+  <string name="spoken_symbol_2193">"Panah ke bawah"</string>
+  
+  <string name="spoken_symbol_2205">"Himpunan kosong"</string>
+  
+  <string name="spoken_symbol_2206">"Penambahan"</string>
+  
+  <string name="spoken_symbol_2264">"Kurang dari atau sama dengan"</string>
+  
+  <string name="spoken_symbol_2265">"Lebih dari atau sama dengan"</string>
+  
+  <string name="spoken_symbol_2605">"Bintang hitam"</string>
+</resources>

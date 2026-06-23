@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">"جائیں"</string>
+  
+  <string name="label_next_key">"اگلا"</string>
+  
+  <string name="label_previous_key">"پيچھے"</string>
+  
+  <string name="label_done_key">"ہوگیا"</string>
+  
+  <string name="label_send_key">"بھیجیں"</string>
+  
+  <string name="label_search_key">"تلاش"</string>
+  
+  <string name="label_pause_key">"موقوف"</string>
+  
+  <string name="label_wait_key">"انتظار"</string>
+</resources>

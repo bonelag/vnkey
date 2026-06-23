@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="english_ime_input_options">"입력 옵션"</string>
+  
+  <string name="vibrate_on_keypress">"키를 누를 때 진동 발생"</string>
+  
+  <string name="sound_on_keypress">"키를 누를 때 소리 발생"</string>
+  
+  <string name="popup_on_keypress">"키를 누를 때 팝업"</string>
+  
+  <string name="show_language_switch_key">"언어 전환 키"</string>
+  
+  <string name="abbreviation_unit_milliseconds">&lt;string name="abbreviation_unit_milliseconds" msgid="3255301845626146979"&gt;&amp;quot;&lt;xliff:g id="MILLISECONDS"&gt;%s&lt;/xliff:g&gt;ms&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="use_personalized_dicts">"맞춤 추천 검색어"</string>
+  
+  <string name="use_double_space_period">"더블스페이스 마침표"</string>
+  
+  <string name="use_double_space_period_summary">"스페이스바를 두 번 탭하여 마침표와 공백 한 개 삽입"</string>
+  
+  <string name="auto_cap">"자동 대문자화"</string>
+  
+  <string name="auto_cap_summary">"문장의 첫 단어를 대문자로 표시"</string>
+  
+  <string name="edit_personal_dictionary">"개인 사전"</string>
+  
+  <string name="prefs_show_suggestions">"수정 제안 표시"</string>
+  
+  <string name="prefs_show_suggestions_summary">"글자를 입력하는 동안 추천 단어 표시"</string>
+  
+  <string name="prefs_block_potentially_offensive_title">"불쾌감을 주는 단어 차단"</string>
+  
+  <string name="prefs_block_potentially_offensive_summary">"불쾌감을 줄 수 있는 단어는 추천하지 않음"</string>
+  
+  <string name="auto_correction">"자동 수정"</string>
+  
+  <string name="auto_correction_summary">"스페이스바와 문장부호 키를 사용하면 오타가 자동으로 교정됩니다."</string>
+  
+  <string name="bigram_prediction">"다음 단어 추천"</string>
+  
+  <string name="bigram_prediction_summary">"추천할 때 이전 단어를 사용"</string>
+  
+  <string name="language_selection_title">"언어"</string>
+  
+  <string name="select_language">"언어"</string>
+  
+  <string name="subtype_en_GB">"영어(영국)"</string>
+  
+  <string name="subtype_en_US">"영어(미국)"</string>
+  
+  <string name="subtype_es_US">"스페인어(미국)"</string>
+  
+  <string name="subtype_hi_ZZ">"인도 영어"</string>
+  
+  <string name="subtype_sr_ZZ">"세르비아어(라틴 문자)"</string>
+  
+  <string name="subtype_with_layout_en_GB">&lt;string name="subtype_with_layout_en_GB" msgid="4220344684463778660"&gt;&amp;quot;영어(영국)(&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_en_US">&lt;string name="subtype_with_layout_en_US" msgid="4599421650961912769"&gt;&amp;quot;영어(미국)(&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_es_US">&lt;string name="subtype_with_layout_es_US" msgid="6866331205974243592"&gt;&amp;quot;스페인어(미국)(&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_hi_ZZ">&lt;string name="subtype_with_layout_hi_ZZ" msgid="5439623653083985558"&gt;&amp;quot;인도 영어(&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_sr_ZZ">&lt;string name="subtype_with_layout_sr_ZZ" msgid="546465971819327060"&gt;&amp;quot;세르비아어(&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_traditional">&lt;string name="subtype_generic_traditional" msgid="5321023815277210849"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt;(번체)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_compact">&lt;string name="subtype_generic_compact" msgid="2858514299576793292"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt;(컴팩트)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_no_language">"언어 없음(알파벳)"</string>
+  
+  <string name="subtype_no_language_qwerty">"알파벳(QWERTY)"</string>
+  
+  <string name="subtype_no_language_qwertz">"알파벳(QWERTZ)"</string>
+  
+  <string name="subtype_no_language_azerty">"알파벳(AZERTY)"</string>
+  
+  <string name="subtype_no_language_dvorak">"알파벳(드보락)"</string>
+  
+  <string name="subtype_no_language_colemak">"알파벳(콜맥)"</string>
+  
+  <string name="subtype_no_language_pcqwerty">"알파벳(PC)"</string>
+  
+  <string name="subtype_emoji">"이모티콘"</string>
+  
+  <string name="cancel">"취소"</string>
+  
+  <string name="go_to_settings">"설정"</string>
+  
+  <string name="install_dict">"설치"</string>
+  
+  <string name="cancel_download_dict">"취소"</string>
+  
+  <string name="user_dict_settings_add_menu_title">"추가"</string>
+  
+  <string name="user_dict_settings_add_dialog_title">"사전에 추가"</string>
+  
+  <string name="user_dict_settings_add_screen_title">"구문"</string>
+  
+  <string name="user_dict_settings_add_dialog_more_options">"옵션 더보기"</string>
+  
+  <string name="user_dict_settings_add_dialog_less_options">"옵션 숨기기"</string>
+  
+  <string name="user_dict_settings_add_dialog_confirm">"확인"</string>
+  
+  <string name="user_dict_settings_add_word_option_name">"단어:"</string>
+  
+  <string name="user_dict_settings_add_shortcut_option_name">"단축키:"</string>
+  
+  <string name="user_dict_settings_add_locale_option_name">"언어:"</string>
+  
+  <string name="user_dict_settings_add_word_hint">"단어 입력"</string>
+  
+  <string name="user_dict_settings_add_shortcut_hint">"선택적 단축키"</string>
+  
+  <string name="user_dict_settings_edit_dialog_title">"단어 수정"</string>
+  
+  <string name="user_dict_settings_context_menu_edit_title">"수정"</string>
+  
+  <string name="user_dict_settings_context_menu_delete_title">"삭제"</string>
+  
+  <string name="user_dict_settings_empty_text">"사용자 사전에 단어가 없습니다. 추가(+) 버튼을 탭하여 단어를 추가할 수 있습니다."</string>
+  
+  <string name="user_dict_settings_all_languages">"모든 언어"</string>
+  
+  <string name="user_dict_settings_more_languages">"더보기…"</string>
+  
+  <string name="user_dict_settings_delete">"삭제"</string>
+  
+  <string name="user_dict_fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+</resources>

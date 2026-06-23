@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">"သွားပါ"</string>
+  
+  <string name="label_next_key">"ရှေ့"</string>
+  
+  <string name="label_previous_key">"ယခင်က"</string>
+  
+  <string name="label_done_key">"လုပ်ပြီး"</string>
+  
+  <string name="label_send_key">"ပို့ရန်"</string>
+  
+  <string name="label_search_key">"ရှာဖွေရန်"</string>
+  
+  <string name="label_pause_key">"ဆိုင်းငံ့ရန်"</string>
+  
+  <string name="label_wait_key">"စောင့်ဆိုင်းရန်"</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">"前往"</string>
+  
+  <string name="label_next_key">"下个"</string>
+  
+  <string name="label_previous_key">"上个"</string>
+  
+  <string name="label_done_key">"完成"</string>
+  
+  <string name="label_send_key">"发送"</string>
+  
+  <string name="label_search_key">"搜索"</string>
+  
+  <string name="label_pause_key">"暂停"</string>
+  
+  <string name="label_wait_key">"等待"</string>
+</resources>

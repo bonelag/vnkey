@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="english_ime_input_options">Opciones de entrada</string>
+  
+  <string name="vibrate_on_keypress">Vibrar al presionar teclas</string>
+  
+  <string name="sound_on_keypress">Sonido al presionar teclas</string>
+  
+  <string name="popup_on_keypress">Opciones emergentes al presionar teclas</string>
+  
+  <string name="show_language_switch_key">Tecla de cambio de idioma</string>
+  
+  <string name="abbreviation_unit_milliseconds">&lt;string name="abbreviation_unit_milliseconds"&gt;&lt;xliff:g id="MILLISECONDS"&gt;%s&lt;/xliff:g&gt;ms&lt;/string&gt;</string>
+  
+  <string name="use_personalized_dicts">Sugerencias personalizadas</string>
+  
+  <string name="use_double_space_period">Punto al usar dos espacios</string>
+  
+  <string name="use_double_space_period_summary">Presionar dos veces la tecla de espacio inserta un punto seguido de un espacio</string>
+  
+  <string name="auto_cap">Mayúsculas automáticas</string>
+  
+  <string name="auto_cap_summary">Causa que la primera palabra de una oración comience con mayúscula</string>
+  
+  <string name="edit_personal_dictionary">Diccionario personal</string>
+  
+  <string name="prefs_show_suggestions">Mostrar sugerencias de corrección</string>
+  
+  <string name="prefs_show_suggestions_summary">Muestra palabras sugeridas al escribir</string>
+  
+  <string name="prefs_block_potentially_offensive_title">Bloquear palabras ofensivas</string>
+  
+  <string name="prefs_block_potentially_offensive_summary">Evita sugerir palabras potencialmente ofensivas</string>
+  
+  <string name="auto_correction">Autocorrección</string>
+  
+  <string name="auto_correction_summary">El uso de espacios y signos de puntuación corrigen automáticamente las palabras mal escritas</string>
+  
+  <string name="bigram_prediction">Sugerencias de palabra siguiente</string>
+  
+  <string name="bigram_prediction_summary">Usa la palabra anterior para hacer sugerencias</string>
+  
+  <string name="language_selection_title">Idiomas</string>
+  
+  <string name="select_language">Idiomas</string>
+  
+  <string name="subtype_es_US">Español (EEUU)</string>
+  <string name="subtype_ipa">Alfabeto Fonético Internacional</string>
+  
+  <string name="subtype_with_layout_es_US">&lt;string name="subtype_with_layout_es_US"&gt;Español (EEUU) (&lt;xliff:g id="KEYBOARD_LAYOUT" example="QWERTY"&gt;%s&lt;/xliff:g&gt;)&lt;/string&gt;</string>
+  
+  <string name="subtype_no_language">Ningún idioma (Alfabeto latino)</string>
+  
+  <string name="subtype_no_language_qwerty">Alfabeto latino (QWERTY)</string>
+  
+  <string name="subtype_no_language_qwertz">Alfabeto latino (QWERTZ)</string>
+  
+  <string name="subtype_no_language_azerty">Alfabeto latino (AZERTY)</string>
+  
+  <string name="subtype_no_language_dvorak">Alfabeto latino (Dvorak)</string>
+  
+  <string name="subtype_no_language_colemak">Alfabeto latino (Colemak)</string>
+  
+  <string name="subtype_no_language_pcqwerty">Alfabeto latino (PC)</string>
+  
+  <string name="subtype_emoji">Emojis</string>
+  
+  <string name="cancel">Cancelar</string>
+  
+  <string name="go_to_settings">Configuración</string>
+  
+  <string name="install_dict">Instalar</string>
+  
+  <string name="cancel_download_dict">Cancelar</string>
+  
+  <string name="user_dict_settings_add_menu_title">Añadir</string>
+  
+  <string name="user_dict_settings_add_dialog_title">Añadir al diccionario</string>
+  
+  <string name="user_dict_settings_add_screen_title">Frase</string>
+  
+  <string name="user_dict_settings_add_dialog_more_options">Más opciones</string>
+  
+  <string name="user_dict_settings_add_dialog_less_options">Menos opciones</string>
+  
+  <string name="user_dict_settings_add_dialog_confirm">OK</string>
+  
+  <string name="user_dict_settings_add_word_option_name">Palabra:</string>
+  
+  <string name="user_dict_settings_add_shortcut_option_name">Abreviación:</string>
+  
+  <string name="user_dict_settings_add_locale_option_name">Idioma:</string>
+  
+  <string name="user_dict_settings_add_word_hint">Escribe una palabra</string>
+  
+  <string name="user_dict_settings_add_shortcut_hint">Abreviación opcional</string>
+  
+  <string name="user_dict_settings_edit_dialog_title">Editar palabra</string>
+  
+  <string name="user_dict_settings_context_menu_edit_title">Editar</string>
+  
+  <string name="user_dict_settings_context_menu_delete_title">Eliminar</string>
+  
+  <string name="user_dict_settings_empty_text">No has añadido ninguna palabra al diccionario de usuario. Para añadir una palabra, presiona el botón Añadir (+).</string>
+  
+  <string name="user_dict_settings_all_languages">En todos los idiomas</string>
+  
+  <string name="user_dict_settings_more_languages">Más idiomas…</string>
+  
+  <string name="user_dict_settings_delete">Eliminar</string>
+  
+  <string name="user_dict_fast_scroll_alphabet">\u0020ABCDEFGHIJKLMNÑOPQRSTUVWXYZ</string>
+</resources>

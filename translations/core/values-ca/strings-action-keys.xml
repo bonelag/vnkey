@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">"Ves"</string>
+  
+  <string name="label_next_key">"Seg."</string>
+  
+  <string name="label_previous_key">"Ant."</string>
+  
+  <string name="label_done_key">"Fet"</string>
+  
+  <string name="label_send_key">"Envia"</string>
+  
+  <string name="label_search_key">"Cerca"</string>
+  
+  <string name="label_pause_key">"Posa en pausa"</string>
+  
+  <string name="label_wait_key">"Esp."</string>
+</resources>

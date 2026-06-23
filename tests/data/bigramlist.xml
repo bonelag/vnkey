@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<bigrams>
+    <bi w1="I'm" count="1">
+        <w w2="about" p="100" />
+    </bi>
+    <bi w1="about" count="3">
+        <w w2="part" p="117" />
+        <w w2="business" p="100" />
+        <w w2="being" p="90" />
+    </bi>
+    <bi w1="business" count="1">
+        <w w2="people" p="100" />
+    </bi>
+    <bi w1="from" count="1">
+        <w w2="same" p="117" />
+    </bi>
+</bigrams>

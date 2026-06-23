@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="spoken_use_headphones">Podłącz zestaw słuchawkowy, by wysłuchać na głos wpisywane znaki hasła.</string>
+  
+  <string name="spoken_current_text_is">Aktualny tekst: "%s"</string>
+  
+  <string name="spoken_no_text_entered">"Nie wpisano tekstu"</string>
+  
+  <string name="spoken_auto_correct">&lt;string name="spoken_auto_correct" msgid="965889269068888859"&gt;&amp;quot;&lt;xliff:g id="KEY_NAME"&gt;%1$s&lt;/xliff:g&gt; poprawia &lt;xliff:g id="ORIGINAL_WORD"&gt;%2$s&lt;/xliff:g&gt; na &lt;xliff:g id="CORRECTED_WORD"&gt;%3$s&lt;/xliff:g&gt;&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="spoken_auto_correct_obscured">&lt;string name="spoken_auto_correct_obscured" msgid="7511607899335382699"&gt;&amp;quot;&lt;xliff:g id="KEY_NAME"&gt;%1$s&lt;/xliff:g&gt; wykonuje autokorektę&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="spoken_empty_suggestion">"Brak sugestii"</string>
+  
+  <string name="spoken_description_unknown">"Nieznany znak"</string>
+  
+  <string name="spoken_description_shift">"Shift"</string>
+  
+  <string name="spoken_description_symbols_shift">"Więcej symboli"</string>
+  
+  <string name="spoken_description_shift_shifted">"Shift"</string>
+  
+  <string name="spoken_description_symbols_shift_shifted">"Symbole"</string>
+  
+  <string name="spoken_description_caps_lock">"Shift"</string>
+  
+  <string name="spoken_description_delete">"Usuń"</string>
+  
+  <string name="spoken_description_to_symbol">"Symbole"</string>
+  
+  <string name="spoken_description_to_alpha">"Litery"</string>
+  
+  <string name="spoken_description_to_numeric">Cyfry</string>
+  
+  <string name="spoken_description_settings">"Ustawienia"</string>
+  
+  <string name="spoken_description_tab">"Karta"</string>
+  
+  <string name="spoken_description_space">"Spacja"</string>
+  
+  <string name="spoken_description_mic">"Rozpoznawanie mowy"</string>
+  
+  <string name="spoken_description_emoji">"Emotikony"</string>
+  
+  <string name="spoken_description_return">"Enter"</string>
+  
+  <string name="spoken_description_search">"Szukaj"</string>
+  
+  <string name="spoken_description_dot">"Punktor"</string>
+  
+  <string name="spoken_description_language_switch">"Przełącz język"</string>
+  
+  <string name="spoken_description_action_next">"Dalej"</string>
+  
+  <string name="spoken_description_action_previous">"Wstecz"</string>
+  
+  <string name="spoken_description_to_alt_0">Strona 1</string>
+  <string name="spoken_description_to_alt_1">Strona 2</string>
+  <string name="spoken_description_to_alt_2">Strona 3</string>
+  
+  <string name="spoken_description_shiftmode_on">"Shift włączony"</string>
+  
+  <string name="spoken_description_shiftmode_locked">"Caps lock włączony"</string>
+  
+  <string name="spoken_description_mode_symbol">"Tryb symboli"</string>
+  
+  <string name="spoken_description_mode_symbol_shift">"Tryb dodatkowych symboli"</string>
+  
+  <string name="spoken_description_mode_alpha">"Tryb liter"</string>
+  
+  <string name="spoken_description_mode_phone">"Tryb telefonu"</string>
+  
+  <string name="spoken_description_mode_phone_shift">"Tryb symboli telefonu"</string>
+  
+  <string name="spoken_description_mode_digits">Tryb numeryczny</string>
+  
+  <string name="announce_keyboard_hidden">"Klawiatura ukryta"</string>
+  
+  <string name="announce_keyboard_mode">&lt;string name="announce_keyboard_mode" msgid="5314352981874590170"&gt;&amp;quot;Pokazuję klawiaturę w trybie &lt;xliff:g id="KEYBOARD_MODE"&gt;%s&lt;/xliff:g&gt;&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="keyboard_mode_date">"data"</string>
+  
+  <string name="keyboard_mode_date_time">"data i godzina"</string>
+  
+  <string name="keyboard_mode_email">"e-mail"</string>
+  
+  <string name="keyboard_mode_im">"SMS"</string>
+  
+  <string name="keyboard_mode_number">"liczba"</string>
+  
+  <string name="keyboard_mode_phone">"telefon"</string>
+  
+  <string name="keyboard_mode_text">"tekst"</string>
+  
+  <string name="keyboard_mode_time">"godzina"</string>
+  
+  <string name="keyboard_mode_url">"adres URL"</string>
+  
+  <string name="spoken_descrption_emoji_category_recents">"Ostatnie"</string>
+  
+  <string name="spoken_descrption_emoji_category_people">"Osoby"</string>
+  
+  <string name="spoken_descrption_emoji_category_objects">"Obiekty"</string>
+  
+  <string name="spoken_descrption_emoji_category_nature">"Przyroda"</string>
+  
+  <string name="spoken_descrption_emoji_category_places">"Miejsca"</string>
+  
+  <string name="spoken_descrption_emoji_category_symbols">"Symbole"</string>
+  
+  <string name="spoken_descrption_emoji_category_flags">"Flagi"</string>
+  
+  <string name="spoken_descrption_emoji_category_eight_smiley_people">"Emotikony i ludzie"</string>
+  
+  <string name="spoken_descrption_emoji_category_eight_animals_nature">"Zwierzęta i natura"</string>
+  
+  <string name="spoken_descrption_emoji_category_eight_food_drink">"Jedzenie i napoje"</string>
+  
+  <string name="spoken_descrption_emoji_category_eight_travel_places">"Podróże i miejsca"</string>
+  
+  <string name="spoken_descrption_emoji_category_eight_activity">"Aktywność"</string>
+  
+  <string name="spoken_descrption_emoji_category_emoticons">"Emotikony"</string>
+  
+  <string name="spoken_description_upper_case">&lt;string name="spoken_description_upper_case" msgid="548189286451849550"&gt;&amp;quot;Wielka litera &lt;xliff:g id="LOWER_LETTER"&gt;%s&lt;/xliff:g&gt;&amp;quot;&lt;/string&gt;</string>
+  <!--
+    Spoken description for Unicode code point U+0049: "I" LATIN CAPITAL LETTER I
+    Note that depending on locale, the lower-case of this letter is U+0069 or U+0131.
+  -->
+  <string name="spoken_letter_0049">"Wielka litera I"</string>
+  <!--
+    Spoken description for Unicode code point U+0130: "İ" LATIN CAPITAL LETTER I WITH DOT ABOVE
+    Note that depending on locale, the lower-case of this letter is U+0069 or U+0131.
+  -->
+  <string name="spoken_letter_0130">Litera i z kropką</string>
+  
+  <string name="spoken_symbol_unknown">"Nieznany symbol"</string>
+  
+  <string name="spoken_emoji_unknown">"Nieznany emotikon"</string>
+  
+  <string name="spoken_emoticon_3A_2D_21_20">Znudzona buźka</string>
+  
+  <string name="spoken_emoticon_3A_2D_24_20">Zawstydzona buźka</string>
+  
+  <string name="spoken_emoticon_42_2D_29_20">"Buźka w ciemnych okularach"</string>
+  
+  <string name="spoken_emoticon_3A_4F_20">Zdziwiona buźka</string>
+  
+  <string name="spoken_emoticon_3A_2D_2A_20">Całująca buźka</string>
+  
+  <string name="spoken_emoticon_3A_2D_5B_20">"Buźka marszcząca czoło"</string>
+  
+  <string name="spoken_open_more_keys_keyboard">Otwarto klawiaturę z alternatywnymi znakami</string>
+  
+  <string name="spoken_close_more_keys_keyboard">Zamknięto klawiaturę z alternatywnymi znakami</string>
+  
+  <string name="spoken_open_more_suggestions">Otwarto panel z alternatywnymi słowami</string>
+  
+  <string name="spoken_close_more_suggestions">Zamknięto panel z alternatywnymi słowami</string>
+  
+  <string name="action_menu_opened">Otwarto menu: %1$s</string>
+  
+  <string name="action_menu_closed">Zamknięto menu: %1$s</string>
+  
+  <string name="quick_clip_full_string">Element schowka: "%s". Kliknij podwójnie aby wkleić. Wpisz cokolwiek aby odrzucić.</string>
+  <string name="quick_clip_numeric_code">Szybki wycinek wyodrębnionego kodu numerycznego: "%s". Kliknij podwójnie aby wkleić. Wpisz cokolwiek aby odrzucić.</string>
+  <string name="quick_clip_email_address">Szybki wycinek wyodrębnionego adresu email: "%s". Kliknij podwójnie aby wkleić. Wpisz cokolwiek aby odrzucić.</string>
+  <string name="quick_clip_url">Szybki wycinek wyodrębnionego URLa: "%s". Kliknij podwójnie aby wkleić. Wpisz cokolwiek aby odrzucić.</string>
+  <string name="quick_clip_image">Obraz ze schowka. Kliknij podwójnie aby wkleić obraz. Wpisz cokolwiek aby odrzucić.</string>
+  <string name="quick_clip_content_obscured">Podłącz słuchawki aby usłyszeć zawartość.</string>
+  
+  <string name="one_handed_mode_switch_hand">Przełącz na drugą rękę</string>
+  
+  <string name="one_handed_mode_exit">Wyjdź z trybu jednej ręki</string>
+</resources>

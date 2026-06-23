@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="english_ime_input_options">"Įvesties parinktys"</string>
+  
+  <string name="vibrate_on_keypress">"Vibruoti, kai paspaudžiami klavišai"</string>
+  
+  <string name="sound_on_keypress">"Klavišo paspaudimo garsas"</string>
+  
+  <string name="popup_on_keypress">"Iššoka paspaudus klavišą"</string>
+  
+  <string name="show_language_switch_key">"Kalbos keitimo klavišas"</string>
+  
+  <string name="abbreviation_unit_milliseconds">&lt;string name="abbreviation_unit_milliseconds" msgid="3255301845626146979"&gt;&amp;quot;&lt;xliff:g id="MILLISECONDS"&gt;%s&lt;/xliff:g&gt; ms&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="use_personalized_dicts">"Suasmeninti pasiūlymai"</string>
+  
+  <string name="use_double_space_period">"Tšk. ir tarp. pal. dukart"</string>
+  
+  <string name="use_double_space_period_summary">"Dukart palietus tarpo klavišą įterpiamas taškas ir tarpas."</string>
+  
+  <string name="auto_cap">"Automatinis didžiųjų raidžių rašymas"</string>
+  
+  <string name="auto_cap_summary">"Kiekvieno sakinio pirmą žodį rašyti iš didžiosios raidės"</string>
+  
+  <string name="edit_personal_dictionary">"Asmeninis žodynas"</string>
+  
+  <string name="prefs_show_suggestions">"Rodyti taisymo pasiūlymus"</string>
+  
+  <string name="prefs_show_suggestions_summary">"Įvedant tekstą pateikti siūlomų žodžių"</string>
+  
+  <string name="prefs_block_potentially_offensive_title">"Blokuoti įžeidžiančius žodžius"</string>
+  
+  <string name="prefs_block_potentially_offensive_summary">"Nesiūlyti galimai įžeidžiančių žodžių"</string>
+  
+  <string name="prefs_block_potentially_offensive_tags">keiksmažodžiai, juodasis sąrašas, filtravimas, šūdas, kurva</string>
+  
+  <string name="auto_correction">"Automatinis taisymas"</string>
+  
+  <string name="auto_correction_summary">"Tarpo kl. ir skyr. ženkl. aut. išt. neteis. įv. žodž."</string>
+  
+  <string name="auto_correction_tags">Automatinis taisymas</string>
+  
+  <string name="bigram_prediction">"Kito žodžio pasiūlymai"</string>
+  
+  <string name="bigram_prediction_summary">"Sudarant pasiūlymus naudoti ankstesnį žodį"</string>
+  
+  <string name="language_selection_title">"Kalbos"</string>
+  
+  <string name="select_language">"Kalbos"</string>
+  
+  <string name="subtype_en_GB">"Anglų k. (JK)"</string>
+  
+  <string name="subtype_en_US">"Anglų k. (JAV)"</string>
+  
+  <string name="subtype_es_US">"Ispanų k. (JAV)"</string>
+  
+  <string name="subtype_hi_ZZ">"Hindi ir anglų k. derinys"</string>
+  <string name="subtype_hi__Latn">Hindi ir anglų k. derinys</string>
+  
+  <string name="subtype_sr_ZZ">"Serbų k. (lot. rašmenys)"</string>
+  <string name="subtype_ipa">Tarptautinė fonetinė abėcėlė</string>
+  
+  <string name="subtype_with_layout_en_GB">&lt;string name="subtype_with_layout_en_GB" msgid="4220344684463778660"&gt;&amp;quot;Anglų (JK) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_en_US">&lt;string name="subtype_with_layout_en_US" msgid="4599421650961912769"&gt;&amp;quot;Anglų (JAV) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_es_US">&lt;string name="subtype_with_layout_es_US" msgid="6866331205974243592"&gt;&amp;quot;Ispanų (JAV) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_hi_ZZ">&lt;string name="subtype_with_layout_hi_ZZ" msgid="5439623653083985558"&gt;&amp;quot;Hindi ir anglų derinys (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_sr_ZZ">&lt;string name="subtype_with_layout_sr_ZZ" msgid="546465971819327060"&gt;&amp;quot;Serbų k. (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_traditional">&lt;string name="subtype_generic_traditional" msgid="5321023815277210849"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (tradicinė)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_compact">&lt;string name="subtype_generic_compact" msgid="2858514299576793292"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (kompaktiška)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_no_language">"Kalbos nėra (abėcėlė)"</string>
+  
+  <string name="subtype_no_language_qwerty">"Abėcėlė (QWERTY)"</string>
+  
+  <string name="subtype_no_language_qwertz">"Abėcėlė (QWERTZ)"</string>
+  
+  <string name="subtype_no_language_azerty">"Abėcėlė (AZERTY)"</string>
+  
+  <string name="subtype_no_language_dvorak">"Abėcėlė (Dvorako)"</string>
+  
+  <string name="subtype_no_language_colemak">"Abėcėlė („Colemak“)"</string>
+  
+  <string name="subtype_no_language_pcqwerty">"Abėcėlė (PC)"</string>
+  
+  <string name="subtype_emoji">"Jaustukai"</string>
+  
+  <string name="cancel">"Atšaukti"</string>
+  
+  <string name="go_to_settings">"Nustatymai"</string>
+  
+  <string name="install_dict">"Įdiegti"</string>
+  
+  <string name="cancel_download_dict">"Atšaukti"</string>
+  
+  <string name="user_dict_settings_add_menu_title">"Pridėti"</string>
+  
+  <string name="user_dict_settings_add_dialog_title">"Pridėti prie žodyno"</string>
+  
+  <string name="user_dict_settings_add_screen_title">"Frazė"</string>
+  
+  <string name="user_dict_settings_add_dialog_more_options">"Daugiau parink."</string>
+  
+  <string name="user_dict_settings_add_dialog_less_options">"Mažiau parink."</string>
+  
+  <string name="user_dict_settings_add_dialog_confirm">"Gerai"</string>
+  
+  <string name="user_dict_settings_add_word_option_name">"Žodis:"</string>
+  
+  <string name="user_dict_settings_add_shortcut_option_name">"Trumpinys:"</string>
+  
+  <string name="user_dict_settings_add_locale_option_name">"Kalba:"</string>
+  
+  <string name="user_dict_settings_add_word_hint">"Įveskite žodį"</string>
+  
+  <string name="user_dict_settings_add_shortcut_hint">"Pasirenkamasis trumpinys"</string>
+  
+  <string name="user_dict_settings_edit_dialog_title">"Redaguoti žodį"</string>
+  
+  <string name="user_dict_settings_context_menu_edit_title">"Redaguoti"</string>
+  
+  <string name="user_dict_settings_context_menu_delete_title">"Ištrinti"</string>
+  
+  <string name="user_dict_settings_empty_text">"Neturite jokių žodžių naudotojo žodyne. Kad pridėtumėte žodį, palieskite mygtuką „Pridėti“ (+)."</string>
+  
+  <string name="user_dict_settings_all_languages">"Visos kalbos"</string>
+  
+  <string name="user_dict_settings_more_languages">"Daugiau kalbų..."</string>
+  
+  <string name="user_dict_settings_delete">"Ištrinti"</string>
+  
+  <string name="user_dict_fast_scroll_alphabet">" AĄBCČDEĘĖFGHIĮYJKLMNOPRSŠTUŲŪVZŽ"</string>
+</resources>

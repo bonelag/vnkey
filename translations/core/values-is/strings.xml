@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="english_ime_input_options">"Valkostir innsláttar"</string>
+  
+  <string name="vibrate_on_keypress">"Titringur þegar ýtt er á lykla"</string>
+  
+  <string name="sound_on_keypress">"Hljóð þegar ýtt er á lykil"</string>
+  
+  <string name="popup_on_keypress">"Stækkaðir stafir við innslátt"</string>
+  
+  <string name="show_language_switch_key">"Lykill til að breyta tungumáli"</string>
+  
+  <string name="abbreviation_unit_milliseconds">&lt;string name="abbreviation_unit_milliseconds" msgid="3255301845626146979"&gt;&amp;quot;&lt;xliff:g id="MILLISECONDS"&gt;%s&lt;/xliff:g&gt; ms.&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="use_personalized_dicts">"Persónulegar tillögur"</string>
+  
+  <string name="use_double_space_period">"Punktur við tvöfalt bil"</string>
+  
+  <string name="use_double_space_period_summary">"Ef ýtt er tvisvar á bilslána er settur inn punktur og svo bil"</string>
+  
+  <string name="auto_cap">"Sjálfvirkir hástafir"</string>
+  
+  <string name="auto_cap_summary">"Setja hástaf í upphaf hverrar málsgreinar"</string>
+  
+  <string name="edit_personal_dictionary">"Sérsniðin orðabók"</string>
+  
+  <string name="prefs_show_suggestions">"Sýna leiðréttingartillögur"</string>
+  
+  <string name="prefs_show_suggestions_summary">"Sýna orðatillögur við innslátt"</string>
+  
+  <string name="prefs_block_potentially_offensive_title">"Útiloka dónaleg orð"</string>
+  
+  <string name="prefs_block_potentially_offensive_summary">"Ekki stinga upp á orðum sem kunna að vera dónaleg"</string>
+  
+  <string name="auto_correction">"Sjálfv. leiðrétting"</string>
+  
+  <string name="auto_correction_summary">"Bil og greinarmerki leiðrétta sjálfkrafa innsláttarvillur"</string>
+  
+  <string name="bigram_prediction">"Tillögur að næsta orði"</string>
+  
+  <string name="bigram_prediction_summary">"Nota fyrra orð til að útbúa tillögur"</string>
+  
+  <string name="language_selection_title">"Tungumál"</string>
+  
+  <string name="select_language">"Tungumál"</string>
+  
+  <string name="subtype_en_GB">"Enskt (Bretland)"</string>
+  
+  <string name="subtype_en_US">"Enskt (Bandaríkin)"</string>
+  
+  <string name="subtype_es_US">"Spænskt (US)"</string>
+  
+  <string name="subtype_hi_ZZ">"Hinglish"</string>
+  
+  <string name="subtype_sr_ZZ">"Serbneskt (latneskt)"</string>
+  
+  <string name="subtype_with_layout_en_GB">&lt;string name="subtype_with_layout_en_GB" msgid="4220344684463778660"&gt;&amp;quot;Enskt (Bretland) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_en_US">&lt;string name="subtype_with_layout_en_US" msgid="4599421650961912769"&gt;&amp;quot;Enskt (Bandaríkin) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_es_US">&lt;string name="subtype_with_layout_es_US" msgid="6866331205974243592"&gt;&amp;quot;Spænskt (Bandaríkin) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_hi_ZZ">&lt;string name="subtype_with_layout_hi_ZZ" msgid="5439623653083985558"&gt;&amp;quot;Hinglish (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_sr_ZZ">&lt;string name="subtype_with_layout_sr_ZZ" msgid="546465971819327060"&gt;&amp;quot;Serbneskt (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_traditional">&lt;string name="subtype_generic_traditional" msgid="5321023815277210849"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (hefðbundið)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_compact">&lt;string name="subtype_generic_compact" msgid="2858514299576793292"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (lítið)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_no_language">"Ekkert tungumál (stafróf)"</string>
+  
+  <string name="subtype_no_language_qwerty">"Stafróf (QWERTY)"</string>
+  
+  <string name="subtype_no_language_qwertz">"Stafróf (QWERTZ)"</string>
+  
+  <string name="subtype_no_language_azerty">"Stafróf (AZERTY)"</string>
+  
+  <string name="subtype_no_language_dvorak">"Stafróf (Dvorak)"</string>
+  
+  <string name="subtype_no_language_colemak">"Stafróf (Colemak)"</string>
+  
+  <string name="subtype_no_language_pcqwerty">"Stafróf (tölva)"</string>
+  
+  <string name="subtype_emoji">"Emoji-tákn"</string>
+  
+  <string name="cancel">"Hætta við"</string>
+  
+  <string name="go_to_settings">"Stillingar"</string>
+  
+  <string name="install_dict">"Setja upp"</string>
+  
+  <string name="cancel_download_dict">"Hætta við"</string>
+  
+  <string name="user_dict_settings_add_menu_title">"Bæta við"</string>
+  
+  <string name="user_dict_settings_add_dialog_title">"Bæta við orðabók"</string>
+  
+  <string name="user_dict_settings_add_screen_title">"Setning"</string>
+  
+  <string name="user_dict_settings_add_dialog_more_options">"Fleiri valkostir"</string>
+  
+  <string name="user_dict_settings_add_dialog_less_options">"Færri valkostir"</string>
+  
+  <string name="user_dict_settings_add_dialog_confirm">"Í lagi"</string>
+  
+  <string name="user_dict_settings_add_word_option_name">"Orð:"</string>
+  
+  <string name="user_dict_settings_add_shortcut_option_name">"Flýtileið:"</string>
+  
+  <string name="user_dict_settings_add_locale_option_name">"Tungumál:"</string>
+  
+  <string name="user_dict_settings_add_word_hint">"Sláðu inn orð"</string>
+  
+  <string name="user_dict_settings_add_shortcut_hint">"Valfrjáls flýtileið"</string>
+  
+  <string name="user_dict_settings_edit_dialog_title">"Breyta orði"</string>
+  
+  <string name="user_dict_settings_context_menu_edit_title">"Breyta"</string>
+  
+  <string name="user_dict_settings_context_menu_delete_title">"Eyða"</string>
+  
+  <string name="user_dict_settings_empty_text">"Engin orð eru í orðabók notanda. Bættu við orðum með því að ýta á hnappinn Bæta við (+)."</string>
+  
+  <string name="user_dict_settings_all_languages">"Fyrir öll tungumál"</string>
+  
+  <string name="user_dict_settings_more_languages">"Fleiri tungumál…"</string>
+  
+  <string name="user_dict_settings_delete">"Eyða"</string>
+  
+  <string name="user_dict_fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+</resources>

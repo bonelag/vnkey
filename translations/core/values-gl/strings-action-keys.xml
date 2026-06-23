@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">"Ir"</string>
+  
+  <string name="label_next_key">"Seg."</string>
+  
+  <string name="label_previous_key">"Ant"</string>
+  
+  <string name="label_done_key">"Feito"</string>
+  
+  <string name="label_send_key">"Enviar"</string>
+  
+  <string name="label_search_key">"Buscar"</string>
+  
+  <string name="label_pause_key">"Pausa"</string>
+  
+  <string name="label_wait_key">"Espera"</string>
+</resources>

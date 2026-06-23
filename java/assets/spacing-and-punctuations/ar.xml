@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- The all letters need to be mirrored are found at
+         http://www.unicode.org/Public/6.1.0/ucd/BidiMirroring.txt -->
+    
+    <!-- U+061F: "؟" ARABIC QUESTION MARK
+         U+060C: "،" ARABIC COMMA
+         U+061B: "؛" ARABIC SEMICOLON -->
+    <string name="suggested_punctuations">!,&#x061F;,&#x060C;,:,&#x061B;,\",(|),)|(,\',-,/,@,_</string>
+
+    <string name="symbols_followed_by_space">.,;:!?)]}&#x061F;&#x060C;&#x061B;</string>
+</resources>

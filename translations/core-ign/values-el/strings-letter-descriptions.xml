@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"Θετικός τακτικός δείκτης"</string>
+  
+  <string name="spoken_accented_letter_00B5">"Σύμβολο Micro"</string>
+  
+  <string name="spoken_accented_letter_00BA">"Αρνητικός τακτικός δείκτης"</string>
+  
+  <string name="spoken_accented_letter_00DF">"Οξύ S"</string>
+  
+  <string name="spoken_accented_letter_00E0">"A, με βαρεία"</string>
+  
+  <string name="spoken_accented_letter_00E1">"A, με οξεία"</string>
+  
+  <string name="spoken_accented_letter_00E2">"A, με σιρκουμφλέξ"</string>
+  
+  <string name="spoken_accented_letter_00E3">"A, με περισπωμένη"</string>
+  
+  <string name="spoken_accented_letter_00E4">"A, με διαλυτικά"</string>
+  
+  <string name="spoken_accented_letter_00E5">"A, με κύκλο από πάνω"</string>
+  
+  <string name="spoken_accented_letter_00E6">"A, E, δίψηφο"</string>
+  
+  <string name="spoken_accented_letter_00E7">"C, με υποδιαστολή"</string>
+  
+  <string name="spoken_accented_letter_00E8">"E, με βαρεία"</string>
+  
+  <string name="spoken_accented_letter_00E9">"E, με οξεία"</string>
+  
+  <string name="spoken_accented_letter_00EA">"E, με σιρκουμφλέξ"</string>
+  
+  <string name="spoken_accented_letter_00EB">"E, με διαλυτικά"</string>
+  
+  <string name="spoken_accented_letter_00EC">"I, με βαρεία"</string>
+  
+  <string name="spoken_accented_letter_00ED">"I, με οξεία"</string>
+  
+  <string name="spoken_accented_letter_00EE">"I, με σιρκουμφλέξ"</string>
+  
+  <string name="spoken_accented_letter_00EF">"I, με διαλυτικά"</string>
+  
+  <string name="spoken_accented_letter_00F0">"Eth"</string>
+  
+  <string name="spoken_accented_letter_00F1">"N, με περισπωμένη"</string>
+  
+  <string name="spoken_accented_letter_00F2">"O, με βαρεία"</string>
+  
+  <string name="spoken_accented_letter_00F3">"O, με οξεία"</string>
+  
+  <string name="spoken_accented_letter_00F4">"O, με σιρκουμφλέξ"</string>
+  
+  <string name="spoken_accented_letter_00F5">"O, με περισπωμένη"</string>
+  
+  <string name="spoken_accented_letter_00F6">"O, με διαλυτικά"</string>
+  
+  <string name="spoken_accented_letter_00F8">"O, καλλιγραφικό"</string>
+  
+  <string name="spoken_accented_letter_00F9">"U, με βαρεία"</string>
+  
+  <string name="spoken_accented_letter_00FA">"U, με οξεία"</string>
+  
+  <string name="spoken_accented_letter_00FB">"U, με σιρκουμφλέξ"</string>
+  
+  <string name="spoken_accented_letter_00FC">"U, με διαλυτικά"</string>
+  
+  <string name="spoken_accented_letter_00FD">"Y, με οξεία"</string>
+  
+  <string name="spoken_accented_letter_00FE">"Thorn"</string>
+  
+  <string name="spoken_accented_letter_00FF">"Y, με διαλυτικά"</string>
+  
+  <string name="spoken_accented_letter_0101">"A, με σημείο μακρού"</string>
+  
+  <string name="spoken_accented_letter_0103">"A, με σημείο βραχέος"</string>
+  
+  <string name="spoken_accented_letter_0105">"A, με ogonek"</string>
+  
+  <string name="spoken_accented_letter_0107">"C, με οξεία"</string>
+  
+  <string name="spoken_accented_letter_0109">"C, με σιρκουμφλέξ"</string>
+  
+  <string name="spoken_accented_letter_010B">"C, με κουκκίδα από πάνω"</string>
+  
+  <string name="spoken_accented_letter_010D">"C, με caron"</string>
+  
+  <string name="spoken_accented_letter_010F">"D, με caron"</string>
+  
+  <string name="spoken_accented_letter_0111">"D, καλλιγραφικό"</string>
+  
+  <string name="spoken_accented_letter_0113">"E, με σημείο μακρού"</string>
+  
+  <string name="spoken_accented_letter_0115">"E, με σημείο βραχέος"</string>
+  
+  <string name="spoken_accented_letter_0117">"E, με κουκκίδα από πάνω"</string>
+  
+  <string name="spoken_accented_letter_0119">"E, με ogonek"</string>
+  
+  <string name="spoken_accented_letter_011B">"E, με caron"</string>
+  
+  <string name="spoken_accented_letter_011D">"G, με σιρκουμφλέξ"</string>
+  
+  <string name="spoken_accented_letter_011F">"G, με σημείο βραχέος"</string>
+  
+  <string name="spoken_accented_letter_0121">"G, με κουκκίδα από πάνω"</string>
+  
+  <string name="spoken_accented_letter_0123">"G, με υποδιαστολή"</string>
+  
+  <string name="spoken_accented_letter_0125">"H, με σιρκουμφλέξ"</string>
+  
+  <string name="spoken_accented_letter_0127">"H, καλλιγραφικό"</string>
+  
+  <string name="spoken_accented_letter_0129">"I, με περισπωμένη"</string>
+  
+  <string name="spoken_accented_letter_012B">"I, με σημείο μακρού"</string>
+  
+  <string name="spoken_accented_letter_012D">"I, με σημείο βραχέος"</string>
+  
+  <string name="spoken_accented_letter_012F">"I, με ogonek"</string>
+  
+  <string name="spoken_accented_letter_0131">"I χωρίς κουκκίδα"</string>
+  
+  <string name="spoken_accented_letter_0133">"I, J, δίψηφο"</string>
+  
+  <string name="spoken_accented_letter_0135">"J, με σιρκουμφλέξ"</string>
+  
+  <string name="spoken_accented_letter_0137">"K, με υποδιαστολή"</string>
+  
+  <string name="spoken_accented_letter_0138">"Kra"</string>
+  
+  <string name="spoken_accented_letter_013A">"L, με οξεία"</string>
+  
+  <string name="spoken_accented_letter_013C">"L, με υποδιαστολή"</string>
+  
+  <string name="spoken_accented_letter_013E">"L, με caron"</string>
+  
+  <string name="spoken_accented_letter_0140">"L, με άνω τελεία"</string>
+  
+  <string name="spoken_accented_letter_0142">"L, καλλιγραφικό"</string>
+  
+  <string name="spoken_accented_letter_0144">"N, με οξεία"</string>
+  
+  <string name="spoken_accented_letter_0146">"N, με υποδιαστολή"</string>
+  
+  <string name="spoken_accented_letter_0148">"N, με caron"</string>
+  
+  <string name="spoken_accented_letter_0149">"N, με απόστροφο μπροστά"</string>
+  
+  <string name="spoken_accented_letter_014B">"Eng"</string>
+  
+  <string name="spoken_accented_letter_014D">"O, με σημείο μακρού"</string>
+  
+  <string name="spoken_accented_letter_014F">"O, με σημείο βραχέος"</string>
+  
+  <string name="spoken_accented_letter_0151">"O, με διπλή οξεία"</string>
+  
+  <string name="spoken_accented_letter_0153">"O, E, δίψηφο"</string>
+  
+  <string name="spoken_accented_letter_0155">"R, με οξεία"</string>
+  
+  <string name="spoken_accented_letter_0157">"R, με υποδιαστολή"</string>
+  
+  <string name="spoken_accented_letter_0159">"R, με caron"</string>
+  
+  <string name="spoken_accented_letter_015B">"S, με οξεία"</string>
+  
+  <string name="spoken_accented_letter_015D">"S, με σιρκουμφλέξ"</string>
+  
+  <string name="spoken_accented_letter_015F">"S, με υποδιαστολή"</string>
+  
+  <string name="spoken_accented_letter_0161">"S, με caron"</string>
+  
+  <string name="spoken_accented_letter_0163">"T, με υποδιαστολή"</string>
+  
+  <string name="spoken_accented_letter_0165">"T, με caron"</string>
+  
+  <string name="spoken_accented_letter_0167">"T, καλλιγραφικό"</string>
+  
+  <string name="spoken_accented_letter_0169">"U, με περισπωμένη"</string>
+  
+  <string name="spoken_accented_letter_016B">"U, με σημείο μακρού"</string>
+  
+  <string name="spoken_accented_letter_016D">"U, με σημείο βραχέος"</string>
+  
+  <string name="spoken_accented_letter_016F">"U, με κύκλο από πάνω"</string>
+  
+  <string name="spoken_accented_letter_0171">"U, με διπλή οξεία"</string>
+  
+  <string name="spoken_accented_letter_0173">"U, με ogonek"</string>
+  
+  <string name="spoken_accented_letter_0175">"W, με σιρκουμφλέξ"</string>
+  
+  <string name="spoken_accented_letter_0177">"Y, με σιρκουμφλέξ"</string>
+  
+  <string name="spoken_accented_letter_017A">"Z, με οξεία"</string>
+  
+  <string name="spoken_accented_letter_017C">"Z, με κουκκίδα από πάνω"</string>
+  
+  <string name="spoken_accented_letter_017E">"Z, με caron"</string>
+  
+  <string name="spoken_accented_letter_017F">"Μακρό S"</string>
+  
+  <string name="spoken_accented_letter_01A1">"O, με καπελάκι"</string>
+  
+  <string name="spoken_accented_letter_01B0">"U, με καπελάκι"</string>
+  
+  <string name="spoken_accented_letter_0219">"S, με κόμμα από κάτω"</string>
+  
+  <string name="spoken_accented_letter_021B">"T, με κόμμα από κάτω"</string>
+  
+  <string name="spoken_accented_letter_0259">"Schwa"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"A, με κουκκίδα από κάτω"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"A, με κλείσιμο από πάνω"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"A, με σιρκουμφλέξ και οξεία"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"A, με σιρκουμφλέξ και βαρεία"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"A, με σιρκουμφλέξ και κλείσιμο από πάνω"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"A, με σιρκουμφλέξ και περισπωμένη"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"A, με σιρκουμφλέξ και κουκκίδα από κάτω"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"A, με σημείο βραχέος και οξεία"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"A, με σημείο βραχέος και βαρεία"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"A, με σημείο βραχέος και κλείσιμο από πάνω"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"A, με σημείο βραχέος και περισπωμένη"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"A, με σημείο βραχέος και κουκκίδα από κάτω"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"E, με κουκκίδα από κάτω"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"E, με κλείσιμο από πάνω"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"E, με περισπωμένη"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"E, με σιρκουμφλέξ και οξεία"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"E, με σιρκουμφλέξ και βαρεία"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"E, με σιρκουμφλέξ και κλείσιμο από πάνω"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"E, με σιρκουμφλέξ και περισπωμένη"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"E, με σιρκουμφλέξ και κουκκίδα από κάτω"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"I, με κλείσιμο από πάνω"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"I, με κουκκίδα από κάτω"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"O, με κουκκίδα από κάτω"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"O, με κλείσιμο από πάνω"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"O, με σιρκουμφλέξ και οξεία"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"O, με σιρκουμφλέξ και βαρεία"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"O, με σιρκουμφλέξ και κλείσιμο από πάνω"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"O, με σιρκουμφλέξ και περισπωμένη"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"O, με σιρκουμφλέξ και κουκκίδα από κάτω"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"O, με καπελάκι και οξεία"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"O, με καπελάκι και βαρεία"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"O, με καπελάκι και κλείσιμο από πάνω"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"O, με καπελάκι και περισπωμένη"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"O, με καπελάκι και κουκκίδα από κάτω"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"U, με κουκκίδα από κάτω"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"U, με κλείσιμο από πάνω"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"U, με καπελάκι και οξεία"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"U, με καπελάκι και βαρεία"</string>
+  
+  <string name="spoken_accented_letter_1EED">"U, με καπελάκι και κλείσιμο από πάνω"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"U, με καπελάκι και περισπωμένη"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"U, με καπελάκι και κουκκίδα από κάτω"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"Y, με βαρεία"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"Y, με κουκκίδα από κάτω"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"Y, με κλείσιμο από πάνω"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"Y, με οξεία"</string>
+  
+  <string name="spoken_symbol_00A1">"Αντίστροφο θαυμαστικό"</string>
+  
+  <string name="spoken_symbol_00AB">"Αριστερά διπλά εισαγωγικά"</string>
+  
+  <string name="spoken_symbol_00B7">"Άνω τελεία"</string>
+  
+  <string name="spoken_symbol_00B9">"Εκθέτης \"ένα\""</string>
+  
+  <string name="spoken_symbol_00BB">"Δεξιά διπλά εισαγωγικά"</string>
+  
+  <string name="spoken_symbol_00BF">"Αντίστροφο ερωτηματικό"</string>
+  
+  <string name="spoken_symbol_2018">"Αριστερά μονά εισαγωγικά"</string>
+  
+  <string name="spoken_symbol_2019">"Δεξιά μονά εισαγωγικά"</string>
+  
+  <string name="spoken_symbol_201A">"Μονά εισαγωγικά σχήματος 9"</string>
+  
+  <string name="spoken_symbol_201C">"Αριστερά διπλά εισαγωγικά"</string>
+  
+  <string name="spoken_symbol_201D">"Δεξιά διπλά εισαγωγικά"</string>
+  
+  <string name="spoken_symbol_2020">"Σταυρός στίξης"</string>
+  
+  <string name="spoken_symbol_2021">"Διπλός σταυρός στίξης"</string>
+  
+  <string name="spoken_symbol_2030">"Σύμβολο \"επί χίλια\""</string>
+  
+  <string name="spoken_symbol_2032">"Τόνος"</string>
+  
+  <string name="spoken_symbol_2033">"Διπλός τόνος"</string>
+  
+  <string name="spoken_symbol_2039">"Μονά εισαγωγικά προς τα αριστερά"</string>
+  
+  <string name="spoken_symbol_203A">"Μονά εισαγωγικά προς τα δεξιά"</string>
+  
+  <string name="spoken_symbol_2074">"Εκθέτης τέσσερα"</string>
+  
+  <string name="spoken_symbol_207F">"Εκθέτης \"λατινικό πεζό γράμμα N\""</string>
+  
+  <string name="spoken_symbol_20B1">"Σύμβολο νομίσματος \"πέσο\""</string>
+  
+  <string name="spoken_symbol_2105">"Υπεύθυνος"</string>
+  
+  <string name="spoken_symbol_2192">"Βέλος προς τα δεξιά"</string>
+  
+  <string name="spoken_symbol_2193">"Βέλος προς τα κάτω"</string>
+  
+  <string name="spoken_symbol_2205">"Κενό σύνολο"</string>
+  
+  <string name="spoken_symbol_2206">"Τελεστής προσαύξησης"</string>
+  
+  <string name="spoken_symbol_2264">"Μικρότερο ή ίσο"</string>
+  
+  <string name="spoken_symbol_2265">"Μεγαλύτερο ή ίσο"</string>
+  
+  <string name="spoken_symbol_2605">"Μαύρο αστέρι"</string>
+</resources>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="english_ime_input_options">"Sozlamalar"</string>
+  
+  <string name="vibrate_on_keypress">"Tugma bosilganda tebranish"</string>
+  
+  <string name="sound_on_keypress">"Tugmalar tovushi"</string>
+  
+  <string name="popup_on_keypress">"Tugma bosilganda qalqib chiqish"</string>
+  
+  <string name="show_language_switch_key">"Tilni almashtirish tugmasi"</string>
+  
+  <string name="abbreviation_unit_milliseconds">&lt;string name="abbreviation_unit_milliseconds" msgid="3255301845626146979"&gt;&amp;quot;&lt;xliff:g id="MILLISECONDS"&gt;%s&lt;/xliff:g&gt; ms&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="use_personalized_dicts">"Takliflarni moslashtirish"</string>
+  
+  <string name="use_double_space_period">"Nuqtani avtomatik qo‘yish"</string>
+  
+  <string name="use_double_space_period_summary">"Bo‘sh joy tugmasi ikki marta bosilsa, nuqta qo‘yiladi va bo‘sh joy tashlanadi"</string>
+  
+  <string name="auto_cap">"Avtomatik bosh harf"</string>
+  
+  <string name="auto_cap_summary">"Har bir gapning birinchi so‘zini bosh harf bilan boshlash"</string>
+  
+  <string name="edit_personal_dictionary">"Shaxsiy lug‘at"</string>
+  
+  <string name="prefs_show_suggestions">"Tuzatma variantlari"</string>
+  
+  <string name="prefs_show_suggestions_summary">"Matn kiritishda so‘z variantlarini taklif qilish"</string>
+  
+  <string name="prefs_block_potentially_offensive_title">"Senzuraga moyil iboralarni taqiqlash"</string>
+  
+  <string name="prefs_block_potentially_offensive_summary">"Haqoratomuz so‘zlar taklif qilinmasin"</string>
+  
+  <string name="auto_correction">"Avtomatik tuzatish"</string>
+  
+  <string name="auto_correction_summary">"Tinish belgisi kiritilganda yoki bo‘sh joy qoldirilganda, xato so‘zni avtomatik tuzatish"</string>
+  
+  <string name="bigram_prediction">"Keyingi so‘zni taklif qilish"</string>
+  
+  <string name="bigram_prediction_summary">"Avvalgi so‘zlar asosida keyingi so‘zni taklif qilish"</string>
+  
+  <string name="language_selection_title">"Tillar"</string>
+  
+  <string name="select_language">"Tillar"</string>
+  
+  <string name="subtype_en_GB">"Ingliz (Buyuk Britaniya)"</string>
+  
+  <string name="subtype_en_US">"Ingliz (AQSH)"</string>
+  
+  <string name="subtype_es_US">"Ispan (AQSH)"</string>
+  
+  <string name="subtype_hi_ZZ">"Hinglish"</string>
+  
+  <string name="subtype_sr_ZZ">"Serb (Lotin)"</string>
+  
+  <string name="subtype_with_layout_en_GB">&lt;string name="subtype_with_layout_en_GB" msgid="4220344684463778660"&gt;&amp;quot;Ingliz (Buyuk Britaniya) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_en_US">&lt;string name="subtype_with_layout_en_US" msgid="4599421650961912769"&gt;&amp;quot;Ingliz (AQSH) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_es_US">&lt;string name="subtype_with_layout_es_US" msgid="6866331205974243592"&gt;&amp;quot;Ispan (AQSH) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_hi_ZZ">&lt;string name="subtype_with_layout_hi_ZZ" msgid="5439623653083985558"&gt;&amp;quot;Hinglish (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_sr_ZZ">&lt;string name="subtype_with_layout_sr_ZZ" msgid="546465971819327060"&gt;&amp;quot;Serb (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_traditional">&lt;string name="subtype_generic_traditional" msgid="5321023815277210849"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (an’anaviy)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_compact">&lt;string name="subtype_generic_compact" msgid="2858514299576793292"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (ixcham)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_no_language">"Til aniqlanmadi (lotin)"</string>
+  
+  <string name="subtype_no_language_qwerty">"Lotin (QWERTY)"</string>
+  
+  <string name="subtype_no_language_qwertz">"Lotin (QWERTZ)"</string>
+  
+  <string name="subtype_no_language_azerty">"Lotin (AZERTY)"</string>
+  
+  <string name="subtype_no_language_dvorak">"Lotin (Dvorak)"</string>
+  
+  <string name="subtype_no_language_colemak">"Lotin (Colemak)"</string>
+  
+  <string name="subtype_no_language_pcqwerty">"Lotin (shaxsiy kompyuter)"</string>
+  
+  <string name="subtype_emoji">"Kulgichlar"</string>
+  
+  <string name="cancel">"Bekor qilish"</string>
+  
+  <string name="go_to_settings">"Sozlamalar"</string>
+  
+  <string name="install_dict">"O‘rnatish"</string>
+  
+  <string name="cancel_download_dict">"Bekor qilish"</string>
+  
+  <string name="user_dict_settings_add_menu_title">"Qo‘shish"</string>
+  
+  <string name="user_dict_settings_add_dialog_title">"Lug‘atga kiritish"</string>
+  
+  <string name="user_dict_settings_add_screen_title">"Ibora"</string>
+  
+  <string name="user_dict_settings_add_dialog_more_options">"Ko‘proq soz-lar"</string>
+  
+  <string name="user_dict_settings_add_dialog_less_options">"Kamroq sozlamalar"</string>
+  
+  <string name="user_dict_settings_add_dialog_confirm">"OK"</string>
+  
+  <string name="user_dict_settings_add_word_option_name">"So‘z:"</string>
+  
+  <string name="user_dict_settings_add_shortcut_option_name">"Qisqartma:"</string>
+  
+  <string name="user_dict_settings_add_locale_option_name">"Til:"</string>
+  
+  <string name="user_dict_settings_add_word_hint">"So‘zni kiriting"</string>
+  
+  <string name="user_dict_settings_add_shortcut_hint">"Ibora uchun qisqartma (ixtiyoriy)"</string>
+  
+  <string name="user_dict_settings_edit_dialog_title">"So‘zni tahrirlash"</string>
+  
+  <string name="user_dict_settings_context_menu_edit_title">"Tahrirlash"</string>
+  
+  <string name="user_dict_settings_context_menu_delete_title">"O‘chirish"</string>
+  
+  <string name="user_dict_settings_empty_text">"Shaxsiy lug‘atingizda hech narsa yo‘q. Unga so‘zlarni qo‘shish uchun “Qo‘shish” (+) tugmasidan foydalaning."</string>
+  
+  <string name="user_dict_settings_all_languages">"Barcha tillar uchun"</string>
+  
+  <string name="user_dict_settings_more_languages">"Ko‘proq tillar…"</string>
+  
+  <string name="user_dict_settings_delete">"O‘chirish"</string>
+  
+  <string name="user_dict_fast_scroll_alphabet">" ABDEFGHIJKLMNOPQRSTUVXYZO‘G‘SHCH"</string>
+</resources>

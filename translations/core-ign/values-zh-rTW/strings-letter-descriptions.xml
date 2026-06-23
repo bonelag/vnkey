@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"雌性符號"</string>
+  
+  <string name="spoken_accented_letter_00B5">"Micro 符號"</string>
+  
+  <string name="spoken_accented_letter_00BA">"雄性符號"</string>
+  
+  <string name="spoken_accented_letter_00DF">"清音 S"</string>
+  
+  <string name="spoken_accented_letter_00E0">"抑音符 A"</string>
+  
+  <string name="spoken_accented_letter_00E1">"銳音符 A"</string>
+  
+  <string name="spoken_accented_letter_00E2">"揚抑符 A"</string>
+  
+  <string name="spoken_accented_letter_00E3">"顎化符 A"</string>
+  
+  <string name="spoken_accented_letter_00E4">"分音符 A"</string>
+  
+  <string name="spoken_accented_letter_00E5">"帶上圓圈的 A"</string>
+  
+  <string name="spoken_accented_letter_00E6">"連字 AE"</string>
+  
+  <string name="spoken_accented_letter_00E7">"下加符 C"</string>
+  
+  <string name="spoken_accented_letter_00E8">"抑音符 E"</string>
+  
+  <string name="spoken_accented_letter_00E9">"銳音符 E"</string>
+  
+  <string name="spoken_accented_letter_00EA">"揚抑符 E"</string>
+  
+  <string name="spoken_accented_letter_00EB">"分音符 E"</string>
+  
+  <string name="spoken_accented_letter_00EC">"抑音符 I"</string>
+  
+  <string name="spoken_accented_letter_00ED">"銳音符 I"</string>
+  
+  <string name="spoken_accented_letter_00EE">"揚抑符 I"</string>
+  
+  <string name="spoken_accented_letter_00EF">"分音符 I"</string>
+  
+  <string name="spoken_accented_letter_00F0">"濁齒擦音符號"</string>
+  
+  <string name="spoken_accented_letter_00F1">"顎化符 N"</string>
+  
+  <string name="spoken_accented_letter_00F2">"抑音符 O"</string>
+  
+  <string name="spoken_accented_letter_00F3">"銳音符 O"</string>
+  
+  <string name="spoken_accented_letter_00F4">"揚抑符 O"</string>
+  
+  <string name="spoken_accented_letter_00F5">"顎化符 O"</string>
+  
+  <string name="spoken_accented_letter_00F6">"分音符 O"</string>
+  
+  <string name="spoken_accented_letter_00F8">"帶斜線的 O"</string>
+  
+  <string name="spoken_accented_letter_00F9">"抑音符 U"</string>
+  
+  <string name="spoken_accented_letter_00FA">"銳音符 U"</string>
+  
+  <string name="spoken_accented_letter_00FB">"揚抑符 U"</string>
+  
+  <string name="spoken_accented_letter_00FC">"分音符 U"</string>
+  
+  <string name="spoken_accented_letter_00FD">"銳音符 Y"</string>
+  
+  <string name="spoken_accented_letter_00FE">"刺形符號"</string>
+  
+  <string name="spoken_accented_letter_00FF">"分音符 Y"</string>
+  
+  <string name="spoken_accented_letter_0101">"長音符 A"</string>
+  
+  <string name="spoken_accented_letter_0103">"短音符 A"</string>
+  
+  <string name="spoken_accented_letter_0105">"反下加符 A"</string>
+  
+  <string name="spoken_accented_letter_0107">"銳音符 C"</string>
+  
+  <string name="spoken_accented_letter_0109">"揚抑符 C"</string>
+  
+  <string name="spoken_accented_letter_010B">"上點 C"</string>
+  
+  <string name="spoken_accented_letter_010D">"倒折音符 C"</string>
+  
+  <string name="spoken_accented_letter_010F">"倒折音符 D"</string>
+  
+  <string name="spoken_accented_letter_0111">"帶斜線的 D"</string>
+  
+  <string name="spoken_accented_letter_0113">"長音符 E"</string>
+  
+  <string name="spoken_accented_letter_0115">"短音符 E"</string>
+  
+  <string name="spoken_accented_letter_0117">"上點 E"</string>
+  
+  <string name="spoken_accented_letter_0119">"反下加符 E"</string>
+  
+  <string name="spoken_accented_letter_011B">"倒折音符 E"</string>
+  
+  <string name="spoken_accented_letter_011D">"揚抑符 G"</string>
+  
+  <string name="spoken_accented_letter_011F">"短音符 G"</string>
+  
+  <string name="spoken_accented_letter_0121">"上點 G"</string>
+  
+  <string name="spoken_accented_letter_0123">"下加符 G"</string>
+  
+  <string name="spoken_accented_letter_0125">"揚抑符 H"</string>
+  
+  <string name="spoken_accented_letter_0127">"帶斜線的 H"</string>
+  
+  <string name="spoken_accented_letter_0129">"顎化符 I"</string>
+  
+  <string name="spoken_accented_letter_012B">"長音符 I"</string>
+  
+  <string name="spoken_accented_letter_012D">"短音符 I"</string>
+  
+  <string name="spoken_accented_letter_012F">"反下加符 I"</string>
+  
+  <string name="spoken_accented_letter_0131">"無點 I"</string>
+  
+  <string name="spoken_accented_letter_0133">"連字 IJ"</string>
+  
+  <string name="spoken_accented_letter_0135">"揚抑符 J"</string>
+  
+  <string name="spoken_accented_letter_0137">"下加符 K"</string>
+  
+  <string name="spoken_accented_letter_0138">"Kra 符號"</string>
+  
+  <string name="spoken_accented_letter_013A">"銳音符 L"</string>
+  
+  <string name="spoken_accented_letter_013C">"下加符 L"</string>
+  
+  <string name="spoken_accented_letter_013E">"倒折音符 L"</string>
+  
+  <string name="spoken_accented_letter_0140">"中點 L"</string>
+  
+  <string name="spoken_accented_letter_0142">"帶斜線的 L"</string>
+  
+  <string name="spoken_accented_letter_0144">"銳音符 N"</string>
+  
+  <string name="spoken_accented_letter_0146">"下加符 N"</string>
+  
+  <string name="spoken_accented_letter_0148">"倒折音符 N"</string>
+  
+  <string name="spoken_accented_letter_0149">"前接單引號的 N"</string>
+  
+  <string name="spoken_accented_letter_014B">"軟顎鼻音"</string>
+  
+  <string name="spoken_accented_letter_014D">"長音符 O"</string>
+  
+  <string name="spoken_accented_letter_014F">"短音符 O"</string>
+  
+  <string name="spoken_accented_letter_0151">"雙銳音符 O"</string>
+  
+  <string name="spoken_accented_letter_0153">"連字 OE"</string>
+  
+  <string name="spoken_accented_letter_0155">"銳音符 R"</string>
+  
+  <string name="spoken_accented_letter_0157">"下加符 R"</string>
+  
+  <string name="spoken_accented_letter_0159">"倒折音符 R"</string>
+  
+  <string name="spoken_accented_letter_015B">"銳音符 S"</string>
+  
+  <string name="spoken_accented_letter_015D">"揚抑符 S"</string>
+  
+  <string name="spoken_accented_letter_015F">"下加符 S"</string>
+  
+  <string name="spoken_accented_letter_0161">"倒折音符 S"</string>
+  
+  <string name="spoken_accented_letter_0163">"下加符 T"</string>
+  
+  <string name="spoken_accented_letter_0165">"倒折音符 T"</string>
+  
+  <string name="spoken_accented_letter_0167">"帶斜線的 T"</string>
+  
+  <string name="spoken_accented_letter_0169">"顎化符 U"</string>
+  
+  <string name="spoken_accented_letter_016B">"長音符 U"</string>
+  
+  <string name="spoken_accented_letter_016D">"短音符 U"</string>
+  
+  <string name="spoken_accented_letter_016F">"帶上圓圈的 U"</string>
+  
+  <string name="spoken_accented_letter_0171">"雙銳音符 U"</string>
+  
+  <string name="spoken_accented_letter_0173">"反下加符 U"</string>
+  
+  <string name="spoken_accented_letter_0175">"揚抑符 W"</string>
+  
+  <string name="spoken_accented_letter_0177">"揚抑符 Y"</string>
+  
+  <string name="spoken_accented_letter_017A">"銳音符 Z"</string>
+  
+  <string name="spoken_accented_letter_017C">"上點 Z"</string>
+  
+  <string name="spoken_accented_letter_017E">"倒折音符 Z"</string>
+  
+  <string name="spoken_accented_letter_017F">"長音 S"</string>
+  
+  <string name="spoken_accented_letter_01A1">"帶觸角的 O"</string>
+  
+  <string name="spoken_accented_letter_01B0">"帶觸角的 U"</string>
+  
+  <string name="spoken_accented_letter_0219">"下加逗號的 S"</string>
+  
+  <string name="spoken_accented_letter_021B">"下加逗號的 T"</string>
+  
+  <string name="spoken_accented_letter_0259">"中性母音符號"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"下點 A"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"上方加勾的 A"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"帶揚抑符和銳音符的 A"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"帶揚抑符和抑音符的 A"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"帶揚抑符和上勾的 A"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"帶揚抑符和顎化符的 A"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"帶揚抑符和下點的 A"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"帶短音符和銳音符的 A"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"帶短音符和抑音符的 A"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"帶短音符和上勾的 A"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"帶短音符和顎化符的 A"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"帶短音符和下點的 A"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"下點 E"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"上方加勾的 E"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"顎化符 E"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"帶揚抑符和銳音符的 E"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"帶揚抑符和抑音符的 E"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"帶揚抑符和上勾的 E"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"帶揚抑符和顎化符的 E"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"帶揚抑符和下點的 E"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"上方加勾的 I"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"下點 I"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"下點 O"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"上方加勾的 O"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"帶揚抑符和銳音符的 O"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"帶揚抑符和抑音符的 O"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"帶揚抑符和上勾的 O"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"帶揚抑符和顎化符的 O"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"帶揚抑符和下點的 O"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"帶觸角和銳音符的 O"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"帶觸角和抑音符的 O"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"帶觸角和上勾的 O"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"帶觸角和顎化符的 O"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"帶觸角和下點的 O"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"下點 U"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"上方加勾的 U"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"帶觸角和銳音符的 U"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"帶觸角和抑音符的 U"</string>
+  
+  <string name="spoken_accented_letter_1EED">"帶觸角和上勾的 U"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"帶觸角和顎化符的 U"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"帶觸角和下點的 U"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"抑音符 Y"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"下點 Y"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"上方加勾的 Y"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"顎化符 Y"</string>
+  
+  <string name="spoken_symbol_00A1">"倒置的驚嘆號"</string>
+  
+  <string name="spoken_symbol_00AB">"左雙角括號"</string>
+  
+  <string name="spoken_symbol_00B7">"中間點"</string>
+  
+  <string name="spoken_symbol_00B9">"上標字 1"</string>
+  
+  <string name="spoken_symbol_00BB">"右雙角括號"</string>
+  
+  <string name="spoken_symbol_00BF">"倒置的問號"</string>
+  
+  <string name="spoken_symbol_2018">"左單引號"</string>
+  
+  <string name="spoken_symbol_2019">"右單引號"</string>
+  
+  <string name="spoken_symbol_201A">"Low-9 單引號"</string>
+  
+  <string name="spoken_symbol_201C">"左雙引號"</string>
+  
+  <string name="spoken_symbol_201D">"右雙引號"</string>
+  
+  <string name="spoken_symbol_2020">"單劍註釋符號"</string>
+  
+  <string name="spoken_symbol_2021">"雙劍註釋符號"</string>
+  
+  <string name="spoken_symbol_2030">"千分比符號"</string>
+  
+  <string name="spoken_symbol_2032">"角分符號"</string>
+  
+  <string name="spoken_symbol_2033">"角秒符號"</string>
+  
+  <string name="spoken_symbol_2039">"左英文單引號"</string>
+  
+  <string name="spoken_symbol_203A">"右英文單引號"</string>
+  
+  <string name="spoken_symbol_2074">"上標 4"</string>
+  
+  <string name="spoken_symbol_207F">"上標小寫拉丁字母 N"</string>
+  
+  <string name="spoken_symbol_20B1">"披索符號"</string>
+  
+  <string name="spoken_symbol_2105">"轉交符號"</string>
+  
+  <string name="spoken_symbol_2192">"向右箭頭"</string>
+  
+  <string name="spoken_symbol_2193">"向下箭頭"</string>
+  
+  <string name="spoken_symbol_2205">"空集合"</string>
+  
+  <string name="spoken_symbol_2206">"遞增"</string>
+  
+  <string name="spoken_symbol_2264">"小於或等於"</string>
+  
+  <string name="spoken_symbol_2265">"大於或等於"</string>
+  
+  <string name="spoken_symbol_2605">"黑星"</string>
+</resources>

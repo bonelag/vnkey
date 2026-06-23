@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"Wskaźnik rodzaju żeńskiego liczebnika porządkowego"</string>
+  
+  <string name="spoken_accented_letter_00B5">"Znak mikro"</string>
+  
+  <string name="spoken_accented_letter_00BA">"Wskaźnik rodzaju męskiego liczebnika porządkowego"</string>
+  
+  <string name="spoken_accented_letter_00DF">"Ostre S"</string>
+  
+  <string name="spoken_accented_letter_00E0">"A z odwrotną kreską"</string>
+  
+  <string name="spoken_accented_letter_00E1">"A z kreską"</string>
+  
+  <string name="spoken_accented_letter_00E2">"A z daszkiem"</string>
+  
+  <string name="spoken_accented_letter_00E3">"A z tyldą"</string>
+  
+  <string name="spoken_accented_letter_00E4">"A z dwiema kropkami"</string>
+  
+  <string name="spoken_accented_letter_00E5">"A z kółkiem"</string>
+  
+  <string name="spoken_accented_letter_00E6">"A, E, ligatura"</string>
+  
+  <string name="spoken_accented_letter_00E7">"C z haczykiem"</string>
+  
+  <string name="spoken_accented_letter_00E8">"E z odwrotną kreską"</string>
+  
+  <string name="spoken_accented_letter_00E9">"E z kreską"</string>
+  
+  <string name="spoken_accented_letter_00EA">"E z daszkiem"</string>
+  
+  <string name="spoken_accented_letter_00EB">"E z dwiema kropkami"</string>
+  
+  <string name="spoken_accented_letter_00EC">"I z odwrotną kreską"</string>
+  
+  <string name="spoken_accented_letter_00ED">"I z kreską"</string>
+  
+  <string name="spoken_accented_letter_00EE">"I z daszkiem"</string>
+  
+  <string name="spoken_accented_letter_00EF">"I z dwiema kropkami"</string>
+  
+  <string name="spoken_accented_letter_00F0">"Eth"</string>
+  
+  <string name="spoken_accented_letter_00F1">"N z tyldą"</string>
+  
+  <string name="spoken_accented_letter_00F2">"O z odwrotną kreską"</string>
+  
+  <string name="spoken_accented_letter_00F3">"O z kreską"</string>
+  
+  <string name="spoken_accented_letter_00F4">"O z daszkiem"</string>
+  
+  <string name="spoken_accented_letter_00F5">"O z tyldą"</string>
+  
+  <string name="spoken_accented_letter_00F6">"O z dwiema kropkami"</string>
+  
+  <string name="spoken_accented_letter_00F8">"O z przekreśleniem"</string>
+  
+  <string name="spoken_accented_letter_00F9">"U z odwrotną kreską"</string>
+  
+  <string name="spoken_accented_letter_00FA">"U z kreską"</string>
+  
+  <string name="spoken_accented_letter_00FB">"U z daszkiem"</string>
+  
+  <string name="spoken_accented_letter_00FC">"U z dwiema kropkami"</string>
+  
+  <string name="spoken_accented_letter_00FD">"Y z kreską"</string>
+  
+  <string name="spoken_accented_letter_00FE">"Thorn"</string>
+  
+  <string name="spoken_accented_letter_00FF">"Y z dwiema kropkami"</string>
+  
+  <string name="spoken_accented_letter_0101">"A z makronem"</string>
+  
+  <string name="spoken_accented_letter_0103">"A z łuczkiem"</string>
+  
+  <string name="spoken_accented_letter_0105">"A z ogonkiem"</string>
+  
+  <string name="spoken_accented_letter_0107">"C z kreską"</string>
+  
+  <string name="spoken_accented_letter_0109">"C z daszkiem"</string>
+  
+  <string name="spoken_accented_letter_010B">"C z kropką"</string>
+  
+  <string name="spoken_accented_letter_010D">"C z ptaszkiem"</string>
+  
+  <string name="spoken_accented_letter_010F">"D z ptaszkiem"</string>
+  
+  <string name="spoken_accented_letter_0111">"D z przekreśleniem"</string>
+  
+  <string name="spoken_accented_letter_0113">"E z makronem"</string>
+  
+  <string name="spoken_accented_letter_0115">"E z łuczkiem"</string>
+  
+  <string name="spoken_accented_letter_0117">"E z kropką u góry"</string>
+  
+  <string name="spoken_accented_letter_0119">"E z ogonkiem"</string>
+  
+  <string name="spoken_accented_letter_011B">"E z ptaszkiem"</string>
+  
+  <string name="spoken_accented_letter_011D">"G z daszkiem"</string>
+  
+  <string name="spoken_accented_letter_011F">"G z łuczkiem"</string>
+  
+  <string name="spoken_accented_letter_0121">"G z kropką u góry"</string>
+  
+  <string name="spoken_accented_letter_0123">"G z haczykiem"</string>
+  
+  <string name="spoken_accented_letter_0125">"H z daszkiem"</string>
+  
+  <string name="spoken_accented_letter_0127">"H z przekreśleniem"</string>
+  
+  <string name="spoken_accented_letter_0129">"I z tyldą"</string>
+  
+  <string name="spoken_accented_letter_012B">"I z makronem"</string>
+  
+  <string name="spoken_accented_letter_012D">"I z łuczkiem"</string>
+  
+  <string name="spoken_accented_letter_012F">"I z ogonkiem"</string>
+  
+  <string name="spoken_accented_letter_0131">"I bez kropki"</string>
+  
+  <string name="spoken_accented_letter_0133">"I, J, ligatura"</string>
+  
+  <string name="spoken_accented_letter_0135">"J z daszkiem"</string>
+  
+  <string name="spoken_accented_letter_0137">"K z haczykiem"</string>
+  
+  <string name="spoken_accented_letter_0138">"Kra"</string>
+  
+  <string name="spoken_accented_letter_013A">"L z kreską"</string>
+  
+  <string name="spoken_accented_letter_013C">"L z haczykiem"</string>
+  
+  <string name="spoken_accented_letter_013E">"L z ptaszkiem"</string>
+  
+  <string name="spoken_accented_letter_0140">"L z kropką pośrodku"</string>
+  
+  <string name="spoken_accented_letter_0142">"L z przekreśleniem"</string>
+  
+  <string name="spoken_accented_letter_0144">"N z kreską"</string>
+  
+  <string name="spoken_accented_letter_0146">"N z haczykiem"</string>
+  
+  <string name="spoken_accented_letter_0148">"N z ptaszkiem"</string>
+  
+  <string name="spoken_accented_letter_0149">"N poprzedzone apostrofem"</string>
+  
+  <string name="spoken_accented_letter_014B">"Eng"</string>
+  
+  <string name="spoken_accented_letter_014D">"O z makronem"</string>
+  
+  <string name="spoken_accented_letter_014F">"O z łuczkiem"</string>
+  
+  <string name="spoken_accented_letter_0151">"O z podwójną kreską"</string>
+  
+  <string name="spoken_accented_letter_0153">"O, E, ligatura"</string>
+  
+  <string name="spoken_accented_letter_0155">"R z kreską"</string>
+  
+  <string name="spoken_accented_letter_0157">"R z haczykiem"</string>
+  
+  <string name="spoken_accented_letter_0159">"R z ptaszkiem"</string>
+  
+  <string name="spoken_accented_letter_015B">"S z kreską"</string>
+  
+  <string name="spoken_accented_letter_015D">"S z daszkiem"</string>
+  
+  <string name="spoken_accented_letter_015F">"S z haczykiem"</string>
+  
+  <string name="spoken_accented_letter_0161">"S z ptaszkiem"</string>
+  
+  <string name="spoken_accented_letter_0163">"T z haczykiem"</string>
+  
+  <string name="spoken_accented_letter_0165">"T z ptaszkiem"</string>
+  
+  <string name="spoken_accented_letter_0167">"T z przekreśleniem"</string>
+  
+  <string name="spoken_accented_letter_0169">"U z tyldą"</string>
+  
+  <string name="spoken_accented_letter_016B">"U z makronem"</string>
+  
+  <string name="spoken_accented_letter_016D">"U z łuczkiem"</string>
+  
+  <string name="spoken_accented_letter_016F">"U z kółkiem"</string>
+  
+  <string name="spoken_accented_letter_0171">"U z podwójną kreską"</string>
+  
+  <string name="spoken_accented_letter_0173">"U z ogonkiem"</string>
+  
+  <string name="spoken_accented_letter_0175">"W z daszkiem"</string>
+  
+  <string name="spoken_accented_letter_0177">"Y z daszkiem"</string>
+  
+  <string name="spoken_accented_letter_017A">"Z z kreską"</string>
+  
+  <string name="spoken_accented_letter_017C">"Z z kropką"</string>
+  
+  <string name="spoken_accented_letter_017E">"Z z ptaszkiem"</string>
+  
+  <string name="spoken_accented_letter_017F">"Długie S"</string>
+  
+  <string name="spoken_accented_letter_01A1">"O z rogiem"</string>
+  
+  <string name="spoken_accented_letter_01B0">"U z rogiem"</string>
+  
+  <string name="spoken_accented_letter_0219">"S z przecinkiem u dołu"</string>
+  
+  <string name="spoken_accented_letter_021B">"T z przecinkiem u dołu"</string>
+  
+  <string name="spoken_accented_letter_0259">"Szwa"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"A z kropką u dołu"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"A z zawijasem u góry"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"A z daszkiem i kreską"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"A z daszkiem i odwrotną kreską"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"A z daszkiem i zawijasem u góry"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"A z daszkiem i tyldą"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"A z daszkiem i kropką u dołu"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"A z łuczkiem i kreską"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"A z łuczkiem i odwrotną kreską"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"A z łuczkiem i zawijasem u góry"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"A z łuczkiem i tyldą"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"A z łuczkiem i kropką u dołu"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"E z kropką u dołu"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"E z zawijasem u góry"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"E z tyldą"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"E z daszkiem i kreską"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"E z daszkiem i odwrotną kreską"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"E z daszkiem i zawijasem u góry"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"E z daszkiem i tyldą"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"E z daszkiem i kropką u dołu"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"I z zawijasem u góry"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"I z kropką u dołu"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"O z kropką u dołu"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"O z zawijasem u góry"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"O z daszkiem i kreską"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"O z daszkiem i odwrotną kreską"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"O z daszkiem i zawijasem u góry"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"O z daszkiem i tyldą"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"O z daszkiem i kropką u dołu"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"O z rogiem i kreską"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"O z rogiem i odwrotną kreską"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"O z rogiem i zawijasem u góry"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"O z rogiem i tyldą"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"O z rogiem i kropką u dołu"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"U z kropką u dołu"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"U z zawijasem u góry"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"U z rogiem i kreską"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"U z rogiem i odwrotną kreską"</string>
+  
+  <string name="spoken_accented_letter_1EED">"U z rogiem i zawijasem u góry"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"U z rogiem i tyldą"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"U z rogiem i kropką u dołu"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"Y z odwrotną kreską"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"Y z kropką u dołu"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"Y z zawijasem u góry"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"Y z tyldą"</string>
+  
+  <string name="spoken_symbol_00A1">"Odwrócony wykrzyknik"</string>
+  
+  <string name="spoken_symbol_00AB">"Lewy cudzysłów kątowy"</string>
+  
+  <string name="spoken_symbol_00B7">"Kropka pośrodku"</string>
+  
+  <string name="spoken_symbol_00B9">"Pierwsza potęga"</string>
+  
+  <string name="spoken_symbol_00BB">"Prawy cudzysłów kątowy"</string>
+  
+  <string name="spoken_symbol_00BF">"Odwrócony pytajnik"</string>
+  
+  <string name="spoken_symbol_2018">"Lewy cudzysłów definicyjny"</string>
+  
+  <string name="spoken_symbol_2019">"Prawy cudzysłów definicyjny"</string>
+  
+  <string name="spoken_symbol_201A">"Cudzysłów pojedynczy"</string>
+  
+  <string name="spoken_symbol_201C">"Lewy cudzysłów apostrofowy"</string>
+  
+  <string name="spoken_symbol_201D">"Prawy cudzysłów apostrofowy"</string>
+  
+  <string name="spoken_symbol_2020">"Krzyżyk"</string>
+  
+  <string name="spoken_symbol_2021">"Podwójny krzyżyk"</string>
+  
+  <string name="spoken_symbol_2030">"Promil"</string>
+  
+  <string name="spoken_symbol_2032">"Prim"</string>
+  
+  <string name="spoken_symbol_2033">"Bis"</string>
+  
+  <string name="spoken_symbol_2039">"Lewy francuski cudzysłów pojedynczy"</string>
+  
+  <string name="spoken_symbol_203A">"Prawy francuski cudzysłów pojedynczy"</string>
+  
+  <string name="spoken_symbol_2074">"Czwarta potęga"</string>
+  
+  <string name="spoken_symbol_207F">"Małe n w górnym indeksie"</string>
+  
+  <string name="spoken_symbol_20B1">"Znak peso"</string>
+  
+  <string name="spoken_symbol_2105">"Znak „przez grzeczność”"</string>
+  
+  <string name="spoken_symbol_2192">"Strzałka w prawo"</string>
+  
+  <string name="spoken_symbol_2193">"Strzałka w dół"</string>
+  
+  <string name="spoken_symbol_2205">"Zbiór pusty"</string>
+  
+  <string name="spoken_symbol_2206">"Przyrost"</string>
+  
+  <string name="spoken_symbol_2264">"Mniejsze lub równe"</string>
+  
+  <string name="spoken_symbol_2265">"Większe lub równe"</string>
+  
+  <string name="spoken_symbol_2605">"Czarna gwiazdka"</string>
+</resources>

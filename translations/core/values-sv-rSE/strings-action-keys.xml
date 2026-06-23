@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">Gå</string>
+  
+  <string name="label_next_key">Nästa</string>
+  
+  <string name="label_previous_key">Förra</string>
+  
+  <string name="label_done_key">Klar</string>
+  
+  <string name="label_send_key">Skicka</string>
+  
+  <string name="label_search_key">Sök</string>
+  
+  <string name="label_pause_key">Pausa</string>
+  
+  <string name="label_wait_key">Vänta</string>
+</resources>

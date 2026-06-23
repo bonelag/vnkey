@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">"เริ่ม"</string>
+  
+  <string name="label_next_key">"ถัดไป"</string>
+  
+  <string name="label_previous_key">"ก่อน"</string>
+  
+  <string name="label_done_key">"เสร็จ"</string>
+  
+  <string name="label_send_key">"ส่ง"</string>
+  
+  <string name="label_search_key">"ค้นหา"</string>
+  
+  <string name="label_pause_key">"หยุด"</string>
+  
+  <string name="label_wait_key">"รอ"</string>
+</resources>

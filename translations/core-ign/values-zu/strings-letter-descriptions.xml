@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"Isikhombi sobesifazane"</string>
+  
+  <string name="spoken_accented_letter_00B5">"Uphawu olukhulu"</string>
+  
+  <string name="spoken_accented_letter_00BA">"Isikhombi sowesilisa"</string>
+  
+  <string name="spoken_accented_letter_00DF">"Sharp S"</string>
+  
+  <string name="spoken_accented_letter_00E0">"A, grave"</string>
+  
+  <string name="spoken_accented_letter_00E1">"A, acute"</string>
+  
+  <string name="spoken_accented_letter_00E2">"A, circumflex"</string>
+  
+  <string name="spoken_accented_letter_00E3">"A, tilde"</string>
+  
+  <string name="spoken_accented_letter_00E4">"A, diaeresis"</string>
+  
+  <string name="spoken_accented_letter_00E5">"A, ring ngenhla"</string>
+  
+  <string name="spoken_accented_letter_00E6">"A, E, ligature"</string>
+  
+  <string name="spoken_accented_letter_00E7">"C, cedilla"</string>
+  
+  <string name="spoken_accented_letter_00E8">"E, grave"</string>
+  
+  <string name="spoken_accented_letter_00E9">"E, acute"</string>
+  
+  <string name="spoken_accented_letter_00EA">"E, circumflex"</string>
+  
+  <string name="spoken_accented_letter_00EB">"E, diaeresis"</string>
+  
+  <string name="spoken_accented_letter_00EC">"I, grave"</string>
+  
+  <string name="spoken_accented_letter_00ED">"I, acute"</string>
+  
+  <string name="spoken_accented_letter_00EE">"I, circumflex"</string>
+  
+  <string name="spoken_accented_letter_00EF">"I, diaeresis"</string>
+  
+  <string name="spoken_accented_letter_00F0">"Eth"</string>
+  
+  <string name="spoken_accented_letter_00F1">"N, tilde"</string>
+  
+  <string name="spoken_accented_letter_00F2">"O, grave"</string>
+  
+  <string name="spoken_accented_letter_00F3">"O, acute"</string>
+  
+  <string name="spoken_accented_letter_00F4">"O, circumflex"</string>
+  
+  <string name="spoken_accented_letter_00F5">"O, tilde"</string>
+  
+  <string name="spoken_accented_letter_00F6">"O, diaeresis"</string>
+  
+  <string name="spoken_accented_letter_00F8">"O, stroke"</string>
+  
+  <string name="spoken_accented_letter_00F9">"U, grave"</string>
+  
+  <string name="spoken_accented_letter_00FA">"U, acute"</string>
+  
+  <string name="spoken_accented_letter_00FB">"U, circumflex"</string>
+  
+  <string name="spoken_accented_letter_00FC">"U, diaeresis"</string>
+  
+  <string name="spoken_accented_letter_00FD">"Y, acute"</string>
+  
+  <string name="spoken_accented_letter_00FE">"Thorn"</string>
+  
+  <string name="spoken_accented_letter_00FF">"Y, diaeresis"</string>
+  
+  <string name="spoken_accented_letter_0101">"A, macron"</string>
+  
+  <string name="spoken_accented_letter_0103">"A, breve"</string>
+  
+  <string name="spoken_accented_letter_0105">"A, ogonek"</string>
+  
+  <string name="spoken_accented_letter_0107">"C, acute"</string>
+  
+  <string name="spoken_accented_letter_0109">"C, circumflex"</string>
+  
+  <string name="spoken_accented_letter_010B">"C, icashazi ngenhla"</string>
+  
+  <string name="spoken_accented_letter_010D">"C, caron"</string>
+  
+  <string name="spoken_accented_letter_010F">"D, caron"</string>
+  
+  <string name="spoken_accented_letter_0111">"D, stroke"</string>
+  
+  <string name="spoken_accented_letter_0113">"E, macron"</string>
+  
+  <string name="spoken_accented_letter_0115">"E, breve"</string>
+  
+  <string name="spoken_accented_letter_0117">"E, icashazi ngenhla"</string>
+  
+  <string name="spoken_accented_letter_0119">"E, ogonek"</string>
+  
+  <string name="spoken_accented_letter_011B">"E, caron"</string>
+  
+  <string name="spoken_accented_letter_011D">"G, circumflex"</string>
+  
+  <string name="spoken_accented_letter_011F">"G, breve"</string>
+  
+  <string name="spoken_accented_letter_0121">"G, icashazi ngenhla"</string>
+  
+  <string name="spoken_accented_letter_0123">"G, cedilla"</string>
+  
+  <string name="spoken_accented_letter_0125">"H, circumflex"</string>
+  
+  <string name="spoken_accented_letter_0127">"H, stroke"</string>
+  
+  <string name="spoken_accented_letter_0129">"I, tilde"</string>
+  
+  <string name="spoken_accented_letter_012B">"I, macron"</string>
+  
+  <string name="spoken_accented_letter_012D">"I, breve"</string>
+  
+  <string name="spoken_accented_letter_012F">"I, ogonek"</string>
+  
+  <string name="spoken_accented_letter_0131">"Dotless I"</string>
+  
+  <string name="spoken_accented_letter_0133">"I, J, ligature"</string>
+  
+  <string name="spoken_accented_letter_0135">"J, circumflex"</string>
+  
+  <string name="spoken_accented_letter_0137">"K, cedilla"</string>
+  
+  <string name="spoken_accented_letter_0138">"Kra"</string>
+  
+  <string name="spoken_accented_letter_013A">"L, acute"</string>
+  
+  <string name="spoken_accented_letter_013C">"L, cedilla"</string>
+  
+  <string name="spoken_accented_letter_013E">"L, caron"</string>
+  
+  <string name="spoken_accented_letter_0140">"L, icashazi eliphakathi"</string>
+  
+  <string name="spoken_accented_letter_0142">"L, stroke"</string>
+  
+  <string name="spoken_accented_letter_0144">"N, acute"</string>
+  
+  <string name="spoken_accented_letter_0146">"N, cedilla"</string>
+  
+  <string name="spoken_accented_letter_0148">"N, caron"</string>
+  
+  <string name="spoken_accented_letter_0149">"N, kulandele i-apostrophe"</string>
+  
+  <string name="spoken_accented_letter_014B">"Eng"</string>
+  
+  <string name="spoken_accented_letter_014D">"O, macron"</string>
+  
+  <string name="spoken_accented_letter_014F">"O, breve"</string>
+  
+  <string name="spoken_accented_letter_0151">"O, double acute"</string>
+  
+  <string name="spoken_accented_letter_0153">"O, E, ligature"</string>
+  
+  <string name="spoken_accented_letter_0155">"R, acute"</string>
+  
+  <string name="spoken_accented_letter_0157">"R, cedilla"</string>
+  
+  <string name="spoken_accented_letter_0159">"R, caron"</string>
+  
+  <string name="spoken_accented_letter_015B">"S, acute"</string>
+  
+  <string name="spoken_accented_letter_015D">"S, circumflex"</string>
+  
+  <string name="spoken_accented_letter_015F">"S, cedilla"</string>
+  
+  <string name="spoken_accented_letter_0161">"S, caron"</string>
+  
+  <string name="spoken_accented_letter_0163">"T, cedilla"</string>
+  
+  <string name="spoken_accented_letter_0165">"T, caron"</string>
+  
+  <string name="spoken_accented_letter_0167">"T, stroke"</string>
+  
+  <string name="spoken_accented_letter_0169">"U, tilde"</string>
+  
+  <string name="spoken_accented_letter_016B">"U, macron"</string>
+  
+  <string name="spoken_accented_letter_016D">"U, breve"</string>
+  
+  <string name="spoken_accented_letter_016F">"U, indingilizi ngenhla"</string>
+  
+  <string name="spoken_accented_letter_0171">"U, double acute"</string>
+  
+  <string name="spoken_accented_letter_0173">"U, ogonek"</string>
+  
+  <string name="spoken_accented_letter_0175">"W, circumflex"</string>
+  
+  <string name="spoken_accented_letter_0177">"Y, circumflex"</string>
+  
+  <string name="spoken_accented_letter_017A">"Z, acute"</string>
+  
+  <string name="spoken_accented_letter_017C">"Z, icashazi ngenhla"</string>
+  
+  <string name="spoken_accented_letter_017E">"Z, caron"</string>
+  
+  <string name="spoken_accented_letter_017F">"Long S"</string>
+  
+  <string name="spoken_accented_letter_01A1">"O, horn"</string>
+  
+  <string name="spoken_accented_letter_01B0">"U, horn"</string>
+  
+  <string name="spoken_accented_letter_0219">"S, ukhefana ngezansi"</string>
+  
+  <string name="spoken_accented_letter_021B">"T, ukhefana ngezansi"</string>
+  
+  <string name="spoken_accented_letter_0259">"Schwa"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"A, icashazi ngenhla"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"A, ihhuku ngenhla"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"A, circumflex ne-acute"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"A, circumflex ne-grave"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"A, circumflex nehhuku ngenhla"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"A, circumflex ne-tilde"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"A, circumflex necashazi ngenhla"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"A, breve ne-acute"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"A, breve ne-grave"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"A, breve nehhuku ngenhla"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"A, breve ne-tilde"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"A, breve necashazi ngezansi"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"E, icashazi ngezansi"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"E, ihhuku ngenhla"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"E, tilde"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"E, circumflex ne-acute"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"E, circumflex ne-grave"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"E, circumflex nehhuku ngenhla"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"E, circumflex ne-tilde"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"E, circumflex necashazi ngezansi"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"I, ihhuku ngenhla"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"I, icashazi ngezansi"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"O, icashazi ngezansi"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"O, ihhuku ngenhla"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"O, circumflex ne-acute"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"O, circumflex ne-grave"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"O, circumflex nehhuku ngenhla"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"O, circumflex ne-tilde"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"O, circumflex necashazi ngezansi"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"O, horn ne-acute"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"O, horn ne-grave"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"O, horn nehhuku ngenhla"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"O, horn ne-tilde"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"O, horn necashazi ngezansi"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"U, icashazi ngezansi"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"U, uhhuku ngehla"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"U, horn ne-acute"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"U, horn ne-grave"</string>
+  
+  <string name="spoken_accented_letter_1EED">"U, horn nehhuku ngenhla"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"U, horn ne-tilde"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"U, horn necashazi ngezansi"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"Y, grave"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"Y, icashazi ngezansi"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"Y, ihhuku ngenhla"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"Y, tilde"</string>
+  
+  <string name="spoken_symbol_00A1">"Umbabazi okokushiwo"</string>
+  
+  <string name="spoken_symbol_00AB">"Umaki wokukopisha onama-engeli amabili okhombe ngakwesokunxele"</string>
+  
+  <string name="spoken_symbol_00B7">"Icashazi eliphakathi"</string>
+  
+  <string name="spoken_symbol_00B9">"I-Superscript one"</string>
+  
+  <string name="spoken_symbol_00BB">"Umaki wokukopisha onama-engeli amabili okhombe ngakwesokudla"</string>
+  
+  <string name="spoken_symbol_00BF">"Umbuzi okokushiwo"</string>
+  
+  <string name="spoken_symbol_2018">"Umaki wokukopisha oyedwa ongakwesokunxele"</string>
+  
+  <string name="spoken_symbol_2019">"Umaki wokukopisha oyedwa ongakwesokudla"</string>
+  
+  <string name="spoken_symbol_201A">"Umaki wokukopisha owodwa ophansi 9"</string>
+  
+  <string name="spoken_symbol_201C">"Umaki wokukopisha ongakubili ongakwekunxele"</string>
+  
+  <string name="spoken_symbol_201D">"Umaki wokukopisha ongakubili ongakwekudla"</string>
+  
+  <string name="spoken_symbol_2020">"Dagger"</string>
+  
+  <string name="spoken_symbol_2021">"Double dagger"</string>
+  
+  <string name="spoken_symbol_2030">"Per mille sign"</string>
+  
+  <string name="spoken_symbol_2032">"Prime"</string>
+  
+  <string name="spoken_symbol_2033">"Double prime"</string>
+  
+  <string name="spoken_symbol_2039">"Umaki wokukopisha oyedwa ngokhombe ngakwesokunxele"</string>
+  
+  <string name="spoken_symbol_203A">"Umaki wokukopisha oyedwa ngokhombe ngakwesokudla"</string>
+  
+  <string name="spoken_symbol_2074">"Superscript four"</string>
+  
+  <string name="spoken_symbol_207F">"I-Superscript latin uhlambu oluncane u-n"</string>
+  
+  <string name="spoken_symbol_20B1">"Uphawu lwe-Peso"</string>
+  
+  <string name="spoken_symbol_2105">"Ukunakekela ko"</string>
+  
+  <string name="spoken_symbol_2192">"Umcibisholo wangakwesokudla"</string>
+  
+  <string name="spoken_symbol_2193">"Umcibisholo oyaphansi"</string>
+  
+  <string name="spoken_symbol_2205">"Isethi engenalutho"</string>
+  
+  <string name="spoken_symbol_2206">"Nciphisa"</string>
+  
+  <string name="spoken_symbol_2264">"Okuncane noma okulinganayo"</string>
+  
+  <string name="spoken_symbol_2265">"Okukhulu noma okulinganayo"</string>
+  
+  <string name="spoken_symbol_2605">"Inkanyezi emnyama"</string>
+</resources>

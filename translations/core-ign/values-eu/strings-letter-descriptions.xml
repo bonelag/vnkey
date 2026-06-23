@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"Adierazle ordinal femeninoa"</string>
+  
+  <string name="spoken_accented_letter_00B5">"Mikro ikurra"</string>
+  
+  <string name="spoken_accented_letter_00BA">"Adierazle ordinal maskulinoa"</string>
+  
+  <string name="spoken_accented_letter_00DF">"S ahostuna"</string>
+  
+  <string name="spoken_accented_letter_00E0">"A paroxitonoa"</string>
+  
+  <string name="spoken_accented_letter_00E1">"A oxitonoa"</string>
+  
+  <string name="spoken_accented_letter_00E2">"A zirkunflexua"</string>
+  
+  <string name="spoken_accented_letter_00E3">"A tiletaduna"</string>
+  
+  <string name="spoken_accented_letter_00E4">"A dieresiduna"</string>
+  
+  <string name="spoken_accented_letter_00E5">"A goiko eraztunarekin"</string>
+  
+  <string name="spoken_accented_letter_00E6">"A eta E ligatuak"</string>
+  
+  <string name="spoken_accented_letter_00E7">"C hautsia"</string>
+  
+  <string name="spoken_accented_letter_00E8">"E paroxitonoa"</string>
+  
+  <string name="spoken_accented_letter_00E9">"E oxitonoa"</string>
+  
+  <string name="spoken_accented_letter_00EA">"E zirkunflexua"</string>
+  
+  <string name="spoken_accented_letter_00EB">"E dieresiduna"</string>
+  
+  <string name="spoken_accented_letter_00EC">"I paroxitonoa"</string>
+  
+  <string name="spoken_accented_letter_00ED">"I oxitonoa"</string>
+  
+  <string name="spoken_accented_letter_00EE">"I zirkunflexua"</string>
+  
+  <string name="spoken_accented_letter_00EF">"I dieresiduna"</string>
+  
+  <string name="spoken_accented_letter_00F0">"Eth"</string>
+  
+  <string name="spoken_accented_letter_00F1">"N tiletaduna"</string>
+  
+  <string name="spoken_accented_letter_00F2">"O paroxitonoa"</string>
+  
+  <string name="spoken_accented_letter_00F3">"O oxitonoa"</string>
+  
+  <string name="spoken_accented_letter_00F4">"O zirkunflexua"</string>
+  
+  <string name="spoken_accented_letter_00F5">"O tiletaduna"</string>
+  
+  <string name="spoken_accented_letter_00F6">"O dieresiduna"</string>
+  
+  <string name="spoken_accented_letter_00F8">"O barraduna"</string>
+  
+  <string name="spoken_accented_letter_00F9">"U paroxitonoa"</string>
+  
+  <string name="spoken_accented_letter_00FA">"U oxitonoa"</string>
+  
+  <string name="spoken_accented_letter_00FB">"U zirkunflexua"</string>
+  
+  <string name="spoken_accented_letter_00FC">"U dieresiduna"</string>
+  
+  <string name="spoken_accented_letter_00FD">"Y paroxitonoa"</string>
+  
+  <string name="spoken_accented_letter_00FE">"Thorn"</string>
+  
+  <string name="spoken_accented_letter_00FF">"Y dieresiduna"</string>
+  
+  <string name="spoken_accented_letter_0101">"A goi-marraduna"</string>
+  
+  <string name="spoken_accented_letter_0103">"A alderantzizko zirkunflexuarekin"</string>
+  
+  <string name="spoken_accented_letter_0105">"A hautsia"</string>
+  
+  <string name="spoken_accented_letter_0107">"C oxitonoa"</string>
+  
+  <string name="spoken_accented_letter_0109">"C zirkunflexua"</string>
+  
+  <string name="spoken_accented_letter_010B">"C goi-puntuduna"</string>
+  
+  <string name="spoken_accented_letter_010D">"C alderantzizko zirkunflexuarekin"</string>
+  
+  <string name="spoken_accented_letter_010F">"D alderantzizko zirkunflexuarekin"</string>
+  
+  <string name="spoken_accented_letter_0111">"D barraduna"</string>
+  
+  <string name="spoken_accented_letter_0113">"E goi-marraduna"</string>
+  
+  <string name="spoken_accented_letter_0115">"E alderantzizko zirkunflexuarekin"</string>
+  
+  <string name="spoken_accented_letter_0117">"E goi-puntuduna"</string>
+  
+  <string name="spoken_accented_letter_0119">"E hautsia"</string>
+  
+  <string name="spoken_accented_letter_011B">"E alderantzizko zirkunflexuarekin"</string>
+  
+  <string name="spoken_accented_letter_011D">"G zirkunflexua"</string>
+  
+  <string name="spoken_accented_letter_011F">"G alderantzizko zirkunflexuarekin"</string>
+  
+  <string name="spoken_accented_letter_0121">"G goi-puntuduna"</string>
+  
+  <string name="spoken_accented_letter_0123">"G hautsia"</string>
+  
+  <string name="spoken_accented_letter_0125">"H zirkunflexua"</string>
+  
+  <string name="spoken_accented_letter_0127">"H barraduna"</string>
+  
+  <string name="spoken_accented_letter_0129">"I tiletaduna"</string>
+  
+  <string name="spoken_accented_letter_012B">"I goi-marraduna"</string>
+  
+  <string name="spoken_accented_letter_012D">"I alderantzizko zirkunflexuarekin"</string>
+  
+  <string name="spoken_accented_letter_012F">"I hautsia"</string>
+  
+  <string name="spoken_accented_letter_0131">"Punturik gabeko I"</string>
+  
+  <string name="spoken_accented_letter_0133">"I eta J ligatuta"</string>
+  
+  <string name="spoken_accented_letter_0135">"J zirkunflexua"</string>
+  
+  <string name="spoken_accented_letter_0137">"K hautsia"</string>
+  
+  <string name="spoken_accented_letter_0138">"Kra"</string>
+  
+  <string name="spoken_accented_letter_013A">"L oxitonoa"</string>
+  
+  <string name="spoken_accented_letter_013C">"L hautsia"</string>
+  
+  <string name="spoken_accented_letter_013E">"L alderantzizko zirkunflexuarekin"</string>
+  
+  <string name="spoken_accented_letter_0140">"L erdiko puntuarekin"</string>
+  
+  <string name="spoken_accented_letter_0142">"L barraduna"</string>
+  
+  <string name="spoken_accented_letter_0144">"N oxitonoa"</string>
+  
+  <string name="spoken_accented_letter_0146">"N hautsia"</string>
+  
+  <string name="spoken_accented_letter_0148">"N alderantzizko zirkunflexuarekin"</string>
+  
+  <string name="spoken_accented_letter_0149">"N aurreko apostrofoarekin"</string>
+  
+  <string name="spoken_accented_letter_014B">"Eng"</string>
+  
+  <string name="spoken_accented_letter_014D">"O goi-marraduna"</string>
+  
+  <string name="spoken_accented_letter_014F">"O alderantzizko zirkunflexuarekin"</string>
+  
+  <string name="spoken_accented_letter_0151">"O oxitono bikoitza"</string>
+  
+  <string name="spoken_accented_letter_0153">"O eta E ligatuta"</string>
+  
+  <string name="spoken_accented_letter_0155">"R oxitonoa"</string>
+  
+  <string name="spoken_accented_letter_0157">"R hautsia"</string>
+  
+  <string name="spoken_accented_letter_0159">"R alderantzizko zirkunflexuarekin"</string>
+  
+  <string name="spoken_accented_letter_015B">"S oxitonoa"</string>
+  
+  <string name="spoken_accented_letter_015D">"S zirkunflexua"</string>
+  
+  <string name="spoken_accented_letter_015F">"S hautsia"</string>
+  
+  <string name="spoken_accented_letter_0161">"S alderantzizko zirkunflexuarekin"</string>
+  
+  <string name="spoken_accented_letter_0163">"T hautsia"</string>
+  
+  <string name="spoken_accented_letter_0165">"T alderantzizko zirkunflexuarekin"</string>
+  
+  <string name="spoken_accented_letter_0167">"T barraduna"</string>
+  
+  <string name="spoken_accented_letter_0169">"U tiletaduna"</string>
+  
+  <string name="spoken_accented_letter_016B">"U goi-marraduna"</string>
+  
+  <string name="spoken_accented_letter_016D">"U alderantzizko zirkunflexuarekin"</string>
+  
+  <string name="spoken_accented_letter_016F">"U goi-eraztunarekin"</string>
+  
+  <string name="spoken_accented_letter_0171">"U oxitono bikoitza"</string>
+  
+  <string name="spoken_accented_letter_0173">"U hautsia"</string>
+  
+  <string name="spoken_accented_letter_0175">"W zirkunflexua"</string>
+  
+  <string name="spoken_accented_letter_0177">"Y zirkunflexua"</string>
+  
+  <string name="spoken_accented_letter_017A">"Z oxitonoa"</string>
+  
+  <string name="spoken_accented_letter_017C">"Z goi-puntuduna"</string>
+  
+  <string name="spoken_accented_letter_017E">"Z alderantzizko zirkunflexuarekin"</string>
+  
+  <string name="spoken_accented_letter_017F">"S luzea"</string>
+  
+  <string name="spoken_accented_letter_01A1">"O adarduna"</string>
+  
+  <string name="spoken_accented_letter_01B0">"U adarduna"</string>
+  
+  <string name="spoken_accented_letter_0219">"S beheko komarekin"</string>
+  
+  <string name="spoken_accented_letter_021B">"T beheko komarekin"</string>
+  
+  <string name="spoken_accented_letter_0259">"Schwa"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"A goi-puntuduna"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"A goi-gakoduna"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"A zirkunflexu eta oxitonoa"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"A zirkunflexu eta paroxitonoa"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"A zirkunflexu eta goi-gakoduna"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"A zirkunflexu eta tiletaduna"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"A zirkunflexu eta goi-puntuduna"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"A hautsi eta oxitonoa"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"A hautsi eta paroxitonoa"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"A hautsi eta goi-gakoduna"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"A hautsi eta tiletaduna"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"A hautsi eta behe-puntuduna"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"E behe-puntuduna"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"E goi-gakoduna"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"E tiletaduna"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"E zirkunflexua eta oxitonoa"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"E zirkunflexua eta paroxitonoa"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"E zirkunflexua eta goi-puntuduna"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"E zirkunflexua eta tiletaduna"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"E zirkunflexua eta behe-puntuduna"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"I goi-gakoduna"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"I behe-puntuduna"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"O behe-puntuduna"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"O goi-gakoduna"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"O zirkunflexua eta oxitonoa"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"O zirkunflexua eta paroxitonoa"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"O zirkunflexua eta goi-gakoduna"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"O zirkunflexua eta tiletaduna"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"O zirkunflexua eta behe-puntuduna"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"O adardun oxitonoa"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"O adardun paroxitonoa"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"O adardun goi-gakoduna"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"O adardun tiletaduna"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"O adardun behe-puntuduna"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"U behe-puntuduna"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"U goi-gakoduna"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"U adardun oxitonoa"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"U adardun paroxitonoa"</string>
+  
+  <string name="spoken_accented_letter_1EED">"U adardun goi-gakoduna"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"U adardun tiletaduna"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"U adardun behe-puntuduna"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"Y paroxitonoa"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"Y behe-puntuduna"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"Y goi-gakoduna"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"Y tiletaduna"</string>
+  
+  <string name="spoken_symbol_00A1">"Harridura-marka alderantzikatua"</string>
+  
+  <string name="spoken_symbol_00AB">"Ezkerreranzko bi angeludun komatxoa"</string>
+  
+  <string name="spoken_symbol_00B7">"Erdiko puntua"</string>
+  
+  <string name="spoken_symbol_00B9">"Bat goi-indizea"</string>
+  
+  <string name="spoken_symbol_00BB">"Eskuineranzko bi angeludun komatxoa"</string>
+  
+  <string name="spoken_symbol_00BF">"Galdera ikur alderantzikatua"</string>
+  
+  <string name="spoken_symbol_2018">"Ezker-komatxo bakarra"</string>
+  
+  <string name="spoken_symbol_2019">"Eskuin-komatxo bakarra"</string>
+  
+  <string name="spoken_symbol_201A">"Akotazio baxuko komatxo bakarra"</string>
+  
+  <string name="spoken_symbol_201C">"Ezker-komatxo bikoitza"</string>
+  
+  <string name="spoken_symbol_201D">"Eskuin-komatxo bikoitza"</string>
+  
+  <string name="spoken_symbol_2020">"Obeliskoa"</string>
+  
+  <string name="spoken_symbol_2021">"Obelisko bikoitza"</string>
+  
+  <string name="spoken_symbol_2030">"Milakoen ikurra"</string>
+  
+  <string name="spoken_symbol_2032">"Komatxo soila"</string>
+  
+  <string name="spoken_symbol_2033">"Komatxo soil bikoitza"</string>
+  
+  <string name="spoken_symbol_2039">"Ezkerreranzko angeludun komatxo bakarra"</string>
+  
+  <string name="spoken_symbol_203A">"Eskuineranzko angeludun komatxo bakarra"</string>
+  
+  <string name="spoken_symbol_2074">"Lau goi-indizea"</string>
+  
+  <string name="spoken_symbol_207F">"n latindar txikia goi-indizea"</string>
+  
+  <string name="spoken_symbol_20B1">"Peso ikurra"</string>
+  
+  <string name="spoken_symbol_2105">"\"Care of\" ikurra"</string>
+  
+  <string name="spoken_symbol_2192">"Eskuineranzko gezia"</string>
+  
+  <string name="spoken_symbol_2193">"Beheranzko gezia"</string>
+  
+  <string name="spoken_symbol_2205">"Multzo hutsa"</string>
+  
+  <string name="spoken_symbol_2206">"Igoera"</string>
+  
+  <string name="spoken_symbol_2264">"\"Baino gutxiago edo berdin\" ikurra"</string>
+  
+  <string name="spoken_symbol_2265">"\"Baino gehiago edo berdin\" ikurra"</string>
+  
+  <string name="spoken_symbol_2605">"Izar beltza"</string>
+</resources>

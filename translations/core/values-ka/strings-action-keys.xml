@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">"გად."</string>
+  
+  <string name="label_next_key">"შემდ."</string>
+  
+  <string name="label_previous_key">"წინა"</string>
+  
+  <string name="label_done_key">"დასრ."</string>
+  
+  <string name="label_send_key">"გაგზ."</string>
+  
+  <string name="label_search_key">"ძიება"</string>
+  
+  <string name="label_pause_key">"პაუზა"</string>
+  
+  <string name="label_wait_key">"მოცდა"</string>
+</resources>

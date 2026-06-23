@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"סימן סידורי נקבי"</string>
+  
+  <string name="spoken_accented_letter_00B5">"סימן מיקרו"</string>
+  
+  <string name="spoken_accented_letter_00BA">"סימן סידורי זכרי"</string>
+  
+  <string name="spoken_accented_letter_00DF">"‏S חדה"</string>
+  
+  <string name="spoken_accented_letter_00E0">"‏A‏, הטעמה משנית"</string>
+  
+  <string name="spoken_accented_letter_00E1">"‏A, הטעמה עלית"</string>
+  
+  <string name="spoken_accented_letter_00E2">"‏A, גג"</string>
+  
+  <string name="spoken_accented_letter_00E3">"‏A, טילדה"</string>
+  
+  <string name="spoken_accented_letter_00E4">"‏A, עלית כפולה"</string>
+  
+  <string name="spoken_accented_letter_00E5">"‏A, טבעת מעל"</string>
+  
+  <string name="spoken_accented_letter_00E6">"‏A‏, E, ליגטורה"</string>
+  
+  <string name="spoken_accented_letter_00E7">"‏C, סדיליה"</string>
+  
+  <string name="spoken_accented_letter_00E8">"‏E, הטעמה משנית"</string>
+  
+  <string name="spoken_accented_letter_00E9">"‏E, הטעמה עלית"</string>
+  
+  <string name="spoken_accented_letter_00EA">"‏E, גג"</string>
+  
+  <string name="spoken_accented_letter_00EB">"‏E, הטעמה עלית כפולה"</string>
+  
+  <string name="spoken_accented_letter_00EC">"‏I, הטעמה משנית"</string>
+  
+  <string name="spoken_accented_letter_00ED">"‏I, הטעמה עלית"</string>
+  
+  <string name="spoken_accented_letter_00EE">"‏I, גג"</string>
+  
+  <string name="spoken_accented_letter_00EF">"‏I, הטעמה עלית כפולה"</string>
+  
+  <string name="spoken_accented_letter_00F0">"Eth"</string>
+  
+  <string name="spoken_accented_letter_00F1">"‏N, טילדה"</string>
+  
+  <string name="spoken_accented_letter_00F2">"‏O, הטעמה משנית"</string>
+  
+  <string name="spoken_accented_letter_00F3">"‏O, הטעמה עלית"</string>
+  
+  <string name="spoken_accented_letter_00F4">"‏O, גג"</string>
+  
+  <string name="spoken_accented_letter_00F5">"‏O, טילדה"</string>
+  
+  <string name="spoken_accented_letter_00F6">"‏O, הטעמה עלית כפולה"</string>
+  
+  <string name="spoken_accented_letter_00F8">"‏O, קו חוצה"</string>
+  
+  <string name="spoken_accented_letter_00F9">"‏U, הטעמה משנית"</string>
+  
+  <string name="spoken_accented_letter_00FA">"‏U, הטעמה עלית"</string>
+  
+  <string name="spoken_accented_letter_00FB">"‏U, גג"</string>
+  
+  <string name="spoken_accented_letter_00FC">"‏U, הטעמה עלית כפולה"</string>
+  
+  <string name="spoken_accented_letter_00FD">"‏Y, הטעמה עלית"</string>
+  
+  <string name="spoken_accented_letter_00FE">"Thorn"</string>
+  
+  <string name="spoken_accented_letter_00FF">"‏Y, הטעמה עלית כפולה"</string>
+  
+  <string name="spoken_accented_letter_0101">"‏A, קו עלי"</string>
+  
+  <string name="spoken_accented_letter_0103">"‏A, ברווה"</string>
+  
+  <string name="spoken_accented_letter_0105">"‏A, זנבון"</string>
+  
+  <string name="spoken_accented_letter_0107">"‏C, הטעמה עלית"</string>
+  
+  <string name="spoken_accented_letter_0109">"‏C, גג"</string>
+  
+  <string name="spoken_accented_letter_010B">"‏C, נקודה מעל"</string>
+  
+  <string name="spoken_accented_letter_010D">"‏C, וי קטן"</string>
+  
+  <string name="spoken_accented_letter_010F">"‏D, וי קטן"</string>
+  
+  <string name="spoken_accented_letter_0111">"‏D, קו חוצה"</string>
+  
+  <string name="spoken_accented_letter_0113">"‏E, קו עלי"</string>
+  
+  <string name="spoken_accented_letter_0115">"‏E, ברווה"</string>
+  
+  <string name="spoken_accented_letter_0117">"‏E, נקודה מעל"</string>
+  
+  <string name="spoken_accented_letter_0119">"‏E, זנבון"</string>
+  
+  <string name="spoken_accented_letter_011B">"‏E, וי קטן"</string>
+  
+  <string name="spoken_accented_letter_011D">"‏G, גג"</string>
+  
+  <string name="spoken_accented_letter_011F">"‏G, ברווה"</string>
+  
+  <string name="spoken_accented_letter_0121">"‏G, נקודה מעל"</string>
+  
+  <string name="spoken_accented_letter_0123">"‏G, סדיליה"</string>
+  
+  <string name="spoken_accented_letter_0125">"‏H, גג"</string>
+  
+  <string name="spoken_accented_letter_0127">"‏H, קו חוצה"</string>
+  
+  <string name="spoken_accented_letter_0129">"‏I, טילדה"</string>
+  
+  <string name="spoken_accented_letter_012B">"‏I, קו עלי"</string>
+  
+  <string name="spoken_accented_letter_012D">"‏I, ברווה"</string>
+  
+  <string name="spoken_accented_letter_012F">"‏I, זנבון"</string>
+  
+  <string name="spoken_accented_letter_0131">"‏I ללא נקודות"</string>
+  
+  <string name="spoken_accented_letter_0133">"‏I‏, J, ליגטורה"</string>
+  
+  <string name="spoken_accented_letter_0135">"‏J, גג"</string>
+  
+  <string name="spoken_accented_letter_0137">"‏K, סדיליה"</string>
+  
+  <string name="spoken_accented_letter_0138">"Kra"</string>
+  
+  <string name="spoken_accented_letter_013A">"‏L, הטעמה עלית"</string>
+  
+  <string name="spoken_accented_letter_013C">"‏L, סדיליה"</string>
+  
+  <string name="spoken_accented_letter_013E">"‏L, וי קטן"</string>
+  
+  <string name="spoken_accented_letter_0140">"‏L, נקודה אמצעית"</string>
+  
+  <string name="spoken_accented_letter_0142">"‏L, קו חוצה"</string>
+  
+  <string name="spoken_accented_letter_0144">"‏N, הטעמה עלית"</string>
+  
+  <string name="spoken_accented_letter_0146">"‏N, סדיליה"</string>
+  
+  <string name="spoken_accented_letter_0148">"‏N, וי קטן"</string>
+  
+  <string name="spoken_accented_letter_0149">"‏N, עם גרש לפני"</string>
+  
+  <string name="spoken_accented_letter_014B">"Eng"</string>
+  
+  <string name="spoken_accented_letter_014D">"‏O, קו עלי"</string>
+  
+  <string name="spoken_accented_letter_014F">"‏O, ברווה"</string>
+  
+  <string name="spoken_accented_letter_0151">"‏O, הטעמה עלית כפולה"</string>
+  
+  <string name="spoken_accented_letter_0153">"‏O‏, E, ליגטורה"</string>
+  
+  <string name="spoken_accented_letter_0155">"‏R, הטעמה עלית"</string>
+  
+  <string name="spoken_accented_letter_0157">"‏R, סדיליה"</string>
+  
+  <string name="spoken_accented_letter_0159">"‏R, וי קטן"</string>
+  
+  <string name="spoken_accented_letter_015B">"‏S, הטעמה עלית"</string>
+  
+  <string name="spoken_accented_letter_015D">"‏S, גג"</string>
+  
+  <string name="spoken_accented_letter_015F">"‏S, סדיליה"</string>
+  
+  <string name="spoken_accented_letter_0161">"‏S, וי קטן"</string>
+  
+  <string name="spoken_accented_letter_0163">"‏T, סדיליה"</string>
+  
+  <string name="spoken_accented_letter_0165">"‏T, וי קטן"</string>
+  
+  <string name="spoken_accented_letter_0167">"‏T, קו חוצה"</string>
+  
+  <string name="spoken_accented_letter_0169">"‏U, טילדה"</string>
+  
+  <string name="spoken_accented_letter_016B">"‏U, קו עלי"</string>
+  
+  <string name="spoken_accented_letter_016D">"‏U, ברווה"</string>
+  
+  <string name="spoken_accented_letter_016F">"‏U, טבעת מעל"</string>
+  
+  <string name="spoken_accented_letter_0171">"‏U, הטעמה עלית כפולה"</string>
+  
+  <string name="spoken_accented_letter_0173">"‏U, זנבון"</string>
+  
+  <string name="spoken_accented_letter_0175">"‏W, גג"</string>
+  
+  <string name="spoken_accented_letter_0177">"‏Y, גג"</string>
+  
+  <string name="spoken_accented_letter_017A">"‏Z, הטעמה עלית"</string>
+  
+  <string name="spoken_accented_letter_017C">"‏Z, נקודה מעל"</string>
+  
+  <string name="spoken_accented_letter_017E">"‏Z, וי קטן"</string>
+  
+  <string name="spoken_accented_letter_017F">"‏S ארוכה"</string>
+  
+  <string name="spoken_accented_letter_01A1">"‏O, קרן"</string>
+  
+  <string name="spoken_accented_letter_01B0">"‏U, קרן"</string>
+  
+  <string name="spoken_accented_letter_0219">"‏S, פסיק מתחת"</string>
+  
+  <string name="spoken_accented_letter_021B">"‏T, פסיק מתחת"</string>
+  
+  <string name="spoken_accented_letter_0259">"Schwa"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"‏A, נקודה מתחת"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"‏A, קרס מעל"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"‏A, גג והטעמה עלית"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"‏A, גג והטעמה משנית"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"‏A, גג וקרס מעל"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"‏A, גג וטילדה"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"‏A, גג ונקודה מתחת"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"‏A, ברווה והטעמה עלית"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"‏A, ברווה והטעמה משנית"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"‏A, ברווה וקרס מעל"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"‏A, ברווה וטילדה"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"‏A, ברווה ונקודה מתחת"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"‏E, נקודה מתחת"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"‏E, קרס מעל"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"‏E, טילדה"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"‏E, גג והטעמה עלית"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"‏E, גג והטעמה משנית"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"‏E, גג וקרס מעל"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"‏E, גג וטילדה"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"‏E, גג ונקודה מתחת"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"‏I, קרס מעל"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"‏I, נקודה מתחת"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"‏O, נקודה מתחת"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"‏O, קרס מעל"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"‏O, גג והטעמה עלית"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"‏O, גג והטעמה משנית"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"‏O, גג וקרס מעל"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"‏O, גג וטילדה"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"‏O, גג ונקודה מתחת"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"‏O, קרן והטעמה עלית"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"‏O, קרן והטעמה משנית"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"‏O, קרן וקרס מעל"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"‏O, קרן וטילדה"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"‏O, קרן ונקודה מתחת"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"‏U, נקודה מתחת"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"‏U, קרס מעל"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"‏U, קרן והטעמה עלית"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"‏U, קרן והטעמה משנית"</string>
+  
+  <string name="spoken_accented_letter_1EED">"‏U, קרן וקרס מעל"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"‏U, קרן וטילדה"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"‏U, קרן ונקודה מתחת"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"‏Y, הטעמה משנית"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"‏Y, נקודה מתחת"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"‏Y, קרס מעל"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"‏Y, טילדה"</string>
+  
+  <string name="spoken_symbol_00A1">"סימן קריאה הפוך"</string>
+  
+  <string name="spoken_symbol_00AB">"סימן ציטוט זוויתי כפול הפונה שמאלה"</string>
+  
+  <string name="spoken_symbol_00B7">"נקודה אמצעית"</string>
+  
+  <string name="spoken_symbol_00B9">"אחד בכתב עלי"</string>
+  
+  <string name="spoken_symbol_00BB">"סימן ציטוט זוויתי כפול הפונה ימינה"</string>
+  
+  <string name="spoken_symbol_00BF">"סימן שאלה הפוך"</string>
+  
+  <string name="spoken_symbol_2018">"גרש שמאלי יחיד"</string>
+  
+  <string name="spoken_symbol_2019">"גרש ימני יחיד"</string>
+  
+  <string name="spoken_symbol_201A">"גרש יחיד תחתון"</string>
+  
+  <string name="spoken_symbol_201C">"מירכאות כפולות שמאליות"</string>
+  
+  <string name="spoken_symbol_201D">"מירכאות כפולות ימניות"</string>
+  
+  <string name="spoken_symbol_2020">"צלבון"</string>
+  
+  <string name="spoken_symbol_2021">"צלבון כפול"</string>
+  
+  <string name="spoken_symbol_2030">"סימן פרומיל"</string>
+  
+  <string name="spoken_symbol_2032">"Prime"</string>
+  
+  <string name="spoken_symbol_2033">"‏Prime כפול"</string>
+  
+  <string name="spoken_symbol_2039">"סימן ציטוט זוויתי יחיד הפונה שמאלה"</string>
+  
+  <string name="spoken_symbol_203A">"סימן ציטוט זוויתי יחיד הפונה ימינה"</string>
+  
+  <string name="spoken_symbol_2074">"ארבע בכתב עלי"</string>
+  
+  <string name="spoken_symbol_207F">"‏n לטינית קטנה בכתב עלי"</string>
+  
+  <string name="spoken_symbol_20B1">"סימן פזו"</string>
+  
+  <string name="spoken_symbol_2105">"סימן \"לכבוד\""</string>
+  
+  <string name="spoken_symbol_2192">"חץ ימינה"</string>
+  
+  <string name="spoken_symbol_2193">"חץ מטה"</string>
+  
+  <string name="spoken_symbol_2205">"Empty Set"</string>
+  
+  <string name="spoken_symbol_2206">"הגדל"</string>
+  
+  <string name="spoken_symbol_2264">"קטן מ- או שווה ל-"</string>
+  
+  <string name="spoken_symbol_2265">"גדול מ- או שווה ל-"</string>
+  
+  <string name="spoken_symbol_2605">"כוכב שחור"</string>
+</resources>

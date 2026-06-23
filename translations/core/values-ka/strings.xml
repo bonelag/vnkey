@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="english_ime_input_options">"შეყვანის მეთოდები"</string>
+  
+  <string name="vibrate_on_keypress">"ვიბრაცია კლავიშზე დაჭერისას"</string>
+  
+  <string name="sound_on_keypress">"ხმა კლავიშზე დაჭერისას"</string>
+  
+  <string name="popup_on_keypress">"გადიდება ღილაკზე დაჭერისას"</string>
+  
+  <string name="show_language_switch_key">"ენის გადართვის კლავიში"</string>
+  
+  <string name="abbreviation_unit_milliseconds">&lt;string name="abbreviation_unit_milliseconds" msgid="3255301845626146979"&gt;&amp;quot;&lt;xliff:g id="MILLISECONDS"&gt;%s&lt;/xliff:g&gt;მწმ&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="use_personalized_dicts">"პერსონალიზებული შეთავაზებები"</string>
+  
+  <string name="use_double_space_period">"წერტილი ორმაგი შორისით"</string>
+  
+  <string name="use_double_space_period_summary">"შორისზე ორჯერ შეხება დაწერს წერტილს და შორისის სიმბოლოს"</string>
+  
+  <string name="auto_cap">"ავტო-კაპიტალიზაცია"</string>
+  
+  <string name="auto_cap_summary">"ყოველი წინადადების პირველი სიტყვის კაპიტალიზაცია"</string>
+  
+  <string name="edit_personal_dictionary">"პერსონალური ლექსიკონი"</string>
+  
+  <string name="prefs_show_suggestions">"კორექციის შეთავაზებების ჩვენება"</string>
+  
+  <string name="prefs_show_suggestions_summary">"წერისას შეთავაზებული სიტყვების ჩვენება"</string>
+  
+  <string name="prefs_block_potentially_offensive_title">"შეურაცხმყოფელი სიტყვების დაბლოკვა"</string>
+  
+  <string name="prefs_block_potentially_offensive_summary">"არ მოხდეს პოტენციურად შეურაცხმყოფელი სიტყვების შეთავაზება"</string>
+  
+  <string name="auto_correction">"ავტოკორექცია"</string>
+  
+  <string name="auto_correction_summary">"შორისი და პუნქტუაცია ავტომატურად ასწორებს არასწორად აკრეფილ სიტყვებს"</string>
+  
+  <string name="bigram_prediction">"შემდეგი სიტყვის შეთავაზებები"</string>
+  
+  <string name="bigram_prediction_summary">"შეთავაზებებისას წინა სიტყვის გამოყენება"</string>
+  
+  <string name="language_selection_title">"ენები"</string>
+  
+  <string name="select_language">"ენები"</string>
+  
+  <string name="subtype_en_GB">"ინგლისური (გართ. სამ.)"</string>
+  
+  <string name="subtype_en_US">"ინგლისური (აშშ)"</string>
+  
+  <string name="subtype_es_US">"ესპანური (აშშ)"</string>
+  
+  <string name="subtype_hi_ZZ">"ჰინგლისური"</string>
+  
+  <string name="subtype_sr_ZZ">"სერბული (ლათინური)"</string>
+  
+  <string name="subtype_with_layout_en_GB">&lt;string name="subtype_with_layout_en_GB" msgid="4220344684463778660"&gt;&amp;quot;ინგლისური (გაერთ.სამ.) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_en_US">&lt;string name="subtype_with_layout_en_US" msgid="4599421650961912769"&gt;&amp;quot;ინგლისური (აშშ) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_es_US">&lt;string name="subtype_with_layout_es_US" msgid="6866331205974243592"&gt;&amp;quot;ესპანური (აშშ) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_hi_ZZ">&lt;string name="subtype_with_layout_hi_ZZ" msgid="5439623653083985558"&gt;&amp;quot;ჰინგლისური (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_sr_ZZ">&lt;string name="subtype_with_layout_sr_ZZ" msgid="546465971819327060"&gt;&amp;quot;სერბული (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_traditional">&lt;string name="subtype_generic_traditional" msgid="5321023815277210849"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (ტრადიციული)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_compact">&lt;string name="subtype_generic_compact" msgid="2858514299576793292"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (კომპაქტური)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_no_language">"ენის გარეშე (ლათინური ანბანი)"</string>
+  
+  <string name="subtype_no_language_qwerty">"ლათ. ანბანი (QWERTY)"</string>
+  
+  <string name="subtype_no_language_qwertz">"ანბანი (QWERTZ)"</string>
+  
+  <string name="subtype_no_language_azerty">"ანბანი (AZERTY)"</string>
+  
+  <string name="subtype_no_language_dvorak">"ანბანი (Dvorak)"</string>
+  
+  <string name="subtype_no_language_colemak">"ანბანი (Colemak)"</string>
+  
+  <string name="subtype_no_language_pcqwerty">"ანბანი (PC)"</string>
+  
+  <string name="subtype_emoji">"სიცილაკები"</string>
+  
+  <string name="cancel">"გაუქმება"</string>
+  
+  <string name="go_to_settings">"პარამეტრები"</string>
+  
+  <string name="install_dict">"ინსტალაცია"</string>
+  
+  <string name="cancel_download_dict">"გაუქმება"</string>
+  
+  <string name="user_dict_settings_add_menu_title">"დამატება"</string>
+  
+  <string name="user_dict_settings_add_dialog_title">"ლექსიკონში დამატება"</string>
+  
+  <string name="user_dict_settings_add_screen_title">"ფრაზა"</string>
+  
+  <string name="user_dict_settings_add_dialog_more_options">"მეტი ვარიანტები"</string>
+  
+  <string name="user_dict_settings_add_dialog_less_options">"ნაკლები ვარიანტები"</string>
+  
+  <string name="user_dict_settings_add_dialog_confirm">"კარგი"</string>
+  
+  <string name="user_dict_settings_add_word_option_name">"სიტყვა:"</string>
+  
+  <string name="user_dict_settings_add_shortcut_option_name">"მალსახმობი:"</string>
+  
+  <string name="user_dict_settings_add_locale_option_name">"ენა:"</string>
+  
+  <string name="user_dict_settings_add_word_hint">"შიყვანეთ სიტყვა"</string>
+  
+  <string name="user_dict_settings_add_shortcut_hint">"არასავალდებულო მალსა"</string>
+  
+  <string name="user_dict_settings_edit_dialog_title">"სიტყვის შესწორება"</string>
+  
+  <string name="user_dict_settings_context_menu_edit_title">"რედაქტირება"</string>
+  
+  <string name="user_dict_settings_context_menu_delete_title">"წაშლა"</string>
+  
+  <string name="user_dict_settings_empty_text">"მომხმარებლის ლექსიკონში სიტყვები არ არის. სიტყვის დასამატებლად, შეეხეთ დამატების (+) ღილაკს."</string>
+  
+  <string name="user_dict_settings_all_languages">"ყველა ენისთვის"</string>
+  
+  <string name="user_dict_settings_more_languages">"სხვა ენები…"</string>
+  
+  <string name="user_dict_settings_delete">"წაშლა"</string>
+  
+  <string name="user_dict_fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+</resources>

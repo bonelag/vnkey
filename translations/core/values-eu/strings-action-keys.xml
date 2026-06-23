@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">"Joan"</string>
+  
+  <string name="label_next_key">"Hurrengoa"</string>
+  
+  <string name="label_previous_key">"Atzera"</string>
+  
+  <string name="label_done_key">"Eginda"</string>
+  
+  <string name="label_send_key">"Bidali"</string>
+  
+  <string name="label_search_key">"Bilatu"</string>
+  
+  <string name="label_pause_key">"Pausatu"</string>
+  
+  <string name="label_wait_key">"Itxaron"</string>
+</resources>

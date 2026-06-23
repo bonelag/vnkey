@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"เครื่องหมายกำกับเลขลำดับนามเพศหญิง"</string>
+  
+  <string name="spoken_accented_letter_00B5">"สัญลักษณ์ไมโคร"</string>
+  
+  <string name="spoken_accented_letter_00BA">"เครื่องหมายกำกับเลขลำดับนามเพศชาย"</string>
+  
+  <string name="spoken_accented_letter_00DF">"S ชาร์ป"</string>
+  
+  <string name="spoken_accented_letter_00E0">"A เติมเกรฟ"</string>
+  
+  <string name="spoken_accented_letter_00E1">"A เติมอะคิวต์"</string>
+  
+  <string name="spoken_accented_letter_00E2">"A เติมเซอร์คัมเฟลกซ์"</string>
+  
+  <string name="spoken_accented_letter_00E3">"A เติมทิลเดอ"</string>
+  
+  <string name="spoken_accented_letter_00E4">"A เติมไดเอเรซิส"</string>
+  
+  <string name="spoken_accented_letter_00E5">"A เติมริงด้านบน"</string>
+  
+  <string name="spoken_accented_letter_00E6">"อักษรรวม A กับ E"</string>
+  
+  <string name="spoken_accented_letter_00E7">"C เติมซิดิลลา"</string>
+  
+  <string name="spoken_accented_letter_00E8">"E เติมเกรฟ"</string>
+  
+  <string name="spoken_accented_letter_00E9">"E เติมอะคิวต์"</string>
+  
+  <string name="spoken_accented_letter_00EA">"E เติมเซอร์คัมเฟลกซ์"</string>
+  
+  <string name="spoken_accented_letter_00EB">"E เติมไดเอเรซิส"</string>
+  
+  <string name="spoken_accented_letter_00EC">"I เติมเกรฟ"</string>
+  
+  <string name="spoken_accented_letter_00ED">"I เติมอะคิวต์"</string>
+  
+  <string name="spoken_accented_letter_00EE">"I เติมเซอร์คัมเฟลกซ์"</string>
+  
+  <string name="spoken_accented_letter_00EF">"I เติมไดเอเรซิส"</string>
+  
+  <string name="spoken_accented_letter_00F0">"Eth"</string>
+  
+  <string name="spoken_accented_letter_00F1">"N เติมทิลเดอ"</string>
+  
+  <string name="spoken_accented_letter_00F2">"O เติมเกรฟ"</string>
+  
+  <string name="spoken_accented_letter_00F3">"O เติมอะคิวต์"</string>
+  
+  <string name="spoken_accented_letter_00F4">"O เติมเซอร์คัมเฟลกซ์"</string>
+  
+  <string name="spoken_accented_letter_00F5">"O เติมทิลเดอ"</string>
+  
+  <string name="spoken_accented_letter_00F6">"O เติมไดเอเรซิส"</string>
+  
+  <string name="spoken_accented_letter_00F8">"O เติมสโตรก"</string>
+  
+  <string name="spoken_accented_letter_00F9">"U เติมเกรฟ"</string>
+  
+  <string name="spoken_accented_letter_00FA">"U เติมอะคิวต์"</string>
+  
+  <string name="spoken_accented_letter_00FB">"U เติมเซอร์คัมเฟลกซ์"</string>
+  
+  <string name="spoken_accented_letter_00FC">"U เติมไดเอเรซิส"</string>
+  
+  <string name="spoken_accented_letter_00FD">"Y เติมอะคิวต์"</string>
+  
+  <string name="spoken_accented_letter_00FE">"ธอร์น"</string>
+  
+  <string name="spoken_accented_letter_00FF">"Y เติมไดเอเรซิส"</string>
+  
+  <string name="spoken_accented_letter_0101">"A เติมแมครอน"</string>
+  
+  <string name="spoken_accented_letter_0103">"A เติมบรีฟ"</string>
+  
+  <string name="spoken_accented_letter_0105">"A เติมออกอแนก"</string>
+  
+  <string name="spoken_accented_letter_0107">"C เติมอะคิวต์"</string>
+  
+  <string name="spoken_accented_letter_0109">"C เติมเซอร์คัมเฟลกซ์"</string>
+  
+  <string name="spoken_accented_letter_010B">"C เติมจุดด้านบน"</string>
+  
+  <string name="spoken_accented_letter_010D">"C เติมแครอน"</string>
+  
+  <string name="spoken_accented_letter_010F">"D เติมแครอน"</string>
+  
+  <string name="spoken_accented_letter_0111">"D เติมสโตรก"</string>
+  
+  <string name="spoken_accented_letter_0113">"อี เติมแมครอน"</string>
+  
+  <string name="spoken_accented_letter_0115">"อี เติมบรีฟ"</string>
+  
+  <string name="spoken_accented_letter_0117">"E เติมจุดด้านบน"</string>
+  
+  <string name="spoken_accented_letter_0119">"E เติมออกอแนก"</string>
+  
+  <string name="spoken_accented_letter_011B">"E เติมแครอน"</string>
+  
+  <string name="spoken_accented_letter_011D">"G เติมเซอร์คัมเฟลกซ์"</string>
+  
+  <string name="spoken_accented_letter_011F">"G เติมบรีฟ"</string>
+  
+  <string name="spoken_accented_letter_0121">"G เติมจุดด้านบน"</string>
+  
+  <string name="spoken_accented_letter_0123">"G เติมซิดิลลา"</string>
+  
+  <string name="spoken_accented_letter_0125">"H เติมเซอร์คัมเฟลกซ์"</string>
+  
+  <string name="spoken_accented_letter_0127">"H เติมสโตรก"</string>
+  
+  <string name="spoken_accented_letter_0129">"I เติมทิลเดอ"</string>
+  
+  <string name="spoken_accented_letter_012B">"I เติมแมครอน"</string>
+  
+  <string name="spoken_accented_letter_012D">"I เติมบรีฟ"</string>
+  
+  <string name="spoken_accented_letter_012F">"I เติมออกอแนก"</string>
+  
+  <string name="spoken_accented_letter_0131">"I ไม่มีจุด"</string>
+  
+  <string name="spoken_accented_letter_0133">"อักษรรวม I กับ J"</string>
+  
+  <string name="spoken_accented_letter_0135">"J เติมเซอร์คัมเฟลกซ์"</string>
+  
+  <string name="spoken_accented_letter_0137">"K เติมซิดิลลา"</string>
+  
+  <string name="spoken_accented_letter_0138">"Kra"</string>
+  
+  <string name="spoken_accented_letter_013A">"L เติมอะคิวต์"</string>
+  
+  <string name="spoken_accented_letter_013C">"L เติมซิดิลลา"</string>
+  
+  <string name="spoken_accented_letter_013E">"L เติมแครอน"</string>
+  
+  <string name="spoken_accented_letter_0140">"L เติมจุดตรงกลาง"</string>
+  
+  <string name="spoken_accented_letter_0142">"L เติมสโตรก"</string>
+  
+  <string name="spoken_accented_letter_0144">"N เติมอะคิวต์"</string>
+  
+  <string name="spoken_accented_letter_0146">"N เติมซิดิลลา"</string>
+  
+  <string name="spoken_accented_letter_0148">"N เติมแครอน"</string>
+  
+  <string name="spoken_accented_letter_0149">"N นำหน้าด้วยเครื่องหมายอะพอสทรอฟี"</string>
+  
+  <string name="spoken_accented_letter_014B">"Eng"</string>
+  
+  <string name="spoken_accented_letter_014D">"O เติมแมครอน"</string>
+  
+  <string name="spoken_accented_letter_014F">"O เติมบรีฟ"</string>
+  
+  <string name="spoken_accented_letter_0151">"O เติมอะคิวต์คู่"</string>
+  
+  <string name="spoken_accented_letter_0153">"อักษรรวม O กับ E"</string>
+  
+  <string name="spoken_accented_letter_0155">"R เติมอะคิวต์"</string>
+  
+  <string name="spoken_accented_letter_0157">"R เติมซิดิลลา"</string>
+  
+  <string name="spoken_accented_letter_0159">"R เติมแครอน"</string>
+  
+  <string name="spoken_accented_letter_015B">"S เติมอะคิวต์"</string>
+  
+  <string name="spoken_accented_letter_015D">"S เติมเซอร์คัมเฟลกซ์"</string>
+  
+  <string name="spoken_accented_letter_015F">"S เติมซิดิลลา"</string>
+  
+  <string name="spoken_accented_letter_0161">"S เติมแครอน"</string>
+  
+  <string name="spoken_accented_letter_0163">"T เติมซิดิลลา"</string>
+  
+  <string name="spoken_accented_letter_0165">"T เติมแครอน"</string>
+  
+  <string name="spoken_accented_letter_0167">"T เติมสโตรก"</string>
+  
+  <string name="spoken_accented_letter_0169">"U เติมทิลเดอ"</string>
+  
+  <string name="spoken_accented_letter_016B">"U เติมแมครอน"</string>
+  
+  <string name="spoken_accented_letter_016D">"U เติมบรีฟ"</string>
+  
+  <string name="spoken_accented_letter_016F">"U เติมริงด้านบน"</string>
+  
+  <string name="spoken_accented_letter_0171">"U เติมอะคิวต์คู่"</string>
+  
+  <string name="spoken_accented_letter_0173">"U เติมออกอแนก"</string>
+  
+  <string name="spoken_accented_letter_0175">"W เติมเซอร์คัมเฟลกซ์"</string>
+  
+  <string name="spoken_accented_letter_0177">"Y เติมเซอร์คัมเฟลกซ์"</string>
+  
+  <string name="spoken_accented_letter_017A">"Z เติมอะคิวต์"</string>
+  
+  <string name="spoken_accented_letter_017C">"Z เติมจุดด้านบน"</string>
+  
+  <string name="spoken_accented_letter_017E">"Z เติมแครอน"</string>
+  
+  <string name="spoken_accented_letter_017F">"S ยาว"</string>
+  
+  <string name="spoken_accented_letter_01A1">"O เติมฮอร์น"</string>
+  
+  <string name="spoken_accented_letter_01B0">"U เติมฮอร์น"</string>
+  
+  <string name="spoken_accented_letter_0219">"S เติมจุลภาคด้านล่าง"</string>
+  
+  <string name="spoken_accented_letter_021B">"T เติมจุลภาคด้านล่าง"</string>
+  
+  <string name="spoken_accented_letter_0259">"ชวา"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"A เติมจุดด้านล่าง"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"A เติมฮุกด้านบน"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"A เติมเซอร์คัมเฟลกซ์และอะคิวต์"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"A เติมเซอร์คัมเฟลกซ์และเกรฟ"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"A เติมเซอร์คัมเฟลกซ์และฮุกด้านบน"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"A เติมเซอร์คัมเฟลกซ์และทิลเดอ"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"A เติมเซอร์คัมเฟลกซ์และจุดด้านล่าง"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"B เติมบรีฟและเกรฟ"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"A เติมบรีฟและเกรฟ"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"A เติมบรีฟและฮุกด้านบน"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"A เติมบรีฟและทิลเดอ"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"A เติมบรีฟและจุดด้านล่าง"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"E เติมจุดด้านล่าง"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"E เติมฮุกด้านบน"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"E เติมทิลเดอ"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"E เติมเซอร์คัมเฟลกซ์และอะคิวต์"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"E เติมเซอร์คัมเฟลกซ์และเกรฟ"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"E เติมเซอร์คัมเฟลกซ์และฮุกด้านบน"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"E เติมเซอร์คัมเฟลกซ์และทิลเดอ"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"E เติมเซอร์คัมเฟลกซ์และจุดด้านล่าง"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"I เติมฮุกด้านบน"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"I เติมจุดด้านล่าง"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"O เติมจุดด้านล่าง"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"O เติมฮุกด้านบน"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"O เติมเซอร์คัมเฟลกซ์และอะคิวต์"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"O เติมเซอร์คัมเฟลกซ์และเกรฟ"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"O เติมเซอร์คัมเฟลกซ์และฮุกด้านบน"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"O เติมเซอร์คัมเฟลกซ์และทิลเดอ"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"O เติมเซอร์คัมเฟลกซ์และจุดด้านล่าง"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"O เติมฮอร์นและอะคิวต์"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"O เติมฮอร์นและเกรฟ"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"O เติมฮอร์นและฮุกด้านบน"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"O เติมฮอร์นและทิวเดอ"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"O เติมฮอร์นและจุดด้านล่าง"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"U เติมจุดด้านล่าง"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"U เติมฮุกด้านบน"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"U เติมฮอร์นและอะคิวต์"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"U เติมฮอร์นและเกรฟ"</string>
+  
+  <string name="spoken_accented_letter_1EED">"U เติมฮอร์นและฮุกด้านบน"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"U เติมฮอร์นและทิลเดอ"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"U เติมฮอร์นและจุดด้านล่าง"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"Y เติมเกรฟ"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"Y เติมจุดด้านล่าง"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"Y เติมฮุกด้านบน"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"Y เติมทิลเดอ"</string>
+  
+  <string name="spoken_symbol_00A1">"เครื่องหมายอัศเจรีย์คว่ำ"</string>
+  
+  <string name="spoken_symbol_00AB">"เครื่องหมายคำพูดสองขีดชี้ไปทางด้านซ้าย"</string>
+  
+  <string name="spoken_symbol_00B7">"จุดตรงกลาง"</string>
+  
+  <string name="spoken_symbol_00B9">"เลขหนึ่งแบบตัวยก"</string>
+  
+  <string name="spoken_symbol_00BB">"เครื่องหมายคำพูดสองขีดชี้ไปทางด้านขวา"</string>
+  
+  <string name="spoken_symbol_00BF">"เครื่องหมายคำถามคว่ำ"</string>
+  
+  <string name="spoken_symbol_2018">"เครื่องหมายคำพูดขีดเดียวทางด้านซ้าย"</string>
+  
+  <string name="spoken_symbol_2019">"เครื่องหมายคำพูดขีดเดียวทางด้านขวา"</string>
+  
+  <string name="spoken_symbol_201A">"เครื่องหมายคำพูดเลขเก้าต่ำขีดเดียว"</string>
+  
+  <string name="spoken_symbol_201C">"เครื่องหมายคำพูดสองขีดทางด้านซ้าย"</string>
+  
+  <string name="spoken_symbol_201D">"เครื่องหมายคำพูดสองขีดทางด้านขวา"</string>
+  
+  <string name="spoken_symbol_2020">"เครื่องหมายกริช"</string>
+  
+  <string name="spoken_symbol_2021">"เครื่องหมายกริชคู่"</string>
+  
+  <string name="spoken_symbol_2030">"สัญลักษณ์พันละ"</string>
+  
+  <string name="spoken_symbol_2032">"สัญลักษณ์ไพร์ม"</string>
+  
+  <string name="spoken_symbol_2033">"สัญลักษณ์ไพร์มคู่"</string>
+  
+  <string name="spoken_symbol_2039">"เครื่องหมายคำพูดขีดเดียวชี้ไปทางด้านซ้าย"</string>
+  
+  <string name="spoken_symbol_203A">"เครื่องหมายคำพูดขีดเดียวชี้ไปทางด้านขวา"</string>
+  
+  <string name="spoken_symbol_2074">"เลขสี่แบบตัวยก"</string>
+  
+  <string name="spoken_symbol_207F">"อักษรละติน n เล็กแบบตัวยก"</string>
+  
+  <string name="spoken_symbol_20B1">"สัญลักษณ์เปโซ"</string>
+  
+  <string name="spoken_symbol_2105">"Care of"</string>
+  
+  <string name="spoken_symbol_2192">"ลูกศรชี้ไปทางขวา"</string>
+  
+  <string name="spoken_symbol_2193">"ลูกศรชี้ลง"</string>
+  
+  <string name="spoken_symbol_2205">"เซตว่าง"</string>
+  
+  <string name="spoken_symbol_2206">"การเพิ่ม"</string>
+  
+  <string name="spoken_symbol_2264">"น้อยกว่าหรือเท่ากับ"</string>
+  
+  <string name="spoken_symbol_2265">"มากกว่าหรือเท่ากับ"</string>
+  
+  <string name="spoken_symbol_2605">"ดาวสีดำ"</string>
+</resources>

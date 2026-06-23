@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+  <string name="stop_recording">録音停止</string>
+  
+  <string name="try_saying_something">何か言ってみてください</string>
+  
+  <string name="no_audio_detected_is_your_microphone_blocked">音声が検出されませんでした。マイク権限がブロックされていませんか？</string>
+  
+  <string name="listening">聞き取り中…</string>
+  
+  <string name="grant_microphone_permission_to_use_voice_input">音声入力を使用するにはマイク権限を許可してください</string>
+  <string name="open_voice_input_settings">音声入力設定を開く</string>
+  
+  <string name="extracting_features">機能抽出中…</string>
+  
+  <string name="loading_model">モデルを読み込み中…</string>
+  
+  <string name="decoding">デコード開始…</string>
+  
+  <string name="switching_model">言語切り替え中…</string>
+  
+  <string name="processing">処理中…</string>
+  
+  <string name="initializing">初期化中…</string>
+  
+  <string name="tiny_en_name">英語-39 (既定値)</string>
+  
+  <string name="base_en_name">英語-74 (遅いが、より正確)</string>
+  
+  <string name="small_en_name">英語-244 (遅い)</string>
+  
+  <string name="tiny_name">多言語-39 (正確度低め)</string>
+  
+  <string name="base_name">多言語-74 (既定値)</string>
+  
+  <string name="small_name">多言語-244 (遅い)</string>
+  
+  <string name="using_bluetooth_mic">Bluetooth マイクを使用中 (%1$s)</string>
+  
+  <string name="using_built_in_mic">内蔵マイク(%1$s)を使用中</string>
+  <!--
+    Occurs when the model is corrupted, or loading failed for some other unknown reason,
+    usually the fix is to re-download the model and re-import it. For example this may happen
+    when the model is imported before the file is finished downloading
+  -->
+  <string name="model_load_error">モデルの読み込みに失敗しました。ファイルが破損しているか、不完全な可能性があります。デフォルト設定に戻すか、再度ダウンロードしてください。</string>
+</resources>

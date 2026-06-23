@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    
+    <string name="symbols_preceded_by_space">;:!?</string>
+    
+    <string name="symbols_followed_by_space">.,;:!?)]}</string>
+    
+    <string name="symbols_clustering_together">!?</string>
+    
+    
+    <string name="symbols_word_separators">"&#x0009;&#x0020;&#x000A;&#x00A0;"()[]{}*&amp;&lt;&gt;+=|.,;:!?/_\"-#$`\\%&#x00bf;&#x00a1;&#x00bf;&#x2014;&#x2013;&#x201e;&#x201c;&#x201d;&#x00ab;&#x00bb;&#x2039;&#x203a;&#x2026;~</string>
+    
+    <string name="symbols_word_connectors">\'</string>
+</resources>

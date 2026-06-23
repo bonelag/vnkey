@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="english_ime_input_options">"אפשרויות קלט"</string>
+  
+  <string name="vibrate_on_keypress">"רטט בלחיצה על מקשים"</string>
+  
+  <string name="sound_on_keypress">"צלילים בעת לחיצה על מקשים"</string>
+  
+  <string name="popup_on_keypress">"חלון קופץ בלחיצה על מקש"</string>
+  
+  <string name="show_language_switch_key">"מתג החלפת שפה"</string>
+  
+  <string name="abbreviation_unit_milliseconds">&lt;string name="abbreviation_unit_milliseconds" msgid="3255301845626146979"&gt;&amp;quot;&lt;xliff:g id="MILLISECONDS"&gt;%s&lt;/xliff:g&gt; אלפ\' שניה&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="use_personalized_dicts">"הצעות מותאמות אישית"</string>
+  
+  <string name="use_double_space_period">"רווח כפול לנקודה"</string>
+  
+  <string name="use_double_space_period_summary">"הקשה פעמיים על מקש הרווח מזינה נקודה ואחריה רווח"</string>
+  
+  <string name="auto_cap">"אותיות רישיות באופן אוטומטי"</string>
+  
+  <string name="auto_cap_summary">"השתמש באות גדולה במילה הראשונה של כל משפט"</string>
+  
+  <string name="edit_personal_dictionary">"מילון אישי"</string>
+  
+  <string name="prefs_show_suggestions">"הצג הצעות לתיקונים"</string>
+  
+  <string name="prefs_show_suggestions_summary">"הצג הצעות למילים בעת הקלדה"</string>
+  
+  <string name="prefs_block_potentially_offensive_title">"חסימת מילים פוגעניות"</string>
+  
+  <string name="prefs_block_potentially_offensive_summary">"אל תציע מילים שעלולות להיות פוגעניות"</string>
+  
+  <string name="auto_correction">"תיקון אוטומטי"</string>
+  
+  <string name="auto_correction_summary">"מקש הרווח ופיסוק מתקנים אוטומטית שגיאות הקלדה"</string>
+  
+  <string name="bigram_prediction">"הצעות למילה הבאה"</string>
+  
+  <string name="bigram_prediction_summary">"השתמש במילה הקודמת ביצירת הצעות"</string>
+  
+  <string name="language_selection_title">"שפות"</string>
+  
+  <string name="select_language">"שפות"</string>
+  
+  <string name="subtype_en_GB">"אנגלית (בריטניה)"</string>
+  
+  <string name="subtype_en_US">"אנגלית (ארה\"ב)"</string>
+  
+  <string name="subtype_es_US">"ספרדית (ארצות הברית)"</string>
+  
+  <string name="subtype_hi_ZZ">"אנגלית הודית"</string>
+  
+  <string name="subtype_sr_ZZ">"סרבית (באותיות לטיניות)"</string>
+  
+  <string name="subtype_with_layout_en_GB">&lt;string name="subtype_with_layout_en_GB" msgid="4220344684463778660"&gt;&amp;quot;אנגלית (בריטניה)‏ (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_en_US">&lt;string name="subtype_with_layout_en_US" msgid="4599421650961912769"&gt;&amp;quot;אנגלית (ארה\&amp;quot;ב) ‏(&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_es_US">&lt;string name="subtype_with_layout_es_US" msgid="6866331205974243592"&gt;&amp;quot;ספרדית (ארה\&amp;quot;ב) ‏(&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_hi_ZZ">&lt;string name="subtype_with_layout_hi_ZZ" msgid="5439623653083985558"&gt;&amp;quot;אנגלית הודית (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_sr_ZZ">&lt;string name="subtype_with_layout_sr_ZZ" msgid="546465971819327060"&gt;&amp;quot;סרבית (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_traditional">&lt;string name="subtype_generic_traditional" msgid="5321023815277210849"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (מסורתית)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_compact">&lt;string name="subtype_generic_compact" msgid="2858514299576793292"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (קומפקטית)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_no_language">"ללא שפה (אלף-בית)"</string>
+  
+  <string name="subtype_no_language_qwerty">"‏אלף-בית (QWERTY)"</string>
+  
+  <string name="subtype_no_language_qwertz">"‏אלף-בית (QWERTZ)"</string>
+  
+  <string name="subtype_no_language_azerty">"‏אלף-בית (AZERTY)"</string>
+  
+  <string name="subtype_no_language_dvorak">"‏אלף-בית (Dvorak)"</string>
+  
+  <string name="subtype_no_language_colemak">"‏אלף-בית (Colemak)"</string>
+  
+  <string name="subtype_no_language_pcqwerty">"‏אלף-בית (PC)"</string>
+  
+  <string name="subtype_emoji">"אמוג\'י"</string>
+  
+  <string name="cancel">"ביטול"</string>
+  
+  <string name="go_to_settings">"הגדרות"</string>
+  
+  <string name="install_dict">"התקן"</string>
+  
+  <string name="cancel_download_dict">"ביטול"</string>
+  
+  <string name="user_dict_settings_add_menu_title">"הוסף"</string>
+  
+  <string name="user_dict_settings_add_dialog_title">"הוסף למילון"</string>
+  
+  <string name="user_dict_settings_add_screen_title">"ביטוי"</string>
+  
+  <string name="user_dict_settings_add_dialog_more_options">"עוד אפשרויות"</string>
+  
+  <string name="user_dict_settings_add_dialog_less_options">"פחות אפשרויות"</string>
+  
+  <string name="user_dict_settings_add_dialog_confirm">"אישור"</string>
+  
+  <string name="user_dict_settings_add_word_option_name">"מילה:"</string>
+  
+  <string name="user_dict_settings_add_shortcut_option_name">"קיצור דרך:"</string>
+  
+  <string name="user_dict_settings_add_locale_option_name">"שפה:"</string>
+  
+  <string name="user_dict_settings_add_word_hint">"הקלד מילה"</string>
+  
+  <string name="user_dict_settings_add_shortcut_hint">"קיצור דרך אופציונלי"</string>
+  
+  <string name="user_dict_settings_edit_dialog_title">"עריכת מילה"</string>
+  
+  <string name="user_dict_settings_context_menu_edit_title">"עריכה"</string>
+  
+  <string name="user_dict_settings_context_menu_delete_title">"מחק"</string>
+  
+  <string name="user_dict_settings_empty_text">"לא מוגדרות מילים במילון המשתמש. הוסף מילה על ידי הקשה על לחצן \'הוסף\' (+)."</string>
+  
+  <string name="user_dict_settings_all_languages">"לכל השפות"</string>
+  
+  <string name="user_dict_settings_more_languages">"עוד שפות…"</string>
+  
+  <string name="user_dict_settings_delete">"מחק"</string>
+  
+  <string name="user_dict_fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+</resources>

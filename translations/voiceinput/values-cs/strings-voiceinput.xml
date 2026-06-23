@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+  <string name="stop_recording">Zastavit nahrávání</string>
+  
+  <string name="try_saying_something">Zkuste něco říct</string>
+  
+  <string name="no_audio_detected_is_your_microphone_blocked">Nebyl detekován žádný zvuk, nemáte zablokovaný mikrofon?</string>
+  
+  <string name="listening">Poslouchám…</string>
+  
+  <string name="grant_microphone_permission_to_use_voice_input">Pro použití Hlasového vstupu udělte oprávnění k mikrofonu</string>
+  <string name="open_voice_input_settings">Otevřít nastavení Hlasového vstupu</string>
+  
+  <string name="extracting_features">Extrahování funkcí…</string>
+  
+  <string name="loading_model">Načítání modelu…</string>
+  
+  <string name="decoding">Spuštěno dekódování…</string>
+  
+  <string name="switching_model">Přepínání jazyka…</string>
+  
+  <string name="processing">Zpracování…</string>
+  
+  <string name="initializing">Inicializace…</string>
+  
+  <string name="tiny_en_name">Angličtina-39 (výchozí)</string>
+  
+  <string name="base_en_name">Angličtina-74 (pomalejší, přesnější)</string>
+  
+  <string name="small_en_name">Angličtina-244 (pomalá)</string>
+  
+  <string name="tiny_name">Vícejazyčný-39 (méně přesný)</string>
+  
+  <string name="base_name">Vícejazyčný-74 (výchozí)</string>
+  
+  <string name="small_name">Vícejazyčný-244 (pomalý)</string>
+  
+  <string name="using_bluetooth_mic">Používání Bluetooth mikrofonu (%1$s)</string>
+  
+  <string name="using_built_in_mic">Používání vestavěného mikrofonu (%1$s)</string>
+  <!--
+    Occurs when the model is corrupted, or loading failed for some other unknown reason,
+    usually the fix is to re-download the model and re-import it. For example this may happen
+    when the model is imported before the file is finished downloading
+  -->
+  <string name="model_load_error">Chyba při načítání modelu. Soubor modelu by mohl být porušený nebo neúplný. Zkuste vrátit nastavení na výchozí hodnotu nebo model stáhnout znovu.</string>
+</resources>

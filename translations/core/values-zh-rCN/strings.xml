@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="english_ime_input_options">"输入选项"</string>
+  
+  <string name="vibrate_on_keypress">"按键振动"</string>
+  
+  <string name="sound_on_keypress">"按键音效"</string>
+  
+  <string name="popup_on_keypress">"按键时弹出显示字符"</string>
+  
+  <string name="show_language_switch_key">"语言切换键"</string>
+  
+  <string name="abbreviation_unit_milliseconds">&lt;string name="abbreviation_unit_milliseconds" msgid="3255301845626146979"&gt;&amp;quot;&lt;xliff:g id="MILLISECONDS"&gt;%s&lt;/xliff:g&gt;毫秒&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="use_personalized_dicts">"个性化建议"</string>
+  
+  <string name="use_double_space_period">"双击空格插入句号"</string>
+  
+  <string name="use_double_space_period_summary">"双击空格键可插入句号并后跟空格"</string>
+  
+  <string name="auto_cap">"自动大写"</string>
+  
+  <string name="auto_cap_summary">"句首字词大写"</string>
+  
+  <string name="edit_personal_dictionary">"个人字典"</string>
+  
+  <string name="prefs_show_suggestions">"显示更正建议"</string>
+  
+  <string name="prefs_show_suggestions_summary">"键入时显示建议的字词"</string>
+  
+  <string name="prefs_block_potentially_offensive_title">"屏蔽不文明的字词"</string>
+  
+  <string name="prefs_block_potentially_offensive_summary">"屏蔽可能不文明的字词"</string>
+  
+  <string name="prefs_block_potentially_offensive_tags">脏话，脏话，脏话，脏话，黑名单，过滤，操，操</string>
+  
+  <string name="auto_correction">"自动更正"</string>
+  
+  <string name="auto_correction_summary">"按空格键和标点可自动更正错别字"</string>
+  
+  <string name="auto_correction_tags">自动更正</string>
+  
+  <string name="bigram_prediction">"后续字词建议"</string>
+  
+  <string name="bigram_prediction_summary">"根据上一个字词提供建议"</string>
+  
+  <string name="language_selection_title">"语言"</string>
+  
+  <string name="select_language">"语言"</string>
+  
+  <string name="subtype_en_GB">"英语(英国)"</string>
+  
+  <string name="subtype_en_US">"英语(美国)"</string>
+  
+  <string name="subtype_es_US">"西班牙语（美国）"</string>
+  
+  <string name="subtype_hi_ZZ">"印地英语"</string>
+  <string name="subtype_hi__Latn">印地英语</string>
+  
+  <string name="subtype_sr_ZZ">"塞尔维亚语（拉丁语布局）"</string>
+  <string name="subtype_ipa">国际音标</string>
+  
+  <string name="subtype_with_layout_en_GB">&lt;string name="subtype_with_layout_en_GB" msgid="4220344684463778660"&gt;&amp;quot;英式英语（&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;）&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_en_US">&lt;string name="subtype_with_layout_en_US" msgid="4599421650961912769"&gt;&amp;quot;美式英语（&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;）&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_es_US">&lt;string name="subtype_with_layout_es_US" msgid="6866331205974243592"&gt;&amp;quot;美式西班牙语（&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;）&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_hi_ZZ">&lt;string name="subtype_with_layout_hi_ZZ" msgid="5439623653083985558"&gt;&amp;quot;印地英语（&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;）&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_sr_ZZ">&lt;string name="subtype_with_layout_sr_ZZ" msgid="546465971819327060"&gt;&amp;quot;塞尔维亚语（&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;布局）&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_traditional">&lt;string name="subtype_generic_traditional" msgid="5321023815277210849"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt;（传统）&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_compact">&lt;string name="subtype_generic_compact" msgid="2858514299576793292"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt;（紧凑型）&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_no_language">"无语言（字母）"</string>
+  
+  <string name="subtype_no_language_qwerty">"字母 (QWERTY)"</string>
+  
+  <string name="subtype_no_language_qwertz">"字母 (QWERTZ)"</string>
+  
+  <string name="subtype_no_language_azerty">"字母 (AZERTY)"</string>
+  
+  <string name="subtype_no_language_dvorak">"字母 (Dvorak)"</string>
+  
+  <string name="subtype_no_language_colemak">"字母 (Colemak)"</string>
+  
+  <string name="subtype_no_language_pcqwerty">"字母 (PC)"</string>
+  
+  <string name="subtype_emoji">"表情符号"</string>
+  
+  <string name="cancel">"取消"</string>
+  
+  <string name="go_to_settings">"设置"</string>
+  
+  <string name="install_dict">"安装"</string>
+  
+  <string name="cancel_download_dict">"取消"</string>
+  
+  <string name="user_dict_settings_add_menu_title">"添加"</string>
+  
+  <string name="user_dict_settings_add_dialog_title">"添加到字典"</string>
+  
+  <string name="user_dict_settings_add_screen_title">"词组"</string>
+  
+  <string name="user_dict_settings_add_dialog_more_options">"更多选项"</string>
+  
+  <string name="user_dict_settings_add_dialog_less_options">"隐藏部分选项"</string>
+  
+  <string name="user_dict_settings_add_dialog_confirm">"确定"</string>
+  
+  <string name="user_dict_settings_add_word_option_name">"字词："</string>
+  
+  <string name="user_dict_settings_add_shortcut_option_name">"快捷键："</string>
+  
+  <string name="user_dict_settings_add_locale_option_name">"语言："</string>
+  
+  <string name="user_dict_settings_add_word_hint">"输入字词"</string>
+  
+  <string name="user_dict_settings_add_shortcut_hint">"快捷键（选填）"</string>
+  
+  <string name="user_dict_settings_edit_dialog_title">"修改字词"</string>
+  
+  <string name="user_dict_settings_context_menu_edit_title">"修改"</string>
+  
+  <string name="user_dict_settings_context_menu_delete_title">"删除"</string>
+  
+  <string name="user_dict_settings_empty_text">"用户字典中没有任何字词。要添加字词，请点按“添加”(+) 按钮。"</string>
+  
+  <string name="user_dict_settings_all_languages">"所有语言"</string>
+  
+  <string name="user_dict_settings_more_languages">"更多语言…"</string>
+  
+  <string name="user_dict_settings_delete">"删除"</string>
+  
+  <string name="user_dict_fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+</resources>

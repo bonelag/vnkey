@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">"Pergi"</string>
+  
+  <string name="label_next_key">"Slps"</string>
+  
+  <string name="label_previous_key">"Sblm"</string>
+  
+  <string name="label_done_key">"Siap"</string>
+  
+  <string name="label_send_key">"Hntr"</string>
+  
+  <string name="label_search_key">"Carian"</string>
+  
+  <string name="label_pause_key">"Jeda"</string>
+  
+  <string name="label_wait_key">"Tggu"</string>
+</resources>

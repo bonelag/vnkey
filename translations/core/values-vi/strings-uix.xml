@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="action_theme_switcher_title">Chuyển chủ đề</string>
+  <string name="action_select_all_title">Chọn tất</string>
+  <string name="action_cut_title">Cắt</string>
+  <string name="action_copy_title">Sao chép</string>
+  <string name="action_paste_title">Dán</string>
+  <string name="action_undo_title">Hoàn tác</string>
+  <string name="action_redo_title">Làm lại</string>
+  <string name="action_text_editor_select">Chọn</string>
+  <string name="action_text_editor_title">Sửa văn bản</string>
+  <string name="action_debug_title">Thông tin gỡ lỗi</string>
+  <string name="action_more_actions_title">Tất cả tác vụ</string>
+  <string name="action_bug_viewer_title">Trình xem lỗi</string>
+  
+  <string name="action_cursor_up_title">Mũi tên lên</string>
+  <string name="action_cursor_down_title">Mũi tên xuống</string>
+  <string name="action_cursor_left_title">Mũi tên trái</string>
+  <string name="action_cursor_right_title">Mũi tên phải</string>
+
+  <string name="action_emoji_title">Emoji</string>
+  
+  <string name="action_emoji_category_most_recently_used">Gần đây</string>
+  <string name="action_emoji_category_smileys_emotion">Mặt cười &amp; Cảm xúc</string>
+  <string name="action_emoji_category_people_body">Người &amp; Cơ thể</string>
+  <string name="action_emoji_category_animals_nature">Động vật &amp; Thiên nhiên</string>
+  <string name="action_emoji_category_food_drink">Đồ ăn &amp; Đồ uống</string>
+  <string name="action_emoji_category_travel_places">Du lịch &amp; Địa điểm</string>
+  <string name="action_emoji_category_activities">Hoạt động</string>
+  <string name="action_emoji_category_objects">Đồ vật</string>
+  <string name="action_emoji_category_symbols">Ký hiệu</string>
+  <string name="action_emoji_category_flags">Lá cờ</string>
+  <string name="action_emoji_category_ascii">Biểu tượng ASCII</string>
+  <string name="action_emoji_search_no_results_found">Không tìm thấy kết quả</string>
+  <string name="action_emoji_jump_to_category">Chuyển đến <xliff:g name="category" example="Flags">%s</xliff:g></string>
+  
+  <string name="action_emoji_clear_recent_emojis_question">Xóa emoji gần đây?</string>
+  <string name="action_emoji_clear_recent_emojis_cancel">Hủy</string>
+  <string name="action_emoji_clear_recent_emojis_clear">Xóa</string>
+  <string name="action_emoji_clear_recent_emojis_content_description">Xóa emoji gần đây</string>
+  <string name="action_emoji_search_for_emojis">Tìm kiếm</string>
+
+  <string name="action_voice_input_title">Nhập bằng giọng nói</string>
+  <string name="action_system_voice_input_title">Nhập giọng nói (Hệ thống)</string>
+  <string name="action_voice_input_no_model_for_language_x_installed">Chưa cài mô hình nhập giọng nói cho ngôn ngữ <xliff:g name="language" example="español">%s</xliff:g>, chạm để xem tùy chọn?</string>
+  <string name="action_voice_input_open_settings_button_to_grant_microphone_permission">Vui lòng cấp quyền truy cập Micrô trong Cài đặt hệ thống để sử dụng tính năng này</string>
+
+  <string name="action_clipboard_manager_title">Bảng nhớ tạm</string>
+  <string name="action_clipboard_manager_unpin_item">Bỏ ghim</string>
+  <string name="action_clipboard_manager_pin_item">Ghim</string>
+  <string name="action_clipboard_manager_remove_item">Xóa mục</string>
+  <string name="action_clipboard_manager_remove_item_confirm_dialog">Xác nhận xóa:\n\"%s\"</string>
+  <string name="action_clipboard_manager_remove_item_confirm_dialog_image">Xác nhận xóa hình ảnh</string>
+  
+  <string name="action_clipboard_manager_cancel_action_button">Hủy</string>
+  <string name="action_clipboard_manager_disable_text">Không có mục nào để xóa. Tắt lịch sử bảng nhớ tạm?</string>
+  <string name="action_clipboard_manager_disable_button">Tắt</string>
+  <string name="action_clipboard_manager_unpin_all_items_text">Không có mục chưa ghim nào để xóa. Bỏ ghim toàn bộ mục?</string>
+  <string name="action_clipboard_manager_unpin_all_items_button">Bỏ ghim</string>
+  <string name="action_clipboard_manager_clear_unpinned_items_text">Xóa tất cả mục chưa ghim?</string>
+  <string name="action_clipboard_manager_clear_unpinned_items_button">Xóa</string>
+  <string name="action_clipboard_manager_clear_clipboard">Xóa sạch bảng nhớ tạm</string>
+  <string name="action_clipboard_manager_search">Tìm trong bảng nhớ tạm…</string>
+  <string name="action_clipboard_manager_enter_your_search">Nhập từ khóa cần tìm…</string>
+  <string name="action_clipboard_manager_no_clips_found">Không tìm thấy kết quả</string>
+  <string name="action_clipboard_manager_error_device_locked_title">Thiết bị đang khóa</string>
+  <string name="action_clipboard_manager_error_device_locked_text">Vui lòng mở khóa thiết bị để truy cập lịch sử bảng nhớ tạm</string>
+  <string name="action_clipboard_manager_error_general_title">Lỗi bảng nhớ tạm</string>
+  <string name="action_clipboard_manager_error_general_text">Không thể lưu hoặc tải lịch sử bảng nhớ tạm. Dữ liệu có thể bị lỗi. Bạn hãy thử xóa lịch sử hoặc khởi động lại bàn phím. Vui lòng báo cáo lỗi này. Lý do: %1$s</string>
+  <string name="action_clipboard_manager_delete_corrupted_clipboard_text">Xóa bảng nhớ tạm? MỌI dữ liệu đã lưu sẽ bị mất.</string>
+  <string name="action_clipboard_manager_retry_saving_loading">Thử lại</string>
+  <string name="action_clipboard_manager_inspect_error_via_bugs_action">Kiểm tra lỗi trong Trình xem lỗi</string>
+  <string name="action_clipboard_manager_delete_corrupted_clipboard_button">Xóa</string>
+  <string name="action_clipboard_manager_error_clipboard_history_disabled_title">Lịch sử bảng nhớ tạm đang tắt</string>
+  <string name="action_clipboard_manager_error_clipboard_history_disabled_text_v2">Để lưu trữ tạm thời các nội dung đã sao chép, bạn hãy bật lịch sử bảng nhớ tạm. Tính năng này giúp giữ tối đa <xliff:g id="numItems" example="25">%1$s</xliff:g> mục trong vòng <xliff:g id="numDays" example="3">%2$s</xliff:g> ngày (không áp dụng với mục được ghim). Bạn có thể cấu hình lại trong phần Cài đặt.</string>
+  <string name="action_clipboard_manager_enable_clipboard_history_button">Bật lịch sử bảng nhớ tạm</string>
+  <string name="action_clipboard_manager_error_app_image_insertion_unsupported">Ứng dụng không hỗ trợ chèn hình ảnh</string>
+  <string name="action_clipboard_manager_settings_title">Cài đặt bảng nhớ tạm</string>
+  <string name="action_clipboard_manager_settings_save_images">Lưu hình ảnh đã sao chép</string>
+  <string name="action_clipboard_manager_settings_save_screenshots">Lưu ảnh chụp màn hình gần đây</string>
+  <string name="action_clipboard_manager_settings_save_screenshots_subtitle">Yêu cầu cấp quyền truy cập để tự động lưu ảnh chụp màn hình mới</string>
+  <string name="action_clipboard_manager_settings_hours_to_keep_clips">Số giờ giữ các mục chưa ghim</string>
+  <string name="action_clipboard_manager_settings_maximum_clips">Số lượng mục chưa ghim tối đa được giữ</string>
+  <string name="action_clipboard_manager_settings_save_sensitive_clips">Lưu các mục nhạy cảm</string>
+  <string name="action_clipboard_manager_settings_save_sensitive_clips_subtitle">Nếu bật, app sẽ lưu nội dung từ trình quản lý mật khẩu, tab ẩn danh, v.v.</string>
+  <string name="action_clipboard_manager_settings_list_layout">Hiện danh sách dạng dọc thay vì dạng lưới</string>
+  <string name="action_clipboard_manager_settings_show_pinned_above_others">Giữ các mục đã ghim ở trên cùng</string>
+  <string name="action_clipboard_manager_settings_skip_delete_confirmation">Bỏ qua hộp thoại xác nhận khi xóa mục chưa ghim</string>
+  <string name="action_clipboard_manager_settings_show_quick_clips">Hiện nội dung sao chép gần đây trên thanh gợi ý</string>
+
+  <string name="action_keyboard_modes_title">Chế độ bàn phím</string>
+  <string name="action_keyboard_modes_go_back">Quay lại</string>
+  <string name="action_keyboard_modes_resize_keyboard">Thay đổi kích thước bàn phím</string>
+  <string name="action_keyboard_modes_standard">Tiêu chuẩn</string>
+  <string name="action_keyboard_modes_one_handed">Một tay</string>
+  <string name="action_keyboard_modes_split">Chia đôi</string>
+  <string name="action_keyboard_modes_floating">Nổi</string>
+  <string name="action_keyboard_modes_resizing_reset_size">Đặt lại</string>
+  <string name="action_keyboard_modes_resizing_apply_new_size">Áp dụng</string>
+
+  <string name="action_fonttyper_title">Kiểu chữ nghệ thuật</string>
+  <string name="action_fonttyper_app_unsupported_warning">Ứng dụng này có thể không hỗ trợ chèn ảnh, tính năng có thể hoạt động không đúng.</string>
+  <string name="action_fonttyper_select_a_preset">Chọn mẫu</string>
+  <string name="action_fonttyper_preset_title_scratch">Nét vẽ nguệch ngoạc</string>
+  <string name="action_fonttyper_preset_title_superhero">Siêu anh hùng</string>
+  <string name="action_fonttyper_preset_title_dramatictext">Kịch tính</string>
+  <string name="action_fonttyper_preset_title_candy">Kẹo ngọt</string>
+  <string name="action_fonttyper_preset_title_rainbow">Cầu vồng</string>
+  <string name="action_fonttyper_preset_title_horizon">Chân trời</string>
+  <string name="action_fonttyper_preset_title_opening_crawl">Chữ chạy mở đầu</string>
+  <string name="action_fonttyper_finish">Hoàn tất</string>
+
+  <string name="action_kind_action_key">Phím chức năng</string>
+  <string name="action_kind_pinned_key">Hành động đã ghim</string>
+  <string name="action_kind_favorites">Hành động yêu thích</string>
+  <string name="action_kind_more">Hành động khác</string>
+  <string name="action_kind_disabled">Hành động đã ẩn</string>
+
+  <string name="theme_default_dark">Chế độ tối</string>
+  <string name="theme_default_light">Chế độ sáng</string>
+  <string name="theme_amoled_dark">AMOLED Tối (Tím)</string>
+  <string name="theme_catppuccin_mocha">Catppuccin Mocha</string>
+  <string name="theme_classic_dark">Giao diện AOSP tối</string>
+  <string name="theme_classic_light">Giao diện AOSP sáng</string>
+  <string name="theme_vi">Giao diện FUTO tiếng Việt</string>
+  <string name="theme_deepsea_dark">Biển sâu tối</string>
+  <string name="theme_deepsea_light">Biển sâu sáng</string>
+  <string name="theme_emerald">Lục bảo</string>
+  <string name="theme_gradient1">Chuyển sắc 1</string>
+  <string name="theme_gradient2">Chuyển sắc 2</string>
+  <string name="theme_rainbow">Cầu vồng</string>
+  <string name="theme_snowfall">Tuyết rơi</string>
+  <string name="theme_steel_gray">Xám thép</string>
+  <string name="theme_sunflower">Hướng dương</string>
+  <string name="theme_cotton_candy">Kẹo bông</string>
+  <string name="theme_hotdog">Hot Dog</string>
+  <string name="theme_high_contrast_yellow">Vàng tương phản cao</string>
+  <string name="theme_dev">Giao diện công trường</string>
+  <string name="theme_dynamic_system">Màu động theo hệ thống</string>
+  <string name="theme_dynamic_dark">Màu động tối</string>
+  <string name="theme_dynamic_light">Màu động sáng</string>
+  <string name="theme_custom_named">Tùy chỉnh: %s</string>
+
+  <string name="autoupdater_service_title">Dịch vụ kiểm tra cập nhật</string>
+  <string name="autoupdater_update_available_title">Có bản cập nhật mới</string>
+  <string name="autoupdater_update_available_body">Có bản cập nhật mới (<xliff:g name="versionDiff" example="v1 -> v2">%s</xliff:g>). Chạm để tải xuống</string>
+  <string name="autoupdater_dismiss_update">Đóng</string>
+  <string name="autoupdater_perform_update">Cập nhật</string>
+
+  <string name="keyboard_suggest_blacklist_body">Bạn muốn chặn hiển thị từ gợi ý \"<xliff:g name="wordToBlacklist" example="crane">%s</xliff:g>\"?</string>
+  <string name="keyboard_suggest_add_word_to_blacklist">Chặn gợi ý</string>
+  <string name="keyboard_suggest_disable_emojis">Tắt gợi ý emoji</string>
+  <string name="keyboard_switch_keyboard">Đổi bàn phím</string>
+  <string name="keyboard_language_settings">Cài đặt</string>
+  <string name="keyboard_actionbar_manual_update_check_notice">Chạm để kiểm tra cập nhật, hoặc vào Cài đặt</string>
+  <string name="keyboard_actionbar_no_dictionary_installed_notice">Chưa cài từ điển, chạm để tải xuống?</string>
+
+  <string name="keyboard_actionbar_expand_actions_talkback">Mở thanh công cụ</string>
+  <string name="keyboard_actionbar_collapse_actions_talkback">Đóng thanh công cụ</string>
+  <string name="keyboard_actionbar_more_actions_talkback">Tất cả các tác vụ</string>
+  <string name="keyboard_actionbar_dismiss_important_notice_talkback">Đóng</string>
+  <string name="keyboard_actionbar_return_from_action_window_talkback">Quay lại</string>
+  <string name="keyboard_actionbar_dock_action_window_above_keyboard_talkback">Hiện bàn phím</string>
+  <string name="keyboard_actionbar_close_docked_action_window_talkback">Đóng</string>
+  <string name="keyboard_actionbar_undock_action_window_collapse_into_keyboard_talkback">Thu gọn</string>
+
+  <string name="payment_screen_short_title">Thanh toán</string>
+  <string name="payment_screen_title">Thanh toán VNKey</string>
+  <string name="payment_screen_sales_paragraph_1">Bạn đã sử dụng VNKey được <xliff:g name="days" example="30">%d</xliff:g> ngày. Nếu thấy ứng dụng hữu ích, vui lòng cân nhắc trả phí để ủng hộ chúng tôi tiếp tục phát triển phần mềm FUTO.</string>
+  <string name="payment_screen_sales_paragraph_1_alt">Cảm ơn bạn đã trải nghiệm VNKey! Nếu thấy ứng dụng hữu ích, hãy cân nhắc ủng hộ phí bản quyền để giúp chúng tôi tiếp tục phát triển các phần mềm FUTO.</string>
+  <string name="payment_screen_sales_paragraph_2">FUTO cam kết làm ra những phần mềm tử tế, tôn trọng người dùng. Ứng dụng này sẽ không bao giờ hiển thị quảng cáo hay thu thập dữ liệu cá nhân của bạn.</string>
+  <string name="payment_screen_sales_point_development_title">Phát triển bền vững</string>
+  <string name="payment_screen_sales_point_development_body">Sứ mệnh của FUTO là làm cho phần mềm nguồn mở, không gây hại có thể đem lại doanh thu bền vững cho nhà phát triển. Vì vậy, chúng tôi rất trân trọng khi người dùng thực sự trả phí cho sản phẩm.</string>
+  <string name="payment_screen_sales_point_privacy_title">Tôn trọng quyền riêng tư</string>
+  <string name="payment_screen_sales_point_privacy_body">Ứng dụng này cam kết không bao giờ hiển thị quảng cáo hoặc bán dữ liệu của bạn.</string>
+  <string name="payment_screen_error_build_unsupported_payment">Phiên bản này không hỗ trợ thanh toán trực tiếp</string>
+  <string name="payment_screen_already_paid_title">Đã thanh toán rồi?</string>
+  <string name="payment_screen_already_paid_body">If you already paid for FUTO Keyboard or FUTO Voice Input, tap below.</string>
+  <string name="payment_screen_already_paid_button">Tôi đã trả phí rồi</string>
+  <string name="payment_screen_already_paid_confirmation">Xác nhận lựa chọn</string>
+  <string name="payment_screen_already_paid_confirmation_body">Bạn có chắc chắn muốn xác nhận đã trả phí? Khi đã xác nhận, bạn sẽ không bao giờ bị hỏi lại nữa.</string>
+  <string name="payment_screen_already_paid_confirmation_confirm">Tôi đã trả phí</string>
+  <string name="payment_screen_already_paid_confirmation_cancel">Hủy</string>
+  <string name="payment_screen_set_reminder_title">Chưa muốn trả phí lúc này?</string>
+  <string name="payment_screen_set_reminder_body">Tùy chọn này sẽ tạm ẩn thông báo nhắc nhở trả phí trong cài đặt theo số ngày bạn chọn.</string>
+  <string name="payment_screen_set_reminder_setter">Bạn muốn được nhắc lại khi nào?</string>
+  <string name="payment_screen_set_reminder_setter_7_days">Sau 7 ngày</string>
+  <string name="payment_screen_set_reminder_setter_1_month">Sau 1 tháng</string>
+  <string name="payment_screen_set_reminder_setter_6_months">Sau 6 tháng</string>
+  <string name="payment_screen_set_reminder_setter_next_century">Thế kỷ sau</string>
+  <string name="payment_screen_set_reminder_setter_confirm">Xác nhận nhắc nhở</string>
+  <string name="payment_screen_other_options">Tùy chọn khác</string>
+  <string name="payment_screen_need_help_title">Trợ giúp</string>
+  <string name="payment_screen_need_help_subtitle">Cần hỗ trợ? Truy cập trang web của chúng tôi</string>
+  <string name="payment_screen_pay_via_google">Thanh toán qua Google Play (<xliff:g name="price" example="~$2.99">%s</xliff:g> + thuế)</string>
+  <string name="payment_screen_pay_via_futopay">Thanh toán (<xliff:g name="price" example="~$2.99">%s</xliff:g> + thuế)</string>
+  <string name="payment_screen_pay_via_futopay2">Thanh toán qua FUTO Pay (<xliff:g name="price" example="~$2.99">%s</xliff:g> + thuế)</string>
+  <string name="payment_screen_more_options">Tùy chọn thêm</string>
+  <string name="payment_screen_payment_complete_title">Thanh toán hoàn tất</string>
+  <string name="payment_screen_aftersales_title">Xin cảm ơn</string>
+  <string name="payment_screen_aftersales_title_pending">Đang chờ thanh toán</string>
+  <string name="payment_screen_aftersales_paragraph_1">Xin chân thành cảm ơn bạn đã mua VNKey!</string>
+  <string name="payment_screen_aftersales_paragraph_2">Sự ủng hộ của bạn sẽ giúp VNKey và các dự án khác của FUTO tiếp tục phát triển.</string>
+  <string name="payment_screen_aftersales_paragraph_2_pending">Giao dịch của bạn đang chờ xác nhận, nó sẽ sớm được hoàn tất.</string>
+  <string name="payment_screen_aftersales_paragraph_3">Nếu bạn vừa thanh toán, giao dịch có thể đang được xử lý. Bạn sẽ nhận được email hướng dẫn chi tiết.</string>
+  <string name="payment_screen_payment_failed_title">Giao dịch không thành công</string>
+  <string name="payment_screen_payment_failed_body">Vì lý do nào đó, thanh toán của bạn chưa thành công. Hãy liên hệ với chúng tôi qua email keyboard@futo.org bằng nút bên dưới hoặc qua mục "Gửi phản hồi" trong phần Trợ giúp để được hỗ trợ.</string>
+  <string name="payment_screen_payment_failed_body_unconfident">Có thể đã xảy ra lỗi trong quá trình thanh toán. Nếu tiền đã bị trừ, bạn sẽ nhận được email kèm mã bản quyền. Hãy liên hệ qua email keyboard@futo.org bằng nút bên dưới hoặc qua mục "Chia sẻ phản hồi" ở màn hình chính để được hỗ trợ.</string>
+  <string name="payment_screen_license_integrity_error">Không thể xác minh bản quyền. Vui lòng liên hệ với chúng tôi nếu đây là sự nhầm lẫn.</string>
+  <string name="payment_screen_continue_button">Tiếp tục</string>
+
+  <string name="payment_unpaid_version_title">Bản VNKey chưa kích hoạt</string>
+  <string name="payment_unpaid_version_indicator">Chưa trả phí</string>
+  <string name="payment_paid_version_indicator">Cảm ơn bạn đã mua bản quyền VNKey!</string>
+
+  <string name="manual_update_notice_title">Lưu ý cập nhật</string>
+  <string name="manual_update_notice_paragraph_1">Ứng dụng này hoạt động hoàn toàn offline (không kết nối mạng) nên không thể kiểm tra cập nhật tự động. Tuy nhiên, bạn vẫn có thể tự kiểm tra cập nhật thủ công.</string>
+  <string name="manual_update_notice_paragraph_2">Bạn nên sử dụng cửa hàng F-Droid hoặc ứng dụng Obtainium để tự động cập nhật. Truy cập trang web keyboard.futo.org để biết thêm chi tiết.</string>
+  <string name="manual_update_notice_dev_paragraph">Bạn đang trải nghiệm phiên bản phát triển (Dev) của VNKey. Truy cập keyboard.futo.org để tải về bản chính thức (Stable) nếu cần.</string>
+  <string name="manual_update_notice_visit_site_button">Trang web</string>
+  <string name="manual_update_notice_dismiss_notice_button">Đóng</string>
+
+  <string name="settings_tip">Gợi ý</string>
+  <string name="settings_unknown_error_title">Lỗi không xác định</string>
+  <string name="settings_unknown_error_subtitle">Đã xảy ra lỗi không mong muốn.</string>
+  <string name="settings_try_typing_here">Thử gõ vào đây…</string>
+  <string name="settings_external_model_name">Mô hình nhập bên ngoài</string>
+  <string name="settings_check_for_updates_manually">Kiểm tra cập nhật thủ công</string>
+  <string name="settings_update_available">Có bản cập nhật mới</string>
+  <string name="settings_home_title">Cài đặt</string>
+  <string name="settings_search_option_exists_but_disabled">Tùy chọn này tạm thời bị ẩn do phụ thuộc vào một cài đặt khác đang tắt. Chạm để chuyển đến mục: %1$s</string>
+  <string name="settings_search_menu_title">Tìm kiếm</string>
+  <string name="settings_search_enter_your_search">Tìm kiếm trong cài đặt…</string>
+  <string name="settings_search_no_options_found">Không tìm thấy kết quả</string>
+  <string name="misc_settings_title">Cài đặt khác</string>
+  <string name="setting_section_collapsed">Thu gọn</string>
+  <string name="setting_section_expanded">Mở rộng</string>
+
+  <string name="language_settings_title">Ngôn ngữ &amp; Bàn phím</string>
+  <string name="language_settings_add_language_button">Thêm ngôn ngữ</string>
+  <string name="language_settings_select_language">Chọn ngôn ngữ để thêm</string>
+  <string name="language_settings_search">Tìm ngôn ngữ…</string>
+  <string name="language_settings_select_layout">Chọn bố cục phím</string>
+  <string name="language_settings_warning_language_has_no_dict">Ngôn ngữ này chưa có từ điển đi kèm. Bạn nên tải về hoặc nhập từ điển để sử dụng tính năng tự động sửa và gợi ý từ.</string>
+  <string name="language_settings_resource_none">(Trống)</string>
+  <string name="language_settings_layouts_of_this_language">Bố cục phím</string>
+  <string name="language_settings_add_layout_for_this_language">Thêm bố cục</string>
+  <string name="language_settings_enable_multilingual_typing_for_this_language">Nhập đa ngôn ngữ</string>
+  <string name="language_settings_remove_this_language">Xóa ngôn ngữ này</string>
+  <string name="language_settings_manage_languages_title">Quản lý ngôn ngữ &amp; bố cục</string>
+  <string name="language_settings_manage_languages_subtitle">Quản lý các ngôn ngữ đã bật, xóa ngôn ngữ, thay đổi bố cục hoặc cài đặt tính năng gõ song song nhiều ngôn ngữ.</string>
+  <string name="language_settings_resource_imported_indicator">(Đã nhập)</string>
+  <string name="language_settings_resource_unsupported_indicator">(Không hỗ trợ)</string>
+  <string name="language_settings_resource_builtin_dictionary_name">Từ điển mặc định</string>
+  <string name="language_settings_resource_voice_input_selected">Bạn muốn khôi phục mô hình nhập giọng nói về mặc định hay thay thế bằng tệp khác?</string>
+  <string name="language_settings_resource_voice_input_selected_no_default_warning">Không có mô hình nhập giọng nói mặc định cho ngôn ngữ này. Nếu gỡ bỏ, tính năng nhập giọng nói sẽ ngừng hoạt động cho đến khi bạn nhập mô hình mới!</string>
+  <string name="language_settings_resource_voice_input_selected_unset">Bạn chưa cài đặt mô hình nhập giọng nói tùy chỉnh cho ngôn ngữ này. Bạn có thể tìm tải mô hình trên mạng hoặc nhập từ tệp.</string>
+  <string name="language_settings_resource_transformer_selected">Bạn muốn khôi phục mô hình transformer về mặc định hay thay thế bằng tệp khác?</string>
+  <string name="language_settings_resource_transformer_selected_no_default_warning">Không có mô hình transformer mặc định cho ngôn ngữ này. Nếu gỡ bỏ, tính năng gợi ý từ thông minh (dựa trên transformer) sẽ dừng hoạt động!</string>
+  <string name="language_settings_resource_transformer_selected_unset">Bạn chưa cài đặt mô hình transformer tùy chỉnh cho ngôn ngữ này. Bạn có thể tìm tải trên mạng hoặc nhập từ tệp.</string>
+  <string name="language_settings_resource_dictionary_selected">Bạn muốn khôi phục từ điển về mặc định hay thay thế bằng tệp khác?</string>
+  <string name="language_settings_resource_dictionary_selected_no_default_warning">Không có từ điển mặc định cho ngôn ngữ này. Nếu gỡ bỏ, tính năng tự động sửa và gợi ý từ sẽ ngừng hoạt động!</string>
+  <string name="language_settings_resource_dictionary_selected_unset">Bạn chưa thiết lập từ điển tùy chỉnh cho ngôn ngữ này. Bạn có thể tìm tải trên mạng hoặc nhập từ tệp.</string>
+  <string name="language_settings_resource_replace_button">Thay thế</string>
+  <string name="language_settings_resource_import_file_button">Nhập từ tệp</string>
+  <string name="language_settings_resource_revert_to_default_button">Dùng mặc định</string>
+  <string name="language_settings_resource_remove_button">Xóa bỏ</string>
+  <string name="language_settings_resource_explore_online_button">Tìm trực tuyến</string>
+
+  <string name="language_settings_remove_language_title">Xóa ngôn ngữ <xliff:g name="languageName">%1$s</xliff:g>?</string>
+  <string name="language_settings_remove_language_body">Xóa <xliff:g name="languageName">%1$s</xliff:g>, toàn bộ bố cục phím và dữ liệu đi kèm chứ?</string>
+  <string name="language_settings_remove_language_remove_button">Xóa</string>
+  <string name="language_settings_remove_language_cancel_button">Hủy</string>
+
+  <string name="language_settings_other_options">Tùy chọn nâng cao</string>
+  <string name="language_settings_import_resource_from_file">Nhập tệp tài nguyên bên ngoài</string>
+  <string name="language_settings_explore_voice_input_models_online">Tìm kiếm mô hình nhập giọng nói</string>
+  <string name="language_settings_explore_dictionaries_online">Tìm kiếm tệp từ điển</string>
+  <string name="language_settings_explore_transformers_online">Tìm kiếm mô hình transformer</string>
+  <string name="language_settings_import_dictionary_or_model">Nhập từ điển hoặc mô hình</string>
+
+  <string name="file_kind_voice_input_model">Mô hình nhập giọng nói</string>
+  <string name="file_kind_transformer_model">Mô hình transformer</string>
+  <string name="file_kind_dictionary">Tệp từ điển</string>
+  <string name="file_kind_invalid_file">Tệp không hợp lệ</string>
+  <string name="file_kind_cfg_backup">Tệp cấu hình sao lưu</string>
+  <string name="resource_importer_import_title">Nhập tệp - <xliff:g name="filename">%1$s</xliff:g></string>
+  <string name="resource_importer_error_wordlist_1">Lỗi: Tệp này là danh sách từ thô (_wordlist.combined) chứ không phải từ điển đã được biên dịch (.dict).</string>
+  <string name="resource_importer_error_wordlist_2">Vui lòng tải về tệp từ điển đã biên dịch. Nếu bạn tự biên dịch từ danh sách từ của mình, hãy sử dụng công cụ dicttool ở ngoài để biên dịch.</string>
+  <string name="resource_importer_error_invalid_fiile">Lỗi: Định dạng tệp không được hỗ trợ hoặc tệp đã bị lỗi trong quá trình tải xuống. Vui lòng thử tải lại.</string>
+  <string name="resource_importer_cancel_button">Hủy</string>
+  <string name="resource_importer_import_button">Nhập vào</string>
+  <string name="resource_importer_file_info">Thông tin tệp: <xliff:g name="info">%1$s</xliff:g></string>
+  <string name="resource_importer_importing">Đang nhập cho ngôn ngữ: <xliff:g name="language">%1$s</xliff:g></string>
+  <string name="resource_importer_importing_cfg">Đang nhập dữ liệu cấu hình… Vui lòng không đóng màn hình này (mất khoảng 5 đến 10 giây)</string>
+  <string name="resource_importer_select_language">Chọn ngôn ngữ đích cần nhập:</string>
+  <string name="resource_importer_warning_language_missing">Tệp này dường như được thiết kế cho ngôn ngữ (<xliff:g name="language">%1$s</xliff:g>) chưa được kích hoạt trong cài đặt bàn phím.</string>
+  <string name="resource_importer_warning_cfg_backup_is_destructive2">Bạn có chắc chắn muốn khôi phục bản cấu hình đã sao lưu này không? Thao tác này sẽ ghi đè toàn bộ cài đặt hiện tại, từ điển cá nhân hệ thống, từ ngữ bàn phím đã học và các tài nguyên đã nhập khác. Chúng tôi khuyên bạn nên xuất một bản cấu hình backup dự phòng khác trước khi thực hiện.</string>
+  <string name="resource_importer_warning_cfg_backup_newer_version">Bản sao lưu cấu hình này được tạo bởi một phiên bản VNKey mới hơn, có thể sẽ không tương thích hoàn toàn. Vui lòng cập nhật VNKey trước.</string>
+
+  <string name="settings_export_configuration_title">Sao lưu &amp; Khôi phục</string>
+  <string name="settings_export_configuration">Export configuration</string>
+  <string name="settings_export_configuration_subtitle">Sao lưu tất cả cài đặt cá nhân, bảng nhớ tạm, từ vựng đã học, các mô hình đã nhập.</string>
+  <string name="settings_export_configuration_exporting">Đang xuất cấu hình…</string>
+  <string name="settings_export_configuration_exporting_text">Vui lòng không đóng màn hình này cho đến khi quá trình xuất hoàn tất (khoảng 5 đến 10 giây)</string>
+  <string name="settings_import_configuration">Khôi phục cấu hình</string>
+  <string name="settings_import_configuration_subtitle">Nhập lại tệp cấu hình đã xuất trước đó của bạn.</string>
+  <string name="settings_import_export_tags">sao lưu, khôi phục, lưu trữ, tải cấu hình, xuất, nhập, chuyển dữ liệu</string>
+
+  <string name="action_editor_title">Chỉnh sửa công cụ</string>
+  <string name="action_editor_subtitle">Chỉnh sửa các tác vụ yêu thích, phím tác vụ đã ghim và phím chức năng bên cạnh phím cách</string>
+  <string name="action_editor_edit_actions">Chỉnh sửa</string>
+  <string name="action_editor_warning_no_actions">Không có tác vụ nào đang được bật</string>
+  <string name="action_editor_edit_actions_no_actions">Không có tác vụ nào đang được bật</string>
+  <string name="action_editor_error_more_than_one_action_key">Vui lòng chỉ gán tối đa một hành động cho phím chức năng bên cạnh phím cách.</string>
+  <string name="action_editor_warning_too_many_pinned">Bạn đang ghim quá nhiều tác vụ. Thanh gợi ý sẽ phải thu nhỏ lại để hiển thị đủ, điều này có thể gây khó gõ.</string>
+  <string name="action_editor_add_next_action">Thêm tác vụ kế tiếp</string>
+
+  <string name="action_settings_title">Thanh công cụ</string>
+  <string name="action_settings_quick_options_title">Tùy chọn nhanh</string>
+  <string name="action_settings_quick_option_enable_action_key">Kích hoạt phím chức năng</string>
+  <string name="action_settings_quick_option_enable_action_key_subtitle_no_assignment">Hiển thị một phím bên trái phím cách để truy cập nhanh tác vụ. Mặc định là phím Emoji, có thể đổi trong mục \'Chỉnh sửa thanh công cụ\'.</string>
+  <string name="action_settings_quick_option_enable_action_key_subtitle_with_assignment">Hiển thị một phím bên trái phím cách để mở nhanh tác vụ. Nếu tắt, tác vụ hiện tại (%s) sẽ không khả dụng nhanh.</string>
+  <string name="action_settings_quick_option_language_switch_key">Phím chuyển ngôn ngữ</string>
+  <string name="action_settings_quick_option_language_switch_key_subtitle">Thay thế phím emoji bằng phím chuyển đổi ngôn ngữ. Đi tới \"Chỉnh sửa thanh công cụ\" để thay đổi.</string>
+  <string name="action_settings_no_new_row">Không tạo hàng mới cho thanh công cụ</string>
+  <string name="action_settings_no_new_row_subtitle">Ẩn hết các từ gợi ý và hiển thị thanh công cụ vào hàng gợi ý từ</string>
+  <string name="action_settings_action_settings">Cài đặt thanh công cụ</string>
+
+  <string name="size_settings_title">Kích thước bàn phím</string>
+  <string name="size_settings_subtitle2">Điều chỉnh chiều cao bàn phím, chế độ một tay, bàn phím nổi, hoặc chia đôi bàn phím</string>
+  <string name="size_settings_resize_tip">Chạm vào phím \'Kích thước bàn phím\' bên dưới để thay đổi chiều cao và vị trí.</string>
+  <string name="size_settings_keyboard_modes_tip">Bạn cũng có thể mở nhanh cài đặt này qua phím Chế độ bàn phím trên thanh công cụ:</string>
+  <string name="size_settings_keyboard_modes_portrait_landscape_tip">Kích thước và chế độ bàn phím được lưu riêng biệt cho màn hình dọc và màn hình ngang.</string>
+  <string name="size_settings_reset">Đặt lại kích thước</string>
+  <string name="size_settings_reset_subtitle">Đặt lại kích thước, vị trí của bàn phím về mặc định.</string>
+
+  <string name="morekey_settings_title">Phím nhấn giữ &amp; Phím cách</string>
+  <string name="morekey_settings_subtitle">Cấu hình độ trễ nhấn giữ, cách sắp xếp chữ cái/ký hiệu phụ, hành vi phím cách và phím xóa.</string>
+  <string name="morekey_settings_layout">Sắp xếp phím nhấn giữ</string>
+  <string name="morekey_settings_reset">Đặt lại mặc định</string>
+  <string name="morekey_settings_move_kind_up">Di chuyển lên</string>
+  <string name="morekey_settings_move_kind_down">Di chuyển xuống</string>
+  <string name="morekey_settings_move_kind_up_to_top">Đưa lên đầu</string>
+  <string name="morekey_settings_move_kind_down_to_bottom">Đưa xuống cuối</string>
+  <string name="morekey_settings_kind_position">Vị trí <xliff:g name="pos">%1$s</xliff:g> trên <xliff:g name="total">%2$s</xliff:g></string>
+  <string name="morekey_settings_active">Đang bật</string>
+  <string name="morekey_settings_inactive">Đang tắt</string>
+  <string name="morekey_settings_reactivate">Bật lại</string>
+  <string name="morekey_settings_disable">Tắt đi</string>
+  <string name="morekey_settings_keys">Phím nhấn giữ</string>
+  <string name="morekey_settings_show_hints">Hiện ký tự phụ trên phím</string>
+  <string name="morekey_settings_show_hints_subtitle">Hiển thị ký hiệu nhỏ ở góc phím cho biết phím phụ sẽ xuất hiện khi nhấn giữ.</string>
+  <string name="morekey_settings_show_hints_tags">phím phụ, ký hiệu, nhấn giữ, gợi ý phím</string>
+  <string name="morekey_settings_duration">Thời gian chờ nhấn giữ</string>
+  <string name="morekey_settings_duration_subtitle">Thời gian cần nhấn giữ một phím để mở bảng ký tự phụ.</string>
+
+  <string name="morekey_settings_backspace_title">Phím xóa (Backspace)</string>
+  <string name="morekey_settings_backspace_hold_delete_words">Nhấn giữ để xóa nhanh cả từ</string>
+  <string name="morekey_settings_backspace_swipe_to_delete">Vuốt để xóa</string>
+  <string name="morekey_settings_backspace_swipe_to_delete_off">Tắt</string>
+  <string name="morekey_settings_backspace_swipe_to_delete_characters">Ký tự</string>
+  <string name="morekey_settings_backspace_swipe_to_delete_words">Từ vựng</string>
+  
+  <string name="morekey_settings_spacebar_title">Phím cách (Spacebar)</string>
+  <string name="morekey_settings_spacebar_swipe_shortcut">Cử chỉ vuốt phím cách</string>
+  <string name="morekey_settings_spacebar_swipe_shortcut_off">Tắt</string>
+  <string name="morekey_settings_spacebar_swipe_shortcut_cursor">Di chuyển con trỏ</string>
+  <string name="morekey_settings_spacebar_swipe_shortcut_language">Chuyển ngôn ngữ</string>
+  <string name="morekey_settings_spacebar_hold_shortcut">Cử chỉ nhấn giữ phím cách</string>
+  <string name="morekey_settings_spacebar_hold_shortcut_cursor">Di chuyển con trỏ</string>
+  <string name="morekey_settings_spacebar_hold_shortcut_language">Chuyển ngôn ngữ</string>
+
+  <string name="morekey_settings_kind_numbers">Hàng số</string>
+  <string name="morekey_settings_kind_numbers_example">Ví dụ: hiện số [1] trên phím [q]</string>
+  <string name="morekey_settings_kind_language_keys">Ký tự phụ theo ngôn ngữ</string>
+  <string name="morekey_settings_kind_language_keys_example">Ví dụ: hiện [ñ] khi giữ phím [n]</string>
+  <string name="morekey_settings_kind_symbols">Ký hiệu thông thường</string>
+  <string name="morekey_settings_kind_symbols_example">Ví dụ: hiện [@] khi giữ phím [a]</string>
+  <string name="morekey_settings_kind_actions">Tác vụ sao chép/dán nhanh</string>
+  <string name="morekey_settings_kind_actions_example">Ví dụ: hiện nút [Sao chép] khi giữ phím [c]</string>
+  <string name="morekey_settings_kind_misc_common">Ký tự phụ Latin phổ biến</string>
+  <string name="morekey_settings_kind_misc_common_example">Ví dụ: hiện [ß] khi giữ phím [s] ở mọi bàn phím Latin</string>
+
+  <string name="typing_settings_title">Tùy chọn gõ phím</string>
+  <string name="typing_settings_suggest_emojis">Gợi ý biểu tượng cảm xúc</string>
+  <string name="typing_settings_suggest_emojis_subtitle">Đưa ra gợi ý emoji phù hợp khi bạn gõ từ khóa</string>
+  <string name="typing_settings_vibration_strength">Rung phản hồi khi gõ</string>
+  <string name="typing_settings_vibration_strength_default">Mặc định hệ thống</string>
+  <string name="typing_settings_keypress_sound_volume">Âm lượng nhấn phím</string>
+  <string name="typing_settings_keypress_sound_volume_default">Mặc định hệ thống</string>
+  <string name="typing_settings_keypress_sound_volume_vendor_warning">Cài đặt âm lượng nhấn phím có thể không hoạt động trên một số phiên bản Android tùy chỉnh.</string>
+  <string name="typing_settings_keypress_sound_volume_ringer_mode_warning">Âm thanh nhấn phím sẽ tự tắt nếu thiết bị đang ở chế độ Rung hoặc Im lặng.</string>
+  <string name="typing_settings_enable_clipboard_history">Lịch sử bảng nhớ tạm</string>
+  <string name="typing_settings_enable_clipboard_history_tags">sao chép, dán, lưu trữ, bộ nhớ tạm</string>
+  <string name="typing_settings_delete_pasted_text_on_backspace">Xóa toàn bộ văn bản vừa dán khi bấm phím xóa (Backspace)</string>
+  <string name="typing_settings_revert_correction_on_backspace">Hoàn tác tự động sửa từ khi bấm phím xóa (Backspace)</string>
+  <string name="typing_settings_smart_backspace_delete_tone">Xóa dấu thông minh</string>
+  <string name="typing_settings_smart_backspace_delete_tone_summary">Xoá dấu của 1 chữ thay vì xoá ký tự như bình thường</string>
+
+  <string name="typing_settings_auto_space_mode">Chế độ tự động thêm khoảng cách</string>
+  <string name="typing_settings_auto_space_mode_auto2">Tự động cách sau khi chọn từ gợi ý và dấu câu</string>
+  <string name="typing_settings_auto_space_mode_suggestions2">Tự động cách sau khi chọn từ gợi ý</string>
+  <string name="typing_settings_auto_space_mode_legacy2">Trì hoãn thêm cách sau từ gợi ý (kiểu cũ)</string>
+  <string name="typing_settings_auto_space_mode_none2">Không tự động thêm cách (không khuyến nghị)</string>
+
+  <string name="keyboard_settings_title">Cài đặt bàn phím</string>
+  <string name="keyboard_settings_show_number_row">Hiển thị hàng phím số</string>
+  <string name="keyboard_settings_show_number_row_subtitle">Hiển thị hàng phím số ở trên cùng (chỉ hỗ trợ trên một số bố cục phím)</string>
+  <string name="keyboard_settings_show_arrow_row">Hiển thị phím mũi tên điều hướng</string>
+  <string name="keyboard_settings_show_arrow_row_subtitle">Hiển thị hàng phím mũi tên điều hướng ở dưới cùng bàn phím</string>
+  <string name="keyboard_settings_extra_layouts">Bố cục phím bổ sung</string>
+  <string name="keyboard_settings_extra_layouts_subtitle">Cấu hình thêm các bố cục phím phụ trong phần cài đặt ngôn ngữ</string>
+  <string name="keyboard_settings_show_suggestion_row">Hiển thị thanh gợi ý từ</string>
+  <string name="keyboard_settings_show_suggestion_row_subtitle">Hiển thị thanh hiển thị từ gợi ý/sửa lỗi. Khuyên bạn nên bật.</string>
+  <string name="keyboard_settings_inline_autofill">Tự động điền mật khẩu trong dòng</string>
+  <string name="keyboard_settings_inline_autofill_subtitle">Hiển thị các tài khoản/mật khẩu tự động điền từ trình quản lý mật khẩu của bạn ngay trên thanh gợi ý.</string>
+  <string name="keyboard_settings_period_key">Phím dấu chấm nhanh</string>
+  <string name="keyboard_settings_period_key_subtitle2">Cho phép vuốt nhanh trên phím dấu chấm để chọn nhanh các dấu: ! , . ?</string>
+
+  <string name="keyboard_settings_number_row_title">Hàng phím số</string>
+  <string name="keyboard_settings_number_row_style">Kiểu hiển thị hàng phím số</string>
+  <string name="keyboard_settings_number_row_style_default">Tích hợp (nhỏ gọn)</string>
+  <string name="keyboard_settings_number_row_style_classic">Hàng phím riêng biệt</string>
+  <string name="keyboard_settings_number_row_dont_use_script_digits">Luôn sử dụng chữ số phương Tây (1, 2, 3…)</string>
+  <string name="keyboard_settings_hide_when_hardware_keyboard_is_connected">Tự ẩn bàn phím ảo khi kết nối bàn phím USB/Bluetooth</string>
+
+  <string name="settings_keyboard_typing_title">Bàn phím &amp; Gõ phím</string>
+
+  <string name="theme_settings_title">Giao diện (Chủ đề)</string>
+  <string name="theme_settings_key_borders">Hiện đường viền phím</string>
+  <string name="theme_settings_default_themes">Chủ đề mặc định</string>
+  <string name="theme_settings_seasonal_themes">Chủ đề theo mùa</string>
+  <string name="theme_settings_custom_themes">Chủ đề tự thiết kế</string>
+  <string name="theme_settings_custom_theme_delete_title">Xóa giao diện tùy chỉnh này?</string>
+  <string name="theme_settings_custom_theme_delete_body">Chủ đề: %s</string>
+  <string name="theme_settings_custom_theme_delete_confirm">Xóa</string>
+  <string name="theme_settings_custom_theme_delete_cancel">Hủy</string>
+
+  <string name="theme_customizer_select_background_image_button">Chọn ảnh nền</string>
+  <string name="theme_customizer_adjust_background_image_hint">Kéo hoặc chụm ngón tay để căn chỉnh ảnh</string>
+  <string name="theme_customizer_transparency_slider_name">Độ trong suốt của phím</string>
+  <string name="theme_customizer_blur_slider_name">Độ mờ ảnh nền</string>
+  <string name="theme_customizer_color_sliders_name">Tông màu sắc</string>
+  <string name="theme_customizer_dark_mode_toggle">Chế độ tối</string>
+  <string name="theme_customizer_light_mode_toggle">Chế độ sáng</string>
+  <string name="theme_customizer_finish_theme_adjustment">Hoàn tất</string>
+  <string name="theme_customizer_load_custom_theme_file">Nhập từ file ZIP</string>
+  <string name="theme_customizer_import_custom_theme_menu_title">Nhập giao diện tùy chỉnh</string>
+  <string name="theme_customizer_import_custom_theme_name_text">Tên chủ đề: %s</string>
+  <string name="theme_customizer_import_custom_theme_author_text">Tác giả: %s</string>
+
+  <string name="dev_settings_title">Cài đặt nhà phát triển</string>
+
+  <string name="swipe_settings_title">Gõ vuốt từ (Swipe)</string>
+  <string name="swipe_settings_enable_swipe_typing">Kích hoạt gõ vuốt từ</string>
+  <string name="swipe_settings_enable_swipe_typing_subtitle">Cho phép lướt ngón tay qua các phím liên tục để nhập văn bản nhanh hơn.</string>
+  <string name="swipe_settings_suggest_mode">Số từ gợi ý khi gõ vuốt</string>
+  <string name="swipe_settings_suggest_mode_top4_title">3 từ thay thế</string>
+  <string name="swipe_settings_suggest_mode_top3_title">2 từ thay thế</string>
+  <string name="swipe_settings_suggest_mode_used_word">Từ chính</string>
+  <string name="swipe_settings_suggest_mode_alternative_word_1">Gợi ý phụ 1</string>
+  <string name="swipe_settings_suggest_mode_alternative_word_2">Gợi ý phụ 2</string>
+  <string name="swipe_settings_suggest_mode_alternative_word_3">Gợi ý phụ 3</string>
+  <string name="swipe_settings_miscellaneous_title">Khác</string>
+  <string name="swipe_settings_configure_shortcuts">Cử chỉ vuốt</string>
+  <string name="swipe_settings_configure_shortcuts_subtitle">Cấu hình cử chỉ vuốt trên phím xóa và phím cách trong phần Nhấn giữ phím.</string>
+  <string name="swipe_settings_show_unsupported">Hiện các cài đặt thử nghiệm…</string>
+  <string name="swipe_settings_use_old_swipe">Dùng thuật toán vuốt cũ</string>
+  <string name="swipe_settings_use_old_swipe_subtitle_short">Thuật toán cũ có độ chính xác rất kém và không khuyên dùng.</string>
+  <string name="swipe_settings_use_old_swipe_subtitle">Thuật toán cũ có độ chính xác rất thấp và không khuyến nghị sử dụng. Nếu bạn bắt buộc phải dùng, hãy góp ý lý do cho chúng tôi tại keyboard@futo.org. Tùy chọn này sẽ sớm bị loại bỏ.</string>
+
+  <string name="voice_input_settings_title">Nhập liệu bằng giọng nói</string>
+  <string name="voice_input_settings_builtin_disabled_notice">Tính năng nhập giọng nói mặc định của FUTO hiện đã tắt!</string>
+  <string name="voice_input_settings_disable_builtin_voice_input">Tắt nhập giọng nói mặc định</string>
+  <string name="voice_input_settings_disable_builtin_voice_input_subtitle">Sử dụng trình nhận diện giọng nói mặc định của hệ điều hành Android (Google, v.v.)</string>
+  <string name="voice_input_settings_indication_sounds">Âm thanh chỉ báo</string>
+  <string name="voice_input_settings_indication_sounds_subtitle">Phát một âm thanh bíp ngắn khi bắt đầu và kết thúc nhận diện giọng nói</string>
+  <string name="voice_input_settings_verbose_progress">Thông tin chi tiết tiến trình</string>
+  <string name="voice_input_settings_verbose_progress_subtitle">Hiển thị các thông số kỹ thuật (như thông tin micro, v.v.) trong lúc thu âm</string>
+  <string name="voice_input_settings_use_personal_dict">Từ điển cá nhân cho giọng nói</string>
+  <string name="voice_input_settings_use_personal_dict_subtitle">Cho phép sử dụng từ điển viết tắt/cá nhân để chỉnh sửa từ ngữ nhận diện được</string>
+  <string name="voice_input_settings_use_bluetooth_mic">Ưu tiên Micro tai nghe Bluetooth</string>
+  <string name="voice_input_settings_use_bluetooth_mic_subtitle">Có thể có độ trễ nhỏ khi bắt đầu thu âm để đồng bộ kết nối Bluetooth SCO.</string>
+  <string name="voice_input_settings_audio_focus">Tự tắt âm thanh nền</string>
+  <string name="voice_input_settings_audio_focus_subtitle">Tự động tạm dừng nhạc/video đang phát khi bạn bật nhập liệu bằng giọng nói</string>
+  <string name="voice_input_settings_suppress_symbols">Không nhập các ký hiệu</string>
+  <string name="voice_input_settings_suppress_symbols_subtitle">Chặn không cho nhập giọng nói tự động chèn các dấu câu, ký hiệu đặc biệt</string>
+  <string name="voice_input_settings_long_form">Nhập giọng nói liên tục</string>
+  <string name="voice_input_settings_long_form_subtitle">Nếu tắt, tính năng nhập giọng nói sẽ tự động ngắt sau mỗi 30 giây im lặng.</string>
+  <string name="voice_input_settings_autostop_vad">Tự ngắt khi im lặng</string>
+  <string name="voice_input_settings_autostop_vad_subtitle">Tự động tắt thu âm khi nhận diện thấy bạn đã ngừng nói. Bạn có thể cần tắt thủ công nếu môi trường quá ồn.</string>
+  <string name="voice_input_settings_animate_bubble">Hiệu ứng bong bóng thu âm</string>
+  <string name="voice_input_settings_animate_bubble_subtitle">Hiển thị bong bóng chuyển động phản hồi theo âm lượng giọng nói của bạn</string>
+  <string name="voice_input_settings_change_models">Thay đổi mô hình giọng nói</string>
+  <string name="voice_input_settings_change_models_subtitle">Để quản lý hoặc đổi mô hình, hãy vào mục Ngôn ngữ &amp; Mô hình.</string>
+
+  <string name="prediction_settings_title">Dự đoán từ &amp; Tự sửa</string>
+  <string name="prediction_settings_transformer">Mô hình ngôn ngữ Transformer</string>
+  <string name="prediction_settings_transformer_finetuning">Tự động học cá nhân hóa (Finetuning)</string>
+  <string name="prediction_settings_transformer_finetuning_subtitle">Tính năng này có thể làm hao pin nhanh hơn! Hiện vẫn đang được tối ưu thêm.</string>
+  <string name="prediction_settings_transformer_models">Mô hình Transformer</string>
+  <string name="prediction_settings_transformer_alpha_notice">Lưu ý: Mô hình ngôn ngữ Transformer hiện ở giai đoạn thử nghiệm (Alpha).</string>
+  <string name="prediction_settings_transformer_english_notice">Các thiết lập nâng cao này chỉ có tác dụng đối với tiếng Anh và đang trong giai đoạn thử nghiệm.</string>
+  <string name="prediction_settings_smart_keyhit_detection">Phát hiện phím gõ thông minh</string>
+  <string name="prediction_settings_smart_keyhit_detection_subtitle">Dựa vào từ điển để đoán ký tự tiếp theo bạn muốn gõ và tăng diện tích cảm ứng phím đó. Tính năng này tạm ẩn nếu bấm xóa.</string>
+  <string name="prediction_settings_word_blacklist">Danh sách từ bị chặn gợi ý</string>
+  <string name="prediction_settings_word_blacklist_add">Chặn từ này</string>
+  <string name="prediction_settings_word_blacklist_none">Chưa chặn từ nào.</string>
+  <string name="prediction_settings_word_blacklist_edit_blacklisted_words_title">Quản lý từ bị chặn gợi ý</string>
+  <string name="prediction_settings_word_blacklist_edit_blacklisted_words_subtitle">Xem, thêm hoặc xóa các từ không muốn bàn phím tự động gợi ý</string>
+  <string name="prediction_settings_word_blacklist_remove_word_from_blacklist">Bỏ chặn</string>
+
+  <string name="prediction_settings_avoid_accent_error">Tránh thêm dấu nhầm</string>
+  <string name="prediction_settings_avoid_accent_error_summary">Không thêm dấu với các từ không phải Tiếng Việt (Chỉ có tác dụng ở bàn phím tiếng Việt)</string>
+
+  <string name="help_menu_title">Hướng dẫn &amp; Hỗ trợ</string>
+  <string name="help_menu_version_name">Phiên bản: <xliff:g name="version">%1$s</xliff:g></string>
+  <string name="help_menu_version_code">Mã build: <xliff:g name="code">%1$s</xliff:g></string>
+  <string name="help_menu_version_tip">Chúng tôi rất muốn nghe phản hồi của bạn! Khi báo lỗi, phiên bản của bạn rất quan trọng: v%1$s</string>
+  <string name="help_menu_website">Trang chủ FUTO</string>
+  <string name="help_menu_website_subtitle">Tìm hiểu thêm về tổ chức và triết lý phần mềm tôn trọng người dùng của FUTO</string>
+  <string name="help_menu_website_tags">tải xuống, ứng dụng, nhập bằng giọng nói</string>
+  <string name="help_menu_documentation">Tài liệu hướng dẫn</string>
+  <string name="help_menu_documentation_subtitle">Đọc hướng dẫn chi tiết về cách dùng và tính năng của bàn phím</string>
+  <string name="help_menu_discord">Kênh Discord hỗ trợ</string>
+  <string name="help_menu_discord_subtitle">Tham gia cộng đồng trao đổi nhanh của chúng tôi trên Discord</string>
+  <string name="help_menu_futo_chat">Kênh FUTO Chat (Zulip)</string>
+  <string name="help_menu_futo_chat_subtitle">Kênh chat nội bộ của FUTO dành cho cộng đồng phát triển</string>
+  <string name="help_menu_github">Theo dõi lỗi công khai (GitHub)</string>
+  <string name="help_menu_github_subtitle">Báo cáo lỗi kỹ thuật hoặc yêu cầu tính năng mới trực tiếp tại đây</string>
+  <string name="help_menu_email">Gửi email hỗ trợ: keyboard@futo.org</string>
+  <string name="help_menu_email_subtitle">Gửi thư đóng góp ý kiến riêng tư, phản ánh lỗi hoặc giải đáp thắc mắc về trả phí bản quyền</string>
+  <string name="help_menu_email_tags">gmail, hỗ trợ, liên hệ, trợ giúp, hỏng, lỗi, lỗi, sự cố, vấn đề, khiếu nại, yêu cầu hỗ trợ, thanh toán, hỗ trợ, lỗi, trục trặc, sửa, dịch vụ khách hàng, lỗi, câu hỏi, điều tra, hỗ trợ</string>
+
+  <string name="setup_step_1">Thiết lập - Bước 1</string>
+  <string name="setup_step_2">Thiết lập - Bước 2</string>
+  <string name="setup_step_3">Thiết lập - Bước 3</string>
+  <string name="setup_welcome_text">Chào mừng bạn đến với VNKey! Bàn phím đang trong quá trình phát triển nhanh nên có thể còn thiếu một số tính năng hoặc ngôn ngữ. Rất mong nhận được sự kiên nhẫn và thông cảm từ bạn.\n\nĐể bắt đầu, hãy kích hoạt VNKey trong Cài đặt hệ thống.</string>
+  <string name="setup_open_input_settings">Mở cài đặt Bàn phím hệ thống</string>
+  <string name="setup_warning_multiple_versions">Cảnh báo: Bạn đang cài song song cả bản Play Store và bản Độc lập. Chúng tôi khuyên bạn chỉ nên cài đặt và giữ lại một phiên bản duy nhất.</string>
+  <string name="setup_active_input_method">Vui lòng chọn VNKey làm bàn phím chính đang sử dụng của bạn.</string>
+  <string name="setup_switch_input_methods">Đổi bàn phím chính</string>
+
+  <string name="credits_menu_title">Đóng góp &amp; Ghi công</string>
+  <string name="credits_menu_header_text">Chân thành cảm ơn những người bạn đóng góp tuyệt vời dưới đây đã giúp hoàn thiện VNKey!</string>
+  <string name="credits_menu_team_translators_title">Đội ngũ biên dịch viên</string>
+  <string name="credits_menu_team_keyboard_layouts_title">Người đóng góp bố cục phím</string>
+  <string name="credits_menu_team_code_title">Người đóng góp mã nguồn</string>
+  <string name="credits_menu_team_third_party_libraries_title2">Thư viện &amp; Dữ liệu bên thứ ba</string>
+  <string name="credits_menu_nonaffiliation_notice">Các tác giả và dự án được liệt kê ở trên không có liên kết pháp lý và không nhất thiết đại diện cho chúng tôi. Việc ghi danh thể hiện sự trân trọng đóng góp của họ.</string>
+  <string name="credits_menu_contribute_translations_button">Tham gia dịch thuật ứng dụng</string>
+  <string name="credits_menu_contribute_keyboard_layouts_button">Tham gia thiết kế bố cục phím</string>
+  <string name="credits_menu_contribute_code_button">Tham gia phát triển mã nguồn</string>
+  <string name="credits_menu_project_information_title">Thông tin <xliff:g name="projectName">%s</xliff:g></string>
+  <string name="credits_menu_project_url_link">Đường dẫn dự án</string>
+
+  <string name="language_specific_settings_title">Cài đặt riêng theo ngôn ngữ</string>
+
+  <string name="chinese_settings_title">Cài đặt nhập liệu tiếng Trung</string>
+  <string name="chinese_setting_search_tags">tiếng trung, rime, pinyin, bính âm</string>
+  <string name="chinese_setting_simplification">Định dạng chữ</string>
+  <string name="chinese_setting_simplification_simplify_by_language_country">Mặc định (theo quốc gia)</string>
+  <string name="chinese_setting_simplification_force_simplified">Chữ giản thể (Simplified)</string>
+  <string name="chinese_setting_simplification_force_traditional">Chữ phồn thể (Traditional)</string>
+  <string name="chinese_setting_pinyin_scheme">Sơ đồ phiên âm Pinyin</string>
+  <string name="chinese_setting_fuzzy_pinyin">Phiên âm Pinyin mờ (Fuzzy)</string>
+
+  <string name="japanese_settings_title">Cài đặt nhập liệu tiếng Nhật</string>
+  <string name="japanese_settings_toggle_flick_only">Chỉ nhập bằng cách vuốt nhanh (Flick only)</string>
+  <string name="japanese_settings_toggle_flick_only_subtitle">Tắt tính năng xoay vòng nguyên âm khi nhấn phím liên tiếp (kiểu Keitai).</string>
+  <string name="japanese_settings_toggle_halfwidth_space">Dùng dấu cách nửa chiều rộng (Half-width)</string>
+  <string name="japanese_settings_toggle_halfwidth_space_subtitle">Luôn sử dụng khoảng cách nửa chiều rộng khi gõ.</string>
+
+  <string name="prediction_settings_transformer_advanced_params">Tham số nâng cao</string>
+  <string name="prediction_settings_transformer_advanced_params_experimental_notice">Các tùy chọn nâng cao dưới đây mang tính thử nghiệm và có thể bị loại bỏ trong tương lai. Việc chỉnh sửa không đúng có thể làm ảnh hưởng xấu đến tốc độ gõ của bạn.\n\nLưu ý: Chỉ áp dụng cho Tiếng Anh.</string>
+  <string name="prediction_settings_transformer_advanced_params_transformer_lm_strength">Cường độ dự đoán của Transformer</string>
+  <string name="prediction_settings_transformer_advanced_params_transformer_lm_strength_subtitle">Giá trị thấp giúp tự sửa lỗi hoạt động giống bàn phím AOSP mặc định, giá trị cao hơn sẽ ưu tiên dự đoán thông minh của mạng nơ-ron.\nMặc định là <xliff:g name="strength">%1$s</xliff:g></string>
+  <string name="prediction_settings_transformer_advanced_params_transformer_lm_strength_always_transformer">luôn dùng Transformer LM</string>
+  <string name="prediction_settings_transformer_advanced_params_transformer_lm_strength_always_binarydictionary">luôn dùng Từ điển mặc định (BinaryDictionary)</string>
+  <string name="prediction_settings_transformer_advanced_params_autocorrect_threshold">Ngưỡng tự sửa lỗi</string>
+  <string name="prediction_settings_transformer_advanced_params_autocorrect_threshold_subtitle">Đặt ngưỡng thấp hơn sẽ tự động sửa từ thường xuyên hơn (dễ sai từ mong muốn), trong khi ngưỡng cao hơn sẽ tự sửa ít hơn (độ an toàn cao hơn).\nMặc định là <xliff:g name="threshold">%1$s</xliff:g></string>
+
+  <string name="personal_dictionary_shortcut_error_symbols">Lỗi: Phím viết tắt không được bắt đầu bằng các ký hiệu</string>
+  <plurals name="personal_dictionary_language_word_count">
+    <item quantity="one"><xliff:g id="count">%1$s</xliff:g> từ</item>
+    <item quantity="other"><xliff:g id="count">%1$s</xliff:g> từ</item>
+  </plurals>
+  <string name="personal_dictionary_imported_additional_files_list_header">Tệp tin</string>
+  <string name="personal_dictionary_import_additional_file">Nhập tệp</string>
+  <string name="personal_dictionary_words_list_header">Từ vựng</string>
+  <string name="personal_dictionary_cancel_action">Hủy</string>
+  <string name="personal_dictionary_delete_additional_file">Xóa tệp từ điển bổ sung?</string>
+  <string name="personal_dictionary_delete_additional_file_text">Tệp <xliff:g name="filename">%1$s</xliff:g> sẽ bị xóa vĩnh viễn</string>
+</resources>

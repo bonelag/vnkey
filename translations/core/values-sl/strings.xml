@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="english_ime_input_options">"Možnosti vnosa"</string>
+  
+  <string name="vibrate_on_keypress">"Vibriranje ob pritisku tipke"</string>
+  
+  <string name="sound_on_keypress">"Zvok ob pritisku tipke"</string>
+  
+  <string name="popup_on_keypress">"Povečaj črko ob pritisku"</string>
+  
+  <string name="show_language_switch_key">"Tipka za preklop med jeziki"</string>
+  
+  <string name="abbreviation_unit_milliseconds">&lt;string name="abbreviation_unit_milliseconds" msgid="3255301845626146979"&gt;&amp;quot;&lt;xliff:g id="MILLISECONDS"&gt;%s&lt;/xliff:g&gt; ms&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="use_personalized_dicts">"Prilagojeni predlogi"</string>
+  
+  <string name="use_double_space_period">"Dva presl. za vnos pike"</string>
+  
+  <string name="use_double_space_period_summary">"Z dvojnim dotikom preslednice vstavite piko in za njo presledek"</string>
+  
+  <string name="auto_cap">"Samod. velike začetnice"</string>
+  
+  <string name="auto_cap_summary">"Prvo besedo stavka piši z veliko začetnico"</string>
+  
+  <string name="edit_personal_dictionary">"Osebni slovar"</string>
+  
+  <string name="prefs_show_suggestions">"Pokaži predloge popravkov"</string>
+  
+  <string name="prefs_show_suggestions_summary">"Pokaži predlagane besede med tipkanjem"</string>
+  
+  <string name="prefs_block_potentially_offensive_title">"Blokiraj žaljive besede"</string>
+  
+  <string name="prefs_block_potentially_offensive_summary">"Ne predlagaj potencialno žaljivih besed"</string>
+  
+  <string name="auto_correction">"Samodejni popravek"</string>
+  
+  <string name="auto_correction_summary">"Preslednica in ločila samodejno popravijo napačno vtipkane besede"</string>
+  
+  <string name="bigram_prediction">"Predlogi za naslednjo besedo"</string>
+  
+  <string name="bigram_prediction_summary">"Pri predlogu upoštevaj prejšnjo besedo"</string>
+  
+  <string name="language_selection_title">"Jeziki"</string>
+  
+  <string name="select_language">"Jeziki"</string>
+  
+  <string name="subtype_en_GB">"angleščina (Združeno kraljestvo)"</string>
+  
+  <string name="subtype_en_US">"angleščina (ZDA)"</string>
+  
+  <string name="subtype_es_US">"španščina (ZDA)"</string>
+  
+  <string name="subtype_hi_ZZ">"Hindujska angleščina"</string>
+  
+  <string name="subtype_sr_ZZ">"Srbščina (latinica)"</string>
+  
+  <string name="subtype_with_layout_en_GB">&lt;string name="subtype_with_layout_en_GB" msgid="4220344684463778660"&gt;&amp;quot;angleščina (VB) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_en_US">&lt;string name="subtype_with_layout_en_US" msgid="4599421650961912769"&gt;&amp;quot;angleščina (ZDA) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_es_US">&lt;string name="subtype_with_layout_es_US" msgid="6866331205974243592"&gt;&amp;quot;španščina (ZDA) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_hi_ZZ">&lt;string name="subtype_with_layout_hi_ZZ" msgid="5439623653083985558"&gt;&amp;quot;Hindujska angleščina (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_sr_ZZ">&lt;string name="subtype_with_layout_sr_ZZ" msgid="546465971819327060"&gt;&amp;quot;Srbščina (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_traditional">&lt;string name="subtype_generic_traditional" msgid="5321023815277210849"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (tradicionalna)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_compact">&lt;string name="subtype_generic_compact" msgid="2858514299576793292"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (kompaktna)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_no_language">"Brez jezika (latinice)"</string>
+  
+  <string name="subtype_no_language_qwerty">"Latinica (QWERTY)"</string>
+  
+  <string name="subtype_no_language_qwertz">"Latinica (QWERTZ)"</string>
+  
+  <string name="subtype_no_language_azerty">"Latinica (AZERTY)"</string>
+  
+  <string name="subtype_no_language_dvorak">"Latinica (Dvorak)"</string>
+  
+  <string name="subtype_no_language_colemak">"Latinica (Colemak)"</string>
+  
+  <string name="subtype_no_language_pcqwerty">"Latinica (PC)"</string>
+  
+  <string name="subtype_emoji">"Emodžiji"</string>
+  
+  <string name="cancel">"Prekliči"</string>
+  
+  <string name="go_to_settings">"Nastavitve"</string>
+  
+  <string name="install_dict">"Namesti"</string>
+  
+  <string name="cancel_download_dict">"Prekliči"</string>
+  
+  <string name="user_dict_settings_add_menu_title">"Dodaj"</string>
+  
+  <string name="user_dict_settings_add_dialog_title">"Dodaj v slovar"</string>
+  
+  <string name="user_dict_settings_add_screen_title">"Besedna zveza"</string>
+  
+  <string name="user_dict_settings_add_dialog_more_options">"Več možnosti"</string>
+  
+  <string name="user_dict_settings_add_dialog_less_options">"Manj možnosti"</string>
+  
+  <string name="user_dict_settings_add_dialog_confirm">"V redu"</string>
+  
+  <string name="user_dict_settings_add_word_option_name">"Beseda:"</string>
+  
+  <string name="user_dict_settings_add_shortcut_option_name">"Bližnjica:"</string>
+  
+  <string name="user_dict_settings_add_locale_option_name">"Jezik:"</string>
+  
+  <string name="user_dict_settings_add_word_hint">"Vnesite besedo"</string>
+  
+  <string name="user_dict_settings_add_shortcut_hint">"Izbirna bližnjica"</string>
+  
+  <string name="user_dict_settings_edit_dialog_title">"Uredi besedo"</string>
+  
+  <string name="user_dict_settings_context_menu_edit_title">"Uredi"</string>
+  
+  <string name="user_dict_settings_context_menu_delete_title">"Izbriši"</string>
+  
+  <string name="user_dict_settings_empty_text">"V uporabniškem slovarju ni besed. Če želite dodati besedo, se dotaknite gumba za dodajanje (+)."</string>
+  
+  <string name="user_dict_settings_all_languages">"Za vse jezike"</string>
+  
+  <string name="user_dict_settings_more_languages">"Več jezikov ..."</string>
+  
+  <string name="user_dict_settings_delete">"Izbriši"</string>
+  
+  <string name="user_dict_fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+</resources>

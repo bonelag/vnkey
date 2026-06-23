@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">"Accès"</string>
+  
+  <string name="label_next_key">"Suiv."</string>
+  
+  <string name="label_previous_key">"Préc."</string>
+  
+  <string name="label_done_key">"OK"</string>
+  
+  <string name="label_send_key">"Envoyer"</string>
+  
+  <string name="label_search_key">"Rech."</string>
+  
+  <string name="label_pause_key">"Pause"</string>
+  
+  <string name="label_wait_key">"Attente"</string>
+</resources>

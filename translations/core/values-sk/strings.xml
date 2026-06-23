@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="english_ime_input_options">"Možnosti zadávania textu a údajov"</string>
+  
+  <string name="vibrate_on_keypress">"Pri stlačení klávesu vibrovať"</string>
+  
+  <string name="sound_on_keypress">"Zvuk pri stlačení klávesu"</string>
+  
+  <string name="popup_on_keypress">"Detail znaku pri stlačení"</string>
+  
+  <string name="show_language_switch_key">"Kľúč na prepínanie jazyka"</string>
+  
+  <string name="abbreviation_unit_milliseconds">&lt;string name="abbreviation_unit_milliseconds" msgid="3255301845626146979"&gt;&amp;quot;&lt;xliff:g id="MILLISECONDS"&gt;%s&lt;/xliff:g&gt; ms&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="use_personalized_dicts">"Prispôsobené návrhy"</string>
+  
+  <string name="use_double_space_period">"Bodka dvojitým medzerníkom"</string>
+  
+  <string name="use_double_space_period_summary">"Dvojitým klepnutím na medzerník vložíte bodku a medzeru."</string>
+  
+  <string name="auto_cap">"Veľké písmená automaticky"</string>
+  
+  <string name="auto_cap_summary">"Písanie prvého slova v každej vete veľkým písmenom"</string>
+  
+  <string name="edit_personal_dictionary">"Osobný slovník"</string>
+  
+  <string name="prefs_show_suggestions">"Zobrazovať návrhy opráv"</string>
+  
+  <string name="prefs_show_suggestions_summary">"Zobrazovať navrhované slová počas písania"</string>
+  
+  <string name="prefs_block_potentially_offensive_title">"Blokovať urážlivé slová"</string>
+  
+  <string name="prefs_block_potentially_offensive_summary">"Nenavrhovať potenciálne urážlivé slová"</string>
+  
+  <string name="auto_correction">"Automatické opravy"</string>
+  
+  <string name="auto_correction_summary">"Medzerník s klávesom interpunkcie automaticky opraví chybné slovo"</string>
+  
+  <string name="bigram_prediction">"Navrhovať ďalšie slovo"</string>
+  
+  <string name="bigram_prediction_summary">"Návrhy podľa predchádzajúceho slova"</string>
+  
+  <string name="language_selection_title">"Jazyky"</string>
+  
+  <string name="select_language">"Jazyky"</string>
+  
+  <string name="subtype_en_GB">"angličtina (Veľká Británia)"</string>
+  
+  <string name="subtype_en_US">"angličtina (USA)"</string>
+  
+  <string name="subtype_es_US">"španielčina (USA)"</string>
+  
+  <string name="subtype_hi_ZZ">"Hinglish"</string>
+  
+  <string name="subtype_sr_ZZ">"srbčina (latinka)"</string>
+  
+  <string name="subtype_with_layout_en_GB">&lt;string name="subtype_with_layout_en_GB" msgid="4220344684463778660"&gt;&amp;quot;angličtina (VB) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_en_US">&lt;string name="subtype_with_layout_en_US" msgid="4599421650961912769"&gt;&amp;quot;angličtina (USA) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_es_US">&lt;string name="subtype_with_layout_es_US" msgid="6866331205974243592"&gt;&amp;quot;španielčina (USA) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_hi_ZZ">&lt;string name="subtype_with_layout_hi_ZZ" msgid="5439623653083985558"&gt;&amp;quot;Hinglish (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_sr_ZZ">&lt;string name="subtype_with_layout_sr_ZZ" msgid="546465971819327060"&gt;&amp;quot;srbčina (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_traditional">&lt;string name="subtype_generic_traditional" msgid="5321023815277210849"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (tradičná)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_compact">&lt;string name="subtype_generic_compact" msgid="2858514299576793292"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (kompaktná)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_no_language">"Žiadny jazyk (latinka)"</string>
+  
+  <string name="subtype_no_language_qwerty">"latinka (QWERTY)"</string>
+  
+  <string name="subtype_no_language_qwertz">"Latinka (QWERTZ)"</string>
+  
+  <string name="subtype_no_language_azerty">"Latinka (AZERTY)"</string>
+  
+  <string name="subtype_no_language_dvorak">"Latinka (Dvorak)"</string>
+  
+  <string name="subtype_no_language_colemak">"Latinka (Colemak)"</string>
+  
+  <string name="subtype_no_language_pcqwerty">"Latinka (PC)"</string>
+  
+  <string name="subtype_emoji">"Emoji"</string>
+  
+  <string name="cancel">"Zrušiť"</string>
+  
+  <string name="go_to_settings">"Nastavenia"</string>
+  
+  <string name="install_dict">"Inštalovať"</string>
+  
+  <string name="cancel_download_dict">"Zrušiť"</string>
+  
+  <string name="user_dict_settings_add_menu_title">"Pridať"</string>
+  
+  <string name="user_dict_settings_add_dialog_title">"Pridať do slovníka"</string>
+  
+  <string name="user_dict_settings_add_screen_title">"Fráza"</string>
+  
+  <string name="user_dict_settings_add_dialog_more_options">"Ďalšie možnosti"</string>
+  
+  <string name="user_dict_settings_add_dialog_less_options">"Menej možností"</string>
+  
+  <string name="user_dict_settings_add_dialog_confirm">"OK"</string>
+  
+  <string name="user_dict_settings_add_word_option_name">"Slovo:"</string>
+  
+  <string name="user_dict_settings_add_shortcut_option_name">"Klávesová skratka"</string>
+  
+  <string name="user_dict_settings_add_locale_option_name">"Jazyk:"</string>
+  
+  <string name="user_dict_settings_add_word_hint">"Zadajte slovo"</string>
+  
+  <string name="user_dict_settings_add_shortcut_hint">"Voliteľná skratka"</string>
+  
+  <string name="user_dict_settings_edit_dialog_title">"Upraviť slovo"</string>
+  
+  <string name="user_dict_settings_context_menu_edit_title">"Upraviť"</string>
+  
+  <string name="user_dict_settings_context_menu_delete_title">"Odstrániť"</string>
+  
+  <string name="user_dict_settings_empty_text">"V používateľskom slovníku nie sú žiadne slová. Slovo pridáte klepnutím na tlačidlo Pridať (+)."</string>
+  
+  <string name="user_dict_settings_all_languages">"pre všetky jazyky"</string>
+  
+  <string name="user_dict_settings_more_languages">"Ďalšie jazyky…"</string>
+  
+  <string name="user_dict_settings_delete">"Odstrániť"</string>
+  
+  <string name="user_dict_fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+</resources>

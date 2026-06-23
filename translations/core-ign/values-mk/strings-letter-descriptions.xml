@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"Женски реден индикатор"</string>
+  
+  <string name="spoken_accented_letter_00B5">"Знак за микро"</string>
+  
+  <string name="spoken_accented_letter_00BA">"Машки реден индикатор"</string>
+  
+  <string name="spoken_accented_letter_00DF">"Остро С"</string>
+  
+  <string name="spoken_accented_letter_00E0">"A, со надреден знак"</string>
+  
+  <string name="spoken_accented_letter_00E1">"A, со акцент"</string>
+  
+  <string name="spoken_accented_letter_00E2">"A, циркумфлекс"</string>
+  
+  <string name="spoken_accented_letter_00E3">"A, тилда"</string>
+  
+  <string name="spoken_accented_letter_00E4">"A, дијареза"</string>
+  
+  <string name="spoken_accented_letter_00E5">"A, со прстен горе"</string>
+  
+  <string name="spoken_accented_letter_00E6">"A, E, лигатура"</string>
+  
+  <string name="spoken_accented_letter_00E7">"C, седилја"</string>
+  
+  <string name="spoken_accented_letter_00E8">"E, со надреден знак"</string>
+  
+  <string name="spoken_accented_letter_00E9">"E, со акцент"</string>
+  
+  <string name="spoken_accented_letter_00EA">"E, циркумфлекс"</string>
+  
+  <string name="spoken_accented_letter_00EB">"E, дијареза"</string>
+  
+  <string name="spoken_accented_letter_00EC">"I, со надреден знак"</string>
+  
+  <string name="spoken_accented_letter_00ED">"I, со акцент"</string>
+  
+  <string name="spoken_accented_letter_00EE">"I, циркумфлекс"</string>
+  
+  <string name="spoken_accented_letter_00EF">"I, дијареза"</string>
+  
+  <string name="spoken_accented_letter_00F0">"Ет"</string>
+  
+  <string name="spoken_accented_letter_00F1">"N, тилда"</string>
+  
+  <string name="spoken_accented_letter_00F2">"O, со надреден знак"</string>
+  
+  <string name="spoken_accented_letter_00F3">"O, со акцент"</string>
+  
+  <string name="spoken_accented_letter_00F4">"O, циркумфлекс"</string>
+  
+  <string name="spoken_accented_letter_00F5">"O, тилда"</string>
+  
+  <string name="spoken_accented_letter_00F6">"O, дијареза"</string>
+  
+  <string name="spoken_accented_letter_00F8">"O, прецртано"</string>
+  
+  <string name="spoken_accented_letter_00F9">"U, со надреден знак"</string>
+  
+  <string name="spoken_accented_letter_00FA">"U, со акцент"</string>
+  
+  <string name="spoken_accented_letter_00FB">"U, циркумфлекс"</string>
+  
+  <string name="spoken_accented_letter_00FC">"U, дијареза"</string>
+  
+  <string name="spoken_accented_letter_00FD">"Y, со акцент"</string>
+  
+  <string name="spoken_accented_letter_00FE">"Трн"</string>
+  
+  <string name="spoken_accented_letter_00FF">"Y, дијареза"</string>
+  
+  <string name="spoken_accented_letter_0101">"A, макрон"</string>
+  
+  <string name="spoken_accented_letter_0103">"A, бреве"</string>
+  
+  <string name="spoken_accented_letter_0105">"A, огонек"</string>
+  
+  <string name="spoken_accented_letter_0107">"C, со акцент"</string>
+  
+  <string name="spoken_accented_letter_0109">"C, циркумфлекс"</string>
+  
+  <string name="spoken_accented_letter_010B">"C, со точка одозгора"</string>
+  
+  <string name="spoken_accented_letter_010D">"C, карон"</string>
+  
+  <string name="spoken_accented_letter_010F">"D, карон"</string>
+  
+  <string name="spoken_accented_letter_0111">"D, прецртано"</string>
+  
+  <string name="spoken_accented_letter_0113">"E, макрон"</string>
+  
+  <string name="spoken_accented_letter_0115">"E, бреве"</string>
+  
+  <string name="spoken_accented_letter_0117">"E, со точка одозгора"</string>
+  
+  <string name="spoken_accented_letter_0119">"E, огонек"</string>
+  
+  <string name="spoken_accented_letter_011B">"E, карон"</string>
+  
+  <string name="spoken_accented_letter_011D">"G, циркумфлекс"</string>
+  
+  <string name="spoken_accented_letter_011F">"G, бреве"</string>
+  
+  <string name="spoken_accented_letter_0121">"G, со точка одозгора"</string>
+  
+  <string name="spoken_accented_letter_0123">"G, седилја"</string>
+  
+  <string name="spoken_accented_letter_0125">"H, циркумфлекс"</string>
+  
+  <string name="spoken_accented_letter_0127">"H, прецртано"</string>
+  
+  <string name="spoken_accented_letter_0129">"I, тилда"</string>
+  
+  <string name="spoken_accented_letter_012B">"I, макрон"</string>
+  
+  <string name="spoken_accented_letter_012D">"I, бреве"</string>
+  
+  <string name="spoken_accented_letter_012F">"I, огонек"</string>
+  
+  <string name="spoken_accented_letter_0131">"I без точка"</string>
+  
+  <string name="spoken_accented_letter_0133">"I, J, лигатура"</string>
+  
+  <string name="spoken_accented_letter_0135">"J, циркумфлекс"</string>
+  
+  <string name="spoken_accented_letter_0137">"K, седилја"</string>
+  
+  <string name="spoken_accented_letter_0138">"Кра"</string>
+  
+  <string name="spoken_accented_letter_013A">"L, со акцент"</string>
+  
+  <string name="spoken_accented_letter_013C">"L, седилја"</string>
+  
+  <string name="spoken_accented_letter_013E">"L, карон"</string>
+  
+  <string name="spoken_accented_letter_0140">"L, средната точка"</string>
+  
+  <string name="spoken_accented_letter_0142">"L, прецртано"</string>
+  
+  <string name="spoken_accented_letter_0144">"N, со акцент"</string>
+  
+  <string name="spoken_accented_letter_0146">"N, седилја"</string>
+  
+  <string name="spoken_accented_letter_0148">"N, карон"</string>
+  
+  <string name="spoken_accented_letter_0149">"N, со апостроф"</string>
+  
+  <string name="spoken_accented_letter_014B">"Енг"</string>
+  
+  <string name="spoken_accented_letter_014D">"O, макрон"</string>
+  
+  <string name="spoken_accented_letter_014F">"O, бреве"</string>
+  
+  <string name="spoken_accented_letter_0151">"O, со двоен акцент"</string>
+  
+  <string name="spoken_accented_letter_0153">"O, E, лигатура"</string>
+  
+  <string name="spoken_accented_letter_0155">"R, со акцент"</string>
+  
+  <string name="spoken_accented_letter_0157">"R, седилја"</string>
+  
+  <string name="spoken_accented_letter_0159">"R, карон"</string>
+  
+  <string name="spoken_accented_letter_015B">"S, со акцент"</string>
+  
+  <string name="spoken_accented_letter_015D">"S, циркумфлекс"</string>
+  
+  <string name="spoken_accented_letter_015F">"S, седилја"</string>
+  
+  <string name="spoken_accented_letter_0161">"S, карон"</string>
+  
+  <string name="spoken_accented_letter_0163">"T, седилја"</string>
+  
+  <string name="spoken_accented_letter_0165">"T, карон"</string>
+  
+  <string name="spoken_accented_letter_0167">"T, прецртано"</string>
+  
+  <string name="spoken_accented_letter_0169">"U, тилда"</string>
+  
+  <string name="spoken_accented_letter_016B">"U, макрон"</string>
+  
+  <string name="spoken_accented_letter_016D">"U, бреве"</string>
+  
+  <string name="spoken_accented_letter_016F">"U, со прстен горе"</string>
+  
+  <string name="spoken_accented_letter_0171">"U, со двоен акцент"</string>
+  
+  <string name="spoken_accented_letter_0173">"U, огонек"</string>
+  
+  <string name="spoken_accented_letter_0175">"W, циркумфлекс"</string>
+  
+  <string name="spoken_accented_letter_0177">"Y, циркумфлекс"</string>
+  
+  <string name="spoken_accented_letter_017A">"Z, со акцент"</string>
+  
+  <string name="spoken_accented_letter_017C">"Z, со точка одозгора"</string>
+  
+  <string name="spoken_accented_letter_017E">"Z, карон"</string>
+  
+  <string name="spoken_accented_letter_017F">"Долго S"</string>
+  
+  <string name="spoken_accented_letter_01A1">"O, рог"</string>
+  
+  <string name="spoken_accented_letter_01B0">"U, рог"</string>
+  
+  <string name="spoken_accented_letter_0219">"S, запирка подолу"</string>
+  
+  <string name="spoken_accented_letter_021B">"Т, запирка подолу"</string>
+  
+  <string name="spoken_accented_letter_0259">"Шва"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"А, точка подолу"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"А, кука над"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"A, циркумфлекс и со акцент"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"A, циркумфлекс и со надреден знак"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"A, циркумфлекс и кука над"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"A, циркумфлекс и тилда"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"A, циркумфлекс и точка подолу"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"A, бреве и со акцент"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"A, бреве и со надреден знак"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"A, бреве и кука над"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"A, бреве и тилда"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"A, бреве и точка подолу"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"Е, точка подолу"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"Е, кука над"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"E, тилда"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"E, циркумфлекс и со акцент"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"E, циркумфлекс и со надреден знак"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"E, циркумфлекс и кука над"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"E, циркумфлекс и тилда"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"E, циркумфлекс и точка подолу"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"I, кука над"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"I, точка подолу"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"O, точка подолу"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"O, кука над"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"O, циркумфлекс и со акцент"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"O, циркумфлекс и со надреден знак"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"O, циркумфлекс и кука над"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"O, циркумфлекс и тилда"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"O, циркумфлекс и точка подолу"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"O, рог и со акцент"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"O, рог и со надреден знак"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"O, рог и кука над"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"O, рог и тилда"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"O, рог и точка подолу"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"U, точка подолу"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"U, кука над"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"U, рог и со акцент"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"U, рог и со надреден знак"</string>
+  
+  <string name="spoken_accented_letter_1EED">"U, рог и кука над"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"U, рог и тилда"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"U, рог и точка подолу"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"Y, со надреден знак"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"Y, точка подолу"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"Y, кука над"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"Y, тилда"</string>
+  
+  <string name="spoken_symbol_00A1">"Превртен извичник"</string>
+  
+  <string name="spoken_symbol_00AB">"Леви аглести наводници"</string>
+  
+  <string name="spoken_symbol_00B7">"Средна точка"</string>
+  
+  <string name="spoken_symbol_00B9">"На степен еден"</string>
+  
+  <string name="spoken_symbol_00BB">"Десни аглести наводници"</string>
+  
+  <string name="spoken_symbol_00BF">"Превртен прашалник"</string>
+  
+  <string name="spoken_symbol_2018">"Леви полунаводници"</string>
+  
+  <string name="spoken_symbol_2019">"Десни полунаводници"</string>
+  
+  <string name="spoken_symbol_201A">"Леви 9-полунаводници"</string>
+  
+  <string name="spoken_symbol_201C">"Леви наводници"</string>
+  
+  <string name="spoken_symbol_201D">"Десни наводници"</string>
+  
+  <string name="spoken_symbol_2020">"Крстче"</string>
+  
+  <string name="spoken_symbol_2021">"Дупло крстче"</string>
+  
+  <string name="spoken_symbol_2030">"Знак за промили"</string>
+  
+  <string name="spoken_symbol_2032">"Прим"</string>
+  
+  <string name="spoken_symbol_2033">"Секундум"</string>
+  
+  <string name="spoken_symbol_2039">"Леви аглести полунаводници"</string>
+  
+  <string name="spoken_symbol_203A">"Десни аглести полунаводници"</string>
+  
+  <string name="spoken_symbol_2074">"На степен четири"</string>
+  
+  <string name="spoken_symbol_207F">"На степен n"</string>
+  
+  <string name="spoken_symbol_20B1">"Знак пезо"</string>
+  
+  <string name="spoken_symbol_2105">"Care of"</string>
+  
+  <string name="spoken_symbol_2192">"Стрелка надесно"</string>
+  
+  <string name="spoken_symbol_2193">"Стрелка надолу"</string>
+  
+  <string name="spoken_symbol_2205">"Празен сет"</string>
+  
+  <string name="spoken_symbol_2206">"Диференцијал"</string>
+  
+  <string name="spoken_symbol_2264">"Помало или еднакво на"</string>
+  
+  <string name="spoken_symbol_2265">"Поголемо или еднакво на"</string>
+  
+  <string name="spoken_symbol_2605">"Црна ѕвезда"</string>
+</resources>

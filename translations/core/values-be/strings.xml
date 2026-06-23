@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="english_ime_input_options">"Параметры ўводу"</string>
+  
+  <string name="vibrate_on_keypress">"Вібрацыя пры націску клавіш"</string>
+  
+  <string name="sound_on_keypress">"Гук пры націску"</string>
+  
+  <string name="popup_on_keypress">"Па націску на клавішы ўсплывае акно"</string>
+  
+  <string name="show_language_switch_key">"Кнопка пераключэння мовы"</string>
+  
+  <string name="abbreviation_unit_milliseconds">&lt;string name="abbreviation_unit_milliseconds" msgid="3255301845626146979"&gt;&amp;quot;&lt;xliff:g id="MILLISECONDS"&gt;%s&lt;/xliff:g&gt; мс&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="use_personalized_dicts">"Персанальныя прапановы"</string>
+  
+  <string name="use_double_space_period">"Падвойны iнтэрвал"</string>
+  
+  <string name="use_double_space_period_summary">"Падвойнае нацiсканне на клавішу прабелу ўстаўляе кропку з наступным прабелам"</string>
+  
+  <string name="auto_cap">"Аўтаматычна рабіць літары вялікімі"</string>
+  
+  <string name="auto_cap_summary">"Пісаць з загалоўнай літары першае слова ў кожным сказе"</string>
+  
+  <string name="edit_personal_dictionary">"Асабісты слоўнік"</string>
+  
+  <string name="prefs_show_suggestions">"Паказваць прапановы выпраўлення"</string>
+  
+  <string name="prefs_show_suggestions_summary">"Паказваць прапанаваныя словы падчас набору тэксту"</string>
+  
+  <string name="prefs_block_potentially_offensive_title">"Блакіраваць абразлівыя словы"</string>
+  
+  <string name="prefs_block_potentially_offensive_summary">"Не прапануйце патэнцыяльна абразлівых слоў"</string>
+  
+  <string name="auto_correction">"Аўтавыпраўленне"</string>
+  
+  <string name="auto_correction_summary">"Прабелы і пунктуацыйныя знакі дазваляюць аўтаматычна выпраўляць памылкова ўведзеныя словы"</string>
+  
+  <string name="bigram_prediction">"Падказкi для наступнага слова"</string>
+  
+  <string name="bigram_prediction_summary">"Выкарыстоўваць папярэдняе слова, каб атрымлiваць падказкi"</string>
+  
+  <string name="language_selection_title">"Мовы"</string>
+  
+  <string name="select_language">"Мовы"</string>
+  
+  <string name="subtype_en_GB">"англійская (Вялікабрытанія)"</string>
+  
+  <string name="subtype_en_US">"англійская (ЗША)"</string>
+  
+  <string name="subtype_es_US">"iспанская (ЗША)"</string>
+  
+  <string name="subtype_hi_ZZ">"Хінгліш"</string>
+  
+  <string name="subtype_sr_ZZ">"Сербская (лацініца)"</string>
+  
+  <string name="subtype_with_layout_en_GB">&lt;string name="subtype_with_layout_en_GB" msgid="4220344684463778660"&gt;&amp;quot;англійская (Вялікабрытанія) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_en_US">&lt;string name="subtype_with_layout_en_US" msgid="4599421650961912769"&gt;&amp;quot;англійская (ЗША) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_es_US">&lt;string name="subtype_with_layout_es_US" msgid="6866331205974243592"&gt;&amp;quot;іспанская (ЗША) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_hi_ZZ">&lt;string name="subtype_with_layout_hi_ZZ" msgid="5439623653083985558"&gt;&amp;quot;Хінгліш (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_sr_ZZ">&lt;string name="subtype_with_layout_sr_ZZ" msgid="546465971819327060"&gt;&amp;quot;Сербская (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_traditional">&lt;string name="subtype_generic_traditional" msgid="5321023815277210849"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (традыцыйная)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_compact">&lt;string name="subtype_generic_compact" msgid="2858514299576793292"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (кампактная)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_no_language">"Мова не выбрана (лацініца)"</string>
+  
+  <string name="subtype_no_language_qwerty">"Лацініца (QWERTY)"</string>
+  
+  <string name="subtype_no_language_qwertz">"Лацініца (QWERTZ)"</string>
+  
+  <string name="subtype_no_language_azerty">"Лацініца (AZERTY)"</string>
+  
+  <string name="subtype_no_language_dvorak">"Лацініца (Дворак)"</string>
+  
+  <string name="subtype_no_language_colemak">"Лацініца (Colemak)"</string>
+  
+  <string name="subtype_no_language_pcqwerty">"Лацініца (ПК)"</string>
+  
+  <string name="subtype_emoji">"Эмодзі"</string>
+  
+  <string name="cancel">"Скасаваць"</string>
+  
+  <string name="go_to_settings">"Налады"</string>
+  
+  <string name="install_dict">"Усталяваць"</string>
+  
+  <string name="cancel_download_dict">"Скасаваць"</string>
+  
+  <string name="user_dict_settings_add_menu_title">"Дадаць"</string>
+  
+  <string name="user_dict_settings_add_dialog_title">"Дадаць у слоўнік"</string>
+  
+  <string name="user_dict_settings_add_screen_title">"Выраз"</string>
+  
+  <string name="user_dict_settings_add_dialog_more_options">"Дадатковыя параметры"</string>
+  
+  <string name="user_dict_settings_add_dialog_less_options">"Асн. параметры"</string>
+  
+  <string name="user_dict_settings_add_dialog_confirm">"OК"</string>
+  
+  <string name="user_dict_settings_add_word_option_name">"Слова:"</string>
+  
+  <string name="user_dict_settings_add_shortcut_option_name">"Гарачая клавіша:"</string>
+  
+  <string name="user_dict_settings_add_locale_option_name">"Мова:"</string>
+  
+  <string name="user_dict_settings_add_word_hint">"Увядзіце слова"</string>
+  
+  <string name="user_dict_settings_add_shortcut_hint">"Неабавязковая гарачая клавіша"</string>
+  
+  <string name="user_dict_settings_edit_dialog_title">"Рэдагаваць слова"</string>
+  
+  <string name="user_dict_settings_context_menu_edit_title">"Рэдагаваць"</string>
+  
+  <string name="user_dict_settings_context_menu_delete_title">"Выдаліць"</string>
+  
+  <string name="user_dict_settings_empty_text">"У карыстальніцкім слоўніку няма ніводнага слова. Каб дадаць слова, дакраніце да кнопкі \"Дадаць\" (+)."</string>
+  
+  <string name="user_dict_settings_all_languages">"Для ўсіх моў"</string>
+  
+  <string name="user_dict_settings_more_languages">"Іншыя мовы..."</string>
+  
+  <string name="user_dict_settings_delete">"Выдаліць"</string>
+  
+  <string name="user_dict_fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+</resources>

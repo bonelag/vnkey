@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">"Jít"</string>
+  
+  <string name="label_next_key">"Další"</string>
+  
+  <string name="label_previous_key">"Před."</string>
+  
+  <string name="label_done_key">"OK"</string>
+  
+  <string name="label_send_key">"Odes."</string>
+  
+  <string name="label_search_key">"Hledat"</string>
+  
+  <string name="label_pause_key">"Pauza"</string>
+  
+  <string name="label_wait_key">"Čekat"</string>
+</resources>

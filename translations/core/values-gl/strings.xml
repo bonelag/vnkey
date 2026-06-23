@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="english_ime_input_options">"Opcións de entrada"</string>
+  
+  <string name="vibrate_on_keypress">"Vibrar ao premer as teclas"</string>
+  
+  <string name="sound_on_keypress">"Son ao premer as teclas"</string>
+  
+  <string name="popup_on_keypress">"Ventás emerxentes ao premer as teclas"</string>
+  
+  <string name="show_language_switch_key">"Tecla de cambio de idioma"</string>
+  
+  <string name="abbreviation_unit_milliseconds">&lt;string name="abbreviation_unit_milliseconds" msgid="3255301845626146979"&gt;&amp;quot;&lt;xliff:g id="MILLISECONDS"&gt;%s&lt;/xliff:g&gt; ms&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="use_personalized_dicts">"Suxestións personalizadas"</string>
+  
+  <string name="use_double_space_period">"Dobre espazo insire punto"</string>
+  
+  <string name="use_double_space_period_summary">"Ao tocar dúas veces a barra de espazo insire un punto e un espazo"</string>
+  
+  <string name="auto_cap">"Maiúsculas automáticas"</string>
+  
+  <string name="auto_cap_summary">"Pon en maiúscula a primeira palabra de cada frase"</string>
+  
+  <string name="edit_personal_dictionary">"Dicionario persoal"</string>
+  
+  <string name="prefs_show_suggestions">"Mostrar suxestións de corrección"</string>
+  
+  <string name="prefs_show_suggestions_summary">"Mostra palabras suxeridas mentres escribes"</string>
+  
+  <string name="prefs_block_potentially_offensive_title">"Bloquear palabras ofensivas"</string>
+  
+  <string name="prefs_block_potentially_offensive_summary">"Evita suxerir palabras potencialmente ofensivas"</string>
+  
+  <string name="auto_correction">"Autocorrección"</string>
+  
+  <string name="auto_correction_summary">"Premer a barra espazo e teclas de puntuación para corrixir erros"</string>
+  
+  <string name="bigram_prediction">"Suxerir palabra seguinte"</string>
+  
+  <string name="bigram_prediction_summary">"Utiliza a palabra anterior para facer suxestións"</string>
+  
+  <string name="language_selection_title">"Idiomas"</string>
+  
+  <string name="select_language">"Idiomas"</string>
+  
+  <string name="subtype_en_GB">"Inglés (Reino Unido)"</string>
+  
+  <string name="subtype_en_US">"Inglés (EUA)"</string>
+  
+  <string name="subtype_es_US">"Español (EUA)"</string>
+  
+  <string name="subtype_hi_ZZ">"Hinglish"</string>
+  
+  <string name="subtype_sr_ZZ">"Serbio (alfabeto latino)"</string>
+  
+  <string name="subtype_with_layout_en_GB">&lt;string name="subtype_with_layout_en_GB" msgid="4220344684463778660"&gt;&amp;quot;Inglés (Reino Unido) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_en_US">&lt;string name="subtype_with_layout_en_US" msgid="4599421650961912769"&gt;&amp;quot;Inglés (EUA) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_es_US">&lt;string name="subtype_with_layout_es_US" msgid="6866331205974243592"&gt;&amp;quot;Español (EUA) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_hi_ZZ">&lt;string name="subtype_with_layout_hi_ZZ" msgid="5439623653083985558"&gt;&amp;quot;Hinglish (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_sr_ZZ">&lt;string name="subtype_with_layout_sr_ZZ" msgid="546465971819327060"&gt;&amp;quot;Serbio (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_traditional">&lt;string name="subtype_generic_traditional" msgid="5321023815277210849"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (tradicional)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_compact">&lt;string name="subtype_generic_compact" msgid="2858514299576793292"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (compacto)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_no_language">"Ningún idioma (alfabeto)"</string>
+  
+  <string name="subtype_no_language_qwerty">"alfabeto (QWERTY)"</string>
+  
+  <string name="subtype_no_language_qwertz">"Alfabeto (QWERTZ)"</string>
+  
+  <string name="subtype_no_language_azerty">"Alfabeto (AZERTY)"</string>
+  
+  <string name="subtype_no_language_dvorak">"Alfabeto (Dvorak)"</string>
+  
+  <string name="subtype_no_language_colemak">"Alfabeto (Colemak)"</string>
+  
+  <string name="subtype_no_language_pcqwerty">"Alfabeto (PC)"</string>
+  
+  <string name="subtype_emoji">"Emoji"</string>
+  
+  <string name="cancel">"Cancelar"</string>
+  
+  <string name="go_to_settings">"Configuración"</string>
+  
+  <string name="install_dict">"Instalar"</string>
+  
+  <string name="cancel_download_dict">"Cancelar"</string>
+  
+  <string name="user_dict_settings_add_menu_title">"Engadir"</string>
+  
+  <string name="user_dict_settings_add_dialog_title">"Engadir ao dicionario"</string>
+  
+  <string name="user_dict_settings_add_screen_title">"Frase"</string>
+  
+  <string name="user_dict_settings_add_dialog_more_options">"Máis opcións"</string>
+  
+  <string name="user_dict_settings_add_dialog_less_options">"Menos opcións"</string>
+  
+  <string name="user_dict_settings_add_dialog_confirm">"Aceptar"</string>
+  
+  <string name="user_dict_settings_add_word_option_name">"Palabra:"</string>
+  
+  <string name="user_dict_settings_add_shortcut_option_name">"Atallo:"</string>
+  
+  <string name="user_dict_settings_add_locale_option_name">"Idioma:"</string>
+  
+  <string name="user_dict_settings_add_word_hint">"Escribe unha palabra"</string>
+  
+  <string name="user_dict_settings_add_shortcut_hint">"Atallo opcional"</string>
+  
+  <string name="user_dict_settings_edit_dialog_title">"Editar palabra"</string>
+  
+  <string name="user_dict_settings_context_menu_edit_title">"Editar"</string>
+  
+  <string name="user_dict_settings_context_menu_delete_title">"Eliminar"</string>
+  
+  <string name="user_dict_settings_empty_text">"Non tes ningunha palabra no dicionario de usuario. Toca o botón Engadir (+) para engadir unha palabra."</string>
+  
+  <string name="user_dict_settings_all_languages">"Para todos os idiomas"</string>
+  
+  <string name="user_dict_settings_more_languages">"Máis idiomas..."</string>
+  
+  <string name="user_dict_settings_delete">"Eliminar"</string>
+  
+  <string name="user_dict_fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+</resources>

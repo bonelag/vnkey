@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">"వెళ్లు"</string>
+  
+  <string name="label_next_key">"తర్వాత"</string>
+  
+  <string name="label_previous_key">"మునుపటి"</string>
+  
+  <string name="label_done_key">"పూర్తి"</string>
+  
+  <string name="label_send_key">"పంపు"</string>
+  
+  <string name="label_search_key">"వెతుకు"</string>
+  
+  <string name="label_pause_key">"పాజ్ చేయి"</string>
+  
+  <string name="label_wait_key">"వేచి ఉ."</string>
+</resources>

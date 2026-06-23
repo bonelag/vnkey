@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="english_ime_name">FUTO Keyboard [Dev Build]</string>
+
+    
+    <string name="spell_checker_service_name">FUTO Spell Checker [Dev Build]</string>
+
+    
+    <string name="english_ime_settings">FUTO Keyboard Settings [Dev Build]</string>
+
+    
+    <string name="android_spell_checker_settings">FUTO Spell Checker Settings [Dev Build]</string>
+</resources>

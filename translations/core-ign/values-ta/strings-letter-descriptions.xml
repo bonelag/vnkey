@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"ஃபெமினைன் ஆர்டினல் இன்டிகேட்டர்"</string>
+  
+  <string name="spoken_accented_letter_00B5">"மைக்ரோ குறி"</string>
+  
+  <string name="spoken_accented_letter_00BA">"மாஸ்குலின் ஆர்டினல் இன்டிகேட்டர்"</string>
+  
+  <string name="spoken_accented_letter_00DF">"ஷார்ப் S"</string>
+  
+  <string name="spoken_accented_letter_00E0">"A, கிரேவ்"</string>
+  
+  <string name="spoken_accented_letter_00E1">"A, அக்யூட்"</string>
+  
+  <string name="spoken_accented_letter_00E2">"A, வளைவு"</string>
+  
+  <string name="spoken_accented_letter_00E3">"A, டில்டு"</string>
+  
+  <string name="spoken_accented_letter_00E4">"A, டையாரேசிஸ்"</string>
+  
+  <string name="spoken_accented_letter_00E5">"A, மேல் வளையம்"</string>
+  
+  <string name="spoken_accented_letter_00E6">"A, E, லிகஷர்"</string>
+  
+  <string name="spoken_accented_letter_00E7">"C, செடில்லா"</string>
+  
+  <string name="spoken_accented_letter_00E8">"E, கிரேவ்"</string>
+  
+  <string name="spoken_accented_letter_00E9">"E, அக்யூட்"</string>
+  
+  <string name="spoken_accented_letter_00EA">"E, வளைவு"</string>
+  
+  <string name="spoken_accented_letter_00EB">"E, டையாரேசிஸ்"</string>
+  
+  <string name="spoken_accented_letter_00EC">"I, கிரேவ்"</string>
+  
+  <string name="spoken_accented_letter_00ED">"I, அக்யூட்"</string>
+  
+  <string name="spoken_accented_letter_00EE">"I, வளைவு"</string>
+  
+  <string name="spoken_accented_letter_00EF">"I, டையாரேசிஸ்"</string>
+  
+  <string name="spoken_accented_letter_00F0">"ஈத்"</string>
+  
+  <string name="spoken_accented_letter_00F1">"N, டில்டு"</string>
+  
+  <string name="spoken_accented_letter_00F2">"O, கிரேவ்"</string>
+  
+  <string name="spoken_accented_letter_00F3">"O, அக்யூட்"</string>
+  
+  <string name="spoken_accented_letter_00F4">"O, வளைவு"</string>
+  
+  <string name="spoken_accented_letter_00F5">"O, டில்டு"</string>
+  
+  <string name="spoken_accented_letter_00F6">"O, டையாரேசிஸ்"</string>
+  
+  <string name="spoken_accented_letter_00F8">"O, ஸ்ட்ரோக்"</string>
+  
+  <string name="spoken_accented_letter_00F9">"U, கிரேவ்"</string>
+  
+  <string name="spoken_accented_letter_00FA">"U, அக்யூட்"</string>
+  
+  <string name="spoken_accented_letter_00FB">"U, வளைவு"</string>
+  
+  <string name="spoken_accented_letter_00FC">"U, டையாரேசிஸ்"</string>
+  
+  <string name="spoken_accented_letter_00FD">"Y, அக்யூட்"</string>
+  
+  <string name="spoken_accented_letter_00FE">"தோர்ன்"</string>
+  
+  <string name="spoken_accented_letter_00FF">"Y, டையாரேசிஸ்"</string>
+  
+  <string name="spoken_accented_letter_0101">"A, மேக்ரான்"</string>
+  
+  <string name="spoken_accented_letter_0103">"A, பிரீவ்"</string>
+  
+  <string name="spoken_accented_letter_0105">"A, ஒகோனெக்"</string>
+  
+  <string name="spoken_accented_letter_0107">"C, அக்யூட்"</string>
+  
+  <string name="spoken_accented_letter_0109">"C, வளைவு"</string>
+  
+  <string name="spoken_accented_letter_010B">"C, மேல் புள்ளி"</string>
+  
+  <string name="spoken_accented_letter_010D">"C, கேரன்"</string>
+  
+  <string name="spoken_accented_letter_010F">"D, கேரன்"</string>
+  
+  <string name="spoken_accented_letter_0111">"D, ஸ்ட்ரோக்"</string>
+  
+  <string name="spoken_accented_letter_0113">"E, மேக்ரான்"</string>
+  
+  <string name="spoken_accented_letter_0115">"E, பிரீவ்"</string>
+  
+  <string name="spoken_accented_letter_0117">"E, மேல் புள்ளி"</string>
+  
+  <string name="spoken_accented_letter_0119">"E, ஒகோனேக்"</string>
+  
+  <string name="spoken_accented_letter_011B">"E, கேரன்"</string>
+  
+  <string name="spoken_accented_letter_011D">"G, வளைவு"</string>
+  
+  <string name="spoken_accented_letter_011F">"G, பிரீவ்"</string>
+  
+  <string name="spoken_accented_letter_0121">"G, மேல் புள்ளி"</string>
+  
+  <string name="spoken_accented_letter_0123">"G, செடில்லா"</string>
+  
+  <string name="spoken_accented_letter_0125">"H, வளைவு"</string>
+  
+  <string name="spoken_accented_letter_0127">"H, ஸ்ட்ரோக்"</string>
+  
+  <string name="spoken_accented_letter_0129">"I, டில்டு"</string>
+  
+  <string name="spoken_accented_letter_012B">"I, மேக்ரான்"</string>
+  
+  <string name="spoken_accented_letter_012D">"I, பிரீவ்"</string>
+  
+  <string name="spoken_accented_letter_012F">"I, ஒகோனேக்"</string>
+  
+  <string name="spoken_accented_letter_0131">"புள்ளியற்ற I"</string>
+  
+  <string name="spoken_accented_letter_0133">"I, J, லிகஷர்"</string>
+  
+  <string name="spoken_accented_letter_0135">"J, வளைவு"</string>
+  
+  <string name="spoken_accented_letter_0137">"K, செடில்லா"</string>
+  
+  <string name="spoken_accented_letter_0138">"க்ரா"</string>
+  
+  <string name="spoken_accented_letter_013A">"L, அக்யூட்"</string>
+  
+  <string name="spoken_accented_letter_013C">"L, செடில்லா"</string>
+  
+  <string name="spoken_accented_letter_013E">"L, கேரன்"</string>
+  
+  <string name="spoken_accented_letter_0140">"L, நடுப் புள்ளி"</string>
+  
+  <string name="spoken_accented_letter_0142">"L, ஸ்ட்ரோக்"</string>
+  
+  <string name="spoken_accented_letter_0144">"N, அக்யூட்"</string>
+  
+  <string name="spoken_accented_letter_0146">"N, செடில்லா"</string>
+  
+  <string name="spoken_accented_letter_0148">"N, கேரன்"</string>
+  
+  <string name="spoken_accented_letter_0149">"N, தனிமேற்கோள் குறிக்கு அடுத்துவருவது"</string>
+  
+  <string name="spoken_accented_letter_014B">"இங்க்"</string>
+  
+  <string name="spoken_accented_letter_014D">"O, மேக்ரான்"</string>
+  
+  <string name="spoken_accented_letter_014F">"O, பிரீவ்"</string>
+  
+  <string name="spoken_accented_letter_0151">"O, டபுள் அக்யூட்"</string>
+  
+  <string name="spoken_accented_letter_0153">"O, E, லிகஷர்"</string>
+  
+  <string name="spoken_accented_letter_0155">"R, அக்யூட்"</string>
+  
+  <string name="spoken_accented_letter_0157">"R, செடில்லா"</string>
+  
+  <string name="spoken_accented_letter_0159">"R, கேரன்"</string>
+  
+  <string name="spoken_accented_letter_015B">"S, அக்யூட்"</string>
+  
+  <string name="spoken_accented_letter_015D">"S, வளைவு"</string>
+  
+  <string name="spoken_accented_letter_015F">"S, செடில்லா"</string>
+  
+  <string name="spoken_accented_letter_0161">"S, கேரன்"</string>
+  
+  <string name="spoken_accented_letter_0163">"T, செடில்லா"</string>
+  
+  <string name="spoken_accented_letter_0165">"T, கேரன்"</string>
+  
+  <string name="spoken_accented_letter_0167">"T, ஸ்ட்ரோக்"</string>
+  
+  <string name="spoken_accented_letter_0169">"U, டில்டு"</string>
+  
+  <string name="spoken_accented_letter_016B">"U, மேக்ரான்"</string>
+  
+  <string name="spoken_accented_letter_016D">"U, பிரீவ்"</string>
+  
+  <string name="spoken_accented_letter_016F">"U, மேல் வளையம்"</string>
+  
+  <string name="spoken_accented_letter_0171">"U, டபுள் அக்யூட்"</string>
+  
+  <string name="spoken_accented_letter_0173">"U, ஒகோனேக்"</string>
+  
+  <string name="spoken_accented_letter_0175">"W, வளைவு"</string>
+  
+  <string name="spoken_accented_letter_0177">"Y, வளைவு"</string>
+  
+  <string name="spoken_accented_letter_017A">"Z, அக்யூட்"</string>
+  
+  <string name="spoken_accented_letter_017C">"Z, மேல் புள்ளி"</string>
+  
+  <string name="spoken_accented_letter_017E">"Z, கேரன்"</string>
+  
+  <string name="spoken_accented_letter_017F">"நீண்ட S"</string>
+  
+  <string name="spoken_accented_letter_01A1">"O, ஹார்ன்"</string>
+  
+  <string name="spoken_accented_letter_01B0">"U, ஹார்ன்"</string>
+  
+  <string name="spoken_accented_letter_0219">"S, கீழ் காற்புள்ளி"</string>
+  
+  <string name="spoken_accented_letter_021B">"T, கீழ் காற்புள்ளி"</string>
+  
+  <string name="spoken_accented_letter_0259">"செச்சுவா"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"A, கீழ் புள்ளி"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"A, மேல் ஹூக்"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"A, வளைவு மற்றும் அக்யூட்"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"A, வளைவு மற்றும் கிரேவ்"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"A, வளைவு மற்றும் மேல் ஹூக்"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"A, வளைவு மற்றும் டில்டு"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"A, வளைவு மற்றும் கீழ் புள்ளி"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"A, பிரீவ் மற்றும் அக்யூட்"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"A, பிரீவ் மற்றும் கிரேவ்"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"A, பிரீவ் மற்றும் மேல் ஹூக்"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"A, பிரீவ் மற்றும் டில்டு"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"A, பிரீவ் மற்றும் கீழ் புள்ளி"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"E, கீழ் புள்ளி"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"E, மேல் ஹூக்"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"E, டில்டு"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"E, வளைவு மற்றும் அக்யூட்"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"E, வளைவு மற்றும் கிரேவ்"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"E, வளைவு மற்றும் மேல் ஹூக்"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"E, வளைவு மற்றும் டில்டு"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"E, வளைவு மற்றும் கீழ் புள்ளி"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"I, மேல் ஹூக்"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"I, கீழ் புள்ளி"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"O, கீழ் புள்ளி"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"O, மேல் ஹூக்"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"O, வளைவு மற்றும் அக்யூட்"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"O, வளைவு மற்றும் கிரேவ்"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"O, வளைவு மற்றும் மேல் ஹூக்"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"O, வளைவு மற்றும் டில்டு"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"O, வளைவு மற்றும் கீழ் புள்ளி"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"O, ஹார்ன் மற்றும் அக்யூட்"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"O, ஹார்ன் மற்றும் கிரேவ்"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"O, ஹார்ன் மற்றும் மேல் ஹூக்"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"O, ஹார்ன் மற்றும் டில்டு"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"O, ஹார்ன் மற்றும் கீழ் புள்ளி"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"U, கீழ் புள்ளி"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"U, மேல் ஹூக்"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"U, ஹார்ன் மற்றும் அக்யூட்"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"U, ஹார்ன் மற்றும் கிரேவ்"</string>
+  
+  <string name="spoken_accented_letter_1EED">"U, ஹார்ன் மற்றும் மேல் ஹூக்"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"U, ஹார்ன் மற்றும் டில்டு"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"U, ஹார்ன் மற்றும் கீழ் புள்ளி"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"Y, கிரேவ்"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"Y, கீழ் புள்ளி"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"Y, மேல் ஹூக்"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"Y, டில்டு"</string>
+  
+  <string name="spoken_symbol_00A1">"தலைகீழ் ஆச்சரியக் குறி"</string>
+  
+  <string name="spoken_symbol_00AB">"இடது பிரான்சிய வலது மேற்கோள்குறி"</string>
+  
+  <string name="spoken_symbol_00B7">"நடுப் புள்ளி"</string>
+  
+  <string name="spoken_symbol_00B9">"சூப்பர்ஸ்கிரிப்ட் ஒன்"</string>
+  
+  <string name="spoken_symbol_00BB">"வலது பிரான்சிய இரட்டை மேற்கோள்குறி"</string>
+  
+  <string name="spoken_symbol_00BF">"தலைகீழ் கேள்விக் குறி"</string>
+  
+  <string name="spoken_symbol_2018">"இடது ஒற்றை மேற்கோள் குறி"</string>
+  
+  <string name="spoken_symbol_2019">"வலது ஒற்றை மேற்கோள் குறி"</string>
+  
+  <string name="spoken_symbol_201A">"ஒற்றை லோ-9 மேற்கோள் குறி"</string>
+  
+  <string name="spoken_symbol_201C">"இடது இரட்டை மேற்கோள் குறி"</string>
+  
+  <string name="spoken_symbol_201D">"வலது இரட்டை மேற்கோள் குறி"</string>
+  
+  <string name="spoken_symbol_2020">"டேகர்"</string>
+  
+  <string name="spoken_symbol_2021">"இரட்டை டேகர்"</string>
+  
+  <string name="spoken_symbol_2030">"விழுக்காட்டுச் சின்னம்"</string>
+  
+  <string name="spoken_symbol_2032">"அளவுக்குறி"</string>
+  
+  <string name="spoken_symbol_2033">"இரட்டை அளவுக்குறி"</string>
+  
+  <string name="spoken_symbol_2039">"இடது பிரான்சிய ஒற்றை மேற்கோள்குறி"</string>
+  
+  <string name="spoken_symbol_203A">"வலது பிரான்சிய ஒற்றை மேற்கோள்குறி"</string>
+  
+  <string name="spoken_symbol_2074">"சூப்பர்ஸ்கிரிப்ட் நான்கு"</string>
+  
+  <string name="spoken_symbol_207F">"சூப்பர்ஸ்கிரிப்ட் லத்தீன் சிற்றெழுத்து n"</string>
+  
+  <string name="spoken_symbol_20B1">"பெஸோ குறி"</string>
+  
+  <string name="spoken_symbol_2105">"கேர் ஆஃப்"</string>
+  
+  <string name="spoken_symbol_2192">"வலது நோக்கிய அம்பு"</string>
+  
+  <string name="spoken_symbol_2193">"கீழ் நோக்கிய அம்பு"</string>
+  
+  <string name="spoken_symbol_2205">"வெற்று கணம்"</string>
+  
+  <string name="spoken_symbol_2206">"இன்கிரிமென்ட்"</string>
+  
+  <string name="spoken_symbol_2264">"குறைவு அல்லது சமம்"</string>
+  
+  <string name="spoken_symbol_2265">"அதிகம் அல்லது சமம்"</string>
+  
+  <string name="spoken_symbol_2605">"கருப்பு நட்சத்திரம்"</string>
+</resources>

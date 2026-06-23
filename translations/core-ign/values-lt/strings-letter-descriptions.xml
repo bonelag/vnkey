@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"Moteriškas kelintinis rodiklis"</string>
+  
+  <string name="spoken_accented_letter_00B5">"Ženklas „mikro-“"</string>
+  
+  <string name="spoken_accented_letter_00BA">"Vyriškas kelintinis rodiklis"</string>
+  
+  <string name="spoken_accented_letter_00DF">"Dviguba S"</string>
+  
+  <string name="spoken_accented_letter_00E0">"A su kairiniu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_00E1">"A su dešininiu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_00E2">"A su cirkumfleksu"</string>
+  
+  <string name="spoken_accented_letter_00E3">"A su riestiniu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_00E4">"A su trema"</string>
+  
+  <string name="spoken_accented_letter_00E5">"A su apskritimu viršuje"</string>
+  
+  <string name="spoken_accented_letter_00E6">"A, E ligatūra"</string>
+  
+  <string name="spoken_accented_letter_00E7">"C sedilė"</string>
+  
+  <string name="spoken_accented_letter_00E8">"E su kairiniu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_00E9">"E su dešininiu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_00EA">"E su cirkumfleksu"</string>
+  
+  <string name="spoken_accented_letter_00EB">"E su trema"</string>
+  
+  <string name="spoken_accented_letter_00EC">"I su kairiniu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_00ED">"I su dešininiu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_00EE">"I su cirkumfleksu"</string>
+  
+  <string name="spoken_accented_letter_00EF">"I su trema"</string>
+  
+  <string name="spoken_accented_letter_00F0">"Eth"</string>
+  
+  <string name="spoken_accented_letter_00F1">"N su riestiniu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_00F2">"O su kairiniu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_00F3">"O su dešininiu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_00F4">"O su cirkumfleksu"</string>
+  
+  <string name="spoken_accented_letter_00F5">"O su riestiniu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_00F6">"O su trema"</string>
+  
+  <string name="spoken_accented_letter_00F8">"O su brūkšniu"</string>
+  
+  <string name="spoken_accented_letter_00F9">"U su kairiniu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_00FA">"U su dešininiu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_00FB">"U su cirkumfleksu"</string>
+  
+  <string name="spoken_accented_letter_00FC">"U su trema"</string>
+  
+  <string name="spoken_accented_letter_00FD">"Y su dešininiu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_00FE">"Thorn"</string>
+  
+  <string name="spoken_accented_letter_00FF">"Y su trema"</string>
+  
+  <string name="spoken_accented_letter_0101">"A su brūkšniu viršuje"</string>
+  
+  <string name="spoken_accented_letter_0103">"A su lankeliu"</string>
+  
+  <string name="spoken_accented_letter_0105">"A nosinė"</string>
+  
+  <string name="spoken_accented_letter_0107">"C su dešininiu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_0109">"C su cirkumfleksu"</string>
+  
+  <string name="spoken_accented_letter_010B">"C su tašku viršuje"</string>
+  
+  <string name="spoken_accented_letter_010D">"C su paukšteliu"</string>
+  
+  <string name="spoken_accented_letter_010F">"D su paukšteliu"</string>
+  
+  <string name="spoken_accented_letter_0111">"D su brūkšniu"</string>
+  
+  <string name="spoken_accented_letter_0113">"E su brūkšniu viršuje"</string>
+  
+  <string name="spoken_accented_letter_0115">"E su lankeliu"</string>
+  
+  <string name="spoken_accented_letter_0117">"E su tašku viršuje"</string>
+  
+  <string name="spoken_accented_letter_0119">"E nosinė"</string>
+  
+  <string name="spoken_accented_letter_011B">"E su paukšteliu"</string>
+  
+  <string name="spoken_accented_letter_011D">"G su cirkumfleksu"</string>
+  
+  <string name="spoken_accented_letter_011F">"G su lankeliu"</string>
+  
+  <string name="spoken_accented_letter_0121">"G su tašku viršuje"</string>
+  
+  <string name="spoken_accented_letter_0123">"G sedilė"</string>
+  
+  <string name="spoken_accented_letter_0125">"H su cirkumfleksu"</string>
+  
+  <string name="spoken_accented_letter_0127">"H su brūkšniu"</string>
+  
+  <string name="spoken_accented_letter_0129">"I su riestiniu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_012B">"I su brūkšniu viršuje"</string>
+  
+  <string name="spoken_accented_letter_012D">"I su lankeliu"</string>
+  
+  <string name="spoken_accented_letter_012F">"I nosinė"</string>
+  
+  <string name="spoken_accented_letter_0131">"I be taško"</string>
+  
+  <string name="spoken_accented_letter_0133">"I, J ligatūra"</string>
+  
+  <string name="spoken_accented_letter_0135">"J su cirkumfleksu"</string>
+  
+  <string name="spoken_accented_letter_0137">"K sedilė"</string>
+  
+  <string name="spoken_accented_letter_0138">"Kra"</string>
+  
+  <string name="spoken_accented_letter_013A">"L su dešininiu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_013C">"L sedilė"</string>
+  
+  <string name="spoken_accented_letter_013E">"L su paukšteliu"</string>
+  
+  <string name="spoken_accented_letter_0140">"L su tašku viduryje"</string>
+  
+  <string name="spoken_accented_letter_0142">"L su brūkšniu"</string>
+  
+  <string name="spoken_accented_letter_0144">"N su dešininiu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_0146">"N sedilė"</string>
+  
+  <string name="spoken_accented_letter_0148">"N su paukšteliu"</string>
+  
+  <string name="spoken_accented_letter_0149">"N su apostrofu priekyje"</string>
+  
+  <string name="spoken_accented_letter_014B">"Eng"</string>
+  
+  <string name="spoken_accented_letter_014D">"O su brūkšniu viršuje"</string>
+  
+  <string name="spoken_accented_letter_014F">"O su lankeliu"</string>
+  
+  <string name="spoken_accented_letter_0151">"O su dvigubu dešininiu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_0153">"O, E ligatūra"</string>
+  
+  <string name="spoken_accented_letter_0155">"R su dešininiu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_0157">"R sedilė"</string>
+  
+  <string name="spoken_accented_letter_0159">"R su paukšteliu"</string>
+  
+  <string name="spoken_accented_letter_015B">"S su dešininiu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_015D">"S su cirkumfleksu"</string>
+  
+  <string name="spoken_accented_letter_015F">"S sedilė"</string>
+  
+  <string name="spoken_accented_letter_0161">"S su paukšteliu"</string>
+  
+  <string name="spoken_accented_letter_0163">"T sedilė"</string>
+  
+  <string name="spoken_accented_letter_0165">"T su paukšteliu"</string>
+  
+  <string name="spoken_accented_letter_0167">"T su brūkšniu"</string>
+  
+  <string name="spoken_accented_letter_0169">"U su riestiniu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_016B">"U su brūkšniu viršuje"</string>
+  
+  <string name="spoken_accented_letter_016D">"U su lankeliu"</string>
+  
+  <string name="spoken_accented_letter_016F">"U su apskritimu viršuje"</string>
+  
+  <string name="spoken_accented_letter_0171">"U su dvigubu dešininio kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_0173">"U nosinė"</string>
+  
+  <string name="spoken_accented_letter_0175">"W su cirkumfleksu"</string>
+  
+  <string name="spoken_accented_letter_0177">"Y su cirkumfleksu"</string>
+  
+  <string name="spoken_accented_letter_017A">"Z su dešininiu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_017C">"Z su tašku viršuje"</string>
+  
+  <string name="spoken_accented_letter_017E">"Z su paukšteliu"</string>
+  
+  <string name="spoken_accented_letter_017F">"Ilgoji S"</string>
+  
+  <string name="spoken_accented_letter_01A1">"O su rageliu"</string>
+  
+  <string name="spoken_accented_letter_01B0">"U su rageliu"</string>
+  
+  <string name="spoken_accented_letter_0219">"S su kableliu apačioje"</string>
+  
+  <string name="spoken_accented_letter_021B">"T su kableliu apačioje"</string>
+  
+  <string name="spoken_accented_letter_0259">"Schwa"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"A su tašku apačioje"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"A su kabliu viršuje"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"A su cirkumfleksu ir dešininiu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"A su cirkumfleksu ir kairiniu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"A su cirkumfleksu ir kabliu viršuje"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"A su cirkumfleksu ir riestiniu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"A su cirkumfleksu ir tašku apačioje"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"A su lankeliu ir dešininiu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"A su lankeliu ir kairiniu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"A su lankeliu ir kabliu viršuje"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"A su lankeliu ir riestiniu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"A su lankeliu ir tašku apačioje"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"E su tašku apačioje"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"E su kabliu viršuje"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"E su riestiniu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"E su cirkumfleksu ir dešininiu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"E su cirkumfleksu ir kairiniu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"E su cirkumfleksu ir kabliu viršuje"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"E su cirkumfleksu ir riestiniu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"E su cirkumfleksu ir tašku apačioje"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"I su kabliu viršuje"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"I su tašku apačioje"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"O su tašku apačioje"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"O su kabliu viršuje"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"O su cirkumfleksu ir dešininiu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"O su cirkumfleksu ir kairiniu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"O su cirkumfleksu ir kabliu viršuje"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"O su cirkumfleksu ir riestiniu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"O su cirkumfleksu ir tašku apačioje"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"O su rageliu ir dešininiu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"O su rageliu ir kairiniu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"O su rageliu ir kabliu viršuje"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"O su rageliu ir riestiniu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"O su rageliu ir tašku apačioje"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"U su tašku apačioje"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"U su kabliu viršuje"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"U su rageliu ir dešininiu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"U su rageliu ir kairiniu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_1EED">"U su rageliu ir kabliu viršuje"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"U su rageliu ir riestiniu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"U su rageliu ir tašku apačioje"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"Y su kairiniu kirčio ženklu"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"Y su tašku apačioje"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"Y su kabliu viršuje"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"Y su riestiniu kirčio ženklu"</string>
+  
+  <string name="spoken_symbol_00A1">"Apverstas šauktukas"</string>
+  
+  <string name="spoken_symbol_00AB">"Į kairę nukreiptos dvigubos laužtinės kabutės"</string>
+  
+  <string name="spoken_symbol_00B7">"Taškas viduryje"</string>
+  
+  <string name="spoken_symbol_00B9">"Viršutinis indeksas skaitmuo 1"</string>
+  
+  <string name="spoken_symbol_00BB">"Į dešinę nukreiptos dvigubos laužtinės kabutės"</string>
+  
+  <string name="spoken_symbol_00BF">"Apverstas klaustukas"</string>
+  
+  <string name="spoken_symbol_2018">"Kairiosios viengubos kabutės"</string>
+  
+  <string name="spoken_symbol_2019">"Dešiniosios viengubos kabutės"</string>
+  
+  <string name="spoken_symbol_201A">"Viengubos apatinės kabutės (devynetukai)"</string>
+  
+  <string name="spoken_symbol_201C">"Kairiosios dvigubos kabutės"</string>
+  
+  <string name="spoken_symbol_201D">"Dešiniosios dvigubos kabutės"</string>
+  
+  <string name="spoken_symbol_2020">"Kryžiaus ženklas"</string>
+  
+  <string name="spoken_symbol_2021">"Dvigubo kryžiaus ženklas"</string>
+  
+  <string name="spoken_symbol_2030">"Promilės ženklas"</string>
+  
+  <string name="spoken_symbol_2032">"Tiesus vertikalus apostrofas"</string>
+  
+  <string name="spoken_symbol_2033">"Dvigubas tiesus vertikalus apostrofas"</string>
+  
+  <string name="spoken_symbol_2039">"Į kairę nukreiptos viengubos kabutės"</string>
+  
+  <string name="spoken_symbol_203A">"Į dešinę nukreiptos viengubos kabutės"</string>
+  
+  <string name="spoken_symbol_2074">"Viršutinis indeksas skaitmuo 4"</string>
+  
+  <string name="spoken_symbol_207F">"Viršutinis indeksas mažoji lotynų k. raidė n"</string>
+  
+  <string name="spoken_symbol_20B1">"Peso ženklas"</string>
+  
+  <string name="spoken_symbol_2105">"Perduoti kam kitam"</string>
+  
+  <string name="spoken_symbol_2192">"Rodyklė dešinėn"</string>
+  
+  <string name="spoken_symbol_2193">"Rodyklė žemyn"</string>
+  
+  <string name="spoken_symbol_2205">"Tuščioji aibė"</string>
+  
+  <string name="spoken_symbol_2206">"Prieaugis"</string>
+  
+  <string name="spoken_symbol_2264">"Mažiau nei arba lygu"</string>
+  
+  <string name="spoken_symbol_2265">"Daugiau nei arba lygu"</string>
+  
+  <string name="spoken_symbol_2605">"Juoda žvaigždutė"</string>
+</resources>

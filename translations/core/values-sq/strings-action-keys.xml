@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="label_go_key">"Shko"</string>
+  
+  <string name="label_next_key">"Përpara"</string>
+  
+  <string name="label_previous_key">"Prapa"</string>
+  
+  <string name="label_done_key">"U krye!"</string>
+  
+  <string name="label_send_key">"Dërgo"</string>
+  
+  <string name="label_search_key">"Kërko"</string>
+  
+  <string name="label_pause_key">"Pauzë"</string>
+  
+  <string name="label_wait_key">"Prit!"</string>
+</resources>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources>
+  
+  <string name="english_ime_input_options">"Možnosti zadávání textu a dat"</string>
+  
+  <string name="vibrate_on_keypress">"Při stisku klávesy vibrovat"</string>
+  
+  <string name="sound_on_keypress">"Zvuk při stisku klávesy"</string>
+  
+  <string name="popup_on_keypress">"Detail znaku při stisku klávesy"</string>
+  
+  <string name="show_language_switch_key">"Klávesa přepínání jazyka"</string>
+  
+  <string name="abbreviation_unit_milliseconds">&lt;string name="abbreviation_unit_milliseconds" msgid="3255301845626146979"&gt;&amp;quot;&lt;xliff:g id="MILLISECONDS"&gt;%s&lt;/xliff:g&gt; ms&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="use_personalized_dicts">"Personalizované návrhy"</string>
+  
+  <string name="use_double_space_period">"Tečka dvojitým mezerníkem"</string>
+  
+  <string name="use_double_space_period_summary">"Dvojím klepnutím na mezerník vložíte tečku následovanou mezerou."</string>
+  
+  <string name="auto_cap">"Velká písmena automaticky"</string>
+  
+  <string name="auto_cap_summary">"Kapitalizovat první slovo každé věty"</string>
+  
+  <string name="edit_personal_dictionary">"Vlastní slovník"</string>
+  
+  <string name="prefs_show_suggestions">"Zobrazit návrhy oprav"</string>
+  
+  <string name="prefs_show_suggestions_summary">"Zobrazovat navržená slova během psaní"</string>
+  
+  <string name="prefs_block_potentially_offensive_title">"Blokovat nevhodná slova"</string>
+  
+  <string name="prefs_block_potentially_offensive_summary">"Nenavrhovat potenciálně nevhodná slova"</string>
+  
+  <string name="prefs_block_potentially_offensive_tags">sprostá slova, nadávky, filtrování, černá listina, blacklist, kurva, do prdele, </string>
+  
+  <string name="auto_correction">"Automatické opravy"</string>
+  
+  <string name="auto_correction_summary">"Stisknutím mezerníku a interpunkce se automaticky opravují chybně napsaná slova"</string>
+  
+  <string name="auto_correction_tags">automatická oprava</string>
+  
+  <string name="bigram_prediction">"Návrhy dalšího slova"</string>
+  
+  <string name="bigram_prediction_summary">"Návrhy na základě předchozího slova"</string>
+  
+  <string name="language_selection_title">"Jazyky"</string>
+  
+  <string name="select_language">"Jazyky"</string>
+  
+  <string name="subtype_en_GB">"angličtina (Velká Británie)"</string>
+  
+  <string name="subtype_en_US">"angličtina (USA)"</string>
+  
+  <string name="subtype_es_US">"španělština (USA)"</string>
+  
+  <string name="subtype_hi_ZZ">"Hinglish"</string>
+  <string name="subtype_hi__Latn">"Hinglish"</string>
+  
+  <string name="subtype_sr_ZZ">"srbština (latinka)"</string>
+  <string name="subtype_ipa">Mezinárodní fonetická abeceda</string>
+  
+  <string name="subtype_with_layout_en_GB">&lt;string name="subtype_with_layout_en_GB" msgid="4220344684463778660"&gt;&amp;quot;angličtina (VB) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_en_US">&lt;string name="subtype_with_layout_en_US" msgid="4599421650961912769"&gt;&amp;quot;angličtina (USA) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_es_US">&lt;string name="subtype_with_layout_es_US" msgid="6866331205974243592"&gt;&amp;quot;španělština (USA) (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_hi_ZZ">&lt;string name="subtype_with_layout_hi_ZZ" msgid="5439623653083985558"&gt;&amp;quot;Hinglish (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_with_layout_sr_ZZ">&lt;string name="subtype_with_layout_sr_ZZ" msgid="546465971819327060"&gt;&amp;quot;srbština (&lt;xliff:g id="KEYBOARD_LAYOUT"&gt;%s&lt;/xliff:g&gt;)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_traditional">&lt;string name="subtype_generic_traditional" msgid="5321023815277210849"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (tradiční)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_generic_compact">&lt;string name="subtype_generic_compact" msgid="2858514299576793292"&gt;&amp;quot;&lt;xliff:g id="LANGUAGE_NAME"&gt;%s&lt;/xliff:g&gt; (kompaktní)&amp;quot;&lt;/string&gt;</string>
+  
+  <string name="subtype_no_language">"Žádný jazyk (latinka)"</string>
+  
+  <string name="subtype_no_language_qwerty">"Latinka (QWERTY)"</string>
+  
+  <string name="subtype_no_language_qwertz">"Latinka (QWERTZ)"</string>
+  
+  <string name="subtype_no_language_azerty">"Latinka (AZERTY)"</string>
+  
+  <string name="subtype_no_language_dvorak">"Latinka (Dvorak)"</string>
+  
+  <string name="subtype_no_language_colemak">"Latinka (Colemak)"</string>
+  
+  <string name="subtype_no_language_pcqwerty">"Latinka (PC)"</string>
+  
+  <string name="subtype_emoji">"Emodži"</string>
+  
+  <string name="cancel">"Zrušit"</string>
+  
+  <string name="go_to_settings">"Nastavení"</string>
+  
+  <string name="install_dict">"Instalovat"</string>
+  
+  <string name="cancel_download_dict">"Zrušit"</string>
+  
+  <string name="user_dict_settings_add_menu_title">"Přidat"</string>
+  
+  <string name="user_dict_settings_add_dialog_title">"Přidat do slovníku"</string>
+  
+  <string name="user_dict_settings_add_screen_title">"Fráze"</string>
+  
+  <string name="user_dict_settings_add_dialog_more_options">"Více možností"</string>
+  
+  <string name="user_dict_settings_add_dialog_less_options">"Méně možností"</string>
+  
+  <string name="user_dict_settings_add_dialog_confirm">"OK"</string>
+  
+  <string name="user_dict_settings_add_word_option_name">"Slovo:"</string>
+  
+  <string name="user_dict_settings_add_shortcut_option_name">"Zkratka:"</string>
+  
+  <string name="user_dict_settings_add_locale_option_name">"Jazyk:"</string>
+  
+  <string name="user_dict_settings_add_word_hint">"Napište slovo"</string>
+  
+  <string name="user_dict_settings_add_shortcut_hint">"Volitelná zkratka"</string>
+  
+  <string name="user_dict_settings_edit_dialog_title">"Upravit slovo"</string>
+  
+  <string name="user_dict_settings_context_menu_edit_title">"Upravit"</string>
+  
+  <string name="user_dict_settings_context_menu_delete_title">"Smazat"</string>
+  
+  <string name="user_dict_settings_empty_text">"V uživatelském slovníku nejsou žádná slova. Slovo můžete přidat klepnutím na tlačítko Přidat (+)."</string>
+  
+  <string name="user_dict_settings_all_languages">"Pro všechny jazyky"</string>
+  
+  <string name="user_dict_settings_more_languages">"Další jazyky…"</string>
+  
+  <string name="user_dict_settings_delete">"Smazat"</string>
+  
+  <string name="user_dict_fast_scroll_alphabet">" ABCČDEFGHChIJKLMNOPQRŘSŠTUVWXYZŽ"</string>
+</resources>

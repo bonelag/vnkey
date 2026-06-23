@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  /*
+  **
+  ** Copyright 2014, The Android Open Source Project
+  **
+  ** Licensed under the Apache License, Version 2.0 (the "License");
+  ** you may not use this file except in compliance with the License.
+  ** You may obtain a copy of the License at
+  **
+  **     http://www.apache.org/licenses/LICENSE-2.0
+  **
+  ** Unless required by applicable law or agreed to in writing, software
+  ** distributed under the License is distributed on an "AS IS" BASIS,
+  ** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ** See the License for the specific language governing permissions and
+  ** limitations under the License.
+  */
+
+  These accented letters (spoken_accented_letter_*) are unsupported by TTS.
+  These symbols (spoken_symbol_*) are also unsupported by TTS.
+  TODO: Remove these string resources when TTS/TalkBack support these letters.
+-->
+
+<resources>
+  
+  <string name="spoken_accented_letter_00AA">"Kazalec ženskega vrstilnika"</string>
+  
+  <string name="spoken_accented_letter_00B5">"Znak »mikro«"</string>
+  
+  <string name="spoken_accented_letter_00BA">"Kazalec moškega vrstilnika"</string>
+  
+  <string name="spoken_accented_letter_00DF">"Ostri S"</string>
+  
+  <string name="spoken_accented_letter_00E0">"A s krativcem"</string>
+  
+  <string name="spoken_accented_letter_00E1">"A z ostrivcem"</string>
+  
+  <string name="spoken_accented_letter_00E2">"A s cirkumfleksom"</string>
+  
+  <string name="spoken_accented_letter_00E3">"A s tildo"</string>
+  
+  <string name="spoken_accented_letter_00E4">"A z dierezo"</string>
+  
+  <string name="spoken_accented_letter_00E5">"A s krogcem"</string>
+  
+  <string name="spoken_accented_letter_00E6">"Ligatura AE"</string>
+  
+  <string name="spoken_accented_letter_00E7">"C s sedijem"</string>
+  
+  <string name="spoken_accented_letter_00E8">"E s krativcem"</string>
+  
+  <string name="spoken_accented_letter_00E9">"E z ostrivcem"</string>
+  
+  <string name="spoken_accented_letter_00EA">"E s cirkumfleksom"</string>
+  
+  <string name="spoken_accented_letter_00EB">"E z dierezo"</string>
+  
+  <string name="spoken_accented_letter_00EC">"I s krativcem"</string>
+  
+  <string name="spoken_accented_letter_00ED">"I z ostrivcem"</string>
+  
+  <string name="spoken_accented_letter_00EE">"I s cirkumfleksom"</string>
+  
+  <string name="spoken_accented_letter_00EF">"I z dierezo"</string>
+  
+  <string name="spoken_accented_letter_00F0">"Latinska črka Eth"</string>
+  
+  <string name="spoken_accented_letter_00F1">"N s tildo"</string>
+  
+  <string name="spoken_accented_letter_00F2">"O s krativcem"</string>
+  
+  <string name="spoken_accented_letter_00F3">"O z ostrivcem"</string>
+  
+  <string name="spoken_accented_letter_00F4">"O s cirkumfleksom"</string>
+  
+  <string name="spoken_accented_letter_00F5">"O s tildo"</string>
+  
+  <string name="spoken_accented_letter_00F6">"O z dierezo"</string>
+  
+  <string name="spoken_accented_letter_00F8">"O s črtico"</string>
+  
+  <string name="spoken_accented_letter_00F9">"U s krativcem"</string>
+  
+  <string name="spoken_accented_letter_00FA">"U z ostrivcem"</string>
+  
+  <string name="spoken_accented_letter_00FB">"U s cirkumfleksom"</string>
+  
+  <string name="spoken_accented_letter_00FC">"U z dierezo"</string>
+  
+  <string name="spoken_accented_letter_00FD">"Y z ostrivcem"</string>
+  
+  <string name="spoken_accented_letter_00FE">"Latinska črka Thorn"</string>
+  
+  <string name="spoken_accented_letter_00FF">"Y z dierezo"</string>
+  
+  <string name="spoken_accented_letter_0101">"A z dolžino"</string>
+  
+  <string name="spoken_accented_letter_0103">"A s polkrogcem"</string>
+  
+  <string name="spoken_accented_letter_0105">"A z repkom spodaj"</string>
+  
+  <string name="spoken_accented_letter_0107">"C z ostrivcem"</string>
+  
+  <string name="spoken_accented_letter_0109">"C s cirkumfleksom"</string>
+  
+  <string name="spoken_accented_letter_010B">"C s piko zgoraj"</string>
+  
+  <string name="spoken_accented_letter_010D">"C s strešico"</string>
+  
+  <string name="spoken_accented_letter_010F">"D s strešico"</string>
+  
+  <string name="spoken_accented_letter_0111">"D s črtico"</string>
+  
+  <string name="spoken_accented_letter_0113">"E z dolžino"</string>
+  
+  <string name="spoken_accented_letter_0115">"E s polkrogcem"</string>
+  
+  <string name="spoken_accented_letter_0117">"E s piko zgoraj"</string>
+  
+  <string name="spoken_accented_letter_0119">"E z repkom spodaj"</string>
+  
+  <string name="spoken_accented_letter_011B">"E s strešico"</string>
+  
+  <string name="spoken_accented_letter_011D">"G s cirkumfleksom"</string>
+  
+  <string name="spoken_accented_letter_011F">"G s polkrogcem"</string>
+  
+  <string name="spoken_accented_letter_0121">"G s piko zgoraj"</string>
+  
+  <string name="spoken_accented_letter_0123">"G s sedijem"</string>
+  
+  <string name="spoken_accented_letter_0125">"H s cirkumfleksom"</string>
+  
+  <string name="spoken_accented_letter_0127">"H s črtico"</string>
+  
+  <string name="spoken_accented_letter_0129">"I s tildo"</string>
+  
+  <string name="spoken_accented_letter_012B">"I z dolžino"</string>
+  
+  <string name="spoken_accented_letter_012D">"I s polkrogcem"</string>
+  
+  <string name="spoken_accented_letter_012F">"I z repkom spodaj"</string>
+  
+  <string name="spoken_accented_letter_0131">"I brez pike"</string>
+  
+  <string name="spoken_accented_letter_0133">"Ligatura IJ"</string>
+  
+  <string name="spoken_accented_letter_0135">"J s cirkumfleksom"</string>
+  
+  <string name="spoken_accented_letter_0137">"K s sedijem"</string>
+  
+  <string name="spoken_accented_letter_0138">"Latinska črka Kra"</string>
+  
+  <string name="spoken_accented_letter_013A">"L z ostrivcem"</string>
+  
+  <string name="spoken_accented_letter_013C">"L s sedijem"</string>
+  
+  <string name="spoken_accented_letter_013E">"L s strešico"</string>
+  
+  <string name="spoken_accented_letter_0140">"L s srednjo piko"</string>
+  
+  <string name="spoken_accented_letter_0142">"L s črtico"</string>
+  
+  <string name="spoken_accented_letter_0144">"N z ostrivcem"</string>
+  
+  <string name="spoken_accented_letter_0146">"N s sedijem"</string>
+  
+  <string name="spoken_accented_letter_0148">"N s strešico"</string>
+  
+  <string name="spoken_accented_letter_0149">"N z opuščajem spredaj"</string>
+  
+  <string name="spoken_accented_letter_014B">"Latinska črka Eng"</string>
+  
+  <string name="spoken_accented_letter_014D">"O z dolžino"</string>
+  
+  <string name="spoken_accented_letter_014F">"O s polkrogcem"</string>
+  
+  <string name="spoken_accented_letter_0151">"O z dvojnim ostrivcem"</string>
+  
+  <string name="spoken_accented_letter_0153">"Ligatura OE"</string>
+  
+  <string name="spoken_accented_letter_0155">"R z ostrivcem"</string>
+  
+  <string name="spoken_accented_letter_0157">"R s sedijem"</string>
+  
+  <string name="spoken_accented_letter_0159">"R s strešico"</string>
+  
+  <string name="spoken_accented_letter_015B">"S z ostrivcem"</string>
+  
+  <string name="spoken_accented_letter_015D">"S s cirkumfleksom"</string>
+  
+  <string name="spoken_accented_letter_015F">"S s sedijem"</string>
+  
+  <string name="spoken_accented_letter_0161">"S s strešico"</string>
+  
+  <string name="spoken_accented_letter_0163">"T s sedijem"</string>
+  
+  <string name="spoken_accented_letter_0165">"T s strešico"</string>
+  
+  <string name="spoken_accented_letter_0167">"T s črtico"</string>
+  
+  <string name="spoken_accented_letter_0169">"U s tildo"</string>
+  
+  <string name="spoken_accented_letter_016B">"U z dolžino"</string>
+  
+  <string name="spoken_accented_letter_016D">"U s polkrogcem"</string>
+  
+  <string name="spoken_accented_letter_016F">"U s krogcem zgoraj"</string>
+  
+  <string name="spoken_accented_letter_0171">"U z dvojnim ostrivcem"</string>
+  
+  <string name="spoken_accented_letter_0173">"U z repkom spodaj"</string>
+  
+  <string name="spoken_accented_letter_0175">"W s cirkumfleksom"</string>
+  
+  <string name="spoken_accented_letter_0177">"Y s cirkumfleksom"</string>
+  
+  <string name="spoken_accented_letter_017A">"Z z ostrivcem"</string>
+  
+  <string name="spoken_accented_letter_017C">"Z s piko zgoraj"</string>
+  
+  <string name="spoken_accented_letter_017E">"Z s strešico"</string>
+  
+  <string name="spoken_accented_letter_017F">"Dolgi S"</string>
+  
+  <string name="spoken_accented_letter_01A1">"O z buckastim ostrivcem"</string>
+  
+  <string name="spoken_accented_letter_01B0">"U z buckastim ostrivcem"</string>
+  
+  <string name="spoken_accented_letter_0219">"S z vejico spodaj"</string>
+  
+  <string name="spoken_accented_letter_021B">"T z vejico spodaj"</string>
+  
+  <string name="spoken_accented_letter_0259">"Latinska črka Schwa"</string>
+  
+  <string name="spoken_accented_letter_1EA1">"A s piko spodaj"</string>
+  
+  <string name="spoken_accented_letter_1EA3">"A z zanko zgoraj"</string>
+  
+  <string name="spoken_accented_letter_1EA5">"A s cirkumfleksom in ostrivcem"</string>
+  
+  <string name="spoken_accented_letter_1EA7">"A s cirkumfleksom in krativcem"</string>
+  
+  <string name="spoken_accented_letter_1EA9">"A s cirkumfleksom in zanko zgoraj"</string>
+  
+  <string name="spoken_accented_letter_1EAB">"A s cirkumfleksom in tildo"</string>
+  
+  <string name="spoken_accented_letter_1EAD">"A s cirkumfleksom in piko spodaj"</string>
+  
+  <string name="spoken_accented_letter_1EAF">"A s polkrogcem in ostrivcem"</string>
+  
+  <string name="spoken_accented_letter_1EB1">"A s polkrogcem in krativcem"</string>
+  
+  <string name="spoken_accented_letter_1EB3">"A s polkrogcem in zanko zgoraj"</string>
+  
+  <string name="spoken_accented_letter_1EB5">"A s polkrogcem in tildo"</string>
+  
+  <string name="spoken_accented_letter_1EB7">"A s polkrogcem in piko spodaj"</string>
+  
+  <string name="spoken_accented_letter_1EB9">"E s piko spodaj"</string>
+  
+  <string name="spoken_accented_letter_1EBB">"E z zanko zgoraj"</string>
+  
+  <string name="spoken_accented_letter_1EBD">"E s tildo"</string>
+  
+  <string name="spoken_accented_letter_1EBF">"E s cirkumfleksom in ostrivcem"</string>
+  
+  <string name="spoken_accented_letter_1EC1">"E s cirkumfleksom in krativcem"</string>
+  
+  <string name="spoken_accented_letter_1EC3">"E s cirkumfleksom in zanko zgoraj"</string>
+  
+  <string name="spoken_accented_letter_1EC5">"E s cirkumfleksom in tildo"</string>
+  
+  <string name="spoken_accented_letter_1EC7">"E s cirkumfleksom in piko spodaj"</string>
+  
+  <string name="spoken_accented_letter_1EC9">"I z zanko zgoraj"</string>
+  
+  <string name="spoken_accented_letter_1ECB">"I s piko spodaj"</string>
+  
+  <string name="spoken_accented_letter_1ECD">"O s piko spodaj"</string>
+  
+  <string name="spoken_accented_letter_1ECF">"O z zanko zgoraj"</string>
+  
+  <string name="spoken_accented_letter_1ED1">"O s cirkumfleksom in ostrivcem"</string>
+  
+  <string name="spoken_accented_letter_1ED3">"O s cirkumfleksom in krativcem"</string>
+  
+  <string name="spoken_accented_letter_1ED5">"O s cirkumfleksom in zanko zgoraj"</string>
+  
+  <string name="spoken_accented_letter_1ED7">"O s cirkumfleksom in tildo"</string>
+  
+  <string name="spoken_accented_letter_1ED9">"O s cirkumfleksom in piko spodaj"</string>
+  
+  <string name="spoken_accented_letter_1EDB">"O z buckastim ostrivcem in ostrivcem"</string>
+  
+  <string name="spoken_accented_letter_1EDD">"O z buckastim ostrivcem in krativcem"</string>
+  
+  <string name="spoken_accented_letter_1EDF">"O z buckastim ostrivcem in zanko zgoraj"</string>
+  
+  <string name="spoken_accented_letter_1EE1">"O z buckastim ostrivcem in tildo"</string>
+  
+  <string name="spoken_accented_letter_1EE3">"O z buckastim ostrivcem in piko spodaj"</string>
+  
+  <string name="spoken_accented_letter_1EE5">"U s piko spodaj"</string>
+  
+  <string name="spoken_accented_letter_1EE7">"U z zanko zgoraj"</string>
+  
+  <string name="spoken_accented_letter_1EE9">"U z buckastim ostrivcem in ostrivcem"</string>
+  
+  <string name="spoken_accented_letter_1EEB">"U z buckastim ostrivcem in krativcem"</string>
+  
+  <string name="spoken_accented_letter_1EED">"U z buckastim ostrivcem in zanko zgoraj"</string>
+  
+  <string name="spoken_accented_letter_1EEF">"U z buckastim ostrivcem in tildo"</string>
+  
+  <string name="spoken_accented_letter_1EF1">"U z buckastim ostrivcem in piko spodaj"</string>
+  
+  <string name="spoken_accented_letter_1EF3">"Y s krativcem"</string>
+  
+  <string name="spoken_accented_letter_1EF5">"Y s piko spodaj"</string>
+  
+  <string name="spoken_accented_letter_1EF7">"Y z zanko zgoraj"</string>
+  
+  <string name="spoken_accented_letter_1EF9">"Y s tildo"</string>
+  
+  <string name="spoken_symbol_00A1">"Obrnjeni klicaj"</string>
+  
+  <string name="spoken_symbol_00AB">"Desni sredinski narekovaj"</string>
+  
+  <string name="spoken_symbol_00B7">"Srednja pika"</string>
+  
+  <string name="spoken_symbol_00B9">"Nadpisana enka"</string>
+  
+  <string name="spoken_symbol_00BB">"Levi sredinski narekovaj"</string>
+  
+  <string name="spoken_symbol_00BF">"Obrnjeni vprašaj"</string>
+  
+  <string name="spoken_symbol_2018">"Levi enojni zgornji narekovaj"</string>
+  
+  <string name="spoken_symbol_2019">"Desni enojni zgornji narekovaj"</string>
+  
+  <string name="spoken_symbol_201A">"Enojni spodnji narekovaj"</string>
+  
+  <string name="spoken_symbol_201C">"Levi dvojni zgornji narekovaj"</string>
+  
+  <string name="spoken_symbol_201D">"Desni dvojni zgornji narekovaj"</string>
+  
+  <string name="spoken_symbol_2020">"Križec"</string>
+  
+  <string name="spoken_symbol_2021">"Dvojni križec"</string>
+  
+  <string name="spoken_symbol_2030">"Znak za promile"</string>
+  
+  <string name="spoken_symbol_2032">"Simbol za označevanje minut ali čevljev"</string>
+  
+  <string name="spoken_symbol_2033">"Dvojni simbol za označevanje minut ali čevljev"</string>
+  
+  <string name="spoken_symbol_2039">"Enojni desni sredinski narekovaj"</string>
+  
+  <string name="spoken_symbol_203A">"Enojni levi sredinski narekovaj"</string>
+  
+  <string name="spoken_symbol_2074">"Nadpisana štirica"</string>
+  
+  <string name="spoken_symbol_207F">"Nadpisana latinska majhna črka n"</string>
+  
+  <string name="spoken_symbol_20B1">"Znak za pesos"</string>
+  
+  <string name="spoken_symbol_2105">"Znak za »Care of«"</string>
+  
+  <string name="spoken_symbol_2192">"Puščica desno"</string>
+  
+  <string name="spoken_symbol_2193">"Puščica navzdol"</string>
+  
+  <string name="spoken_symbol_2205">"Prazna množica"</string>
+  
+  <string name="spoken_symbol_2206">"Prirastek"</string>
+  
+  <string name="spoken_symbol_2264">"Manj od ali enako"</string>
+  
+  <string name="spoken_symbol_2265">"Več od ali enako"</string>
+  
+  <string name="spoken_symbol_2605">"Črna zvezda"</string>
+</resources>
