@@ -156,6 +156,40 @@ val HomeScreenLite = UserSettingsMenu(
     )
 )
 
+/** Small icon button in the hero corner that cycles the theme mode: System -> Light -> Dark. */
+@Composable
+private fun ThemeModeButton() {
+    val scheme = MaterialTheme.colorScheme
+    val (mode, setMode) = useDataStore(APP_THEME_MODE)
+    val (iconRes, desc) = when (mode) {
+        "light" -> R.drawable.sun to "Light theme"
+        "dark"  -> R.drawable.moon to "Dark theme"
+        else    -> R.drawable.smartphone to "System theme"
+    }
+    Box(
+        modifier = Modifier
+            .size(44.dp)
+            .clip(CircleShape)
+            .background(scheme.surface.copy(alpha = 0.35f))
+            .border(1.dp, scheme.outlineVariant.copy(alpha = 0.5f), CircleShape)
+            .clickable {
+                setMode(when (mode) {
+                    "system" -> "light"
+                    "light" -> "dark"
+                    else -> "system"
+                })
+            },
+        contentAlignment = Alignment.Center
+    ) {
+        Icon(
+            painterResource(iconRes),
+            contentDescription = desc,
+            tint = scheme.onSurface,
+            modifier = Modifier.size(22.dp)
+        )
+    }
+}
+
 /** Hero header: large title + version, sitting on a soft tonal gradient panel. */
 @Composable
 private fun HomeHero() {
@@ -175,18 +209,22 @@ private fun HomeHero() {
             )
             .padding(horizontal = 22.dp, vertical = 26.dp)
     ) {
-        Column {
-            Text(
-                stringResource(R.string.english_ime_settings),
-                style = Typography.Heading.MediumMl,
-                color = scheme.onSurface
-            )
-            Spacer(Modifier.height(4.dp))
-            Text(
-                "v${BuildConfig.VERSION_NAME}",
-                style = Typography.SmallMl,
-                color = scheme.onSurface.copy(alpha = 0.6f)
-            )
+        Row(verticalAlignment = CenterVertically) {
+            Column(Modifier.weight(1f)) {
+                Text(
+                    stringResource(R.string.english_ime_settings),
+                    style = Typography.Heading.MediumMl,
+                    color = scheme.onSurface
+                )
+                Spacer(Modifier.height(4.dp))
+                Text(
+                    "v${BuildConfig.VERSION_NAME}",
+                    style = Typography.SmallMl,
+                    color = scheme.onSurface.copy(alpha = 0.6f)
+                )
+            }
+            Spacer(Modifier.width(12.dp))
+            ThemeModeButton()
         }
     }
 }
@@ -220,48 +258,6 @@ private fun SearchPill(onClick: () -> Unit) {
     }
 }
 
-/** Segmented System / Light / Dark theme-mode toggle bound to APP_THEME_MODE. */
-@Composable
-private fun ThemeModeToggle() {
-    val scheme = MaterialTheme.colorScheme
-    val (mode, setMode) = useDataStore(APP_THEME_MODE)
-    val options = listOf("system" to "System", "light" to "Light", "dark" to "Dark")
-
-    Row(
-        modifier = Modifier
-            .fillMaxWidth()
-            .padding(horizontal = 16.dp)
-            .clip(CircleShape)
-            .background(scheme.surfaceContainer)
-            .border(1.dp, scheme.outlineVariant.copy(alpha = 0.5f), CircleShape)
-            .padding(4.dp),
-        horizontalArrangement = Arrangement.spacedBy(4.dp)
-    ) {
-        options.forEach { (key, label) ->
-            val selected = mode == key
-            val bg by animateColorAsState(
-                if (selected) scheme.primary else Color.Transparent,
-                label = "themeModeBg"
-            )
-            val fg by animateColorAsState(
-                if (selected) scheme.onPrimary else scheme.onSurfaceVariant,
-                label = "themeModeFg"
-            )
-            Box(
-                modifier = Modifier
-                    .weight(1f)
-                    .clip(CircleShape)
-                    .background(bg)
-                    .clickable { setMode(key) }
-                    .padding(vertical = 12.dp),
-                contentAlignment = Alignment.Center
-            ) {
-                Text(label, style = Typography.SmallMl, color = fg)
-            }
-        }
-    }
-}
-
 @Preview(showBackground = true)
 @Composable
 fun HomeScreen(navController: NavHostController = rememberNavController()) {
@@ -280,7 +276,6 @@ fun HomeScreen(navController: NavHostController = rememberNavController()) {
 
             HomeHero()
             SearchPill { navController.navigate("search") }
-            ThemeModeToggle()
 
             ConditionalMigrateUpdateNotice()
 
