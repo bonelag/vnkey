@@ -185,7 +185,7 @@
   <string name="settings_search_menu_title">Tìm kiếm</string>
   <string name="settings_search_enter_your_search">Tìm kiếm trong cài đặt…</string>
   <string name="settings_search_no_options_found">Không tìm thấy kết quả</string>
-  <string name="misc_settings_title">Cài đặt khác</string>
+  <string name="misc_settings_title">Sao lưu và khôi phục</string>
   <string name="setting_section_collapsed">Thu gọn</string>
   <string name="setting_section_expanded">Mở rộng</string>
 

@@ -19,6 +19,7 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.font.FontFamily
 import org.futo.inputmethod.latin.uix.KeyboardColorScheme
 import org.futo.inputmethod.latin.uix.LocalKeyboardScheme
+import org.futo.inputmethod.latin.uix.APP_THEME_MODE
 import org.futo.inputmethod.latin.uix.THEME_KEY
 import org.futo.inputmethod.latin.uix.actions.compatEmojiTypeface
 import org.futo.inputmethod.latin.uix.settings.useDataStoreValue
@@ -115,7 +116,8 @@ fun ThemeOption?.ensureAvailable(context: Context): ThemeOption? {
 fun UixThemeAuto(content: @Composable () -> Unit) {
     val context = LocalContext.current
 
-    val theme: ThemeOption = defaultThemeOption(context)
+    val mode = useDataStoreValue(APP_THEME_MODE)
+    val theme: ThemeOption = remember(mode) { appThemeOption(context, mode) }
 
     val colors = remember(theme.key) { theme.obtainColors(context) }
 

@@ -418,6 +418,12 @@ val THEME_KEY = SettingsKey(
     default = ""
 )
 
+// App settings UI theme mode: "system" | "light" | "dark"
+val APP_THEME_MODE = SettingsKey(
+    key = stringPreferencesKey("appThemeMode"),
+    default = "system"
+)
+
 val USE_SYSTEM_VOICE_INPUT = SettingsKey(
     key = booleanPreferencesKey("useSystemVoiceInput"),
     default = false

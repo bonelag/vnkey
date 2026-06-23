@@ -30,6 +30,7 @@ import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.LazyListScope
 import androidx.compose.foundation.rememberScrollState
+import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.text.BasicTextField
 import androidx.compose.foundation.text.InlineTextContent
@@ -69,6 +70,7 @@ import androidx.compose.ui.draw.rotate
 import androidx.compose.ui.focus.FocusRequester
 import androidx.compose.ui.focus.focusRequester
 import androidx.compose.ui.focus.onFocusChanged
+import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.ColorFilter
 import androidx.compose.ui.graphics.SolidColor
@@ -109,25 +111,32 @@ import kotlin.math.pow
 
 @Composable
 fun ScreenTitle(title: String, showBack: Boolean = false, navController: NavHostController? = LocalNavController.current ?: rememberNavController()) {
-    val rowModifier = if(showBack) {
-        Modifier
+    Row(
+        modifier = Modifier
             .fillMaxWidth()
-            .clickable(onClickLabel = "Navigate back") {
-                navController!!.navigateUp()
-            }
-    } else {
-        Modifier.fillMaxWidth()
-    }
-    Row(modifier = rowModifier) {
-        Spacer(modifier = Modifier.width(16.dp))
-
+            .padding(horizontal = 16.dp, vertical = 12.dp),
+        verticalAlignment = CenterVertically
+    ) {
         if(showBack) {
-            Icon(Icons.Default.ArrowBack, contentDescription = null, modifier = Modifier.align(CenterVertically))
-            Spacer(modifier = Modifier.width(18.dp))
+            Box(
+                modifier = Modifier
+                    .size(40.dp)
+                    .clip(CircleShape)
+                    .background(MaterialTheme.colorScheme.surfaceContainerHigh)
+                    .clickable(onClickLabel = "Navigate back") {
+                        navController!!.navigateUp()
+                    },
+                contentAlignment = Alignment.Center
+            ) {
+                Icon(
+                    Icons.Default.ArrowBack,
+                    contentDescription = null,
+                    tint = MaterialTheme.colorScheme.onSurface
+                )
+            }
+            Spacer(modifier = Modifier.width(14.dp))
         }
-        Text(title, style = Typography.Heading.Medium, modifier = Modifier
-            .align(CenterVertically)
-            .padding(0.dp, 16.dp))
+        Text(title, style = Typography.Heading.Medium, modifier = Modifier.align(CenterVertically))
     }
 }
 
@@ -201,6 +210,56 @@ fun SpacedColumn(gap: Dp, modifier: Modifier = Modifier, horizontalAlignment: Al
 }
 
 
+/**
+ * Floating rounded card that hosts a settings row. Sources color from the active theme so it
+ * adapts to dark/light + every preset. Purely visual — click handling stays in the content.
+ */
+@Composable
+fun SettingsCard(modifier: Modifier = Modifier, onClick: (() -> Unit)? = null, content: @Composable () -> Unit) {
+    val shape = RoundedCornerShape(20.dp)
+    Box(
+        modifier
+            .fillMaxWidth()
+            .padding(horizontal = 16.dp, vertical = 4.dp)
+            .clip(shape)
+            .background(MaterialTheme.colorScheme.surfaceContainer)
+            .border(1.dp, MaterialTheme.colorScheme.outlineVariant.copy(alpha = 0.5f), shape)
+            .let { if (onClick != null) it.clickable { onClick() } else it }
+    ) {
+        content()
+    }
+}
+
+/** Rounded-square gradient icon container for navigation rows (replaces the flat canvas circle). */
+@Composable
+fun IconTile(icon: Painter, style: NavigationItemStyle) {
+    val scheme = MaterialTheme.colorScheme
+    val bg = when (style) {
+        NavigationItemStyle.HomePrimary -> scheme.primaryContainer
+        NavigationItemStyle.HomeSecondary -> scheme.secondaryContainer
+        NavigationItemStyle.HomeTertiary -> scheme.tertiaryContainer
+        else -> Color.Transparent
+    }
+    val fg = when (style) {
+        NavigationItemStyle.HomePrimary -> scheme.onPrimaryContainer
+        NavigationItemStyle.HomeSecondary -> scheme.onSecondaryContainer
+        NavigationItemStyle.HomeTertiary -> scheme.onTertiaryContainer
+        else -> LocalContentColor.current.copy(alpha = 0.75f)
+    }
+    Box(
+        modifier = Modifier
+            .size(40.dp)
+            .clip(RoundedCornerShape(13.dp))
+            .let {
+                if (bg == Color.Transparent) it
+                else it.background(Brush.linearGradient(listOf(bg, bg.copy(alpha = 0.55f))))
+            },
+        contentAlignment = Alignment.Center
+    ) {
+        Icon(icon, contentDescription = null, tint = fg, modifier = Modifier.size(22.dp))
+    }
+}
+
 @Composable
 fun SettingItem(
     title: String,
@@ -230,10 +289,11 @@ fun SettingItem(
         else -> MaterialTheme.colorScheme.onSurfaceVariant
     }
 
+    SettingsCard(modifier = modifier) {
     Row(
-        modifier = modifier
+        modifier = Modifier
             .fillMaxWidth()
-            .defaultMinSize(0.dp, if(compact) { 48.dp } else { 68.dp })
+            .defaultMinSize(0.dp, if(compact) { 60.dp } else { 90.dp })
             .let {
                 if(onClick != null && onSubmenuNavigate == null) {
                     it.clickable(enabled = !disabled, onClick = {
@@ -251,7 +311,7 @@ fun SettingItem(
                     it
                 }
             }
-            .padding(vertical = 8.dp)
+            .padding(vertical = 6.dp)
             .height(intrinsicSize = IntrinsicSize.Min),
         verticalAlignment = Alignment.CenterVertically
     ) {
@@ -334,6 +394,7 @@ fun SettingItem(
             Spacer(modifier = Modifier.width(12.dp))
             Spacer(Modifier.width(4.dp))
         }
+    }
     }
 }
 
@@ -676,41 +737,7 @@ fun NavigationItem(title: String, style: NavigationItemStyle, navigate: () -> Un
         onClick = navigate,
         compact = compact,
         icon = {
-            icon?.let {
-                val circleColor = when(style) {
-                    NavigationItemStyle.HomePrimary -> MaterialTheme.colorScheme.primaryContainer
-                    NavigationItemStyle.HomeSecondary -> MaterialTheme.colorScheme.secondaryContainer
-                    NavigationItemStyle.HomeTertiary -> MaterialTheme.colorScheme.tertiaryContainer
-
-                    NavigationItemStyle.MiscNoArrow,
-                    NavigationItemStyle.Misc,
-                    NavigationItemStyle.ExternalLink,
-                    NavigationItemStyle.Mail -> Color.Transparent
-                }
-
-                val iconColor = when(style) {
-                    NavigationItemStyle.HomePrimary -> MaterialTheme.colorScheme.onPrimaryContainer
-                    NavigationItemStyle.HomeSecondary -> MaterialTheme.colorScheme.onSecondaryContainer
-                    NavigationItemStyle.HomeTertiary -> MaterialTheme.colorScheme.onTertiaryContainer
-
-                    NavigationItemStyle.MiscNoArrow,
-                    NavigationItemStyle.Mail,
-                    NavigationItemStyle.ExternalLink,
-                    NavigationItemStyle.Misc -> LocalContentColor.current.copy(alpha = 0.75f)
-                }
-
-                Canvas(modifier = Modifier.size(48.dp)) {
-                    drawCircle(circleColor, this.size.maxDimension / 2.4f)
-                    translate(
-                        left = this.size.width / 2.0f - icon.intrinsicSize.width / 2.0f,
-                        top = this.size.height / 2.0f - icon.intrinsicSize.height / 2.0f
-                    ) {
-                        with(icon) {
-                            draw(icon.intrinsicSize, colorFilter = ColorFilter.tint(iconColor))
-                        }
-                    }
-                }
-            }
+            icon?.let { IconTile(it, style) }
         }
     ) {
         when(style) {

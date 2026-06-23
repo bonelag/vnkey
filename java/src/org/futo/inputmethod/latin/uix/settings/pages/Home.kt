@@ -1,25 +1,38 @@
 package org.futo.inputmethod.latin.uix.settings.pages
 
 import android.content.Intent
+import androidx.compose.animation.animateColorAsState
+import androidx.compose.foundation.background
+import androidx.compose.foundation.border
+import androidx.compose.foundation.clickable
+import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.rememberScrollState
+import androidx.compose.foundation.shape.CircleShape
+import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Search
 import androidx.compose.material3.Icon
-import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.material3.TextButton
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.getValue
+import androidx.compose.ui.Alignment
 import androidx.compose.ui.Alignment.Companion.CenterVertically
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.draw.clip
+import androidx.compose.ui.graphics.Brush
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.platform.LocalInspectionMode
 import androidx.compose.ui.res.painterResource
@@ -31,6 +44,7 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.rememberNavController
 import org.futo.inputmethod.latin.BuildConfig
 import org.futo.inputmethod.latin.R
+import org.futo.inputmethod.latin.uix.APP_THEME_MODE
 import org.futo.inputmethod.latin.uix.LocalNavController
 import org.futo.inputmethod.latin.uix.TextEditPopupActivity
 import org.futo.inputmethod.latin.uix.USE_SYSTEM_VOICE_INPUT
@@ -39,6 +53,7 @@ import org.futo.inputmethod.latin.uix.settings.NavigationItemStyle
 import org.futo.inputmethod.latin.uix.settings.UserSetting
 import org.futo.inputmethod.latin.uix.settings.UserSettingsMenu
 import org.futo.inputmethod.latin.uix.settings.render
+import org.futo.inputmethod.latin.uix.settings.useDataStore
 import org.futo.inputmethod.latin.uix.settings.useDataStoreValue
 import org.futo.inputmethod.latin.uix.settings.userSettingNavigationItem
 import org.futo.inputmethod.latin.uix.theme.Typography
@@ -141,6 +156,112 @@ val HomeScreenLite = UserSettingsMenu(
     )
 )
 
+/** Hero header: large title + version, sitting on a soft tonal gradient panel. */
+@Composable
+private fun HomeHero() {
+    val scheme = MaterialTheme.colorScheme
+    Box(
+        modifier = Modifier
+            .fillMaxWidth()
+            .padding(horizontal = 16.dp)
+            .clip(RoundedCornerShape(28.dp))
+            .background(
+                Brush.linearGradient(
+                    listOf(
+                        scheme.primaryContainer.copy(alpha = 0.55f),
+                        scheme.tertiaryContainer.copy(alpha = 0.35f)
+                    )
+                )
+            )
+            .padding(horizontal = 22.dp, vertical = 26.dp)
+    ) {
+        Column {
+            Text(
+                stringResource(R.string.english_ime_settings),
+                style = Typography.Heading.MediumMl,
+                color = scheme.onSurface
+            )
+            Spacer(Modifier.height(4.dp))
+            Text(
+                "v${BuildConfig.VERSION_NAME}",
+                style = Typography.SmallMl,
+                color = scheme.onSurface.copy(alpha = 0.6f)
+            )
+        }
+    }
+}
+
+/** Pill-shaped tap target that opens the search screen. */
+@Composable
+private fun SearchPill(onClick: () -> Unit) {
+    val scheme = MaterialTheme.colorScheme
+    Row(
+        modifier = Modifier
+            .fillMaxWidth()
+            .padding(horizontal = 16.dp)
+            .clip(CircleShape)
+            .background(scheme.surfaceContainerHigh)
+            .border(1.dp, scheme.outlineVariant.copy(alpha = 0.5f), CircleShape)
+            .clickable(onClick = onClick)
+            .padding(horizontal = 18.dp, vertical = 14.dp),
+        verticalAlignment = CenterVertically
+    ) {
+        Icon(
+            Icons.Default.Search,
+            contentDescription = null,
+            tint = scheme.onSurfaceVariant
+        )
+        Spacer(Modifier.width(12.dp))
+        Text(
+            stringResource(R.string.settings_search_menu_title),
+            style = Typography.Body.RegularMl,
+            color = scheme.onSurfaceVariant
+        )
+    }
+}
+
+/** Segmented System / Light / Dark theme-mode toggle bound to APP_THEME_MODE. */
+@Composable
+private fun ThemeModeToggle() {
+    val scheme = MaterialTheme.colorScheme
+    val (mode, setMode) = useDataStore(APP_THEME_MODE)
+    val options = listOf("system" to "System", "light" to "Light", "dark" to "Dark")
+
+    Row(
+        modifier = Modifier
+            .fillMaxWidth()
+            .padding(horizontal = 16.dp)
+            .clip(CircleShape)
+            .background(scheme.surfaceContainer)
+            .border(1.dp, scheme.outlineVariant.copy(alpha = 0.5f), CircleShape)
+            .padding(4.dp),
+        horizontalArrangement = Arrangement.spacedBy(4.dp)
+    ) {
+        options.forEach { (key, label) ->
+            val selected = mode == key
+            val bg by animateColorAsState(
+                if (selected) scheme.primary else Color.Transparent,
+                label = "themeModeBg"
+            )
+            val fg by animateColorAsState(
+                if (selected) scheme.onPrimary else scheme.onSurfaceVariant,
+                label = "themeModeFg"
+            )
+            Box(
+                modifier = Modifier
+                    .weight(1f)
+                    .clip(CircleShape)
+                    .background(bg)
+                    .clickable { setMode(key) }
+                    .padding(vertical = 12.dp),
+                contentAlignment = Alignment.Center
+            ) {
+                Text(label, style = Typography.SmallMl, color = fg)
+            }
+        }
+    }
+}
+
 @Preview(showBackground = true)
 @Composable
 fun HomeScreen(navController: NavHostController = rememberNavController()) {
@@ -152,39 +273,20 @@ fun HomeScreen(navController: NavHostController = rememberNavController()) {
             modifier = Modifier
                 .weight(1.0f)
                 .fillMaxWidth()
-                .verticalScroll(scrollState)
+                .verticalScroll(scrollState),
+            verticalArrangement = Arrangement.spacedBy(14.dp)
         ) {
-            Spacer(modifier = Modifier.height(24.dp))
-            Row(Modifier.padding(16.dp)) {
-                Text(stringResource(R.string.english_ime_settings), style = Typography.Heading.Medium, modifier = Modifier
-                    .align(CenterVertically)
-                    .weight(1.0f))
+            Spacer(modifier = Modifier.height(16.dp))
 
-                Spacer(Modifier.width(4.dp))
-
-                IconButton(onClick = {
-                    navController.navigate("search")
-                }) {
-                    Icon(Icons.Default.Search, contentDescription = stringResource(
-                        R.string.settings_search_menu_title
-                    ))
-                }
-            }
+            HomeHero()
+            SearchPill { navController.navigate("search") }
+            ThemeModeToggle()
 
             ConditionalMigrateUpdateNotice()
 
             HomeScreenLite.render(showTitle = false)
 
-
-            Spacer(modifier = Modifier.height(16.dp))
-
-            Text(
-                "v${BuildConfig.VERSION_NAME}",
-                style = Typography.Small,
-                modifier = Modifier.fillMaxWidth(),
-                textAlign = TextAlign.Center
-            )
-            Spacer(modifier = Modifier.height(32.dp))
+            Spacer(modifier = Modifier.height(24.dp))
         }
         TextButton(onClick = {
             val intent = Intent()

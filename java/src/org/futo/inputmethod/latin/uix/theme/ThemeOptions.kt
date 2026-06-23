@@ -78,6 +78,13 @@ fun defaultThemeOption(context: Context): ThemeOption =
         }
     }
 
+/** Resolve the settings-UI theme from the explicit app mode toggle ("system" | "light" | "dark"). */
+fun appThemeOption(context: Context, mode: String): ThemeOption = when (mode) {
+    "light" -> if (DynamicLightTheme.available(context)) DynamicLightTheme else DefaultLightScheme
+    "dark"  -> if (DynamicDarkTheme.available(context)) DynamicDarkTheme else DefaultDarkScheme
+    else    -> defaultThemeOption(context)
+}
+
 fun getThemeOption(context: Context, key: String): ThemeOption? {
     return ThemeOptions[key] ?: run {
         return ZipThemes.ThemeFileName.fromSetting(key)?.let { name ->

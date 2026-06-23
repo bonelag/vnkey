@@ -243,7 +243,7 @@
     <string name="settings_search_menu_title">Search</string>
     <string name="settings_search_enter_your_search">Enter a search term…</string>
     <string name="settings_search_no_options_found">No results found</string>
-    <string name="misc_settings_title">Miscellaneous</string>
+    <string name="misc_settings_title">Backup and Restore</string>
 
     
     <string name="language_settings_title">Languages &amp; Models</string>

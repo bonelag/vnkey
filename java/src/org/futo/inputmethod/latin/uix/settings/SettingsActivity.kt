@@ -43,9 +43,11 @@ import org.futo.inputmethod.latin.uix.SettingsExporter
 import org.futo.inputmethod.latin.uix.THEME_KEY
 import org.futo.inputmethod.latin.uix.getSettingBlocking
 import org.futo.inputmethod.latin.uix.getSettingFlow
+import org.futo.inputmethod.latin.uix.APP_THEME_MODE
 import org.futo.inputmethod.latin.uix.theme.ThemeOption
 import org.futo.inputmethod.latin.uix.theme.ThemeOptions
 import org.futo.inputmethod.latin.uix.theme.UixThemeAuto
+import org.futo.inputmethod.latin.uix.theme.appThemeOption
 import org.futo.inputmethod.latin.uix.theme.defaultThemeOption
 import org.futo.inputmethod.latin.uix.theme.getThemeOption
 import org.futo.inputmethod.latin.uix.theme.orDefault
@@ -200,8 +202,9 @@ class SettingsActivity : ComponentActivity(), DynamicThemeProviderOwner {
         }
 
         lifecycleScope.launch {
-            // We no longer track THEME_KEY for the app UI. The app UI should only use the system theme.
-            val themeOption = defaultThemeOption(this@SettingsActivity)
+            // App UI follows the explicit theme-mode toggle (system/light/dark), persisted in APP_THEME_MODE.
+            val mode = getSettingBlocking(APP_THEME_MODE.key, APP_THEME_MODE.default)
+            val themeOption = appThemeOption(this@SettingsActivity, mode)
 
             this@SettingsActivity.themeOption.value = themeOption
             this@SettingsActivity.themeProvider = BasicThemeProvider(
@@ -212,7 +215,7 @@ class SettingsActivity : ComponentActivity(), DynamicThemeProviderOwner {
             updateEdgeToEdge()
         }
 
-        val themeOption = defaultThemeOption(this)
+        val themeOption = appThemeOption(this, getSettingBlocking(APP_THEME_MODE.key, APP_THEME_MODE.default))
 
         this.themeOption.value = themeOption
         this.themeProvider = BasicThemeProvider(
