@@ -1,25 +1,28 @@
 package org.futo.inputmethod.latin.uix.settings.pages
 
+import org.futo.inputmethod.latin.uix.settings.*
+
 import android.content.Intent
+import androidx.compose.foundation.background
+import androidx.compose.foundation.border
+import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
+import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.width
+import androidx.compose.foundation.layout.widthIn
 import androidx.compose.foundation.rememberScrollState
+import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.verticalScroll
-import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.filled.Search
-import androidx.compose.material3.Icon
-import androidx.compose.material3.IconButton
-import androidx.compose.material3.MaterialTheme
-import androidx.compose.material3.Text
-import androidx.compose.material3.TextButton
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment.Companion.CenterVertically
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.draw.clip
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.platform.LocalInspectionMode
 import androidx.compose.ui.res.painterResource
@@ -147,43 +150,77 @@ fun HomeScreen(navController: NavHostController = rememberNavController()) {
     val context = LocalContext.current
     val scrollState = rememberScrollState()
 
-    Column {
+    Column(Modifier.fillMaxSize().background(SettingsTheme.colors.background)) {
         Column(
             modifier = Modifier
                 .weight(1.0f)
                 .fillMaxWidth()
                 .verticalScroll(scrollState)
         ) {
-            Spacer(modifier = Modifier.height(24.dp))
-            Row(Modifier.padding(16.dp)) {
-                Text(stringResource(R.string.english_ime_settings), style = Typography.Heading.Medium, modifier = Modifier
-                    .align(CenterVertically)
-                    .weight(1.0f))
-
-                Spacer(Modifier.width(4.dp))
-
-                IconButton(onClick = {
-                    navController.navigate("search")
-                }) {
-                    Icon(Icons.Default.Search, contentDescription = stringResource(
-                        R.string.settings_search_menu_title
-                    ))
+            Spacer(modifier = Modifier.height(14.dp))
+            Surface(
+                modifier = Modifier
+                    .padding(horizontal = 12.dp, vertical = 6.dp)
+                    .fillMaxWidth(),
+                color = SettingsTheme.colors.surface,
+                contentColor = SettingsTheme.colors.onSurface,
+                shape = RoundedCornerShape(14.dp),
+                border = androidx.compose.foundation.BorderStroke(1.dp, SettingsTheme.colors.outlineVariant)
+            ) {
+                Row(
+                    Modifier.padding(16.dp),
+                    verticalAlignment = CenterVertically,
+                    horizontalArrangement = Arrangement.spacedBy(12.dp)
+                ) {
+                    Box(
+                        Modifier
+                            .width(6.dp)
+                            .height(44.dp)
+                            .clip(RoundedCornerShape(4.dp))
+                            .background(SettingsTheme.colors.primary)
+                    )
+                    Column(Modifier.weight(1.0f)) {
+                        Text(
+                            stringResource(R.string.english_ime_settings),
+                            style = Typography.Heading.Medium,
+                            color = SettingsTheme.colors.onSurface
+                        )
+                        Text(
+                            "v${BuildConfig.VERSION_NAME}",
+                            style = Typography.Small,
+                            color = SettingsTheme.colors.onSurfaceVariant
+                        )
+                    }
+                    IconButton(onClick = {
+                        navController.navigate("search")
+                    }) {
+                        Icon(Icons.Default.Search, contentDescription = stringResource(
+                            R.string.settings_search_menu_title
+                        ), tint = SettingsTheme.colors.primary)
+                    }
                 }
             }
 
             ConditionalMigrateUpdateNotice()
 
-            HomeScreenLite.render(showTitle = false)
+            Surface(
+                modifier = Modifier
+                    .padding(horizontal = 8.dp, vertical = 4.dp)
+                    .fillMaxWidth()
+                    .widthIn(max = 720.dp),
+                color = SettingsTheme.colors.surface,
+                contentColor = SettingsTheme.colors.onSurface,
+                shape = RoundedCornerShape(14.dp),
+                border = androidx.compose.foundation.BorderStroke(1.dp, SettingsTheme.colors.outlineVariant)
+            ) {
+                Column(Modifier.padding(vertical = 8.dp)) {
+                    HomeScreenLite.render(showTitle = false)
+                }
+            }
 
 
             Spacer(modifier = Modifier.height(16.dp))
 
-            Text(
-                "v${BuildConfig.VERSION_NAME}",
-                style = Typography.Small,
-                modifier = Modifier.fillMaxWidth(),
-                textAlign = TextAlign.Center
-            )
             Spacer(modifier = Modifier.height(32.dp))
         }
         TextButton(onClick = {
@@ -194,7 +231,12 @@ fun HomeScreen(navController: NavHostController = rememberNavController()) {
             )
             context.startActivity(intent)
         }, modifier = Modifier.fillMaxWidth()) {
-            Text(stringResource(R.string.settings_try_typing_here), color = MaterialTheme.colorScheme.onBackground.copy(alpha = 0.7f), modifier = Modifier.fillMaxWidth())
+            Text(
+                stringResource(R.string.settings_try_typing_here),
+                color = SettingsTheme.colors.primary,
+                modifier = Modifier.fillMaxWidth(),
+                textAlign = TextAlign.Center
+            )
         }
     }
 }

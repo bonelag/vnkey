@@ -1,5 +1,7 @@
 package org.futo.inputmethod.latin.uix.settings.pages
 
+import org.futo.inputmethod.latin.uix.settings.*
+
 import android.icu.text.Transliterator
 import android.os.Build
 import androidx.compose.foundation.ExperimentalFoundationApi
@@ -13,13 +15,6 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
-import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.filled.ArrowForward
-import androidx.compose.material.icons.filled.Search
-import androidx.compose.material3.HorizontalDivider
-import androidx.compose.material3.Icon
-import androidx.compose.material3.MaterialTheme
-import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
@@ -143,7 +138,7 @@ fun SearchScreen(navController: NavHostController = rememberNavController()) {
                 Text(
                     stringResource(R.string.settings_search_enter_your_search),
                     style = Typography.Heading.Medium.copy(fontStyle = FontStyle.Italic),
-                    color = MaterialTheme.colorScheme.outline,
+                    color = SettingsTheme.colors.outline,
                     textAlign = TextAlign.Center,
                     modifier = Modifier
                         .padding(16.dp)
@@ -155,7 +150,7 @@ fun SearchScreen(navController: NavHostController = rememberNavController()) {
                 Text(
                     stringResource(R.string.settings_search_no_options_found),
                     style = Typography.Heading.Medium.copy(fontStyle = FontStyle.Italic),
-                    color = MaterialTheme.colorScheme.outline,
+                    color = SettingsTheme.colors.outline,
                     textAlign = TextAlign.Center,
                     modifier = Modifier
                         .padding(16.dp)

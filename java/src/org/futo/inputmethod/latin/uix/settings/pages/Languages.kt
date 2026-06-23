@@ -1,5 +1,7 @@
 package org.futo.inputmethod.latin.uix.settings.pages
 
+import org.futo.inputmethod.latin.uix.settings.*
+
 import android.view.inputmethod.InputMethodSubtype
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
@@ -18,19 +20,6 @@ import androidx.compose.foundation.layout.widthIn
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.shape.RoundedCornerShape
-import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.filled.ArrowForward
-import androidx.compose.material3.AlertDialog
-import androidx.compose.material3.ButtonColors
-import androidx.compose.material3.Checkbox
-import androidx.compose.material3.CheckboxDefaults
-import androidx.compose.material3.Icon
-import androidx.compose.material3.IconButton
-import androidx.compose.material3.LocalContentColor
-import androidx.compose.material3.MaterialTheme
-import androidx.compose.material3.Text
-import androidx.compose.material3.TextButton
-import androidx.compose.material3.contentColorFor
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.CompositionLocalProvider
 import androidx.compose.runtime.MutableState
@@ -111,7 +100,7 @@ fun LanguageConfigurable(
                     modifier = Modifier
                         .align(Alignment.CenterVertically)
                         .size(16.dp),
-                    tint = MaterialTheme.colorScheme.onSecondaryContainer.copy(alpha = 0.8f)
+                    tint = SettingsTheme.colors.onSecondaryContainer.copy(alpha = 0.8f)
                 )
 
                 Spacer(modifier = Modifier.width(8.dp))
@@ -120,7 +109,7 @@ fun LanguageConfigurable(
                     kind.kindTitle(LocalResources.current),
                     modifier = Modifier.align(Alignment.CenterVertically),
                     style = Typography.Small,
-                    color = MaterialTheme.colorScheme.onSecondaryContainer.copy(alpha = 0.8f)
+                    color = SettingsTheme.colors.onSecondaryContainer.copy(alpha = 0.8f)
                 )
             }
 
@@ -224,17 +213,17 @@ fun LanguageSurface(
                 .padding(start = 32.dp, end = 32.dp)
                 .widthIn(296.dp, 400.dp)
                 .background(
-                    color = MaterialTheme.colorScheme.secondaryContainer,
+                    color = SettingsTheme.colors.secondaryContainer,
                     shape = RoundedCornerShape(16.dp)
                 )
                 .border(
                     1.dp,
-                    color = MaterialTheme.colorScheme.outlineVariant,
+                    color = SettingsTheme.colors.outlineVariant,
                     shape = RoundedCornerShape(16.dp)
                 )
                 .padding(top = 14.dp, bottom = 12.dp)
         ) {
-            CompositionLocalProvider(LocalContentColor provides MaterialTheme.colorScheme.onSecondaryContainer) {
+            CompositionLocalProvider(LocalContentColor provides SettingsTheme.colors.onSecondaryContainer) {
                 Text(
                     item.languageName,
                     modifier = Modifier.padding(start = 16.dp, end = 16.dp),
@@ -270,7 +259,7 @@ fun LanguageSurface(
                     modifier = Modifier
                         .padding(start = 16.dp, end = 16.dp),
                     style = Typography.SmallMl,
-                    color = MaterialTheme.colorScheme.onSecondaryContainer.copy(alpha = 0.8f)
+                    color = SettingsTheme.colors.onSecondaryContainer.copy(alpha = 0.8f)
                 )
 
                 Spacer(modifier = Modifier.height(9.dp))
@@ -294,16 +283,16 @@ fun LanguageSurface(
                             .weight(1.0f)
                             .align(Alignment.CenterVertically),
                         style = Typography.SmallMl,
-                        color = MaterialTheme.colorScheme.onSecondaryContainer.copy(alpha = 0.8f)
+                        color = SettingsTheme.colors.onSecondaryContainer.copy(alpha = 0.8f)
                     )
                     Checkbox(
                         checked = item.inMultilingualBucket,
                         onCheckedChange = { onToggleMultilingualBucket(it) },
                         modifier = Modifier.align(Alignment.CenterVertically),
                         colors = CheckboxDefaults.colors(
-                            checkedColor = MaterialTheme.colorScheme.onSecondaryContainer,
-                            uncheckedColor = MaterialTheme.colorScheme.onSecondaryContainer,
-                            checkmarkColor = MaterialTheme.colorScheme.secondaryContainer
+                            checkedColor = SettingsTheme.colors.onSecondaryContainer,
+                            uncheckedColor = SettingsTheme.colors.onSecondaryContainer,
+                            checkmarkColor = SettingsTheme.colors.secondaryContainer
                         )
                     )
                 }
@@ -314,7 +303,7 @@ fun LanguageSurface(
                 ActionableItem(
                     icon = painterResource(id = R.drawable.plus_circle),
                     text = stringResource(R.string.language_settings_add_layout_for_this_language),
-                    color = MaterialTheme.colorScheme.primary,
+                    color = SettingsTheme.colors.primary,
                     onTrigger = onLayoutAdditionRequested
                 )
 
@@ -323,7 +312,7 @@ fun LanguageSurface(
                 ActionableItem(
                     icon = painterResource(id = R.drawable.trash),
                     text = stringResource(R.string.language_settings_remove_this_language),
-                    color = MaterialTheme.colorScheme.error,
+                    color = SettingsTheme.colors.error,
                     onTrigger = onLanguageRemoved
                 )
             }

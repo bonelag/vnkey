@@ -15,8 +15,6 @@ import androidx.activity.enableEdgeToEdge
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.safeDrawingPadding
-import androidx.compose.material3.MaterialTheme
-import androidx.compose.material3.Surface
 import androidx.compose.runtime.MutableState
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.ui.Modifier
@@ -45,7 +43,6 @@ import org.futo.inputmethod.latin.uix.getSettingBlocking
 import org.futo.inputmethod.latin.uix.getSettingFlow
 import org.futo.inputmethod.latin.uix.theme.ThemeOption
 import org.futo.inputmethod.latin.uix.theme.ThemeOptions
-import org.futo.inputmethod.latin.uix.theme.UixThemeAuto
 import org.futo.inputmethod.latin.uix.theme.defaultThemeOption
 import org.futo.inputmethod.latin.uix.theme.getThemeOption
 import org.futo.inputmethod.latin.uix.theme.orDefault
@@ -157,11 +154,11 @@ class SettingsActivity : ComponentActivity(), DynamicThemeProviderOwner {
         setContent {
             DataStoreCacheProvider {
                 SharedPrefsCacheProvider {
-                    UixThemeAuto {
+                    SettingsThemeAuto {
                         Surface(
                             modifier = Modifier
                                 .fillMaxSize(),
-                            color = MaterialTheme.colorScheme.background
+                            color = SettingsTheme.colors.background
                         ) {
                             Box(Modifier.safeDrawingPadding()) {
                                 SetupOrMain(

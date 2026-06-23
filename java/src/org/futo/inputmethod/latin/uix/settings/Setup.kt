@@ -13,11 +13,6 @@ import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
-import androidx.compose.material3.Button
-import androidx.compose.material3.Icon
-import androidx.compose.material3.LinearProgressIndicator
-import androidx.compose.material3.MaterialTheme
-import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
@@ -55,7 +50,7 @@ fun SetupContainer(inner: @Composable () -> Unit) {
                 modifier = Modifier
                     .matchParentSize()
                     .align(Alignment.Center),
-                tint = MaterialTheme.colorScheme.onBackground
+                tint = SettingsTheme.colors.onBackground
             )
         }
 

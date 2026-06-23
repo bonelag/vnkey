@@ -1,5 +1,7 @@
 package org.futo.inputmethod.latin.uix.settings.pages.modelmanager
 
+import org.futo.inputmethod.latin.uix.settings.*
+
 import android.app.Activity
 import android.content.Context
 import android.content.Intent
@@ -7,13 +9,6 @@ import android.view.ContextThemeWrapper
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
-import androidx.compose.material3.DropdownMenuItem
-import androidx.compose.material3.ExperimentalMaterial3Api
-import androidx.compose.material3.ExposedDropdownMenuBox
-import androidx.compose.material3.ExposedDropdownMenuDefaults
-import androidx.compose.material3.MaterialTheme
-import androidx.compose.material3.Text
-import androidx.compose.material3.TextField
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
@@ -83,7 +78,6 @@ fun ModelScreenNav(file: File, navController: NavHostController = rememberNavCon
     }
 }
 
-@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun ModelPicker(
     label: String,
@@ -115,10 +109,10 @@ fun ModelPicker(
                     )
                 },
                 colors = ExposedDropdownMenuDefaults.textFieldColors(
-                    focusedLabelColor = MaterialTheme.colorScheme.onPrimaryContainer,
-                    focusedLeadingIconColor = MaterialTheme.colorScheme.onPrimaryContainer,
-                    focusedIndicatorColor = MaterialTheme.colorScheme.onPrimaryContainer,
-                    focusedTrailingIconColor = MaterialTheme.colorScheme.onPrimaryContainer,
+                    focusedLabelColor = SettingsTheme.colors.onPrimaryContainer,
+                    focusedLeadingIconColor = SettingsTheme.colors.onPrimaryContainer,
+                    focusedIndicatorColor = SettingsTheme.colors.onPrimaryContainer,
+                    focusedTrailingIconColor = SettingsTheme.colors.onPrimaryContainer,
                 ),
                 modifier = Modifier.menuAnchor()
             )

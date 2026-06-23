@@ -129,10 +129,30 @@ fun SettingsNavigator(
         NavHost(
             navController = navController,
             startDestination = "home",
-            enterTransition = { EnterTransition.None },
-            exitTransition = { ExitTransition.None },
-            popEnterTransition = { EnterTransition.None },
-            popExitTransition = { ExitTransition.None }
+            enterTransition = {
+                fadeIn(tween(120)) + slideInHorizontally(
+                    animationSpec = tween(180, easing = FastOutSlowInEasing),
+                    initialOffsetX = { it / 5 }
+                )
+            },
+            exitTransition = {
+                fadeOut(tween(90)) + slideOutHorizontally(
+                    animationSpec = tween(160, easing = FastOutSlowInEasing),
+                    targetOffsetX = { -it / 8 }
+                )
+            },
+            popEnterTransition = {
+                fadeIn(tween(120)) + slideInHorizontally(
+                    animationSpec = tween(180, easing = FastOutSlowInEasing),
+                    initialOffsetX = { -it / 5 }
+                )
+            },
+            popExitTransition = {
+                fadeOut(tween(90)) + slideOutHorizontally(
+                    animationSpec = tween(160, easing = FastOutSlowInEasing),
+                    targetOffsetX = { it / 8 }
+                )
+            }
         ) {
             with(NavGraphBuilderWrapper(this)) {
                 composable<Route.AddLayout> { SelectLayoutsScreen(nav, it.lang.toLocale()) }

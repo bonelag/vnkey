@@ -1,5 +1,7 @@
 package org.futo.inputmethod.latin.uix.settings.pages.themes
 
+import org.futo.inputmethod.latin.uix.settings.*
+
 import android.annotation.SuppressLint
 import android.content.Context
 import android.graphics.Bitmap
@@ -21,15 +23,6 @@ import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.shape.RoundedCornerShape
-import androidx.compose.material3.Button
-import androidx.compose.material3.CircularProgressIndicator
-import androidx.compose.material3.Icon
-import androidx.compose.material3.IconButton
-import androidx.compose.material3.IconButtonDefaults
-import androidx.compose.material3.LocalContentColor
-import androidx.compose.material3.MaterialTheme
-import androidx.compose.material3.Text
-import androidx.compose.material3.VerticalDivider
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.CompositionLocalProvider
 import androidx.compose.runtime.LaunchedEffect
@@ -442,16 +435,14 @@ internal fun ThemeEditor(
         Unit
     }
 
-    val colorsForEditor = remember { DefaultDarkScheme.obtainColors(context) }
     Box(
         modifier = Modifier.Companion
             .fillMaxSize()
             .background(Color.Companion.Black),
         contentAlignment = Alignment.Companion.Center
     ) {
-        MaterialTheme(colorScheme = colorsForEditor.base) {
-            CompositionLocalProvider(LocalContentColor provides Color.Companion.White) {
-                Column(
+        CompositionLocalProvider(LocalContentColor provides Color.Companion.White) {
+            Column(
                     modifier = Modifier.Companion.padding(16.dp),
                     horizontalAlignment = Alignment.Companion.CenterHorizontally,
                     verticalArrangement = Arrangement.spacedBy(8.dp)
@@ -625,7 +616,6 @@ internal fun ThemeEditor(
                     } else {
                         CircularProgressIndicator()
                     }
-                }
             }
         }
     }

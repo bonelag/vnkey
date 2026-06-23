@@ -1,5 +1,7 @@
 package org.futo.inputmethod.latin.uix.settings.pages
 
+import org.futo.inputmethod.latin.uix.settings.*
+
 import android.content.Context
 import android.util.Log
 import android.widget.Toast
@@ -10,7 +12,6 @@ import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.text.BasicTextField
 import androidx.compose.foundation.text.KeyboardOptions
-import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.SolidColor
@@ -171,7 +172,7 @@ fun LayoutEditor(layout: CustomLayout, onSave: (CustomLayout) -> Unit, onDelete:
     val cursorBrush = SolidColor(LocalKeyboardScheme.current.onSurfaceVariant)
 
     Column(modifier = Modifier.padding(16.dp)) {
-        Text("Edit Layout", style = MaterialTheme.typography.titleLarge)
+        Text("Edit Layout", style = SettingsTypography.titleLarge)
 
         Spacer(modifier = Modifier.height(16.dp))
 
@@ -249,8 +250,8 @@ fun LayoutEditor(layout: CustomLayout, onSave: (CustomLayout) -> Unit, onDelete:
                     ).show()
                 }
             }, colors = ButtonDefaults.buttonColors(
-                containerColor = MaterialTheme.colorScheme.errorContainer,
-                contentColor = MaterialTheme.colorScheme.onErrorContainer
+                containerColor = SettingsTheme.colors.errorContainer,
+                contentColor = SettingsTheme.colors.onErrorContainer
             )) {
                 Text("Delete")
             }

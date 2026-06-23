@@ -1,5 +1,7 @@
 package org.futo.inputmethod.latin.uix.settings.pages
 
+import org.futo.inputmethod.latin.uix.settings.*
+
 import android.util.Log
 import androidx.compose.foundation.border
 import androidx.compose.foundation.clickable
@@ -13,8 +15,6 @@ import androidx.compose.foundation.lazy.grid.GridItemSpan
 import androidx.compose.foundation.lazy.grid.LazyVerticalGrid
 import androidx.compose.foundation.lazy.grid.items
 import androidx.compose.foundation.shape.RoundedCornerShape
-import androidx.compose.material3.MaterialTheme
-import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
@@ -64,7 +64,7 @@ fun DevLayoutList(navController: NavHostController = rememberNavController()) {
             Box(
                 Modifier.padding(4.dp).fillMaxWidth().border(
                     1.dp,
-                    MaterialTheme.colorScheme.outlineVariant,
+                    SettingsTheme.colors.outlineVariant,
                     RoundedCornerShape(8.dp)
                 ).clickable {
 

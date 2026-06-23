@@ -1,5 +1,7 @@
 package org.futo.inputmethod.latin.uix.settings.pages.pdict
 
+import org.futo.inputmethod.latin.uix.settings.*
+
 import android.app.Activity
 import android.content.Intent
 import androidx.compose.foundation.layout.Arrangement
@@ -9,11 +11,6 @@ import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
-import androidx.compose.material3.AlertDialog
-import androidx.compose.material3.ButtonDefaults
-import androidx.compose.material3.MaterialTheme
-import androidx.compose.material3.Text
-import androidx.compose.material3.TextButton
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.DisposableEffect
 import androidx.compose.runtime.LaunchedEffect
@@ -116,8 +113,8 @@ fun WordPopupDialog(selectedWord: PersonalWord? = null, locale: Locale? = null) 
                 if (shortcutError) {
                     Text(
                         stringResource(R.string.personal_dictionary_shortcut_error_symbols),
-                        color = MaterialTheme.colorScheme.error,
-                        style = MaterialTheme.typography.bodySmall
+                        color = SettingsTheme.colors.error,
+                        style = SettingsTypography.bodySmall
                     )
                 }
             }
@@ -135,7 +132,7 @@ fun WordPopupDialog(selectedWord: PersonalWord? = null, locale: Locale? = null) 
                             udictIo.remove(listOf(selectedWord))
                             navController!!.navigateUp()
                         },
-                        colors = ButtonDefaults.textButtonColors(contentColor = MaterialTheme.colorScheme.error)
+                        colors = ButtonDefaults.textButtonColors(contentColor = SettingsTheme.colors.error)
                     ) {
                         Text(stringResource(R.string.user_dict_settings_delete))
                     }

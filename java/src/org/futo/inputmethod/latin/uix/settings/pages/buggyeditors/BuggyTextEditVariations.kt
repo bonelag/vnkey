@@ -1,5 +1,7 @@
 package org.futo.inputmethod.latin.uix.settings.pages.buggyeditors
 
+import org.futo.inputmethod.latin.uix.settings.*
+
 import android.graphics.RectF
 import android.os.Build
 import android.os.Bundle
@@ -23,7 +25,6 @@ import android.view.inputmethod.TextSnapshot
 import androidx.annotation.RequiresApi
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
-import androidx.compose.material3.MaterialTheme
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.key
@@ -128,9 +129,9 @@ class WrappedIC(val ic: InputConnection) : InputConnection {
 @Composable
 private fun TextEdit(config: BuggyEditorConfiguration, name: String, type: Int, imeOptions: Int? = null, imeActionLabel: String? = null, imeActionId: Int? = null) {
     val context = LocalContext.current
-    val bgColor = MaterialTheme.colorScheme.background
-    val fgColor = MaterialTheme.colorScheme.onBackground
-    val cursorColor = MaterialTheme.colorScheme.primary
+    val bgColor = SettingsTheme.colors.background
+    val fgColor = SettingsTheme.colors.onBackground
+    val cursorColor = SettingsTheme.colors.primary
 
     if(!LocalInspectionMode.current) {
         val editText = remember(config) {

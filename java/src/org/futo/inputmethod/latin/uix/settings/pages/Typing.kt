@@ -1,7 +1,10 @@
 package org.futo.inputmethod.latin.uix.settings.pages
 
+import org.futo.inputmethod.latin.uix.settings.*
+
 import android.content.Context
 import android.media.AudioManager
+import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.foundation.background
 import androidx.compose.foundation.gestures.detectDragGestures
@@ -16,23 +19,10 @@ import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
+import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.text.InlineTextContent
 import androidx.compose.foundation.text.appendInlineContent
-import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.filled.Add
-import androidx.compose.material.icons.filled.Clear
-import androidx.compose.material.icons.filled.KeyboardArrowDown
-import androidx.compose.material.icons.filled.KeyboardArrowUp
-import androidx.compose.material.icons.filled.Menu
-import androidx.compose.material.icons.filled.KeyboardArrowRight
-import androidx.compose.material.icons.filled.Refresh
 import androidx.compose.ui.text.font.FontWeight
-import androidx.compose.material3.Button
-import androidx.compose.material3.Icon
-import androidx.compose.material3.IconButton
-import androidx.compose.material3.LocalContentColor
-import androidx.compose.material3.MaterialTheme
-import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.DisposableEffect
 import androidx.compose.runtime.LaunchedEffect
@@ -45,6 +35,7 @@ import androidx.compose.runtime.remember
 import androidx.compose.ui.Alignment.Companion.CenterVertically
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.geometry.Offset
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.asImageBitmap
 import androidx.compose.ui.graphics.compositeOver
 import androidx.compose.ui.graphics.graphicsLayer
@@ -142,12 +133,6 @@ import android.app.Activity
 import android.content.pm.ActivityInfo
 import android.content.res.Configuration
 import android.os.Build
-import androidx.compose.material3.Scaffold
-import androidx.compose.material3.SmallFloatingActionButton
-import androidx.compose.material3.FabPosition
-import androidx.compose.material3.Tab
-import androidx.compose.material3.TabRow
-import androidx.compose.material3.Slider
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.platform.LocalView
@@ -242,6 +227,7 @@ val ResizeMenuLite = UserSettingsMenu(
 @Composable
 fun <T : Number> ResizeSettingSlider(
     title: String,
+    symbol: String,
     item: DataStoreItem<T>,
     range: ClosedFloatingPointRange<Float>,
     transform: (Float) -> T,
@@ -249,51 +235,84 @@ fun <T : Number> ResizeSettingSlider(
     onReset: () -> Unit
 ) {
     val (value, setValue) = item
-    Column(modifier = Modifier.padding(vertical = 8.dp, horizontal = 16.dp)) {
-        Row(
-            verticalAlignment = androidx.compose.ui.Alignment.CenterVertically,
-            horizontalArrangement = Arrangement.SpaceBetween,
-            modifier = Modifier.fillMaxWidth()
-        ) {
-            Text(
-                text = title,
-                style = MaterialTheme.typography.bodyLarge,
-                color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.7f)
-            )
+    Surface(
+        color = SettingsTheme.colors.surfaceVariant,
+        contentColor = SettingsTheme.colors.onSurface,
+        shape = RoundedCornerShape(14.dp),
+        border = BorderStroke(1.dp, SettingsTheme.colors.outlineVariant.copy(alpha = 0.58f)),
+        modifier = Modifier
+            .fillMaxWidth()
+            .padding(vertical = 5.dp)
+    ) {
+        Column(modifier = Modifier.padding(14.dp)) {
             Row(
                 verticalAlignment = androidx.compose.ui.Alignment.CenterVertically,
-                horizontalArrangement = Arrangement.End
+                horizontalArrangement = Arrangement.SpaceBetween,
+                modifier = Modifier.fillMaxWidth()
             ) {
-                Text(
-                    text = indicator(value),
-                    style = MaterialTheme.typography.titleMedium.copy(fontWeight = FontWeight.Bold),
-                    color = MaterialTheme.colorScheme.primary,
-                    modifier = Modifier.padding(end = 8.dp)
-                )
-                IconButton(
-                    onClick = onReset,
-                    modifier = Modifier.size(24.dp)
+                Row(
+                    verticalAlignment = androidx.compose.ui.Alignment.CenterVertically,
+                    modifier = Modifier.weight(1.0f)
                 ) {
-                    Icon(
-                        imageVector = Icons.Default.Refresh,
-                        contentDescription = "Đặt lại",
-                        tint = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.5f),
-                        modifier = Modifier.size(20.dp)
+                    Surface(
+                        color = SettingsTheme.colors.primaryContainer,
+                        contentColor = SettingsTheme.colors.onPrimaryContainer,
+                        shape = RoundedCornerShape(12.dp),
+                        border = BorderStroke(1.dp, SettingsTheme.colors.primary.copy(alpha = 0.32f)),
+                        modifier = Modifier.size(38.dp)
+                    ) {
+                        Box(contentAlignment = androidx.compose.ui.Alignment.Center) {
+                            Text(
+                                text = symbol,
+                                style = SettingsTypography.bodySmall.copy(fontWeight = FontWeight.Bold),
+                                color = SettingsTheme.colors.onPrimaryContainer,
+                                textAlign = TextAlign.Center
+                            )
+                        }
+                    }
+                    Spacer(modifier = Modifier.width(12.dp))
+                    Text(
+                        text = title,
+                        style = SettingsTypography.bodyLarge,
+                        color = SettingsTheme.colors.onSurface
                     )
                 }
+                Spacer(modifier = Modifier.width(8.dp))
+                Row(
+                    verticalAlignment = androidx.compose.ui.Alignment.CenterVertically,
+                    horizontalArrangement = Arrangement.End
+                ) {
+                    Text(
+                        text = indicator(value),
+                        style = SettingsTypography.titleMedium.copy(fontWeight = FontWeight.Bold),
+                        color = SettingsTheme.colors.primary,
+                        modifier = Modifier.padding(end = 4.dp)
+                    )
+                    IconButton(
+                        onClick = onReset,
+                        modifier = Modifier.size(42.dp)
+                    ) {
+                        Icon(
+                            imageVector = Icons.Default.Refresh,
+                            contentDescription = "Đặt lại",
+                            tint = SettingsTheme.colors.primary,
+                            modifier = Modifier.size(22.dp)
+                        )
+                    }
+                }
             }
+
+            Spacer(modifier = Modifier.height(10.dp))
+
+            Slider(
+                value = value.toFloat(),
+                onValueChange = {
+                    setValue(transform(it))
+                },
+                valueRange = range,
+                modifier = Modifier.fillMaxWidth()
+            )
         }
-        
-        Spacer(modifier = Modifier.height(4.dp))
-        
-        Slider(
-            value = value.toFloat(),
-            onValueChange = {
-                setValue(transform(it))
-            },
-            valueRange = range,
-            modifier = Modifier.fillMaxWidth()
-        )
     }
 }
 
@@ -369,6 +388,19 @@ fun ResizeScreen(navController: NavHostController = rememberNavController()) {
     val widthSetting = if (selectedOrientation == Configuration.ORIENTATION_PORTRAIT) KeyboardWidthScaleSetting else KeyboardWidthScaleSettingLandscape
     val textSetting = if (selectedOrientation == Configuration.ORIENTATION_PORTRAIT) KeyboardTextScaleSetting else KeyboardTextScaleSettingLandscape
     val cornerSetting = if (selectedOrientation == Configuration.ORIENTATION_PORTRAIT) KeyboardCornerRadiusSetting else KeyboardCornerRadiusSettingLandscape
+    val resetAllSizes = {
+        if (selectedOrientation == Configuration.ORIENTATION_PORTRAIT) {
+            context.setSettingBlocking(KeyboardHeightScaleSetting.key, KeyboardHeightScaleSetting.default)
+            context.setSettingBlocking(KeyboardWidthScaleSetting.key, KeyboardWidthScaleSetting.default)
+            context.setSettingBlocking(KeyboardTextScaleSetting.key, KeyboardTextScaleSetting.default)
+            context.setSettingBlocking(KeyboardCornerRadiusSetting.key, KeyboardCornerRadiusSetting.default)
+        } else {
+            context.setSettingBlocking(KeyboardHeightScaleSettingLandscape.key, KeyboardHeightScaleSettingLandscape.default)
+            context.setSettingBlocking(KeyboardWidthScaleSettingLandscape.key, KeyboardWidthScaleSettingLandscape.default)
+            context.setSettingBlocking(KeyboardTextScaleSettingLandscape.key, KeyboardTextScaleSettingLandscape.default)
+            context.setSettingBlocking(KeyboardCornerRadiusSettingLandscape.key, KeyboardCornerRadiusSettingLandscape.default)
+        }
+    }
 
 
 
@@ -442,6 +474,7 @@ fun ResizeScreen(navController: NavHostController = rememberNavController()) {
                 Column(Modifier.fillMaxWidth().padding(vertical = 8.dp)) {
                     ResizeSettingSlider(
                         title = "Chiều cao phím",
+                        symbol = "↕",
                         item = useDataStore(heightSetting, blocking = true),
                         range = 0.5f..1.5f,
                         transform = { it },
@@ -454,6 +487,7 @@ fun ResizeScreen(navController: NavHostController = rememberNavController()) {
                     Spacer(Modifier.height(8.dp))
                     ResizeSettingSlider(
                         title = "Chiều rộng phím",
+                        symbol = "↔",
                         item = useDataStore(widthSetting, blocking = true),
                         range = 0.5f..1.5f,
                         transform = { it },
@@ -466,6 +500,7 @@ fun ResizeScreen(navController: NavHostController = rememberNavController()) {
                     Spacer(Modifier.height(8.dp))
                     ResizeSettingSlider(
                         title = "Cỡ chữ trên phím",
+                        symbol = "Aa",
                         item = useDataStore(textSetting, blocking = true),
                         range = 0.5f..1.5f,
                         transform = { it },
@@ -478,6 +513,7 @@ fun ResizeScreen(navController: NavHostController = rememberNavController()) {
                     Spacer(Modifier.height(8.dp))
                     ResizeSettingSlider(
                         title = "Bo góc phím",
+                        symbol = "◜",
                         item = useDataStore(cornerSetting, blocking = true),
                         range = 0f..100f,
                         transform = { it },
@@ -494,19 +530,7 @@ fun ResizeScreen(navController: NavHostController = rememberNavController()) {
 
             SettingsSurface(
                 isPrimary = false,
-                onClick = {
-                    if (selectedOrientation == Configuration.ORIENTATION_PORTRAIT) {
-                        context.setSettingBlocking(KeyboardHeightScaleSetting.key, KeyboardHeightScaleSetting.default)
-                        context.setSettingBlocking(KeyboardWidthScaleSetting.key, KeyboardWidthScaleSetting.default)
-                        context.setSettingBlocking(KeyboardTextScaleSetting.key, KeyboardTextScaleSetting.default)
-                        context.setSettingBlocking(KeyboardCornerRadiusSetting.key, KeyboardCornerRadiusSetting.default)
-                    } else {
-                        context.setSettingBlocking(KeyboardHeightScaleSettingLandscape.key, KeyboardHeightScaleSettingLandscape.default)
-                        context.setSettingBlocking(KeyboardWidthScaleSettingLandscape.key, KeyboardWidthScaleSettingLandscape.default)
-                        context.setSettingBlocking(KeyboardTextScaleSettingLandscape.key, KeyboardTextScaleSettingLandscape.default)
-                        context.setSettingBlocking(KeyboardCornerRadiusSettingLandscape.key, KeyboardCornerRadiusSettingLandscape.default)
-                    }
-                }
+                onClick = resetAllSizes
             ) {
                 Row(
                     modifier = Modifier
@@ -514,33 +538,46 @@ fun ResizeScreen(navController: NavHostController = rememberNavController()) {
                         .padding(vertical = 12.dp, horizontal = 8.dp),
                     verticalAlignment = androidx.compose.ui.Alignment.CenterVertically
                 ) {
-                    Icon(
-                        painter = painterResource(R.drawable.close),
-                        contentDescription = null,
-                        tint = MaterialTheme.colorScheme.onSecondaryContainer,
-                        modifier = Modifier.size(24.dp)
-                    )
+                    Surface(
+                        color = SettingsTheme.colors.primaryContainer,
+                        contentColor = SettingsTheme.colors.onPrimaryContainer,
+                        shape = RoundedCornerShape(14.dp),
+                        border = BorderStroke(1.dp, SettingsTheme.colors.primary.copy(alpha = 0.3f)),
+                        modifier = Modifier.size(46.dp)
+                    ) {
+                        Icon(
+                            imageVector = Icons.Default.Refresh,
+                            contentDescription = null,
+                            tint = SettingsTheme.colors.primary,
+                            modifier = Modifier.size(24.dp)
+                        )
+                    }
                     Spacer(Modifier.width(16.dp))
                     Column(modifier = Modifier.weight(1.0f)) {
                         Text(
                             text = stringResource(R.string.size_settings_reset),
-                            style = MaterialTheme.typography.titleMedium,
-                            color = MaterialTheme.colorScheme.onSecondaryContainer
+                            style = SettingsTypography.titleMedium,
+                            color = SettingsTheme.colors.onSurface
                         )
                         Spacer(Modifier.height(2.dp))
                         Text(
                             text = stringResource(R.string.size_settings_reset_subtitle),
-                            style = MaterialTheme.typography.bodySmall,
-                            color = MaterialTheme.colorScheme.onSecondaryContainer.copy(alpha = 0.6f)
+                            style = SettingsTypography.bodySmall,
+                            color = SettingsTheme.colors.onSurfaceVariant
                         )
                     }
                     Spacer(Modifier.width(8.dp))
-                    Icon(
-                        imageVector = Icons.Default.KeyboardArrowRight,
-                        contentDescription = null,
-                        tint = MaterialTheme.colorScheme.onSecondaryContainer.copy(alpha = 0.4f),
-                        modifier = Modifier.size(24.dp)
-                    )
+                    IconButton(
+                        onClick = resetAllSizes,
+                        modifier = Modifier.size(42.dp)
+                    ) {
+                        Icon(
+                            imageVector = Icons.Default.KeyboardArrowRight,
+                            contentDescription = "Đặt lại",
+                            tint = SettingsTheme.colors.primary,
+                            modifier = Modifier.size(24.dp)
+                        )
+                    }
                 }
             }
 
@@ -746,7 +783,7 @@ private fun LongPressKeyLayoutEditor(context: Context, setting: DataStoreItem<St
 
 
     val dragIcon: @Composable () -> Unit = {
-        Icon(Icons.Default.Menu, contentDescription = null, tint = MaterialTheme.colorScheme.onBackground.copy(alpha = 0.75f))
+        Icon(Icons.Default.Menu, contentDescription = null, tint = SettingsTheme.colors.onBackground.copy(alpha = 0.75f))
     }
 
     val items = setting.value.toLongPressKeyLayoutItems()
@@ -1121,7 +1158,7 @@ val KeyboardSettingsMenu = UserSettingsMenu(
             subtitle = R.string.keyboard_settings_show_number_row_subtitle,
             key = Settings.PREF_ENABLE_NUMBER_ROW,
             default = {false},
-            icon = { Text("123", style = Typography.Body.MediumMl, color = MaterialTheme.colorScheme.onBackground.copy(alpha = 0.75f),
+            icon = { Text("123", style = Typography.Body.MediumMl, color = SettingsTheme.colors.onBackground.copy(alpha = 0.75f),
                 modifier = Modifier.clearAndSetSemantics{}) },
             submenu = NumberRowSettingMenu.navPath
         ),
@@ -1183,7 +1220,7 @@ val TypingSettingsMenu = UserSettingsMenu(
             setting = SHOW_EMOJI_SUGGESTIONS,
             icon = {
                 Icon(painterResource(id = R.drawable.smile), contentDescription = null,
-                    tint = MaterialTheme.colorScheme.onBackground.copy(alpha = 0.75f))
+                    tint = SettingsTheme.colors.onBackground.copy(alpha = 0.75f))
             }
         ),
         userSettingToggleSharedPrefs(
@@ -1192,7 +1229,7 @@ val TypingSettingsMenu = UserSettingsMenu(
             key = Settings.PREF_AUTO_CAP,
             default = {true},
             icon = {
-                Text("Aa", style = Typography.Body.MediumMl, color = MaterialTheme.colorScheme.onBackground.copy(alpha = 0.75f))
+                Text("Aa", style = Typography.Body.MediumMl, color = SettingsTheme.colors.onBackground.copy(alpha = 0.75f))
             }
         ),
         userSettingToggleSharedPrefs(
@@ -1201,7 +1238,7 @@ val TypingSettingsMenu = UserSettingsMenu(
             key = Settings.PREF_KEY_USE_DOUBLE_SPACE_PERIOD,
             default = {true},
             icon = {
-                Text(".", style = Typography.Body.MediumMl, color = MaterialTheme.colorScheme.onBackground.copy(alpha = 0.75f))
+                Text(".", style = Typography.Body.MediumMl, color = SettingsTheme.colors.onBackground.copy(alpha = 0.75f))
             }
         ),
         userSettingToggleSharedPrefs(

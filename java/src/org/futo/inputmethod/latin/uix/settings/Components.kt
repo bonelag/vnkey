@@ -6,6 +6,7 @@ import androidx.compose.animation.expandVertically
 import androidx.compose.animation.fadeIn
 import androidx.compose.animation.fadeOut
 import androidx.compose.animation.shrinkVertically
+import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.Canvas
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
@@ -37,21 +38,6 @@ import androidx.compose.foundation.text.KeyboardActions
 import androidx.compose.foundation.text.KeyboardOptions
 import androidx.compose.foundation.text.appendInlineContent
 import androidx.compose.foundation.verticalScroll
-import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.filled.ArrowBack
-import androidx.compose.material.icons.filled.ArrowForward
-import androidx.compose.material.icons.filled.Send
-import androidx.compose.material.icons.filled.Warning
-import androidx.compose.material3.Icon
-import androidx.compose.material3.LocalContentColor
-import androidx.compose.material3.MaterialTheme
-import androidx.compose.material3.RadioButton
-import androidx.compose.material3.Slider
-import androidx.compose.material3.Surface
-import androidx.compose.material3.Switch
-import androidx.compose.material3.Text
-import androidx.compose.material3.TextField
-import androidx.compose.material3.VerticalDivider
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
@@ -112,11 +98,16 @@ fun ScreenTitle(title: String, showBack: Boolean = false, navController: NavHost
     val rowModifier = if(showBack) {
         Modifier
             .fillMaxWidth()
+            .padding(12.dp, 10.dp, 12.dp, 4.dp)
+            .clip(RoundedCornerShape(12.dp))
+            .background(SettingsTheme.colors.surfaceContainerHigh)
             .clickable(onClickLabel = "Navigate back") {
                 navController!!.navigateUp()
             }
     } else {
-        Modifier.fillMaxWidth()
+        Modifier
+            .fillMaxWidth()
+            .padding(12.dp, 10.dp, 12.dp, 4.dp)
     }
     Row(modifier = rowModifier) {
         Spacer(modifier = Modifier.width(16.dp))
@@ -125,7 +116,7 @@ fun ScreenTitle(title: String, showBack: Boolean = false, navController: NavHost
             Icon(Icons.Default.ArrowBack, contentDescription = null, modifier = Modifier.align(CenterVertically))
             Spacer(modifier = Modifier.width(18.dp))
         }
-        Text(title, style = Typography.Heading.Medium, modifier = Modifier
+        Text(title, style = Typography.Heading.Medium, color = SettingsTheme.colors.onSurface, modifier = Modifier
             .align(CenterVertically)
             .padding(0.dp, 16.dp))
     }
@@ -148,7 +139,7 @@ fun ScreenTitleWithIcon(title: String, painter: Painter) {
 @Preview
 fun Tip(text: String = "This is an example tip") {
     Surface(
-        color = MaterialTheme.colorScheme.primaryContainer, modifier = Modifier
+        color = SettingsTheme.colors.primaryContainer, modifier = Modifier
             .fillMaxWidth()
             .padding(8.dp), shape = RoundedCornerShape(4.dp)
     ) {
@@ -156,7 +147,7 @@ fun Tip(text: String = "This is an example tip") {
             text,
             modifier = Modifier.padding(8.dp),
             style = Typography.Body.RegularMl,
-            color = MaterialTheme.colorScheme.onPrimaryContainer
+            color = SettingsTheme.colors.onPrimaryContainer
         )
     }
 }
@@ -165,7 +156,7 @@ fun Tip(text: String = "This is an example tip") {
 @Preview
 fun WarningTip(text: String = "This is an example tip") {
     Surface(
-        color = MaterialTheme.colorScheme.errorContainer, modifier = Modifier
+        color = SettingsTheme.colors.errorContainer, modifier = Modifier
             .fillMaxWidth()
             .padding(8.dp), shape = RoundedCornerShape(4.dp)
     ) {
@@ -178,7 +169,7 @@ fun WarningTip(text: String = "This is an example tip") {
             },
             modifier = Modifier.padding(8.dp),
             style = Typography.Body.RegularMl,
-            color = MaterialTheme.colorScheme.onErrorContainer,
+            color = SettingsTheme.colors.onErrorContainer,
             inlineContent = mapOf(
                 "icon" to InlineTextContent(
                     Placeholder(
@@ -200,6 +191,34 @@ fun SpacedColumn(gap: Dp, modifier: Modifier = Modifier, horizontalAlignment: Al
     }
 }
 
+@Composable
+private fun SettingSymbolBadge(title: String, compact: Boolean) {
+    val variants = listOf(
+        SettingsTheme.colors.primaryContainer to SettingsTheme.colors.onPrimaryContainer,
+        SettingsTheme.colors.secondaryContainer to SettingsTheme.colors.onSecondaryContainer,
+        SettingsTheme.colors.tertiaryContainer to SettingsTheme.colors.onTertiaryContainer,
+    )
+    val colorIndex = (title.hashCode() and Int.MAX_VALUE) % variants.size
+    val (container, content) = variants[colorIndex]
+    val symbol = title.trim().firstOrNull()?.uppercaseChar()?.toString() ?: "•"
+
+    Surface(
+        color = container,
+        contentColor = content,
+        shape = RoundedCornerShape(if (compact) 9.dp else 12.dp),
+        border = BorderStroke(1.dp, SettingsTheme.colors.outlineVariant.copy(alpha = 0.45f)),
+        modifier = Modifier.size(if (compact) 32.dp else 42.dp)
+    ) {
+        Box(contentAlignment = Alignment.Center) {
+            Text(
+                text = symbol,
+                style = if (compact) Typography.SmallMl else Typography.Body.MediumMl,
+                color = content
+            )
+        }
+    }
+}
+
 
 @Composable
 fun SettingItem(
@@ -215,25 +234,29 @@ fun SettingItem(
     content: @Composable BoxScope.() -> Unit,
 ) {
     val textColor = when(LocalContentColor.current) {
-        MaterialTheme.colorScheme.onPrimary,
-        MaterialTheme.colorScheme.onSecondary,
-        MaterialTheme.colorScheme.onTertiary -> LocalContentColor.current
+        SettingsTheme.colors.onPrimary,
+        SettingsTheme.colors.onSecondary,
+        SettingsTheme.colors.onTertiary -> LocalContentColor.current
 
-        else -> MaterialTheme.colorScheme.onSurface
+        else -> SettingsTheme.colors.onSurface
     }
 
     val subTextColor = when(textColor) {
-        MaterialTheme.colorScheme.onPrimary,
-        MaterialTheme.colorScheme.onSecondary,
-        MaterialTheme.colorScheme.onTertiary -> textColor.copy(alpha = 0.6f)
+        SettingsTheme.colors.onPrimary,
+        SettingsTheme.colors.onSecondary,
+        SettingsTheme.colors.onTertiary -> textColor.copy(alpha = 0.6f)
 
-        else -> MaterialTheme.colorScheme.onSurfaceVariant
+        else -> SettingsTheme.colors.onSurfaceVariant
     }
 
     Row(
         modifier = modifier
             .fillMaxWidth()
             .defaultMinSize(0.dp, if(compact) { 48.dp } else { 68.dp })
+            .padding(horizontal = 12.dp, vertical = 4.dp)
+            .clip(RoundedCornerShape(10.dp))
+            .background(if (compact) SettingsTheme.colors.surface else SettingsTheme.colors.surfaceVariant)
+            .border(1.dp, SettingsTheme.colors.outlineVariant.copy(alpha = 0.55f), RoundedCornerShape(10.dp))
             .let {
                 if(onClick != null && onSubmenuNavigate == null) {
                     it.clickable(enabled = !disabled, onClick = {
@@ -266,6 +289,8 @@ fun SettingItem(
                 Box(modifier = Modifier.align(Alignment.CenterHorizontally)) {
                     if (icon != null) {
                         icon()
+                    } else {
+                        SettingSymbolBadge(title, compact)
                     }
                 }
             }
@@ -309,7 +334,7 @@ fun SettingItem(
         if(onSubmenuNavigate != null) {
             VerticalDivider(
                 Modifier.height(64.dp),
-                color = MaterialTheme.colorScheme.outline
+                color = SettingsTheme.colors.outline
             )
         } else {
             Spacer(Modifier.width(4.dp))
@@ -548,8 +573,8 @@ fun<T: Number> SettingSliderForDataStoreItem(
                         }
                     ),
                     singleLine = true,
-                    textStyle = Typography.SmallMl.copy(color = MaterialTheme.colorScheme.onBackground),
-                    cursorBrush = SolidColor(MaterialTheme.colorScheme.primary)
+                    textStyle = Typography.SmallMl.copy(color = SettingsTheme.colors.onBackground),
+                    cursorBrush = SolidColor(SettingsTheme.colors.primary)
                 )
             } else {
                 Text(
@@ -678,9 +703,9 @@ fun NavigationItem(title: String, style: NavigationItemStyle, navigate: () -> Un
         icon = {
             icon?.let {
                 val circleColor = when(style) {
-                    NavigationItemStyle.HomePrimary -> MaterialTheme.colorScheme.primaryContainer
-                    NavigationItemStyle.HomeSecondary -> MaterialTheme.colorScheme.secondaryContainer
-                    NavigationItemStyle.HomeTertiary -> MaterialTheme.colorScheme.tertiaryContainer
+                    NavigationItemStyle.HomePrimary -> SettingsTheme.colors.primaryContainer
+                    NavigationItemStyle.HomeSecondary -> SettingsTheme.colors.secondaryContainer
+                    NavigationItemStyle.HomeTertiary -> SettingsTheme.colors.tertiaryContainer
 
                     NavigationItemStyle.MiscNoArrow,
                     NavigationItemStyle.Misc,
@@ -689,9 +714,9 @@ fun NavigationItem(title: String, style: NavigationItemStyle, navigate: () -> Un
                 }
 
                 val iconColor = when(style) {
-                    NavigationItemStyle.HomePrimary -> MaterialTheme.colorScheme.onPrimaryContainer
-                    NavigationItemStyle.HomeSecondary -> MaterialTheme.colorScheme.onSecondaryContainer
-                    NavigationItemStyle.HomeTertiary -> MaterialTheme.colorScheme.onTertiaryContainer
+                    NavigationItemStyle.HomePrimary -> SettingsTheme.colors.onPrimaryContainer
+                    NavigationItemStyle.HomeSecondary -> SettingsTheme.colors.onSecondaryContainer
+                    NavigationItemStyle.HomeTertiary -> SettingsTheme.colors.onTertiaryContainer
 
                     NavigationItemStyle.MiscNoArrow,
                     NavigationItemStyle.Mail,
@@ -749,7 +774,6 @@ fun SettingTextField(title: String, placeholder: String, field: SettingsKey<Stri
 }
 
 /*
-@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun<T> DropDownPicker(
     label: String,
@@ -782,10 +806,10 @@ fun<T> DropDownPicker(
                 )
             },
             colors = ExposedDropdownMenuDefaults.textFieldColors(
-                focusedLabelColor = MaterialTheme.colorScheme.onPrimaryContainer,
-                focusedLeadingIconColor = MaterialTheme.colorScheme.onPrimaryContainer,
-                focusedIndicatorColor = MaterialTheme.colorScheme.onPrimaryContainer,
-                focusedTrailingIconColor = MaterialTheme.colorScheme.onPrimaryContainer,
+                focusedLabelColor = SettingsTheme.colors.onPrimaryContainer,
+                focusedLeadingIconColor = SettingsTheme.colors.onPrimaryContainer,
+                focusedIndicatorColor = SettingsTheme.colors.onPrimaryContainer,
+                focusedTrailingIconColor = SettingsTheme.colors.onPrimaryContainer,
             ),
             modifier = Modifier.menuAnchor()
         )
@@ -868,10 +892,10 @@ fun<T> DropDownPicker(
     }) {
         Row(
             Modifier.fillMaxWidth().background(
-                MaterialTheme.colorScheme.surfaceContainerHighest, DropDownShape
+                SettingsTheme.colors.surfaceContainerHighest, DropDownShape
             ).border(
                 if(expanded) { 2.dp } else { 1.dp },
-                MaterialTheme.colorScheme.outline,
+                SettingsTheme.colors.outline,
                 DropDownShape
             ).heightIn(min = 44.dp).clip(DropDownShape).clickable {
                 expanded = !expanded
@@ -889,14 +913,14 @@ fun<T> DropDownPicker(
                 Text(
                     text = getDisplayName(selection),
                     style = Typography.Body.Regular,
-                    color = MaterialTheme.colorScheme.onSurfaceVariant,
+                    color = SettingsTheme.colors.onSurfaceVariant,
                     modifier = Modifier.weight(1.0f)
                 )
             } else {
                 Spacer(Modifier.weight(1.0f))
             }
 
-            RotatingChevronIcon(expanded, tint = MaterialTheme.colorScheme.onSurfaceVariant)
+            RotatingChevronIcon(expanded, tint = SettingsTheme.colors.onSurfaceVariant)
         }
 
         AnimatedVisibility(expanded, enter = fadeIn(), exit = fadeOut()) {
@@ -911,10 +935,10 @@ fun<T> DropDownPicker(
                 Spacer(Modifier.height(9.dp))
                 Column(
                     Modifier.fillMaxWidth().background(
-                        MaterialTheme.colorScheme.surfaceContainerHighest, DropDownShape
+                        SettingsTheme.colors.surfaceContainerHighest, DropDownShape
                     ).border(
                         1.dp,
-                        MaterialTheme.colorScheme.outline,
+                        SettingsTheme.colors.outline,
                         DropDownShape
                     ).clip(DropDownShape)
                 ) {
@@ -938,9 +962,9 @@ fun<T> DropDownPicker(
                                 getDisplayName(it),
                                 style = Typography.Body.Regular,
                                 color = if(selection == it) {
-                                    MaterialTheme.colorScheme.onSurface
+                                    SettingsTheme.colors.onSurface
                                 } else {
-                                    MaterialTheme.colorScheme.onSurfaceVariant
+                                    SettingsTheme.colors.onSurfaceVariant
                                 },
                                 modifier = Modifier.align(Alignment.CenterStart)
                             )
@@ -998,7 +1022,7 @@ fun PrimarySettingToggleDataStoreItem(
     Box(Modifier.padding(24.dp)) {
         Surface(
             shape = RoundedCornerShape(48.dp),
-            color = MaterialTheme.colorScheme.surfaceContainerHigh,
+            color = SettingsTheme.colors.surfaceContainerHigh,
             modifier = Modifier.clearAndSetSemantics {
                 this.text = AnnotatedString(title)
                 this.role = Role.Switch

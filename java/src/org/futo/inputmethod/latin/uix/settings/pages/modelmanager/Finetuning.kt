@@ -1,16 +1,12 @@
 package org.futo.inputmethod.latin.uix.settings.pages.modelmanager
 
+import org.futo.inputmethod.latin.uix.settings.*
+
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
-import androidx.compose.material3.Button
-import androidx.compose.material3.ExperimentalMaterial3Api
-import androidx.compose.material3.LinearProgressIndicator
-import androidx.compose.material3.MaterialTheme
-import androidx.compose.material3.Text
-import androidx.compose.material3.TextField
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.mutableStateOf
@@ -89,7 +85,6 @@ fun FinetuningStatePreview() {
 }
 
 
-@OptIn(ExperimentalMaterial3Api::class)
 @Preview(showBackground = true)
 @Composable
 fun FinetuneModelScreen(file: File? = null, navController: NavHostController = rememberNavController()) {
@@ -139,7 +134,7 @@ fun FinetuneModelScreen(file: File? = null, navController: NavHostController = r
             ModelPicker("Model", models, currentModel.value) { currentModel.value = it }
 
             //TextField(value = customData.value, onValueChange = { customData.value = it }, placeholder = {
-            //    Text("Custom training data. Leave blank for none", color = MaterialTheme.colorScheme.onPrimaryContainer.copy(alpha = 0.5f))
+            //    Text("Custom training data. Leave blank for none", color = SettingsTheme.colors.onPrimaryContainer.copy(alpha = 0.5f))
             //})
 
             Button(onClick = {

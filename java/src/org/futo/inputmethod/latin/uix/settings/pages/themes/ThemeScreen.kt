@@ -1,5 +1,7 @@
 package org.futo.inputmethod.latin.uix.settings.pages.themes
 
+import org.futo.inputmethod.latin.uix.settings.*
+
 import android.app.Activity
 import android.net.Uri
 import android.os.Build
@@ -13,16 +15,6 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.ui.Alignment
 import androidx.compose.foundation.BorderStroke
-import androidx.compose.material3.Button
-import androidx.compose.material3.ButtonDefaults
-import androidx.compose.material3.AlertDialog
-import androidx.compose.material3.FabPosition
-import androidx.compose.material3.MaterialTheme
-import androidx.compose.material3.OutlinedButton
-import androidx.compose.material3.Scaffold
-import androidx.compose.material3.SmallFloatingActionButton
-import androidx.compose.material3.Text
-import androidx.compose.material3.TextButton
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.DisposableEffect
 import androidx.compose.runtime.getValue
@@ -61,10 +53,10 @@ import org.futo.inputmethod.latin.uix.urlEncode
 fun DeleteCustomThemeDialog(name: String, navController: NavHostController) {
     val context = LocalContext.current
     AlertDialog(
-        containerColor = MaterialTheme.colorScheme.primaryContainer,
+        containerColor = SettingsTheme.colors.primaryContainer,
         icon = {},
         title = {
-            Text("Chọn thao tác", style = Typography.Body.MediumMl, color = MaterialTheme.colorScheme.onPrimaryContainer)
+            Text("Chọn thao tác", style = Typography.Body.MediumMl, color = SettingsTheme.colors.onPrimaryContainer)
         },
         text = {
             ZipThemePreview(ZipThemes.custom(name), true, Modifier, null) { }
@@ -79,7 +71,7 @@ fun DeleteCustomThemeDialog(name: String, navController: NavHostController) {
                 verticalAlignment = Alignment.CenterVertically
             ) {
                 TextButton(onClick = { navController.navigateUp() }) {
-                    Text("Hủy", color = MaterialTheme.colorScheme.primary, style = Typography.Body.Medium, maxLines = 1, softWrap = false)
+                    Text("Hủy", color = SettingsTheme.colors.primary, style = Typography.Body.Medium, maxLines = 1, softWrap = false)
                 }
                 
                 OutlinedButton(
@@ -87,10 +79,10 @@ fun DeleteCustomThemeDialog(name: String, navController: NavHostController) {
                         ZipThemes.delete(context, ZipThemes.custom(name))
                         navController.navigateUp()
                     },
-                    colors = ButtonDefaults.outlinedButtonColors(contentColor = MaterialTheme.colorScheme.error),
-                    border = BorderStroke(1.dp, MaterialTheme.colorScheme.error.copy(alpha = 0.5f))
+                    colors = ButtonDefaults.outlinedButtonColors(contentColor = SettingsTheme.colors.error),
+                    border = BorderStroke(1.dp, SettingsTheme.colors.error.copy(alpha = 0.5f))
                 ) {
-                    Text("Xóa", color = MaterialTheme.colorScheme.error, style = Typography.Body.Medium, maxLines = 1, softWrap = false)
+                    Text("Xóa", color = SettingsTheme.colors.error, style = Typography.Body.Medium, maxLines = 1, softWrap = false)
                 }
 
                 Button(onClick = {

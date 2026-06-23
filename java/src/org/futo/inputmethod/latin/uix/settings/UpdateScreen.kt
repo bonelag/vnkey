@@ -12,14 +12,6 @@ import android.util.Log
 import android.view.WindowManager
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxWidth
-import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.filled.Info
-import androidx.compose.material3.AlertDialog
-import androidx.compose.material3.CircularProgressIndicator
-import androidx.compose.material3.Icon
-import androidx.compose.material3.MaterialTheme
-import androidx.compose.material3.Text
-import androidx.compose.material3.TextButton
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.DisposableEffect
 import androidx.compose.runtime.mutableStateOf
@@ -226,7 +218,7 @@ fun UpdateDialog(navController: NavHostController) {
                         if(showSpinner.value) {
                             CircularProgressIndicator(
                                 modifier = Modifier.align(Alignment.CenterHorizontally),
-                                color = MaterialTheme.colorScheme.onSurface
+                                color = SettingsTheme.colors.onSurface
                             )
                         }
                         Text(text = statusText.value)

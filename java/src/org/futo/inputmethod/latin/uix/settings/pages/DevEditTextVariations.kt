@@ -1,10 +1,11 @@
 package org.futo.inputmethod.latin.uix.settings.pages
 
+import org.futo.inputmethod.latin.uix.settings.*
+
 import android.view.inputmethod.EditorInfo
 import android.widget.EditText
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
-import androidx.compose.material3.MaterialTheme
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.remember
@@ -24,8 +25,8 @@ import org.futo.inputmethod.latin.uix.settings.ScrollableList
 @Composable
 private fun TextEdit(name: String, type: Int, imeOptions: Int? = null, imeActionLabel: String? = null, imeActionId: Int? = null) {
     val context = LocalContext.current
-    val bgColor = MaterialTheme.colorScheme.background
-    val fgColor = MaterialTheme.colorScheme.onBackground
+    val bgColor = SettingsTheme.colors.background
+    val fgColor = SettingsTheme.colors.onBackground
 
     if(!LocalInspectionMode.current) {
         val editText = remember {

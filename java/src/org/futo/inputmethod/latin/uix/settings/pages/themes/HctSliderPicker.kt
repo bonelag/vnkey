@@ -1,5 +1,7 @@
 package org.futo.inputmethod.latin.uix.settings.pages.themes
 
+import org.futo.inputmethod.latin.uix.settings.*
+
 import android.annotation.SuppressLint
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
@@ -19,8 +21,6 @@ import androidx.compose.ui.input.pointer.pointerInput
 import androidx.compose.ui.unit.IntOffset
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import androidx.compose.material3.OutlinedTextField
-import androidx.compose.material3.OutlinedTextFieldDefaults
 import com.google.android.material.color.utilities.Hct
 import kotlin.math.roundToInt
 

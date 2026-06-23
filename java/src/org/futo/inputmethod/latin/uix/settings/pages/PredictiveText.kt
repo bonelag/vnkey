@@ -1,8 +1,8 @@
 package org.futo.inputmethod.latin.uix.settings.pages
 
+import org.futo.inputmethod.latin.uix.settings.*
+
 import android.content.Intent
-import androidx.compose.material3.Icon
-import androidx.compose.material3.MaterialTheme
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.res.booleanResource
 import androidx.compose.ui.res.painterResource
@@ -86,7 +86,7 @@ val PredictiveTextMenu = UserSettingsMenu(
             default = {true},
             icon = {
                 Icon(painterResource(id = R.drawable.icon_spellcheck), contentDescription = null,
-                    tint = MaterialTheme.colorScheme.onBackground.copy(alpha = 0.75f))
+                    tint = SettingsTheme.colors.onBackground.copy(alpha = 0.75f))
             }
         ).copy(searchTags = R.string.auto_correction_tags),
 

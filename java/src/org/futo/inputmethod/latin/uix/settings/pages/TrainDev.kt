@@ -1,8 +1,7 @@
 package org.futo.inputmethod.latin.uix.settings.pages
 
-import androidx.compose.material3.Button
-import androidx.compose.material3.ExperimentalMaterial3Api
-import androidx.compose.material3.Text
+import org.futo.inputmethod.latin.uix.settings.*
+
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
@@ -27,7 +26,6 @@ import org.futo.inputmethod.latin.xlm.scheduleTrainingWorkerImmediately
 import kotlin.math.roundToInt
 
 
-@OptIn(ExperimentalMaterial3Api::class)
 @Preview
 @Composable
 fun TrainDevScreen(navController: NavHostController = rememberNavController()) {

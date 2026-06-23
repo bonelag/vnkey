@@ -1,15 +1,12 @@
 package org.futo.inputmethod.latin.uix.settings.pages.pdict
 
+import org.futo.inputmethod.latin.uix.settings.*
+
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.height
-import androidx.compose.material3.AlertDialog
-import androidx.compose.material3.ButtonDefaults
-import androidx.compose.material3.MaterialTheme
-import androidx.compose.material3.Text
-import androidx.compose.material3.TextButton
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.mutableStateOf
@@ -151,8 +148,8 @@ fun JapaneseWordPopupDialog(selectedWord: JapanesePersonalWord? = null, locale: 
                 if (isError.value) {
                     Text(
                         text = "ひらがなのみ入力してください",
-                        color = MaterialTheme.colorScheme.error,
-                        style = MaterialTheme.typography.bodySmall
+                        color = SettingsTheme.colors.error,
+                        style = SettingsTypography.bodySmall
                     )
                 }
 
@@ -186,7 +183,7 @@ fun JapaneseWordPopupDialog(selectedWord: JapanesePersonalWord? = null, locale: 
                             GlobalIMEMessage.tryEmit(IMEMessage.ReloadPersonalDict)
                             navController!!.navigateUp()
                         },
-                        colors = ButtonDefaults.textButtonColors(contentColor = MaterialTheme.colorScheme.error)
+                        colors = ButtonDefaults.textButtonColors(contentColor = SettingsTheme.colors.error)
                     ) {
                         Text(stringResource(R.string.user_dict_settings_delete))
                     }

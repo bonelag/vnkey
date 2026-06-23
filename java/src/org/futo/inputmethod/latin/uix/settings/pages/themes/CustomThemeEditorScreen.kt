@@ -1,5 +1,7 @@
 package org.futo.inputmethod.latin.uix.settings.pages.themes
 
+import org.futo.inputmethod.latin.uix.settings.*
+
 import android.content.Context
 import android.graphics.Bitmap
 import android.view.ContextThemeWrapper
@@ -15,12 +17,7 @@ import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.lazy.LazyRow
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
-import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.filled.Add
-import androidx.compose.material.icons.filled.Check
-import androidx.compose.material.icons.filled.Close
 import androidx.compose.ui.graphics.Brush
-import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
@@ -70,7 +67,6 @@ import org.futo.inputmethod.latin.uix.urlDecode
 import org.futo.inputmethod.latin.uix.urlEncode
 import org.futo.inputmethod.latin.uix.settings.Route
 
-@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun CustomThemeEditorScreen(
     navController: NavHostController, 
@@ -329,11 +325,11 @@ fun CustomThemeEditorScreen(
                         else Icon(Icons.Default.Check, contentDescription = "Save")
                     }
                 },
-                colors = TopAppBarDefaults.topAppBarColors(containerColor = MaterialTheme.colorScheme.surface)
+                colors = TopAppBarDefaults.topAppBarColors(containerColor = SettingsTheme.colors.surface)
             )
         }
     ) { innerPadding ->
-        Column(modifier = Modifier.fillMaxSize().padding(innerPadding).background(MaterialTheme.colorScheme.surface)) {
+        Column(modifier = Modifier.fillMaxSize().padding(innerPadding).background(SettingsTheme.colors.surface)) {
             
             Box(
                 modifier = Modifier.fillMaxWidth().weight(0.4f).clipToBounds(),
@@ -356,7 +352,7 @@ fun CustomThemeEditorScreen(
             ScrollableTabRow(
                 selectedTabIndex = currentTab,
                 edgePadding = 8.dp,
-                containerColor = MaterialTheme.colorScheme.surface,
+                containerColor = SettingsTheme.colors.surface,
                 modifier = Modifier.fillMaxWidth()
             ) {
                 tabs.forEachIndexed { index, title ->
@@ -379,7 +375,7 @@ fun CustomThemeEditorScreen(
                     ) {
                         Text(
                             "Chế độ nền",
-                            color = MaterialTheme.colorScheme.primary,
+                            color = SettingsTheme.colors.primary,
                             fontWeight = FontWeight.SemiBold,
                             modifier = Modifier.padding(bottom = 8.dp)
                         )
@@ -402,11 +398,11 @@ fun CustomThemeEditorScreen(
                                         .weight(1f)
                                         .height(44.dp)
                                         .clip(RoundedCornerShape(22.dp))
-                                        .background(if (isSelected) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.surfaceVariant)
+                                        .background(if (isSelected) SettingsTheme.colors.primary else SettingsTheme.colors.surfaceVariant)
                                         .clickable { bgMode = index }
                                         .border(
                                             1.dp,
-                                            if (isSelected) Color.Transparent else MaterialTheme.colorScheme.outline.copy(alpha = 0.2f),
+                                            if (isSelected) Color.Transparent else SettingsTheme.colors.outline.copy(alpha = 0.2f),
                                             RoundedCornerShape(22.dp)
                                         ),
                                     contentAlignment = Alignment.Center
@@ -419,7 +415,7 @@ fun CustomThemeEditorScreen(
                                             Icon(
                                                 painterResource(drawableId),
                                                 contentDescription = label,
-                                                tint = if (isSelected) MaterialTheme.colorScheme.onPrimary else MaterialTheme.colorScheme.onSurface,
+                                                tint = if (isSelected) SettingsTheme.colors.onPrimary else SettingsTheme.colors.onSurface,
                                                 modifier = Modifier.size(18.dp)
                                             )
                                         } else {
@@ -439,7 +435,7 @@ fun CustomThemeEditorScreen(
                                             text = label,
                                             fontSize = 12.sp,
                                             fontWeight = FontWeight.Bold,
-                                            color = if (isSelected) MaterialTheme.colorScheme.onPrimary else MaterialTheme.colorScheme.onSurface
+                                            color = if (isSelected) SettingsTheme.colors.onPrimary else SettingsTheme.colors.onSurface
                                         )
                                     }
                                 }
@@ -449,7 +445,7 @@ fun CustomThemeEditorScreen(
                         if (bgMode == 0) { // Ảnh nền
                             Text(
                                 "Ảnh của bạn",
-                                color = MaterialTheme.colorScheme.primary,
+                                color = SettingsTheme.colors.primary,
                                 fontWeight = FontWeight.SemiBold,
                                 modifier = Modifier.padding(bottom = 8.dp)
                             )
@@ -466,7 +462,7 @@ fun CustomThemeEditorScreen(
                         } else if (bgMode == 1) { // Màu đơn sắc
                             Text(
                                 "Màu đơn sắc",
-                                color = MaterialTheme.colorScheme.primary,
+                                color = SettingsTheme.colors.primary,
                                 fontWeight = FontWeight.SemiBold,
                                 modifier = Modifier.padding(bottom = 8.dp)
                             )
@@ -545,7 +541,7 @@ fun CustomThemeEditorScreen(
                             // 1. Mẫu có sẵn
                             Text(
                                 "Mẫu gradient",
-                                color = MaterialTheme.colorScheme.primary,
+                                color = SettingsTheme.colors.primary,
                                 fontWeight = FontWeight.SemiBold,
                                 modifier = Modifier.padding(bottom = 8.dp)
                             )
@@ -578,7 +574,7 @@ fun CustomThemeEditorScreen(
                                             }
                                             .border(
                                                 2.dp,
-                                                if (gradientColorsList == preset) MaterialTheme.colorScheme.primary else Color.Transparent,
+                                                if (gradientColorsList == preset) SettingsTheme.colors.primary else Color.Transparent,
                                                 CircleShape
                                             )
                                     )
@@ -588,7 +584,7 @@ fun CustomThemeEditorScreen(
                             // 2. Chỉnh sửa màu sắc
                             Text(
                                 "Tùy chỉnh màu sắc",
-                                color = MaterialTheme.colorScheme.primary,
+                                color = SettingsTheme.colors.primary,
                                 fontWeight = FontWeight.SemiBold,
                                 modifier = Modifier.padding(bottom = 8.dp)
                             )
@@ -614,7 +610,7 @@ fun CustomThemeEditorScreen(
                                                 } catch (e: Exception) {}
                                                 showColorPicker = true
                                             }
-                                            .border(2.dp, MaterialTheme.colorScheme.outline, CircleShape)
+                                            .border(2.dp, SettingsTheme.colors.outline, CircleShape)
                                     )
                                 }
 
@@ -625,7 +621,7 @@ fun CustomThemeEditorScreen(
                                         },
                                         modifier = Modifier
                                             .size(40.dp)
-                                            .border(1.dp, MaterialTheme.colorScheme.outline, CircleShape)
+                                            .border(1.dp, SettingsTheme.colors.outline, CircleShape)
                                     ) {
                                         Icon(Icons.Default.Add, contentDescription = "Thêm màu", modifier = Modifier.size(20.dp))
                                     }
@@ -640,12 +636,12 @@ fun CustomThemeEditorScreen(
                                         },
                                         modifier = Modifier
                                             .size(40.dp)
-                                            .border(1.dp, MaterialTheme.colorScheme.error, CircleShape)
+                                            .border(1.dp, SettingsTheme.colors.error, CircleShape)
                                     ) {
                                         Icon(
                                             painterResource(R.drawable.delete),
                                             contentDescription = "Xóa màu",
-                                            tint = MaterialTheme.colorScheme.error,
+                                            tint = SettingsTheme.colors.error,
                                             modifier = Modifier.size(20.dp)
                                         )
                                     }
@@ -655,7 +651,7 @@ fun CustomThemeEditorScreen(
                             // 3. Chọn hướng
                             Text(
                                 "Hướng màu",
-                                color = MaterialTheme.colorScheme.primary,
+                                color = SettingsTheme.colors.primary,
                                 fontWeight = FontWeight.SemiBold,
                                 modifier = Modifier.padding(bottom = 8.dp)
                             )
@@ -678,10 +674,10 @@ fun CustomThemeEditorScreen(
                                             .weight(1f)
                                             .height(40.dp)
                                             .clip(RoundedCornerShape(8.dp))
-                                            .background(if (isDirSelected) MaterialTheme.colorScheme.primaryContainer else MaterialTheme.colorScheme.surfaceVariant)
+                                            .background(if (isDirSelected) SettingsTheme.colors.primaryContainer else SettingsTheme.colors.surfaceVariant)
                                             .border(
                                                 1.dp,
-                                                if (isDirSelected) MaterialTheme.colorScheme.primary else Color.Transparent,
+                                                if (isDirSelected) SettingsTheme.colors.primary else Color.Transparent,
                                                 RoundedCornerShape(8.dp)
                                             )
                                             .clickable { gradientDirectionState = dIndex },
@@ -690,7 +686,7 @@ fun CustomThemeEditorScreen(
                                         Icon(
                                             painterResource(dirDrawable),
                                             contentDescription = dirLabel,
-                                            tint = if (isDirSelected) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.onSurface,
+                                            tint = if (isDirSelected) SettingsTheme.colors.primary else SettingsTheme.colors.onSurface,
                                             modifier = Modifier.size(20.dp)
                                         )
                                     }
@@ -706,7 +702,7 @@ fun CustomThemeEditorScreen(
                             .verticalScroll(rememberScrollState())
                     ) {
                         // 1. BÀN PHÍM
-                        Text("Bàn phím", color = MaterialTheme.colorScheme.primary, fontWeight = FontWeight.Bold, modifier = Modifier.padding(vertical = 4.dp))
+                        Text("Bàn phím", color = SettingsTheme.colors.primary, fontWeight = FontWeight.Bold, modifier = Modifier.padding(vertical = 4.dp))
                         
                         CustomColorSelector(
                             label = "Màu nền",
@@ -753,7 +749,7 @@ fun CustomThemeEditorScreen(
                         Divider(modifier = Modifier.padding(vertical = 8.dp))
 
                         // 2. THANH CÔNG CỤ
-                        Text("Thanh công cụ", color = MaterialTheme.colorScheme.primary, fontWeight = FontWeight.Bold, modifier = Modifier.padding(vertical = 4.dp))
+                        Text("Thanh công cụ", color = SettingsTheme.colors.primary, fontWeight = FontWeight.Bold, modifier = Modifier.padding(vertical = 4.dp))
 
                         CustomColorSelector(
                             label = "Màu nền",
@@ -786,7 +782,7 @@ fun CustomThemeEditorScreen(
                         Divider(modifier = Modifier.padding(vertical = 8.dp))
 
                         // 3. POPUP
-                        Text("Popup", color = MaterialTheme.colorScheme.primary, fontWeight = FontWeight.Bold, modifier = Modifier.padding(vertical = 4.dp))
+                        Text("Popup", color = SettingsTheme.colors.primary, fontWeight = FontWeight.Bold, modifier = Modifier.padding(vertical = 4.dp))
 
                         CustomColorSelector(
                             label = "Màu nền",
@@ -819,7 +815,7 @@ fun CustomThemeEditorScreen(
                         Divider(modifier = Modifier.padding(vertical = 8.dp))
 
                         // 4. VIỀN
-                        Text("Viền", color = MaterialTheme.colorScheme.primary, fontWeight = FontWeight.Bold, modifier = Modifier.padding(vertical = 4.dp))
+                        Text("Viền", color = SettingsTheme.colors.primary, fontWeight = FontWeight.Bold, modifier = Modifier.padding(vertical = 4.dp))
 
                         // Slider Viền cong
                         Row(
@@ -884,7 +880,7 @@ fun CustomThemeEditorScreen(
                             modifier = Modifier.fillMaxWidth().padding(vertical = 4.dp),
                             verticalAlignment = Alignment.CenterVertically
                         ) {
-                            Text("Chỉnh màu cho phím chức năng", fontSize = 14.sp, fontWeight = FontWeight.Bold, color = MaterialTheme.colorScheme.primary, modifier = Modifier.weight(1f))
+                            Text("Chỉnh màu cho phím chức năng", fontSize = 14.sp, fontWeight = FontWeight.Bold, color = SettingsTheme.colors.primary, modifier = Modifier.weight(1f))
                             Switch(
                                 checked = functionalCustomEnabled,
                                 onCheckedChange = { functionalCustomEnabled = it }
@@ -942,7 +938,7 @@ fun CustomThemeEditorScreen(
                             modifier = Modifier.fillMaxWidth().padding(vertical = 4.dp),
                             verticalAlignment = Alignment.CenterVertically
                         ) {
-                            Text("Chỉnh màu cho phím cách", fontSize = 14.sp, fontWeight = FontWeight.Bold, color = MaterialTheme.colorScheme.primary, modifier = Modifier.weight(1f))
+                            Text("Chỉnh màu cho phím cách", fontSize = 14.sp, fontWeight = FontWeight.Bold, color = SettingsTheme.colors.primary, modifier = Modifier.weight(1f))
                             Switch(
                                 checked = spacebarCustomEnabled,
                                 onCheckedChange = { spacebarCustomEnabled = it }
@@ -1086,7 +1082,7 @@ fun CustomColorSelector(
             text = label,
             fontSize = 14.sp,
             modifier = Modifier.width(90.dp),
-            color = MaterialTheme.colorScheme.onSurface
+            color = SettingsTheme.colors.onSurface
         )
         LazyRow(
             horizontalArrangement = Arrangement.spacedBy(8.dp),
@@ -1124,7 +1120,7 @@ fun CustomColorSelector(
                         Icon(
                             painterResource(R.drawable.themes),
                             contentDescription = "Mặc định",
-                            tint = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.4f),
+                            tint = SettingsTheme.colors.onSurface.copy(alpha = 0.4f),
                             modifier = Modifier.size(18.dp)
                         )
                     }
