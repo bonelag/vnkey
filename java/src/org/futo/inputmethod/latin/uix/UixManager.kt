@@ -117,6 +117,7 @@ import org.futo.inputmethod.latin.RichInputMethodManager
 import org.futo.inputmethod.latin.SuggestedWords
 import org.futo.inputmethod.latin.SuggestedWords.SuggestedWordInfo
 import org.futo.inputmethod.latin.SupportsNavbarExtension
+import org.futo.inputmethod.latin.SystemVoiceInputSession
 import org.futo.inputmethod.latin.common.Constants
 import org.futo.inputmethod.latin.settings.Settings
 import org.futo.inputmethod.latin.suggestions.SuggestionStripViewListener
@@ -391,6 +392,19 @@ class UixActionKeyboardManager(val uixManager: UixManager, val latinIME: LatinIM
     }
 
     override fun triggerSystemVoiceInput() {
+        val started = SystemVoiceInputSession.start(
+            context = latinIME,
+            languageTag = getActiveLocales().firstOrNull()?.toLanguageTag(),
+            onResult = { typeTextSurroundedByWhitespace(it) },
+            onFallback = { triggerShortcutVoiceInput() }
+        )
+
+        if (!started) {
+            triggerShortcutVoiceInput()
+        }
+    }
+
+    private fun triggerShortcutVoiceInput() {
         latinIME.latinIMELegacy.onCodeInput(
             Constants.CODE_SHORTCUT,
             Constants.SUGGESTION_STRIP_COORDINATE,

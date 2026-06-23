@@ -158,6 +158,14 @@
             android:theme="@style/Theme.TextEditPopup" />
 
         <activity
+            android:name=".SystemVoiceInputActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:launchMode="standard"
+            android:taskAffinity=""
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <activity
             android:name=".uix.TextEditPopupActivity"
             android:exported="true"
             android:label="@string/settings_try_typing_here"
@@ -191,6 +199,9 @@
     <queries>
         <intent>
             <action android:name="android.view.InputMethod" />
+        </intent>
+        <intent>
+            <action android:name="android.speech.action.RECOGNIZE_SPEECH" />
         </intent>
     </queries>
 </manifest>
