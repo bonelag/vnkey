@@ -188,52 +188,6 @@
   
   <string name="keyboard_actionbar_undock_action_window_collapse_into_keyboard_talkback">Sažmi</string>
   
-  <string name="payment_screen_short_title">Plaćanje</string>
-  <string name="payment_screen_title">Platite za FUTO tipkovnicu</string>
-  <string name="payment_screen_sales_paragraph_1">&lt;string name="payment_screen_sales_paragraph_1"&gt;Koristite FUTO tipkovnicu već &lt;xliff:g name="days" example="30"&gt;%d&lt;/xliff:g&gt; dana. Ako smatrate da je ova aplikacija korisna, razmislite o plaćanju kako biste podržali budući razvoj FUTO softvera.&lt;/string&gt;</string>
-  <string name="payment_screen_sales_paragraph_1_alt">Hvala što ste isprobali FUTO tipkovnicu! Ako smatrate da je ova aplikacija korisna, razmislite o plaćanju kako biste podržali budući razvoj FUTO softvera.</string>
-  <string name="payment_screen_sales_paragraph_2">FUTO je posvećen razvoju dobrog softvera koji vas ne iskorištava. Ova aplikacija nikada neće prikazivati oglase niti prikupljati vaše osobne podatke.</string>
-  <string name="payment_screen_sales_point_development_title">Održivi razvoj</string>
-  <string name="payment_screen_sales_point_development_body">Misija FUTO-a je da otvoreni softver i poslovne prakse koje nisu zlonamjerne postanu održiv izvor prihoda za projekte i njihove programere. Iz tog razloga, podržavamo korisnike koji zapravo plaćaju za softver.</string>
-  <string name="payment_screen_sales_point_privacy_title">Obveza prema privatnosti</string>
-  <string name="payment_screen_sales_point_privacy_body">Ova aplikacija nikada neće prikazivati oglase niti prodavati vaše podatke. Nismo u tom poslu.</string>
-  <string name="payment_screen_error_build_unsupported_payment">Plaćanje nije podržano na ovoj verziji</string>
-  <string name="payment_screen_already_paid_title">Već ste platili?</string>
-  <string name="payment_screen_already_paid_body">Ako ste već platili za FUTO tipkovnicu ili FUTO glasovni unos, dodirnite ispod.</string>
-  <string name="payment_screen_already_paid_button">Već sam platio</string>
-  <string name="payment_screen_already_paid_confirmation">Potvrdite svoj izbor</string>
-  <string name="payment_screen_already_paid_confirmation_body">Jeste li sigurni da želite potvrditi da ste već platili? Nakon potvrde, više nećete biti pitani o plaćanju.</string>
-  <string name="payment_screen_already_paid_confirmation_confirm">Već sam platio</string>
-  <string name="payment_screen_already_paid_confirmation_cancel">Odustani</string>
-  <string name="payment_screen_set_reminder_title">Još niste spremni platiti?</string>
-  <string name="payment_screen_set_reminder_body">Ovo će sakriti podsjetnik u postavkama na razdoblje dana koje ste unijeli.</string>
-  <string name="payment_screen_set_reminder_setter">Kada želite da vas podsjetimo?</string>
-  <string name="payment_screen_set_reminder_setter_7_days">za 7 dana</string>
-  <string name="payment_screen_set_reminder_setter_1_month">za 1 mjesec</string>
-  <string name="payment_screen_set_reminder_setter_6_months">za 6 mjeseci</string>
-  <string name="payment_screen_set_reminder_setter_next_century">sljedeće stoljeće</string>
-  <string name="payment_screen_set_reminder_setter_confirm">Potvrdi podsjetnik</string>
-  <string name="payment_screen_other_options">Druge opcije</string>
-  <string name="payment_screen_need_help_title">Pomoć</string>
-  <string name="payment_screen_need_help_subtitle">Trebate pomoć? Posjetite našu web stranicu</string>
-  <string name="payment_screen_pay_via_google">&lt;string name="payment_screen_pay_via_google"&gt;Platite putem Google Playa (&lt;xliff:g name="price" example="~$2.99"&gt;%s&lt;/xliff:g&gt; + PDV)&lt;/string&gt;</string>
-  <string name="payment_screen_pay_via_futopay">&lt;string name="payment_screen_pay_via_futopay"&gt;Platite (&lt;xliff:g name="price" example="~$2.99"&gt;%s&lt;/xliff:g&gt; + PDV)&lt;/string&gt;</string>
-  <string name="payment_screen_more_options">Više opcija</string>
-  <string name="payment_screen_payment_complete_title">Plaćanje završeno</string>
-  <string name="payment_screen_aftersales_title">Hvala Vam</string>
-  <string name="payment_screen_aftersales_title_pending">Plaćanje na čekanju</string>
-  <string name="payment_screen_aftersales_paragraph_1">Hvala Vam što ste kupili FUTO tipkovnicu!</string>
-  <string name="payment_screen_aftersales_paragraph_2">Vaša kupnja će pomoći u daljnjem razvoju FUTO tipkovnice i drugih FUTO projekata.</string>
-  <string name="payment_screen_aftersales_paragraph_2_pending">Vaša uplata je još uvijek na čekanju, ali bi trebala biti obrađena uskoro.</string>
-  <string name="payment_screen_aftersales_paragraph_3">Ako ste upravo platili, vaša uplata se možda još obrađuje, trebali biste primiti e-mail s više informacija.</string>
-  <string name="payment_screen_payment_failed_title">Pogreška pri plaćanju</string>
-  <string name="payment_screen_payment_failed_body">Nažalost, vaša uplata nije uspjela iz nekog razloga. Molimo kontaktirajte nas ako trebate pomoć. Možete nas kontaktirati na keyboard@futo.org, putem gumba ispod ili putem opcije "Pošaljite povratne informacije" u pomoći.</string>
-  <string name="payment_screen_payment_failed_body_unconfident">Mogao je doći do problema s vašom uplatom. Ako je uplata prošla, trebali biste primiti e-mail s licenčnim ključem. Molimo kontaktirajte nas ako trebate pomoć. Možete nas kontaktirati na keyboard@futo.org, putem gumba ispod ili putem opcije "Podijelite povratne informacije" na glavnom ekranu.</string>
-  <string name="payment_screen_license_integrity_error">Nije uspjelo provjeriti licencu. Ako smatrate da je ovo greška, molimo kontaktirajte nas.</string>
-  <string name="payment_screen_continue_button">Nastavi</string>
-  <string name="payment_unpaid_version_title">Neplaćena FUTO tipkovnica</string>
-  <string name="payment_unpaid_version_indicator">Neplaćeno</string>
-  <string name="payment_paid_version_indicator">Hvala Vam što koristite plaćenu verziju FUTO tipkovnice!</string>
   
   <string name="manual_update_notice_title">Obavijest o ažuriranjima</string>
   <string name="manual_update_notice_paragraph_1">Ova aplikacija se ne povezuje na internet i neće moći provjeriti automatska ažuriranja. Međutim, možete provjeriti ažuriranja ručno.</string>

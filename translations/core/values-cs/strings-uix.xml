@@ -189,52 +189,6 @@
   
   <string name="keyboard_actionbar_undock_action_window_collapse_into_keyboard_talkback">Sbalit</string>
   
-  <string name="payment_screen_short_title">Platba</string>
-  <string name="payment_screen_title">Zaplaťte za Klávesnici FUTO</string>
-  <string name="payment_screen_sales_paragraph_1">&lt;string name="payment_screen_sales_paragraph_1"&gt;Klávesnici FUTO používáte &lt;xliff:g name="days" example="30"&gt;%d&lt;/xliff:g&gt; dní. Pokud je pro vás užitečná, zvažte prosím platbu pro podpoření dalšího vývoje softwaru FUTO.&lt;/string&gt;</string>
-  <string name="payment_screen_sales_paragraph_1_alt">Děkujeme za vyzkoušení Klávesnice FUTO! Pokud je pro vás aplikace užitečná, zvažte prosím platbu pro podpoření dalšího vývoje softwaru FUTO.</string>
-  <string name="payment_screen_sales_paragraph_2">FUTO se věnuje tvorbě kvalitního softwaru, který vás nezneužívá. Tato aplikace vám nikdy nebude zobrazovat reklamy ani shromažďovat vaše osobní údaje.</string>
-  <string name="payment_screen_sales_point_development_title">Udržitelný vývoj</string>
-  <string name="payment_screen_sales_point_development_body">Posláním FUTO je, aby se software s otevřeným zdrojovým kódem a obchodní praktiky nezaložené na škodlivém softwaru staly udržitelným zdrojem příjmů pro projekty a jejich vývojáře. Z tohoto důvodu propagujeme, aby uživatelé za software skutečně platili.</string>
-  <string name="payment_screen_sales_point_privacy_title">Závazek k ochraně soukromí</string>
-  <string name="payment_screen_sales_point_privacy_body">Tato aplikace vám nikdy nebude zobrazovat reklamy ani prodávat vaše data. Tím se prostě nezabýváme.</string>
-  <string name="payment_screen_error_build_unsupported_payment">Platba není na tomto sestavení podporována</string>
-  <string name="payment_screen_already_paid_title">Již jste zaplatili?</string>
-  <string name="payment_screen_already_paid_body">Pokud jste již zaplatili za Klávesnici FUTO nebo Hlasový vstup FUTO, klepněte níže.</string>
-  <string name="payment_screen_already_paid_button">Již jsem zaplatil/a</string>
-  <string name="payment_screen_already_paid_confirmation">Potvrďte svou volbu</string>
-  <string name="payment_screen_already_paid_confirmation_body">Opravdu chcete potvrdit, že jste již zaplatili? Po potvrzení nebudete znovu dotázáni na platbu.</string>
-  <string name="payment_screen_already_paid_confirmation_confirm">Již jsem zaplatil/a</string>
-  <string name="payment_screen_already_paid_confirmation_cancel">Zrušit</string>
-  <string name="payment_screen_set_reminder_title">Zatím nejste připraveni na platbu?</string>
-  <string name="payment_screen_set_reminder_body">Toto skryje upomínku v nastavení na zadaný počet dnů.</string>
-  <string name="payment_screen_set_reminder_setter">Kdy chcete znovu dostat upomínku?</string>
-  <string name="payment_screen_set_reminder_setter_7_days">za 7 dní</string>
-  <string name="payment_screen_set_reminder_setter_1_month">za 1 měsíc</string>
-  <string name="payment_screen_set_reminder_setter_6_months">za 6 měsíců</string>
-  <string name="payment_screen_set_reminder_setter_next_century">v dalším století</string>
-  <string name="payment_screen_set_reminder_setter_confirm">Potvrdit upomínku</string>
-  <string name="payment_screen_other_options">Další možnosti</string>
-  <string name="payment_screen_need_help_title">Nápověda</string>
-  <string name="payment_screen_need_help_subtitle">Potřebujete poradit? Navštivte naše webové stránky</string>
-  <string name="payment_screen_pay_via_google">&lt;string name="payment_screen_pay_via_google"&gt;Zaplatit skrze Google Play (&lt;xliff:g name="price" example="~$2.99"&gt;%s&lt;/xliff:g&gt; + daň)&lt;/string&gt;</string>
-  <string name="payment_screen_pay_via_futopay">&lt;string name="payment_screen_pay_via_futopay"&gt;Zaplatit (&lt;xliff:g name="price" example="~$2.99"&gt;%s&lt;/xliff:g&gt; + daň)&lt;/string&gt;</string>
-  <string name="payment_screen_more_options">Další možnosti</string>
-  <string name="payment_screen_payment_complete_title">Platba dokončena</string>
-  <string name="payment_screen_aftersales_title">Děkujeme</string>
-  <string name="payment_screen_aftersales_title_pending">Čekající platba</string>
-  <string name="payment_screen_aftersales_paragraph_1">Děkujeme za zakoupení Klávesnice FUTO!</string>
-  <string name="payment_screen_aftersales_paragraph_2">Váš nákup pomůže s dalším vývojem Klávesnice FUTO a ostatních projektů FUTO.</string>
-  <string name="payment_screen_aftersales_paragraph_2_pending">Vaše platba stále čeká, brzy by ale měla být dokončena.</string>
-  <string name="payment_screen_aftersales_paragraph_3">Pokud jste právě zaplatili, je možné, že se vaše platba ještě zpracovává, měli byste obdržet e-mail s dalšími informacemi.</string>
-  <string name="payment_screen_payment_failed_title">Chyba platby</string>
-  <string name="payment_screen_payment_failed_body">Vaše platba bohužel z nějakého důvodu selhala. Pokud potřebujete pomoci, kontaktujte nás. Můžete nám napsat na keyboard@futo.org, použít tlačítko níže nebo odeslat zpětnou vazbu v sekci Nápověda</string>
-  <string name="payment_screen_payment_failed_body_unconfident">Je možné, že se vyskytl problém s vaší platbou. Pokud platba proběhla úspěšně, měli byste obdržet e-mail s licenčním klíčem. Pokud potřebujete pomoc, kontaktujte nás. Můžete nám napsat na adresu keyboard@futo.org, použít tlačítko níže nebo funkci Sdílet zpětnou vazbu na hlavní obrazovce.</string>
-  <string name="payment_screen_license_integrity_error">Nepodařilo se ověřit licenci. Pokud si myslíte, že jde o chybu, kontaktujte nás.</string>
-  <string name="payment_screen_continue_button">Pokračovat</string>
-  <string name="payment_unpaid_version_title">Nezaplacená Klávesnice FUTO</string>
-  <string name="payment_unpaid_version_indicator">Nezaplaceno</string>
-  <string name="payment_paid_version_indicator">Děkujeme, že používáte placenou verzi Klávesnice FUTO!</string>
   
   <string name="manual_update_notice_title">Informace o aktualizacích</string>
   <string name="manual_update_notice_paragraph_1">Tato aplikace nemá připojení k internetu a nebude moci automaticky kontrolovat aktualizace. Můžete je ale zkontrolovat ručně.</string>

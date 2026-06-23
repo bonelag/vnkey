@@ -144,55 +144,9 @@
     <string name="keyboard_language_settings">सेटिंग्स</string>
 
     
-    <string name="payment_screen_short_title">भुगतान</string>
-    <string name="payment_screen_title">FUTO कीबोर्ड के लिए भुगतान करें</string>
-    <string name="payment_screen_sales_paragraph_1">आपने FUTO कीबोर्ड का उपयोग <xliff:g name="days" example="30">%d</xliff:g> दिनों से किया है। यदि आपको यह ऐप उपयोगी लगता है, तो कृपया FUTO सॉफ़्टवेयर के भविष्य के विकास का समर्थन करने के लिए भुगतान करने पर विचार करें।</string>
-    <string name="payment_screen_sales_paragraph_1_alt">FUTO कीबोर्ड आजमाने के लिए धन्यवाद! यदि आपको यह ऐप उपयोगी लगता है, तो कृपया FUTO सॉफ़्टवेयर के भविष्य के विकास का समर्थन करने के लिए भुगतान करने पर विचार करें।</string>
-    <string name="payment_screen_sales_paragraph_2">FUTO अच्छे सॉफ़्टवेयर बनाने के लिए समर्पित है जो आपको नुकसान नहीं पहुँचाता। यह ऐप कभी भी आपको विज्ञापन नहीं दिखाएगा या आपका व्यक्तिगत डेटा एकत्र नहीं करेगा।</string>
-    <string name="payment_screen_sales_point_development_title">सतत विकास</string>
-    <string name="payment_screen_sales_point_development_body">FUTO का मिशन ओपन-सोर्स सॉफ़्टवेयर और गैर-दुष्ट सॉफ़्टवेयर व्यावसायिक प्रथाओं को परियोजनाओं और उनके डेवलपर्स के लिए एक स्थायी आय स्रोत बनाना है। इस कारण से, हम उपयोगकर्ताओं द्वारा सॉफ़्टवेयर के लिए भुगतान करने के पक्ष में हैं।</string>
-    <string name="payment_screen_sales_point_privacy_title">गोपनीयता के प्रति प्रतिबद्धता</string>
-    <string name="payment_screen_sales_point_privacy_body">यह ऐप कभी भी आपको विज्ञापन नहीं दिखाएगा या आपका डेटा नहीं बेचेगा। हम इस व्यवसाय में नहीं हैं।</string>
-    <string name="payment_screen_error_build_unsupported_payment">इस निर्माण पर भुगतान समर्थित नहीं है</string>
-    <string name="payment_screen_already_paid_title">क्या पहले ही भुगतान कर चुके हैं?</string>
-    <string name="payment_screen_already_paid_body">यदि आपने पहले ही FUTO कीबोर्ड या FUTO वॉयस इनपुट के लिए भुगतान किया है, तो नीचे टैप करें।</string>
-    <string name="payment_screen_already_paid_button">मैंने पहले ही भुगतान किया</string>
-    <string name="payment_screen_already_paid_confirmation">अपने विकल्प की पुष्टि करें</string>
-    <string name="payment_screen_already_paid_confirmation_body">क्या आप सुनिश्चित हैं कि आप पुष्टि करना चाहते हैं कि आपने पहले ही भुगतान किया है? एक बार पुष्टि करने के बाद, आपसे फिर से भुगतान के बारे में नहीं पूछा जाएगा।</string>
-    <string name="payment_screen_already_paid_confirmation_confirm">मैंने पहले ही भुगतान किया</string>
-    <string name="payment_screen_already_paid_confirmation_cancel">रद्द करें</string>
-    <string name="payment_screen_set_reminder_title">अभी भुगतान करने के लिए तैयार नहीं?</string>
-    <string name="payment_screen_set_reminder_body">यह सेटिंग स्क्रीन में दिनों की अवधि के लिए अनुस्मारक को छिपा देगा।</string>
-    <string name="payment_screen_set_reminder_setter">आपको कब याद दिलाया जाए?</string>
-    <string name="payment_screen_set_reminder_setter_7_days">7 दिनों में</string>
-    <string name="payment_screen_set_reminder_setter_1_month">1 महीने में</string>
-    <string name="payment_screen_set_reminder_setter_6_months">6 महीनों में</string>
-    <string name="payment_screen_set_reminder_setter_next_century">अगले सदी में</string>
-    <string name="payment_screen_set_reminder_setter_confirm">अनुस्मारक की पुष्टि करें</string>
-    <string name="payment_screen_other_options">अन्य विकल्प</string>
-    <string name="payment_screen_need_help_title">मदद</string>
-    <string name="payment_screen_need_help_subtitle">मदद चाहिए? हमारी वेबसाइट पर जाएँ</string>
 
-    <string name="payment_screen_pay_via_google">गूगल प्ले के माध्यम से भुगतान करें (<xliff:g name="price" example="~$2.99">%s</xliff:g> + कर)</string>
-    <string name="payment_screen_pay_via_futopay">भुगतान करें (<xliff:g name="price" example="~$2.99">%s</xliff:g> + कर)</string>
-    <string name="payment_screen_more_options">अधिक विकल्प</string>
 
-    <string name="payment_screen_payment_complete_title">भुगतान पूरा</string>
-    <string name="payment_screen_aftersales_title">धन्यवाद</string>
-    <string name="payment_screen_aftersales_title_pending">भुगतान लंबित</string>
-    <string name="payment_screen_aftersales_paragraph_1">FUTO कीबोर्ड खरीदने के लिए धन्यवाद!</string>
-    <string name="payment_screen_aftersales_paragraph_2">आपकी खरीद FUTO कीबोर्ड और अन्य FUTO परियोजनाओं के निरंतर विकास में मदद करेगी।</string>
-    <string name="payment_screen_aftersales_paragraph_2_pending">आपका भुगतान अभी भी लंबित है, लेकिन यह जल्द ही साफ हो जाएगा।</string>
-    <string name="payment_screen_aftersales_paragraph_3">यदि आपने अभी भुगतान किया है, तो आपका भुगतान अभी भी प्रक्रिया में हो सकता है, आपको अधिक जानकारी के साथ एक ईमेल प्राप्त होगा।</string>
-    <string name="payment_screen_payment_failed_title">भुगतान त्रुटि</string>
-    <string name="payment_screen_payment_failed_body">दुर्भाग्यवश, आपका भुगतान किसी न किसी कारण से विफल हो गया है। यदि आपको मदद की आवश्यकता है, तो कृपया हमसे संपर्क करें। आप हमें keyboard@futo.org पर, नीचे दिए गए बटन से, या मदद में "फीडबैक भेजें" के माध्यम से संपर्क कर सकते हैं।</string>
-    <string name="payment_screen_payment_failed_body_unconfident">आपके भुगतान में कोई समस्या हो सकती है। यदि यह सफल रहा, तो आपको एक लाइसेंस कुंजी के साथ एक ईमेल प्राप्त होना चाहिए। यदि आपको मदद की आवश्यकता है, तो कृपया हमसे संपर्क करें। आप हमें keyboard@futo.org पर, नीचे दिए गए बटन से, या मुख्य स्क्रीन पर "फीडबैक साझा करें" के माध्यम से संपर्क कर सकते हैं।</string>
-    <string name="payment_screen_license_integrity_error">लाइसेंस सत्यापित करने में विफल। यदि आपको लगता है कि यह एक त्रुटि है, तो कृपया हमसे संपर्क करें।</string>
-    <string name="payment_screen_continue_button">जारी रखें</string>
 
-    <string name="payment_unpaid_version_title">अवैतनिक FUTO कीबोर्ड</string>
-    <string name="payment_unpaid_version_indicator">अवैतनिक</string>
-    <string name="payment_paid_version_indicator">FUTO कीबोर्ड के भुगतान किए गए संस्करण का उपयोग करने के लिए धन्यवाद!</string>
 
     
     <string name="manual_update_notice_title">अपडेट नोटिस</string>

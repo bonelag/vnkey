@@ -189,52 +189,6 @@
   
   <string name="keyboard_actionbar_undock_action_window_collapse_into_keyboard_talkback">Einklappen</string>
   
-  <string name="payment_screen_short_title">Zahlung</string>
-  <string name="payment_screen_title">Für FUTO Tastatur bezahlen</string>
-  <string name="payment_screen_sales_paragraph_1">&lt;string name="payment_screen_sales_paragraph_1"&gt;Sie nutzen die FUTO Tastatur seit &lt;xliff:g name="days" example="30"&gt;%d&lt;/xliff:g&gt; Tagen. Wenn Sie diese App nützlich finden, ziehen Sie bitte in Betracht, zu zahlen, um die zukünftige Entwicklung der FUTO-Software zu unterstützen.&lt;/string&gt;</string>
-  <string name="payment_screen_sales_paragraph_1_alt">Vielen Dank, dass Sie die FUTO Tastatur ausprobiert haben! Wenn Sie diese App nützlich finden, ziehen Sie bitte in Betracht, zu zahlen, um die zukünftige Entwicklung der FUTO-Software zu unterstützen.</string>
-  <string name="payment_screen_sales_paragraph_2">FUTO hat sich der Entwicklung guter Software verschrieben, die Sie nicht ausnutzt. Diese App wird Ihnen niemals Werbung anzeigen oder Ihre persönlichen Daten sammeln.</string>
-  <string name="payment_screen_sales_point_development_title">Nachhaltige Entwicklung</string>
-  <string name="payment_screen_sales_point_development_body">FUTOs Mission ist es, dass Open-Source-Software und nicht böswillige Geschäftspraktiken eine nachhaltige Einkommensquelle für Projekte und deren Entwickler werden. Aus diesem Grund sind wir dafür, dass Benutzer tatsächlich für Software bezahlen.</string>
-  <string name="payment_screen_sales_point_privacy_title">Verpflichtung zu Datenschutz</string>
-  <string name="payment_screen_sales_point_privacy_body">Diese App wird Ihnen niemals Werbung anzeigen oder Ihre Daten verkaufen. Das ist nicht unser Geschäft.</string>
-  <string name="payment_screen_error_build_unsupported_payment">Zahlung wird in dieser Version nicht unterstützt</string>
-  <string name="payment_screen_already_paid_title">Bereits bezahlt?</string>
-  <string name="payment_screen_already_paid_body">Wenn Sie bereits für die FUTO Tastatur oder FUTO Sprachsteuerung bezahlt haben, tippen Sie unten.</string>
-  <string name="payment_screen_already_paid_button">Ich habe bereits bezahlt</string>
-  <string name="payment_screen_already_paid_confirmation">Bestätigen Sie Ihre Wahl</string>
-  <string name="payment_screen_already_paid_confirmation_body">Sind Sie sicher, dass Sie bestätigen möchten, dass Sie bereits bezahlt haben? Nach der Bestätigung werden Sie nicht mehr nach einer Zahlung gefragt.</string>
-  <string name="payment_screen_already_paid_confirmation_confirm">Ich habe bereits bezahlt</string>
-  <string name="payment_screen_already_paid_confirmation_cancel">Abbrechen</string>
-  <string name="payment_screen_set_reminder_title">Noch nicht bereit zu zahlen?</string>
-  <string name="payment_screen_set_reminder_body">Dies blendet die Erinnerung im Einstellungsbildschirm für den eingegebenen Zeitraum aus.</string>
-  <string name="payment_screen_set_reminder_setter">Wann möchten Sie erinnert werden?</string>
-  <string name="payment_screen_set_reminder_setter_7_days">in 7 Tagen</string>
-  <string name="payment_screen_set_reminder_setter_1_month">in 1 Monat</string>
-  <string name="payment_screen_set_reminder_setter_6_months">in 6 Monaten</string>
-  <string name="payment_screen_set_reminder_setter_next_century">nächsten Jahrhundert</string>
-  <string name="payment_screen_set_reminder_setter_confirm">Erinnerung bestätigen</string>
-  <string name="payment_screen_other_options">Weitere Optionen</string>
-  <string name="payment_screen_need_help_title">Hilfe</string>
-  <string name="payment_screen_need_help_subtitle">Brauchen Sie Hilfe? Besuchen Sie unsere Website</string>
-  <string name="payment_screen_pay_via_google">&lt;string name="payment_screen_pay_via_google"&gt;Über Google Play bezahlen (&lt;xliff:g name="price" example="~$2.99"&gt;%s&lt;/xliff:g&gt; + MwSt.)&lt;/string&gt;</string>
-  <string name="payment_screen_pay_via_futopay">&lt;string name="payment_screen_pay_via_futopay"&gt;Bezahlen (&lt;xliff:g name="price" example="~$2.99"&gt;%s&lt;/xliff:g&gt; + MwSt.)&lt;/string&gt;</string>
-  <string name="payment_screen_more_options">Weitere Optionen</string>
-  <string name="payment_screen_payment_complete_title">Zahlung abgeschlossen</string>
-  <string name="payment_screen_aftersales_title">Vielen Dank</string>
-  <string name="payment_screen_aftersales_title_pending">Zahlung ausstehend</string>
-  <string name="payment_screen_aftersales_paragraph_1">Vielen Dank für den Kauf der FUTO Tastatur!</string>
-  <string name="payment_screen_aftersales_paragraph_2">Ihr Kauf wird die weitere Entwicklung der FUTO Tastatur und anderer FUTO-Projekte unterstützen.</string>
-  <string name="payment_screen_aftersales_paragraph_2_pending">Ihre Zahlung steht noch aus, sollte aber bald bearbeitet werden.</string>
-  <string name="payment_screen_aftersales_paragraph_3">Wenn Sie gerade bezahlt haben, könnte Ihre Zahlung noch in Bearbeitung sein. Sie sollten eine E-Mail mit weiteren Informationen erhalten.</string>
-  <string name="payment_screen_payment_failed_title">Zahlungsfehler</string>
-  <string name="payment_screen_payment_failed_body">Leider ist Ihre Zahlung aus einem bestimmten Grund fehlgeschlagen. Bitte kontaktieren Sie uns, wenn Sie Hilfe benötigen. Sie erreichen uns unter keyboard@futo.org, über den Button unten oder über „Feedback senden“ in der Hilfe.</string>
-  <string name="payment_screen_payment_failed_body_unconfident">Es könnte ein Problem mit Ihrer Zahlung gegeben haben. Wenn die Zahlung erfolgreich war, sollten Sie eine E-Mail mit einem Lizenzschlüssel erhalten. Bitte kontaktieren Sie uns, wenn Sie Hilfe benötigen. Sie erreichen uns unter keyboard@futo.org, über den Button unten oder über „Feedback teilen“ auf dem Hauptbildschirm.</string>
-  <string name="payment_screen_license_integrity_error">Lizenzüberprüfung fehlgeschlagen. Wenn Sie dies für einen Fehler halten, kontaktieren Sie uns bitte.</string>
-  <string name="payment_screen_continue_button">Fortfahren</string>
-  <string name="payment_unpaid_version_title">Unbezahlte FUTO Tastatur</string>
-  <string name="payment_unpaid_version_indicator">Unbezahlt</string>
-  <string name="payment_paid_version_indicator">Vielen Dank, dass Sie die kostenpflichtige Version der FUTO Tastatur verwenden!</string>
   
   <string name="manual_update_notice_title">Hinweis zu Updates</string>
   <string name="manual_update_notice_paragraph_1">Diese App verbindet sich nicht mit dem Internet und kann keine automatischen Updates überprüfen. Sie können jedoch manuell nach Updates suchen.</string>

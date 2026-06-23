@@ -29,11 +29,8 @@ import org.futo.inputmethod.latin.uix.actions.AllActions
 import org.futo.inputmethod.latin.uix.settings.pages.ActionEditorScreen
 import org.futo.inputmethod.latin.uix.settings.pages.ActionsScreen
 import org.futo.inputmethod.latin.uix.settings.pages.AdvancedParametersScreen
-import org.futo.inputmethod.latin.uix.settings.pages.AlreadyPaidDialog
 import org.futo.inputmethod.latin.uix.settings.pages.BlacklistScreen
 import org.futo.inputmethod.latin.uix.settings.pages.BlacklistScreenLite
-import org.futo.inputmethod.latin.uix.settings.pages.CreditsScreen
-import org.futo.inputmethod.latin.uix.settings.pages.CreditsScreenLite
 import org.futo.inputmethod.latin.uix.settings.pages.DevEditTextVariationsScreen
 import org.futo.inputmethod.latin.uix.settings.pages.DevKeyboardScreen
 import org.futo.inputmethod.latin.uix.settings.pages.DevLayoutEdit
@@ -51,8 +48,6 @@ import org.futo.inputmethod.latin.uix.settings.pages.LanguagesScreen
 import org.futo.inputmethod.latin.uix.settings.pages.LongPressMenu
 import org.futo.inputmethod.latin.uix.settings.pages.MiscMenu
 import org.futo.inputmethod.latin.uix.settings.pages.NumberRowSettingMenu
-import org.futo.inputmethod.latin.uix.settings.pages.PaymentScreen
-import org.futo.inputmethod.latin.uix.settings.pages.PaymentThankYouScreen
 import org.futo.inputmethod.latin.uix.settings.pages.PredictiveTextMenu
 import org.futo.inputmethod.latin.uix.settings.pages.ProjectInfoView
 import org.futo.inputmethod.latin.uix.settings.pages.ResizeMenuLite
@@ -112,7 +107,6 @@ val SettingsMenus = listOf(
     ActionsScreen,
     HelpMenu,
     MiscMenu,
-    CreditsScreenLite,
     IMESettingsMenu
 ) + AllActions.mapNotNull { it.settingsMenu } + SettingsByLanguage.values
 
@@ -183,15 +177,9 @@ fun SettingsNavigator(
             composable("devtheme") { DevThemeImportScreen(navController) }
             composable("devkeyboard") { DevKeyboardScreen(navController) }
             composable("blacklist") { BlacklistScreen(navController) }
-            composable("payment") { PaymentScreen(navController) { navController.navigateUp() } }
-            composable("paid") { PaymentThankYouScreen { navController.navigateUp() } }
-            composable("credits") { CreditsScreen(navController) }
             composable("exportingcfg") { ExportingMenu(navController) }
             dialog("update") {
                 UpdateDialog(navController = navController)
-            }
-            dialog("alreadyPaid") {
-                AlreadyPaidDialog(navController = navController)
             }
             addModelManagerNavigation(navController)
         }

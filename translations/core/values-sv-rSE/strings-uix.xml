@@ -182,52 +182,6 @@
   
   <string name="keyboard_actionbar_undock_action_window_collapse_into_keyboard_talkback">Fäll ihop</string>
   
-  <string name="payment_screen_short_title">Betalningar</string>
-  <string name="payment_screen_title">Betala för FUTO Tangentbord</string>
-  <string name="payment_screen_sales_paragraph_1">&lt;string name="payment_screen_sales_paragraph_1"&gt;Du har använt FUTO Tangentbord i &lt;xliff:g name="days" example="30"&gt;%d&lt;/xliff:g&gt; dagar. Om du tycker att appen är användbar får du gärna stödja fortsatt utveckling av FUTO:s mjukvara.&lt;/string&gt;</string>
-  <string name="payment_screen_sales_paragraph_1_alt">Tack för att du provar FUTO Tangentbord! Om du tycker att appen är användbar får du gärna stödja fortsatt utveckling av FUTO:s mjukvara.</string>
-  <string name="payment_screen_sales_paragraph_2">FUTO bygger tillförlitlig mjukvara som inte utnyttjar dig. Den här appen kommer aldrig att visa annonser eller samla in din personliga data.</string>
-  <string name="payment_screen_sales_point_development_title">Hållbar Utveckling</string>
-  <string name="payment_screen_sales_point_development_body">FUTO:s uppdrag är att få öppen källkod-program och icke-skadliga affärsmetoder att bli hållbara inkomstkällor för projekt och deras utvecklare. Av den här anledningen föredrar vi att användare betalar för mjukvara.</string>
-  <string name="payment_screen_sales_point_privacy_title">Åtagande för Integritet</string>
-  <string name="payment_screen_sales_point_privacy_body">Den här appen kommer aldrig att visa annonser eller sälja din data. Vi sysslar inte med sånt.</string>
-  <string name="payment_screen_error_build_unsupported_payment">Betalningar stöds inte i det här bygget</string>
-  <string name="payment_screen_already_paid_title">Redan betalat?</string>
-  <string name="payment_screen_already_paid_body">Om du redan har betalar för FUTO Tangentbord eller FUTO Röstinmatning, klicka nedan.</string>
-  <string name="payment_screen_already_paid_button">Jag har redan betalat</string>
-  <string name="payment_screen_already_paid_confirmation">Bekräfta ditt val</string>
-  <string name="payment_screen_already_paid_confirmation_body">Är du säker på att du vill bekräfta att du redan har betalat? När det är bekräftat kommer du inte bli tillfrågad om betalning igen.</string>
-  <string name="payment_screen_already_paid_confirmation_confirm">Jag har redan betalat</string>
-  <string name="payment_screen_already_paid_confirmation_cancel">Avbryt</string>
-  <string name="payment_screen_set_reminder_title">Inte redo att betala än?</string>
-  <string name="payment_screen_set_reminder_body">Det här kommer att dölja påminnelsen i inställningarna under den valda tiden.</string>
-  <string name="payment_screen_set_reminder_setter">När vill du bli påmind?</string>
-  <string name="payment_screen_set_reminder_setter_7_days">om 7 dagar</string>
-  <string name="payment_screen_set_reminder_setter_1_month">om 1 månad</string>
-  <string name="payment_screen_set_reminder_setter_6_months">om 6 månader</string>
-  <string name="payment_screen_set_reminder_setter_next_century">nästa århundrade</string>
-  <string name="payment_screen_set_reminder_setter_confirm">Bekräfta påminnelse</string>
-  <string name="payment_screen_other_options">Andra Möjligheter</string>
-  <string name="payment_screen_need_help_title">Hjälp</string>
-  <string name="payment_screen_need_help_subtitle">Behöver du hjälp? Besök vår webbplats</string>
-  <string name="payment_screen_pay_via_google">&lt;string name="payment_screen_pay_via_google"&gt;Betala via Google Play (&lt;xliff:g name="price" example="~$2.99"&gt;%s&lt;/xliff:g&gt; + skatt)&lt;/string&gt;</string>
-  <string name="payment_screen_pay_via_futopay">&lt;string name="payment_screen_pay_via_futopay"&gt;Betala (&lt;xliff:g name="price" example="~$2.99"&gt;%s&lt;/xliff:g&gt; + skatt)&lt;/string&gt;</string>
-  <string name="payment_screen_more_options">Fler möjligheter</string>
-  <string name="payment_screen_payment_complete_title">Betalning Sutförd</string>
-  <string name="payment_screen_aftersales_title">Tack så mycket</string>
-  <string name="payment_screen_aftersales_title_pending">Betalning Behandlas</string>
-  <string name="payment_screen_aftersales_paragraph_1">Tack för att du köpt FUTO Tangentbord!</string>
-  <string name="payment_screen_aftersales_paragraph_2">Ditt köp kommer att hjälpa fortsatt utveckling av FUTO Tangentbord och andra FUTO-projekt.</string>
-  <string name="payment_screen_aftersales_paragraph_2_pending">Din betalning behandlas fortfarande, men borde snart gå igenom.</string>
-  <string name="payment_screen_aftersales_paragraph_3">Om du precis har betalat kan din betalning fortfarande vara under behandling. Du bör få ett e-postmeddelande med mer information.</string>
-  <string name="payment_screen_payment_failed_title">Fel vid Betalning</string>
-  <string name="payment_screen_payment_failed_body">Tyvärr har din betalning av någon anledning misslyckats. Kontakta oss om du behöver hjälp. Du kan nå oss på keyboard@futo.org, med knappen nedan eller via Skicka Återkoppling under Hjälp</string>
-  <string name="payment_screen_payment_failed_body_unconfident">Det kan ha uppstått ett problem med din betalning. Om den har gått igenom bör du ha fått ett e-postmeddelande med en licensnyckel. Kontakta oss om du behöver hjälp. Du kan nå oss på keyboard@futo.org, med knappen nedan eller via Skicka Återkoppling på huvudsidan.</string>
-  <string name="payment_screen_license_integrity_error">Misslyckades med att verifiera licensen. Kontakta oss om du tror att detta är fel.</string>
-  <string name="payment_screen_continue_button">Fortsätt</string>
-  <string name="payment_unpaid_version_title">Ångra betalningen av FUTO Tangentbord</string>
-  <string name="payment_unpaid_version_indicator">Ångra betalningen</string>
-  <string name="payment_paid_version_indicator">Tack för att du använder betalversionen av FUTO Tangentbord!</string>
   
   <string name="manual_update_notice_title">Uppdateringar</string>
   <string name="manual_update_notice_paragraph_1">Den här appen kopplar inte upp sig på internet och kommer inte att kunna söka efter uppdateringar automatiskt. Du kan söka efter uppdateringar manuellt dock.</string>

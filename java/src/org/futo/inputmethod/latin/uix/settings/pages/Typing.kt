@@ -408,12 +408,12 @@ fun ResizeScreen(navController: NavHostController = rememberNavController()) {
             Spacer(Modifier.height(8.dp))
 
             if (!hideResizeTip) {
-                PaymentSurface(
+                SettingsSurface(
                     isPrimary = false,
                 ) {
                     Column(Modifier.fillMaxWidth()) {
                         Row(verticalAlignment = androidx.compose.ui.Alignment.CenterVertically) {
-                            PaymentSurfaceHeading(title = stringResource(R.string.settings_tip))
+                            SettingsSurfaceHeading(title = stringResource(R.string.settings_tip))
                             Spacer(Modifier.weight(1.0f))
                             IconButton(
                                 onClick = {
@@ -438,7 +438,7 @@ fun ResizeScreen(navController: NavHostController = rememberNavController()) {
                 Spacer(Modifier.height(8.dp))
             }
 
-            PaymentSurface(isPrimary = false) {
+            SettingsSurface(isPrimary = false) {
                 Column(Modifier.fillMaxWidth().padding(vertical = 8.dp)) {
                     ResizeSettingSlider(
                         title = "Chiều cao phím",
@@ -492,7 +492,7 @@ fun ResizeScreen(navController: NavHostController = rememberNavController()) {
 
             Spacer(Modifier.height(16.dp))
 
-            PaymentSurface(
+            SettingsSurface(
                 isPrimary = false,
                 onClick = {
                     if (selectedOrientation == Configuration.ORIENTATION_PORTRAIT) {

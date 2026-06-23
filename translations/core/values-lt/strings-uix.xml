@@ -191,53 +191,6 @@
   
   <string name="keyboard_actionbar_undock_action_window_collapse_into_keyboard_talkback">Užskleisti</string>
   
-  <string name="payment_screen_short_title">Mokėjimas</string>
-  <string name="payment_screen_title">Apmokėti už FUTO klaviatūrą</string>
-  <string name="payment_screen_sales_paragraph_1">&lt;string name="payment_screen_sales_paragraph_1"&gt;Jūs naudojate FUTO klaviatūrą jau &lt;xliff:g name="days" example="30"&gt;%d&lt;/xliff:g&gt; dienų. Jei ši programėlė jums naudinga, prašome apsvarstyti galimybę sumokėti, kad palaikytumėte FUTO programinės įrangos ateities plėtrą.&lt;/string&gt;</string>
-  <string name="payment_screen_sales_paragraph_1_alt">Ačiū, kad išbandėte FUTO klaviatūrą! Jei ši programėlė jums naudinga, prašome apsvarstyti galimybę sumokėti, kad palaikytumėte FUTO programinės įrangos ateities plėtrą.</string>
-  <string name="payment_screen_sales_paragraph_2">FUTO siekia kurti gerą programinę įrangą, kuri nesukelia jums nepatogumų. Ši programėlė niekada nerodys jums skelbimų ar nesirinks jūsų asmeninių duomenų.</string>
-  <string name="payment_screen_sales_point_development_title">Tvarus vystymasis</string>
-  <string name="payment_screen_sales_point_development_body">FUTO misija yra, kad atvirojo kodo programinė įranga ir nekenksmingos verslo praktikos taptų tvariu pajamų šaltiniu projektams ir jų kūrėjams. Dėl šios priežasties mes palaikome vartotojų mokėjimą už programinę įrangą.</string>
-  <string name="payment_screen_sales_point_privacy_title">Įsipareigojimas privatumo apsaugai</string>
-  <string name="payment_screen_sales_point_privacy_body">Ši programėlė niekada nerodys jums skelbimų ar neparduos jūsų duomenų. Mes nesame šios veiklos versle.</string>
-  <string name="payment_screen_error_build_unsupported_payment">Mokėjimas šioje versijoje nepalaikomas</string>
-  <string name="payment_screen_already_paid_title">Jau sumokėjote?</string>
-  <string name="payment_screen_already_paid_body">Jei jau sumokėjote už FUTO klaviatūrą arba FUTO balso įvestį, paspauskite žemiau.</string>
-  <string name="payment_screen_already_paid_button">Aš jau sumokėjau</string>
-  <string name="payment_screen_already_paid_confirmation">Patvirtinkite savo pasirinkimą</string>
-  <string name="payment_screen_already_paid_confirmation_body">Ar tikrai norite patvirtinti, kad jau sumokėjote? Patvirtinus, daugiau nebus klausiama apie mokėjimą.</string>
-  <string name="payment_screen_already_paid_confirmation_confirm">Aš jau sumokėjau</string>
-  <string name="payment_screen_already_paid_confirmation_cancel">Atšaukti</string>
-  <string name="payment_screen_set_reminder_title">Dar nesate pasiruošę mokėti?</string>
-  <string name="payment_screen_set_reminder_body">Tai paslėps priminimą nustatymų ekrane nurodytam dienų skaičiui.</string>
-  <string name="payment_screen_set_reminder_setter">Kada norėtumėte, kad jums primintų?</string>
-  <string name="payment_screen_set_reminder_setter_7_days">po 7 dienų</string>
-  <string name="payment_screen_set_reminder_setter_1_month">po 1 mėnesio</string>
-  <string name="payment_screen_set_reminder_setter_6_months">po 6 mėnesių</string>
-  <string name="payment_screen_set_reminder_setter_next_century">kitame amžiuje</string>
-  <string name="payment_screen_set_reminder_setter_confirm">Patvirtinti priminimą</string>
-  <string name="payment_screen_other_options">Kitos galimybės</string>
-  <string name="payment_screen_need_help_title">Pagalba</string>
-  <string name="payment_screen_need_help_subtitle">Reikia pagalbos? Apsilankykite mūsų svetainėje</string>
-  <string name="payment_screen_pay_via_google">&lt;string name="payment_screen_pay_via_google"&gt;Mokėti per Google Play (&lt;xliff:g name="price" example="~$2.99"&gt;%s&lt;/xliff:g&gt; + PVM)&lt;/string&gt;</string>
-  <string name="payment_screen_pay_via_futopay">&lt;string name="payment_screen_pay_via_futopay"&gt;Mokėti (&lt;xliff:g name="price" example="~$2.99"&gt;%s&lt;/xliff:g&gt; + PVM)&lt;/string&gt;</string>
-  <string name="payment_screen_pay_via_futopay2">Mokėti naudojant FUTO Pay (&lt;xliff:g name="price" example="~$2.99"&gt;%s&lt;/xliff:g&gt; + PVM)</string>
-  <string name="payment_screen_more_options">Daugiau galimybių</string>
-  <string name="payment_screen_payment_complete_title">Mokėjimas baigtas</string>
-  <string name="payment_screen_aftersales_title">Ačiū</string>
-  <string name="payment_screen_aftersales_title_pending">Mokėjimas laukia</string>
-  <string name="payment_screen_aftersales_paragraph_1">Ačiū, kad įsigijote FUTO klaviatūrą!</string>
-  <string name="payment_screen_aftersales_paragraph_2">Jūsų pirkimas padės toliau plėtoti FUTO klaviatūrą ir kitus FUTO projektus.</string>
-  <string name="payment_screen_aftersales_paragraph_2_pending">Jūsų mokėjimas vis dar laukia, tačiau jis turėtų būti apdorotas greitai.</string>
-  <string name="payment_screen_aftersales_paragraph_3">Jei ką tik sumokėjote, jūsų mokėjimas gali dar būti apdorojamas, turėtumėte gauti el. laišką su daugiau informacijos.</string>
-  <string name="payment_screen_payment_failed_title">Mokėjimo klaida</string>
-  <string name="payment_screen_payment_failed_body">Deja, jūsų mokėjimas nepavyko dėl vienos ar kitos priežasties. Prašome susisiekti su mumis, jei jums reikia pagalbos. Galite susisiekti su mumis adresu keyboard@futo.org, naudodami žemiau esantį mygtuką arba pasirinkdami „Pagalba“ pagalbos skiltyje.</string>
-  <string name="payment_screen_payment_failed_body_unconfident">Gali būti, kad kilo problema su jūsų mokėjimu. Jei jis buvo sėkmingas, turėtumėte gauti el. laišką su licencijos raktu. Prašome susisiekti su mumis, jei jums reikia pagalbos. Galite susisiekti su mumis adresu keyboard@futo.org, naudodami žemiau esantį mygtuką arba pasirinkdami „Pagalba“ pagrindiniame ekrane.</string>
-  <string name="payment_screen_license_integrity_error">Nepavyko patvirtinti licencijos. Jei manote, kad tai klaida, prašome susisiekti su mumis.</string>
-  <string name="payment_screen_continue_button">Tęsti</string>
-  <string name="payment_unpaid_version_title">Neapmokėta FUTO klaviatūra</string>
-  <string name="payment_unpaid_version_indicator">Neapmokėta</string>
-  <string name="payment_paid_version_indicator">Ačiū, kad naudojate apmokėtą FUTO klaviatūros versiją!</string>
   
   <string name="manual_update_notice_title">Atnaujinimų pranešimas</string>
   <string name="manual_update_notice_paragraph_1">Ši programėlė nesijungia prie interneto ir negalės tikrinti automatinio atnaujinimo. Tačiau galite patikrinti atnaujinimus rankiniu būdu.</string>

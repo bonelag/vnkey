@@ -36,8 +36,8 @@ import org.futo.inputmethod.latin.uix.getSetting
 import org.futo.inputmethod.latin.uix.setSetting
 import org.futo.inputmethod.latin.uix.settings.SettingItem
 import org.futo.inputmethod.latin.uix.settings.pages.ParagraphText
-import org.futo.inputmethod.latin.uix.settings.pages.PaymentSurface
-import org.futo.inputmethod.latin.uix.settings.pages.PaymentSurfaceHeading
+import org.futo.inputmethod.latin.uix.settings.pages.SettingsSurface
+import org.futo.inputmethod.latin.uix.settings.pages.SettingsSurfaceHeading
 import org.futo.inputmethod.latin.uix.settings.useDataStore
 
 val LAST_UPDATE_CHECK_RESULT = stringPreferencesKey("last_update_check_result")
@@ -154,8 +154,8 @@ fun ConditionalMigrateUpdateNotice() {
     val context = LocalContext.current
     val value = useDataStore(dismissedMigrateUpdateNotice, blocking = true)
     if(!value.value) {
-        PaymentSurface(isPrimary = true) {
-            PaymentSurfaceHeading(stringResource(R.string.manual_update_notice_title))
+        SettingsSurface(isPrimary = true) {
+            SettingsSurfaceHeading(stringResource(R.string.manual_update_notice_title))
 
             ParagraphText(stringResource(R.string.manual_update_notice_paragraph_1))
 

@@ -188,52 +188,6 @@
   
   <string name="keyboard_actionbar_undock_action_window_collapse_into_keyboard_talkback">Schowaj</string>
   
-  <string name="payment_screen_short_title">Płatność</string>
-  <string name="payment_screen_title">Zapłać za klawiaturę FUTO</string>
-  <string name="payment_screen_sales_paragraph_1">&lt;string name="payment_screen_sales_paragraph_1"&gt;Używasz klawiatury FUTO od &lt;xliff:g name="days" example="30"&gt;%d&lt;/xliff:g&gt; dni. Jeśli uważasz, że ta aplikacja jest przydatna, rozważ wsparcie rozwoju oprogramowania FUTO.&lt;/string&gt;</string>
-  <string name="payment_screen_sales_paragraph_1_alt">Dziękujemy za wypróbowanie klawiatury FUTO! Jeśli uważasz, że ta aplikacja jest przydatna, rozważ wsparcie rozwoju oprogramowania FUTO.</string>
-  <string name="payment_screen_sales_paragraph_2">FUTO dąży do tworzenia oprogramowania, które nie gromadzi danych użytkowników. Ta aplikacja nigdy nie wyświetli Ci reklam, ani nie zbierze Twoich danych osobowych.</string>
-  <string name="payment_screen_sales_point_development_title">Zrównoważony rozwój</string>
-  <string name="payment_screen_sales_point_development_body">Misją FUTO jest, aby oprogramowanie otwartoźródłowe i etyczne praktyki biznesowe stały się zrównoważonym źródłem dochodu dla projektów i ich twórców. Z tego powodu popieramy użytkowników, którzy płacą za oprogramowanie.</string>
-  <string name="payment_screen_sales_point_privacy_title">Zaangażowanie w prywatność</string>
-  <string name="payment_screen_sales_point_privacy_body">Ta aplikacja nigdy nie wyświetli Ci reklam, ani nie sprzeda Twoich danych. To nie jest nasz model działania.</string>
-  <string name="payment_screen_error_build_unsupported_payment">Płatność nie jest obsługiwana w tej wersji aplikacji</string>
-  <string name="payment_screen_already_paid_title">Już zapłacono?</string>
-  <string name="payment_screen_already_paid_body">Jeśli już zapłaciłeś(aś) za klawiaturę FUTO lub Wprowadzanie głosowe FUTO, dotknij poniżej.</string>
-  <string name="payment_screen_already_paid_button">Już zapłaciłem(am)</string>
-  <string name="payment_screen_already_paid_confirmation">Potwierdź swój wybór</string>
-  <string name="payment_screen_already_paid_confirmation_body">Czy na pewno chcesz potwierdzić, że już zapłaciłeś(aś)? Po potwierdzeniu nie będziesz pytany(a) o płatność ponownie.</string>
-  <string name="payment_screen_already_paid_confirmation_confirm">Już zapłaciłem(am)</string>
-  <string name="payment_screen_already_paid_confirmation_cancel">Anuluj</string>
-  <string name="payment_screen_set_reminder_title">Jeszcze nie gotowy(a) do płatności?</string>
-  <string name="payment_screen_set_reminder_body">To ukryje przypomnienie na ekranie ustawień na wprowadzony okres czasu.</string>
-  <string name="payment_screen_set_reminder_setter">Kiedy chcesz otrzymać przypomnienie?</string>
-  <string name="payment_screen_set_reminder_setter_7_days">za 7 dni</string>
-  <string name="payment_screen_set_reminder_setter_1_month">za 1 miesiąc</string>
-  <string name="payment_screen_set_reminder_setter_6_months">za 6 miesięcy</string>
-  <string name="payment_screen_set_reminder_setter_next_century">w następnym stuleciu</string>
-  <string name="payment_screen_set_reminder_setter_confirm">Potwierdź przypomnienie</string>
-  <string name="payment_screen_other_options">Inne opcje</string>
-  <string name="payment_screen_need_help_title">Pomoc</string>
-  <string name="payment_screen_need_help_subtitle">Potrzebujesz pomocy? Odwiedź naszą stronę internetową</string>
-  <string name="payment_screen_pay_via_google">&lt;string name="payment_screen_pay_via_google"&gt;Zapłać przez Google Play (&lt;xliff:g name="price" example="~$2.99"&gt;%s&lt;/xliff:g&gt; + podatek)&lt;/string&gt;</string>
-  <string name="payment_screen_pay_via_futopay">&lt;string name="payment_screen_pay_via_futopay"&gt;Zapłać (&lt;xliff:g name="price" example="~$2.99"&gt;%s&lt;/xliff:g&gt; + podatek)&lt;/string&gt;</string>
-  <string name="payment_screen_more_options">Więcej opcji</string>
-  <string name="payment_screen_payment_complete_title">Płatność zakończona</string>
-  <string name="payment_screen_aftersales_title">Dziękujemy</string>
-  <string name="payment_screen_aftersales_title_pending">Płatność w toku</string>
-  <string name="payment_screen_aftersales_paragraph_1">Dziękujemy za zakup klawiatury FUTO!</string>
-  <string name="payment_screen_aftersales_paragraph_2">Twój zakup pomoże w dalszym rozwoju klawiatury FUTO oraz innych projektów FUTO.</string>
-  <string name="payment_screen_aftersales_paragraph_2_pending">Twoja płatność jest w toku, ale powinna zostać wkrótce zrealizowana.</string>
-  <string name="payment_screen_aftersales_paragraph_3">Jeśli właśnie zapłaciłeś(aś), Twoja płatność może być jeszcze przetwarzana. Otrzymasz wiadomość e-mail z dodatkowymi informacjami.</string>
-  <string name="payment_screen_payment_failed_title">Błąd płatności</string>
-  <string name="payment_screen_payment_failed_body">Niestety, Twoja płatność z jakiegoś powodu się nie powiodła. Jeżeli potrzebujesz pomoc, skontaktuj się z nami. Możesz to zrobić pod adresem keyboard@futo.org, używając przycisku poniżej lub opcji „Prześlij opinię” w menu pomocy.</string>
-  <string name="payment_screen_payment_failed_body_unconfident">Możliwe, że wystąpił problem z Twoją płatnością. Jeśli płatność została zrealizowana, otrzymasz e-mail z kluczem licencyjnym. Skontaktuj się z nami jeżeli potrzebujesz pomocy. Możesz to zrobić pod adresem keyboard@futo.org, używając przycisku poniżej lub opcji „Prześlij opinię” na głównym ekranie.</string>
-  <string name="payment_screen_license_integrity_error">Nie udało się zweryfikować licencji. Jeśli uważasz, że to błąd, skontaktuj się z nami.</string>
-  <string name="payment_screen_continue_button">Kontynuuj</string>
-  <string name="payment_unpaid_version_title">Nieopłacona wersja klawiatury FUTO</string>
-  <string name="payment_unpaid_version_indicator">Nieopłacona</string>
-  <string name="payment_paid_version_indicator">Dziękujemy za korzystanie z opłaconej wersji klawiatury FUTO!</string>
   
   <string name="manual_update_notice_title">Powiadomienie o aktualizacjach</string>
   <string name="manual_update_notice_paragraph_1">Ta aplikacja nie łączy się z internetem i nie będzie mogła sprawdzić czy są dostępne aktualizacje. Możesz jednak sprawdzić aktualizacje ręcznie.</string>

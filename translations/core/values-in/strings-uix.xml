@@ -48,13 +48,6 @@
   <string name="keyboard_actionbar_dismiss_important_notice_talkback">Tutup</string>
   
   <string name="keyboard_actionbar_return_from_action_window_talkback">Balik</string>
-  <string name="payment_screen_set_reminder_setter_7_days">dalam 7 hari</string>
-  <string name="payment_screen_set_reminder_setter_1_month">dalam 1 bulan</string>
-  <string name="payment_screen_set_reminder_setter_6_months">dalam 6 bulan</string>
-  <string name="payment_screen_payment_complete_title">Pembayaran Berhasil</string>
-  <string name="payment_screen_aftersales_title">Terima kasih</string>
-  <string name="payment_screen_aftersales_paragraph_1">Terima kasih untuk membeli Keyboard FUTO!</string>
-  <string name="payment_screen_continue_button">Selanjutnya</string>
   
   <string name="settings_home_title">Beranda</string>
   <string name="settings_search_menu_title">Telusuri</string>

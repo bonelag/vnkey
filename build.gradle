@@ -21,14 +21,16 @@ def getVersionCode = { ->
 
     try {
         def stdout = new ByteArrayOutputStream()
+        def stderr = new ByteArrayOutputStream()
         exec {
             commandLine 'git', 'rev-list', '--first-parent', '--count', 'master'
             standardOutput = stdout
+            errorOutput = stderr
         }
         return Integer.parseInt(stdout.toString().trim())
     } catch (ignored) {
-        project.logger.lifecycle("Failed to get rev-list count from git!")
-        return -1
+        project.logger.lifecycle("Failed to get rev-list count from git; using default version code 1.")
+        return 1
     }
 }
 
@@ -42,14 +44,16 @@ def getVersionName = { ->
 
     try {
         def stdout = new ByteArrayOutputStream()
+        def stderr = new ByteArrayOutputStream()
         exec {
             commandLine 'git', 'describe', '--tags'
             standardOutput = stdout
+            errorOutput = stderr
         }
         return stdout.toString().trim()
     } catch (ignored) {
-        project.logger.lifecycle("Failed to get version name tag from git!")
-        return "0.0.0"
+        project.logger.lifecycle("Failed to get version name tag from git; using default version name 1.0.0.")
+        return "1.0.0"
     }
 }
 
@@ -261,12 +265,6 @@ android {
                 it.buildConfigField "String", "ACRA_PASSWORD", "\"\""
             }
 
-            //it.buildConfigField "String", "FUTOPAY_URL", "\"https://pay.futo.org/api/PaymentPortal?product=voiceinput&success=futo-keyboard%3a%2f%2flicense%2factivate\""
-            it.buildConfigField "String", "FUTOPAY_URL", "\"https://pay2.futo.org/checkout/polar/futo-keyboard/futo-keyboard-voiceinput/checkout-ready?success=redirect-to-organization-page\""
-            it.buildConfigField "String", "FUTOPAY_PRICE", "\"~\$6.99\""
-
-            it.buildConfigField "String", "GOOGLEPAY_URL", "\"https://play.google.com/store/apps/details?id=org.futo.keyboardpayment\""
-            it.buildConfigField "String", "GOOGLEPAY_PRICE", "\"~\$11.99\""
         }
     }
 
@@ -283,8 +281,6 @@ android {
             buildConfigField "boolean", "UPDATE_CHECKING_NETWORK", "false"
             buildConfigField "String", "BRANCH", "\"${getBranch()}\""
             getIsDefault().set(true)
-
-            buildConfigField "String", "PAYMENT_PRICE", "FUTOPAY_PRICE"
         }
 
         stable {
@@ -293,8 +289,6 @@ android {
             buildConfigField "boolean", "UPDATE_CHECKING", "true"
             buildConfigField "boolean", "UPDATE_CHECKING_NETWORK", "false"
             buildConfigField "String", "BRANCH", "\"${getBranch()}\""
-
-            buildConfigField "String", "PAYMENT_PRICE", "FUTOPAY_PRICE"
         }
 
         playstore {
@@ -306,8 +300,6 @@ android {
             buildConfigField "boolean", "UPDATE_CHECKING", "false"
             buildConfigField "boolean", "UPDATE_CHECKING_NETWORK", "false"
             buildConfigField "String", "BRANCH", "\"${getBranch()}\""
-
-            buildConfigField "String", "PAYMENT_PRICE", "GOOGLEPAY_PRICE"
         }
     }
 

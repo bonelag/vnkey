@@ -208,56 +208,9 @@
     <string name="keyboard_actionbar_undock_action_window_collapse_into_keyboard_talkback">Collapse</string>
 
     
-    <string name="payment_screen_short_title">Payment</string>
-    <string name="payment_screen_title">Pay for FUTO Keyboard</string>
-    <string name="payment_screen_sales_paragraph_1">You\'ve been using FUTO Keyboard for <xliff:g name="days" example="30">%d</xliff:g> days. If you find this app useful, please consider paying to support future development of FUTO software.</string>
-    <string name="payment_screen_sales_paragraph_1_alt">Thank you for trying out FUTO Keyboard! If you find this app useful, please consider paying to support future development of FUTO software.</string>
-    <string name="payment_screen_sales_paragraph_2">FUTO is dedicated to making good software that doesn\'t abuse you. This app will never serve you ads or collect your personal data.</string>
-    <string name="payment_screen_sales_point_development_title">Sustainable Development</string>
-    <string name="payment_screen_sales_point_development_body">FUTO\'s mission is for open-source software and non-malicious software business practices to become a sustainable income source for projects and their developers. For this reason, we are in favor of users actually paying for software.</string>
-    <string name="payment_screen_sales_point_privacy_title">Commitment to Privacy</string>
-    <string name="payment_screen_sales_point_privacy_body">This app will never serve you ads or sell your data. We are not in the business of doing that.</string>
-    <string name="payment_screen_error_build_unsupported_payment">Payment is unsupported on this build</string>
-    <string name="payment_screen_already_paid_title">Already paid?</string>
-    <string name="payment_screen_already_paid_body">If you already paid for FUTO Keyboard or FUTO Voice Input, tap below.</string>
-    <string name="payment_screen_already_paid_button">I already paid</string>
-    <string name="payment_screen_already_paid_confirmation">Confirm your choice</string>
-    <string name="payment_screen_already_paid_confirmation_body">Are you sure you want to confirm you already paid? Once confirmed, you won\'t be asked about paying again.</string>
-    <string name="payment_screen_already_paid_confirmation_confirm">I already paid</string>
-    <string name="payment_screen_already_paid_confirmation_cancel">Cancel</string>
-    <string name="payment_screen_set_reminder_title">Not ready to pay yet?</string>
-    <string name="payment_screen_set_reminder_body">This will hide the reminder in the settings screen for the period of days entered.</string>
-    <string name="payment_screen_set_reminder_setter">When would you like to be reminded?</string>
-    <string name="payment_screen_set_reminder_setter_7_days">in 7 days</string>
-    <string name="payment_screen_set_reminder_setter_1_month">in 1 month</string>
-    <string name="payment_screen_set_reminder_setter_6_months">in 6 months</string>
-    <string name="payment_screen_set_reminder_setter_next_century">next century</string>
-    <string name="payment_screen_set_reminder_setter_confirm">Confirm reminder</string>
-    <string name="payment_screen_other_options">Other Options</string>
-    <string name="payment_screen_need_help_title">Help</string>
-    <string name="payment_screen_need_help_subtitle">Need help? Visit our website</string>
 
-    <string name="payment_screen_pay_via_google">Pay via Google Play (<xliff:g name="price" example="~$2.99">%s</xliff:g> + tax)</string>
-    <string name="payment_screen_pay_via_futopay">Pay (<xliff:g name="price" example="~$2.99">%s</xliff:g> + tax)</string>
-    <string name="payment_screen_pay_via_futopay2">Pay via FUTO Pay (<xliff:g name="price" example="~$2.99">%s</xliff:g> + tax)</string>
-    <string name="payment_screen_more_options">More options</string>
 
-    <string name="payment_screen_payment_complete_title">Payment Complete</string>
-    <string name="payment_screen_aftersales_title">Thank you</string>
-    <string name="payment_screen_aftersales_title_pending">Payment Pending</string>
-    <string name="payment_screen_aftersales_paragraph_1">Thank you for purchasing FUTO Keyboard!</string>
-    <string name="payment_screen_aftersales_paragraph_2">Your purchase will help continued development of FUTO Keyboard, and other FUTO projects.</string>
-    <string name="payment_screen_aftersales_paragraph_2_pending">Your payment is still pending, but it should clear soon.</string>
-    <string name="payment_screen_aftersales_paragraph_3">If you just paid, your payment may still be processing, you should get an email with more information.</string>
-    <string name="payment_screen_payment_failed_title">Payment Error</string>
-    <string name="payment_screen_payment_failed_body">Unfortunately, your payment has failed for one reason or another. Please contact us if you need help. You can reach us at keyboard@futo.org, with the button below, or with Send Feedback in Help</string>
-    <string name="payment_screen_payment_failed_body_unconfident">There may have been a problem with your payment. If it did go through, you should receive an email with a license key. Please contact us if you need help. You can reach us at keyboard@futo.org, with the button below, or with Share Feedback at the main screen.</string>
-    <string name="payment_screen_license_integrity_error">Failed to verify license. If you believe this to be an error, please contact us.</string>
-    <string name="payment_screen_continue_button">Continue</string>
 
-    <string name="payment_unpaid_version_title">Unpaid FUTO Keyboard</string>
-    <string name="payment_unpaid_version_indicator">Unpaid</string>
-    <string name="payment_paid_version_indicator">Thank you for using the paid version of FUTO Keyboard!</string>
 
 
     
@@ -576,7 +529,7 @@
     <string name="help_menu_github_subtitle">Specific bug or feature request? Post here</string>
     <string name="help_menu_email">Email keyboard@futo.org</string>
     <string name="help_menu_email_subtitle">Private feedback, help, or don\'t use GitHub? Email us</string>
-    <string name="help_menu_email_tags">gmail, support, contact, help, broken, bug, error, issue, problem, complaint, ticket, payment, support, glitch, malfunction, fix, customer service, crash, question, inquiry, assistance</string>
+    <string name="help_menu_email_tags">gmail, support, contact, help, broken, bug, error, issue, problem, complaint, ticket, support, glitch, malfunction, fix, customer service, crash, question, inquiry, assistance</string>
 
     
     <string name="setup_step_1">Setup - Step 1</string>

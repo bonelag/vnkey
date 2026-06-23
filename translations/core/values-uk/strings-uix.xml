@@ -181,52 +181,6 @@
   
   <string name="keyboard_actionbar_undock_action_window_collapse_into_keyboard_talkback">Згорнути</string>
   
-  <string name="payment_screen_short_title">Оплата</string>
-  <string name="payment_screen_title">Оплатити FUTO Клавіатуру</string>
-  <string name="payment_screen_sales_paragraph_1">&lt;string name="payment_screen_sales_paragraph_1"&gt;Ви користуєтеся FUTO Клавіатурою вже &lt;xliff:g name="days" example="30"&gt;%d&lt;/xliff:g&gt; днів. Якщо ви вважаєте цей застосунок корисним, розгляньте можливість оплати для підтримки подальшого розвитку програмного забезпечення FUTO.&lt;/string&gt;</string>
-  <string name="payment_screen_sales_paragraph_1_alt">Дякуємо, що спробували FUTO Клавіатуру! Якщо ви вважаєте цей застосунок корисним, розгляньте можливість оплати для підтримки подальшого розвитку програмного забезпечення FUTO.</string>
-  <string name="payment_screen_sales_paragraph_2">FUTO прагне створювати якісне програмне забезпечення, яке не зловживає вами. Цей застосунок ніколи не показуватиме вам рекламу або не збиратиме ваші особисті дані.</string>
-  <string name="payment_screen_sales_point_development_title">Сталий розвиток</string>
-  <string name="payment_screen_sales_point_development_body">Місія FUTO полягає в тому, щоб програмне забезпечення з відкритим кодом та добросовісні бізнес-практики стали сталим джерелом доходу для проєктів та їхніх розробників. З цієї причини ми підтримуємо ідею, що користувачі повинні платити за програмне забезпечення.</string>
-  <string name="payment_screen_sales_point_privacy_title">"Зобов\'язання щодо приватності"</string>
-  <string name="payment_screen_sales_point_privacy_body">Цей застосунок ніколи не показуватиме вам рекламу або не продаватиме ваші дані. Ми не займаємося цим бізнесом.</string>
-  <string name="payment_screen_error_build_unsupported_payment">Оплата не підтримується в цій версії</string>
-  <string name="payment_screen_already_paid_title">Вже оплатили?</string>
-  <string name="payment_screen_already_paid_body">Якщо ви вже оплатили FUTO Клавіатуру або FUTO Голосовий ввід, натисніть нижче.</string>
-  <string name="payment_screen_already_paid_button">Я вже оплатив</string>
-  <string name="payment_screen_already_paid_confirmation">Підтвердьте свій вибір</string>
-  <string name="payment_screen_already_paid_confirmation_body">Ви впевнені, що хочете підтвердити, що вже оплатили? Після підтвердження вас більше не запитуватимуть про оплату.</string>
-  <string name="payment_screen_already_paid_confirmation_confirm">Я вже оплатив</string>
-  <string name="payment_screen_already_paid_confirmation_cancel">Скасувати</string>
-  <string name="payment_screen_set_reminder_title">Ще не готові платити?</string>
-  <string name="payment_screen_set_reminder_body">Це приховає нагадування в екрані налаштувань на вказаний період днів.</string>
-  <string name="payment_screen_set_reminder_setter">Коли ви хочете отримати нагадування?</string>
-  <string name="payment_screen_set_reminder_setter_7_days">через 7 днів</string>
-  <string name="payment_screen_set_reminder_setter_1_month">через 1 місяць</string>
-  <string name="payment_screen_set_reminder_setter_6_months">через 6 місяців</string>
-  <string name="payment_screen_set_reminder_setter_next_century">в наступному столітті</string>
-  <string name="payment_screen_set_reminder_setter_confirm">Підтвердити нагадування</string>
-  <string name="payment_screen_other_options">Інші варіанти</string>
-  <string name="payment_screen_need_help_title">Допомога</string>
-  <string name="payment_screen_need_help_subtitle">Потрібна допомога? Відвідайте наш вебсайт</string>
-  <string name="payment_screen_pay_via_google">&lt;string name="payment_screen_pay_via_google"&gt;Оплатити через Google Play (&lt;xliff:g name="price" example="~$2.99"&gt;%s&lt;/xliff:g&gt; + податок)&lt;/string&gt;</string>
-  <string name="payment_screen_pay_via_futopay">&lt;string name="payment_screen_pay_via_futopay"&gt;Оплатити (&lt;xliff:g name="price" example="~$2.99"&gt;%s&lt;/xliff:g&gt; + податок)&lt;/string&gt;</string>
-  <string name="payment_screen_more_options">Більше варіантів</string>
-  <string name="payment_screen_payment_complete_title">Оплата завершена</string>
-  <string name="payment_screen_aftersales_title">Дякуємо</string>
-  <string name="payment_screen_aftersales_title_pending">Оплата в обробці</string>
-  <string name="payment_screen_aftersales_paragraph_1">Дякуємо за покупку FUTO Клавіатури!</string>
-  <string name="payment_screen_aftersales_paragraph_2">Ваша покупка допоможе в подальшому розвитку FUTO Клавіатури та інших проєктів FUTO.</string>
-  <string name="payment_screen_aftersales_paragraph_2_pending">Ваша оплата ще в обробці, але вона повинна пройти незабаром.</string>
-  <string name="payment_screen_aftersales_paragraph_3">Якщо ви щойно оплатили, ваша оплата може ще оброблятися, ви повинні отримати лист з додатковою інформацією.</string>
-  <string name="payment_screen_payment_failed_title">Помилка оплати</string>
-  <string name="payment_screen_payment_failed_body">"На жаль, ваша оплата не пройшла з тієї чи іншої причини. Зв\'яжіться з нами, якщо вам потрібна допомога. Ви можете зв\'язатися з нами за адресою keyboard@futo.org, за допомогою кнопки нижче або через «Надіслати відгук» у розділі «Допомога»."</string>
-  <string name="payment_screen_payment_failed_body_unconfident">"Можливо, виникла проблема з вашою оплатою. Якщо вона пройшла, ви повинні отримати лист з ліцензійним ключем. Зв\'яжіться з нами, якщо вам потрібна допомога. Ви можете зв\'язатися з нами за адресою keyboard@futo.org, за допомогою кнопки нижче або через «Поділитися відгуком« на головному екрані."</string>
-  <string name="payment_screen_license_integrity_error">"Не вдалося перевірити ліцензію. Якщо ви вважаєте, що це помилка, зв\'яжіться з нами."</string>
-  <string name="payment_screen_continue_button">Продовжити</string>
-  <string name="payment_unpaid_version_title">Неоплачена FUTO Клавіатура</string>
-  <string name="payment_unpaid_version_indicator">Неоплачена</string>
-  <string name="payment_paid_version_indicator">Дякуємо за використання платної версії FUTO Клавіатури!</string>
   
   <string name="manual_update_notice_title">Повідомлення про оновлення</string>
   <string name="manual_update_notice_paragraph_1">Цей застосунок не під\'єднюється до мережі й не зможе перевіряти автоматичні оновлення. Проте ви можете перевірити оновлення вручну.</string>

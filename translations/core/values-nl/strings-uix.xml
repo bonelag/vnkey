@@ -137,52 +137,6 @@
   <string name="keyboard_switch_keyboard">Toetsenbord Wisselen</string>
   <string name="keyboard_language_settings">Instellingen</string>
   
-  <string name="payment_screen_short_title">Betaling</string>
-  <string name="payment_screen_title">Betaal voor FUTO Toetsenbord</string>
-  <string name="payment_screen_sales_paragraph_1">&lt;string name="payment_screen_sales_paragraph_1"&gt;U gebruikt FUTO Toetsenbord al &lt;xliff:g name="days" example="30"&gt;%d&lt;/xliff:g&gt; dagen. Als u deze app nuttig vindt, overweeg dan alstublieft om te betalen ter ondersteuning van de toekomstige ontwikkeling van FUTO-software.&lt;/string&gt;</string>
-  <string name="payment_screen_sales_paragraph_1_alt">Bedankt voor het uitproberen van FUTO Toetsenbord! Als u deze app nuttig vindt, overweeg dan alstublieft om te betalen ter ondersteuning van de toekomstige ontwikkeling van FUTO-software.</string>
-  <string name="payment_screen_sales_paragraph_2">FUTO is toegewijd aan het maken van goede software die u niet misbruikt. Deze app zal u nooit advertenties tonen of uw persoonlijke gegevens verzamelen.</string>
-  <string name="payment_screen_sales_point_development_title">Duurzame Ontwikkeling</string>
-  <string name="payment_screen_sales_point_development_body">De missie van FUTO is dat open-source software en niet-malafide zakelijke praktijken een duurzame inkomstenbron worden voor projecten en hun ontwikkelaars. Om deze reden zijn we voorstander van gebruikers die daadwerkelijk betalen voor software.</string>
-  <string name="payment_screen_sales_point_privacy_title">Toewijding aan Privacy</string>
-  <string name="payment_screen_sales_point_privacy_body">Deze app zal u nooit advertenties tonen of uw gegevens verkopen. We zijn daar niet in geïnteresseerd.</string>
-  <string name="payment_screen_error_build_unsupported_payment">Betaling is niet ondersteund op deze versie</string>
-  <string name="payment_screen_already_paid_title">Al betaald?</string>
-  <string name="payment_screen_already_paid_body">Als u al betaald heeft voor FUTO Toetsenbord of FUTO Steminvoer, tik dan hieronder.</string>
-  <string name="payment_screen_already_paid_button">Ik heb al betaald</string>
-  <string name="payment_screen_already_paid_confirmation">Bevestig uw keuze</string>
-  <string name="payment_screen_already_paid_confirmation_body">Weet u zeker dat u wilt bevestigen dat u al betaald heeft? Eenmaal bevestigd, wordt u niet meer gevraagd om opnieuw te betalen.</string>
-  <string name="payment_screen_already_paid_confirmation_confirm">Ik heb al betaald</string>
-  <string name="payment_screen_already_paid_confirmation_cancel">Annuleren</string>
-  <string name="payment_screen_set_reminder_title">Nog niet klaar om te betalen?</string>
-  <string name="payment_screen_set_reminder_body">Dit verbergt de herinnering in het instellingenmenu voor de opgegeven periode.</string>
-  <string name="payment_screen_set_reminder_setter">Wanneer wilt u herinnerd worden?</string>
-  <string name="payment_screen_set_reminder_setter_7_days">over 7 dagen</string>
-  <string name="payment_screen_set_reminder_setter_1_month">over 1 maand</string>
-  <string name="payment_screen_set_reminder_setter_6_months">over 6 maanden</string>
-  <string name="payment_screen_set_reminder_setter_next_century">volgende eeuw</string>
-  <string name="payment_screen_set_reminder_setter_confirm">Bevestig herinnering</string>
-  <string name="payment_screen_other_options">Andere Opties</string>
-  <string name="payment_screen_need_help_title">Help</string>
-  <string name="payment_screen_need_help_subtitle">Hulp nodig? Bezoek onze website</string>
-  <string name="payment_screen_pay_via_google">&lt;string name="payment_screen_pay_via_google"&gt;Betaal via Google Play (&lt;xliff:g name="price" example="~$2.99"&gt;%s&lt;/xliff:g&gt; + belasting)&lt;/string&gt;</string>
-  <string name="payment_screen_pay_via_futopay">&lt;string name="payment_screen_pay_via_futopay"&gt;Betaal (&lt;xliff:g name="price" example="~$2.99"&gt;%s&lt;/xliff:g&gt; + belasting)&lt;/string&gt;</string>
-  <string name="payment_screen_more_options">Meer opties</string>
-  <string name="payment_screen_payment_complete_title">Betaling Voltooid</string>
-  <string name="payment_screen_aftersales_title">Bedankt</string>
-  <string name="payment_screen_aftersales_title_pending">Betaling In Afwachting</string>
-  <string name="payment_screen_aftersales_paragraph_1">Bedankt voor uw aankoop van FUTO Toetsenbord!</string>
-  <string name="payment_screen_aftersales_paragraph_2">Uw aankoop zal de verdere ontwikkeling van FUTO Toetsenbord en andere FUTO-projecten ondersteunen.</string>
-  <string name="payment_screen_aftersales_paragraph_2_pending">Uw betaling is nog in behandeling, maar zou binnenkort verwerkt moeten worden.</string>
-  <string name="payment_screen_aftersales_paragraph_3">Als u net heeft betaald, kan uw betaling nog in verwerking zijn. U zou een e-mail met meer informatie moeten ontvangen.</string>
-  <string name="payment_screen_payment_failed_title">Betalingsfout</string>
-  <string name="payment_screen_payment_failed_body">Helaas is uw betaling om een of andere reden mislukt. Neem contact met ons op als u hulp nodig heeft. U kunt ons bereiken op keyboard@futo.org, met de knop hieronder, of via Feedback Delen in de Help.</string>
-  <string name="payment_screen_payment_failed_body_unconfident">Er kan een probleem zijn geweest met uw betaling. Als deze wel is doorgegaan, zou u een e-mail met een licentiesleutel moeten ontvangen. Neem contact met ons op als u hulp nodig heeft. U kunt ons bereiken op keyboard@futo.org, met de knop hieronder, of via Feedback Delen op het hoofdscherm.</string>
-  <string name="payment_screen_license_integrity_error">Licentie kon niet worden geverifieerd. Als u denkt dat dit een fout is, neem dan contact met ons op.</string>
-  <string name="payment_screen_continue_button">Doorgaan</string>
-  <string name="payment_unpaid_version_title">Onbetaald FUTO Toetsenbord</string>
-  <string name="payment_unpaid_version_indicator">Onbetaald</string>
-  <string name="payment_paid_version_indicator">Bedankt voor het gebruik van de betaalde versie van FUTO Toetsenbord!</string>
   
   <string name="manual_update_notice_title">Updates Kennisgeving</string>
   <string name="manual_update_notice_paragraph_1">Deze app maakt geen verbinding met het internet en kan geen automatische updates controleren. U kunt echter handmatig naar updates zoeken.</string>

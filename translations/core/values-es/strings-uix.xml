@@ -190,53 +190,6 @@
   
   <string name="keyboard_actionbar_undock_action_window_collapse_into_keyboard_talkback">Contraer</string>
   
-  <string name="payment_screen_short_title">Pago</string>
-  <string name="payment_screen_title">Pagar por FUTO Keyboard</string>
-  <string name="payment_screen_sales_paragraph_1">&lt;string name="payment_screen_sales_paragraph_1"&gt;Has estado usando FUTO Keyboard durante &lt;xliff:g name="days" example="30"&gt;%d&lt;/xliff:g&gt; días. Si encuentras útil esta aplicación, considera pagar para apoyar el desarrollo futuro del software FUTO.&lt;/string&gt;</string>
-  <string name="payment_screen_sales_paragraph_1_alt">¡Gracias por probar FUTO Keyboard! Si encuentras útil esta aplicación, considera pagar para apoyar el desarrollo futuro del software FUTO.</string>
-  <string name="payment_screen_sales_paragraph_2">FUTO se dedica a crear buen software que no te abuse. Esta aplicación nunca te mostrará anuncios ni recopilará tus datos personales.</string>
-  <string name="payment_screen_sales_point_development_title">Desarrollo Sostenible</string>
-  <string name="payment_screen_sales_point_development_body">La misión de FUTO es que el software de código abierto y las prácticas comerciales no maliciosas se conviertan en una fuente de ingresos sostenible para proyectos y sus desarrolladores. Por esta razón, estamos a favor de que los usuarios paguen realmente por el software.</string>
-  <string name="payment_screen_sales_point_privacy_title">Compromiso con la Privacidad</string>
-  <string name="payment_screen_sales_point_privacy_body">Esta aplicación nunca te mostrará anuncios ni venderá tus datos. No estamos en el negocio de hacer eso.</string>
-  <string name="payment_screen_error_build_unsupported_payment">El pago no es compatible en esta versión</string>
-  <string name="payment_screen_already_paid_title">¿Ya pagaste?</string>
-  <string name="payment_screen_already_paid_body">Si ya pagaste por FUTO Keyboard o FUTO Voice Input, toca abajo.</string>
-  <string name="payment_screen_already_paid_button">Ya pagué</string>
-  <string name="payment_screen_already_paid_confirmation">Confirma tu elección</string>
-  <string name="payment_screen_already_paid_confirmation_body">¿Estás seguro de que quieres confirmar que ya pagaste? Una vez confirmado, no se te volverá a preguntar sobre el pago.</string>
-  <string name="payment_screen_already_paid_confirmation_confirm">Ya pagué</string>
-  <string name="payment_screen_already_paid_confirmation_cancel">Cancelar</string>
-  <string name="payment_screen_set_reminder_title">¿No estás listo para pagar aún?</string>
-  <string name="payment_screen_set_reminder_body">Esto ocultará el recordatorio en la pantalla de configuraciones por el período de días ingresado.</string>
-  <string name="payment_screen_set_reminder_setter">¿Cuándo te gustaría que te recordaran?</string>
-  <string name="payment_screen_set_reminder_setter_7_days">en 7 días</string>
-  <string name="payment_screen_set_reminder_setter_1_month">en 1 mes</string>
-  <string name="payment_screen_set_reminder_setter_6_months">en 6 meses</string>
-  <string name="payment_screen_set_reminder_setter_next_century">el próximo siglo</string>
-  <string name="payment_screen_set_reminder_setter_confirm">Confirmar recordatorio</string>
-  <string name="payment_screen_other_options">Otras Opciones</string>
-  <string name="payment_screen_need_help_title">Ayuda</string>
-  <string name="payment_screen_need_help_subtitle">¿Necesitas ayuda? Visita nuestro sitio web</string>
-  <string name="payment_screen_pay_via_google">&lt;string name="payment_screen_pay_via_google"&gt;Pagar a través de Google Play (&lt;xliff:g name="price" example="~$2.99"&gt;%s&lt;/xliff:g&gt; + impuestos)&lt;/string&gt;</string>
-  <string name="payment_screen_pay_via_futopay">&lt;string name="payment_screen_pay_via_futopay"&gt;Pagar (&lt;xliff:g name="price" example="~$2.99"&gt;%s&lt;/xliff:g&gt; + impuestos)&lt;/string&gt;</string>
-  <string name="payment_screen_pay_via_futopay2">&lt;string name="payment_screen_pay_via_futopay2"&gt;Pagar por FUTO Pay (&lt;xliff:g name="price" example="~$2.99"&gt;%s&lt;/xliff:g&gt; + tax)&lt;/string&gt;</string>
-  <string name="payment_screen_more_options">Más opciones</string>
-  <string name="payment_screen_payment_complete_title">Pago Completo</string>
-  <string name="payment_screen_aftersales_title">Gracias</string>
-  <string name="payment_screen_aftersales_title_pending">Pago Pendiente</string>
-  <string name="payment_screen_aftersales_paragraph_1">¡Gracias por comprar FUTO Keyboard!</string>
-  <string name="payment_screen_aftersales_paragraph_2">Tu compra ayudará al desarrollo continuo de FUTO Keyboard y otros proyectos de FUTO.</string>
-  <string name="payment_screen_aftersales_paragraph_2_pending">Tu pago aún está pendiente, pero debería procesarse pronto.</string>
-  <string name="payment_screen_aftersales_paragraph_3">Si acabas de pagar, tu pago puede estar en proceso. Deberías recibir un correo electrónico con más información.</string>
-  <string name="payment_screen_payment_failed_title">Error de Pago</string>
-  <string name="payment_screen_payment_failed_body">Lamentablemente, tu pago ha fallado por alguna razón. Por favor, contáctanos si necesitas ayuda. Puedes alcanzarnos en keyboard@futo.org, con el botón de abajo, o a través de "Enviar Comentarios" en Ayuda.</string>
-  <string name="payment_screen_payment_failed_body_unconfident">Puede haber habido un problema con tu pago. Si se procesó, deberías recibir un correo electrónico con una clave de licencia. Por favor, contáctanos si necesitas ayuda. Puedes alcanzarnos en keyboard@futo.org, con el botón de abajo, o a través de "Compartir Comentarios" en la pantalla principal.</string>
-  <string name="payment_screen_license_integrity_error">No se pudo verificar la licencia. Si crees que esto es un error, por favor contáctanos.</string>
-  <string name="payment_screen_continue_button">Continuar</string>
-  <string name="payment_unpaid_version_title">FUTO Keyboard No Pagado</string>
-  <string name="payment_unpaid_version_indicator">No Pagado</string>
-  <string name="payment_paid_version_indicator">¡Gracias por usar la versión de pago de FUTO Keyboard!</string>
   
   <string name="manual_update_notice_title">Aviso de Actualizaciones</string>
   <string name="manual_update_notice_paragraph_1">Esta aplicación no se conecta a Internet y no podrá verificar actualizaciones automáticas. Sin embargo, puedes comprobar las actualizaciones manualmente.</string>
